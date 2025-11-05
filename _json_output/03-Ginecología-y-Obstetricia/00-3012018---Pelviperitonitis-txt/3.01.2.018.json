@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.2.018",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.018 - Pelviperitonitis .txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La pelviperitonitis en ginecología corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inflamación del miometrio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección localizada en trompas de Falopio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación peritoneal secundaria a infección pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección de la mucosa vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometriosis profunda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pelviperitonitis es la inflamación del peritoneo pélvico generalmente secundaria a una infección ginecológica."
+    },
+    {
+      "numero": "2",
+      "texto": "La causa más frecuente de pelviperitonitis en mujeres jóvenes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de ovario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad inflamatoria pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miomatosis uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistocele"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad inflamatoria pélvica es la principal causa de pelviperitonitis en mujeres jóvenes."
+    },
+    {
+      "numero": "3",
+      "texto": "El germen más frecuentemente asociado a pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gardnerella vaginalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma hominis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus del papiloma humano"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Neisseria gonorrhoeae es uno de los gérmenes más frecuentes implicados en pelviperitonitis."
+    },
+    {
+      "numero": "4",
+      "texto": "El síntoma cardinal de pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metrorragia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo vaginal maloliente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención urinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor abdominal agudo y difuso es el síntoma más característico de pelviperitonitis."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo clínico más importante en la exploración física de una pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor a la palpación de hipogastrio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de Blumberg positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción vaginal purulenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Masa anexial palpable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor a la movilización uterina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Blumberg positivo refleja irritación peritoneal típica de pelviperitonitis."
+    },
+    {
+      "numero": "6",
+      "texto": "El diagnóstico inicial de pelviperitonitis debe considerar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Examen ginecológico y anamnesis detallada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laparotomía exploradora inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcadores tumorales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico se inicia con la anamnesis y examen físico ginecológico detallado."
+    },
+    {
+      "numero": "7",
+      "texto": "El tratamiento inicial de la pelviperitonitis incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Analgesia exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirugía inmediata en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticonceptivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación expectante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento inicial se basa en antibióticos de amplio espectro para cubrir gérmenes frecuentes."
+    },
+    {
+      "numero": "8",
+      "texto": "Una complicación grave de la pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amenorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miomatosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quiste folicular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sepsis es la complicación más grave de la pelviperitonitis no tratada oportunamente."
+    },
+    {
+      "numero": "9",
+      "texto": "La pelviperitonitis secundaria a perforación uterina suele asociarse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Legrado uterino instrumental"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazo ectópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histeroscopia diagnóstica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una perforación uterina durante un legrado puede desencadenar pelviperitonitis secundaria."
+    },
+    {
+      "numero": "10",
+      "texto": "El diagnóstico diferencial más importante de pelviperitonitis aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apendicitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mioma pediculado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliquistosis ovárica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colecistitis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La apendicitis aguda es el principal diagnóstico diferencial por similitud clínica."
+    },
+    {
+      "numero": "11",
+      "texto": "La vía de diseminación más frecuente de la infección en pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascendente desde el tracto genital inferior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transplacentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Directa desde vejiga"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vía ascendente desde vagina y cérvix es la más frecuente en pelviperitonitis."
+    },
+    {
+      "numero": "12",
+      "texto": "El hallazgo de líquido libre purulento en cavidad pélvica es diagnóstico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometritis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pelviperitonitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miomatosis uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliquistosis ovárica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ovaritis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de líquido purulento libre en pelvis es diagnóstico de pelviperitonitis."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento quirúrgico de la pelviperitonitis está indicado cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La paciente tiene dolor leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "No hay respuesta al tratamiento antibiótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hay flujo vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se trata de adolescente"
+        },
+        {
+          "opcion": "E",
+          "texto": "La paciente tiene endometriosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento quirúrgico está indicado en casos que no responden a antibióticos o presentan abscesos."
+    },
+    {
+      "numero": "14",
+      "texto": "Una complicación a largo plazo de la pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolapso uterino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infertilidad por adherencias tubarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de endometrio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vaginitis recurrente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado postmenopáusico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las adherencias tubarias tras una pelviperitonitis predisponen a infertilidad secundaria."
+    },
+    {
+      "numero": "15",
+      "texto": "El hallazgo ecográfico más sugerente de pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa anexial sólida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido libre con ecos internos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometrio engrosado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioma subseroso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ovarios poliquísticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido libre con ecos internos en ecografía sugiere líquido purulento y pelviperitonitis."
+    },
+    {
+      "numero": "16",
+      "texto": "En pelviperitonitis puerperal, la causa más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parto vaginal prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea complicada con infección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cesárea complicada con infección es una causa frecuente de pelviperitonitis puerperal."
+    },
+    {
+      "numero": "17",
+      "texto": "La tríada típica de pelviperitonitis incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal, fiebre y leucocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amenorrea, dolor pélvico y metrorragia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metrorragia, leucorrea y anemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia, disnea y dolor lumbar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Náuseas, vómitos y hematuria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tríada clásica es dolor abdominal, fiebre y leucocitosis."
+    },
+    {
+      "numero": "18",
+      "texto": "El tratamiento antibiótico de elección en pelviperitonitis incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monoterapia con penicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalosporina + Metronidazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina en dosis única"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antivirales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluconazol oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de cefalosporina y metronidazol cubre gérmenes frecuentes en pelviperitonitis."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo intraoperatorio típico en pelviperitonitis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Útero aumentado de tamaño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrina y pus en cavidad pélvica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miomas múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta retenida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ovarios atróficos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de fibrina y pus en cavidad pélvica es hallazgo típico en cirugía."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.105",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Alteraciones pigmentarias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hiperpigmentación en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitiligo segmentario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Léntigo simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Melanosis postinflamatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus de Becker"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piebaldismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La melanosis postinflamatoria aparece tras procesos inflamatorios o traumáticos cutáneos que estimulan la melanogénesis."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes lesiones se asocia con neurofibromatosis tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas café con leche"
+        },
+        {
+          "opcion": "B",
+          "texto": "Léntigos actínicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pecas solares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitiligo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nevus de Ota"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las máculas café con leche son típicas de la neurofibromatosis tipo 1 cuando hay seis o más mayores de 5 mm."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué caracteriza al vitiligo segmentario en comparación con el no segmentario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distribución bilateral y simétrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio temprano y evolución lenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Afecta múltiples áreas corporales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distribución unilateral y estable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor asociación a enfermedades autoinmunes"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El vitiligo segmentario afecta un solo lado del cuerpo y suele estabilizarse sin progresión."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes patologías causa hipopigmentación por defecto en la síntesis de melanina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pitiriasis alba"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albinismo oculocutáneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nevus acrómico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esclerosis tuberosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitiligo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El albinismo oculocutáneo se debe a un defecto genético en la síntesis de melanina."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo cutáneo es característico de la esclerosis tuberosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas hipocrómicas en hoja de fresno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas café con leche"
+        },
+        {
+          "opcion": "C",
+          "texto": "Léntigos en mucosas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus de Becker"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitiligo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las máculas hipocrómicas en hoja de fresno son típicas de la esclerosis tuberosa y aparecen desde la infancia."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes características define al nevus de Ota?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mácula azulada unilateral en la región facial trigeminal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas hipocrómicas bilaterales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión café con leche en tronco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placa eritematosa facial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mácula blanquecina en miembros inferiores"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El nevus de Ota es una hiperpigmentación azul-gris unilateral en el territorio del trigémino."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de alteración pigmentaria se observa en la pitiriasis alba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperpigmentación difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipopigmentación leve con descamación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máculas acromias completas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones azuladas profundas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Máculas café con leche"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pitiriasis alba causa hipopigmentación leve con descamación fina, frecuente en niños atópicos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes signos cutáneos orienta a una insuficiencia suprarrenal primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperpigmentación difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas acrómicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema facial persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pitiriasis versicolor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Léntigos orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperpigmentación difusa es característica de la enfermedad de Addison por exceso de ACTH."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba diagnóstica es útil para diferenciar vitiligo de hipopigmentación postinflamatoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia cutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen con lámpara de Wood"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dermatoscopia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de parche"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raspado micológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lámpara de Wood muestra fluorescencia blanco-azulada en el vitiligo por ausencia de melanina."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de lesión pigmentaria se asocia con el síndrome de Peutz-Jeghers?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas café con leche"
+        },
+        {
+          "opcion": "B",
+          "texto": "Léntigos periorales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máculas acrómicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus azul"
+        },
+        {
+          "opcion": "E",
+          "texto": "Manchas mongólicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Peutz-Jeghers presenta lentiginosis mucocutánea, especialmente perioral."
+    },
+    {
+      "numero": "11",
+      "texto": "Las manchas mongólicas son lesiones que se caracterizan por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas hipopigmentadas congénitas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas azuladas lumbosacras congénitas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperpigmentación postinflamatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus melanocítico gigante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Léntigos solares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las manchas mongólicas son máculas azul-grisáceas congénitas en región lumbosacra, benignas y autolimitadas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el mecanismo de la hipopigmentación en el vitiligo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración en la síntesis de melanina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Destrucción autoinmune de melanocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Defecto en el transporte de melanina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición farmacológica de la tirosinasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de queratinización folicular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vitiligo se debe a la destrucción autoinmune de los melanocitos epidérmicos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica tiene el nevus de Becker?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipopigmentación congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperpigmentación con hipertricosis en adolescentes varones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máculas café con leche múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión azulada congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Manchas hipocrómicas en cara"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El nevus de Becker es una mácula hiperpigmentada con hipertricosis, de aparición postpuberal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo orienta a esclerosis tuberosa en un niño con convulsiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Léntigos en mucosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas acrómicas en hoja de fresno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nevus de Becker"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manchas café con leche"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nevus azul"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las máculas acrómicas en hoja de fresno son un marcador cutáneo de esclerosis tuberosa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de hiperpigmentación se asocia con exposición solar crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melasma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Léntigos solares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Manchas mongólicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus de Ota"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpigmentación perioral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los léntigos solares son hiperpigmentaciones por daño actínico acumulativo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué alteración pigmentaria está relacionada con infecciones por Malassezia furfur?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pitiriasis versicolor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pitiriasis alba"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nevus acrómico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitiligo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Melasma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pitiriasis versicolor produce máculas hipopigmentadas u ocre por proliferación de Malassezia."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes hallazgos cutáneos puede sugerir un síndrome genético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melanosis postinflamatoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Máculas café con leche múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitiligo segmentario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus de Becker"
+        },
+        {
+          "opcion": "E",
+          "texto": "Léntigos solares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Múltiples máculas café con leche deben hacer sospechar neurofibromatosis tipo 1."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el tratamiento inicial más apropiado para el vitiligo localizado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fototerapia UVA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides tópicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retinoides tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crioterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides tópicos son primera línea para vitiligo localizado en niños."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué diagnóstico se asocia a hipopigmentación en parches, alopecia y convulsiones infantiles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Waardenburg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piebaldismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esclerosis tuberosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitiligo segmentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nevus acrómico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La esclerosis tuberosa combina lesiones hipopigmentadas, alopecia focal y compromiso neurológico."
+    },
+    {
+      "numero": "20",
+      "texto": "El piebaldismo se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones hiperpigmentadas en tronco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia congénita de melanocitos en zonas simétricas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máculas acrómicas adquiridas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nevus azul con hipertricosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pitiriasis alba persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El piebaldismo es una alteración genética con ausencia congénita de melanocitos en áreas simétricas."
+    }
+  ]
+}

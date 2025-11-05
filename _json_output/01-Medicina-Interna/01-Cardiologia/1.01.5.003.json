@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.5.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del cateterismo venoso central en pacientes críticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir la presión arterial sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar medicamentos irritantes o hiperosmolares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar la diuresis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitorear la presión intracraneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar diálisis peritoneal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite administrar fármacos o soluciones hiperosmolares que podrían dañar las venas periféricas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el sitio más frecuentemente utilizado para la inserción de un catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena yugular interna derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vena yugular externa izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vena femoral derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vena subclavia izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vena basílica derecha"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vena yugular interna derecha es preferida por su acceso directo a la vena cava superior y bajo riesgo de complicaciones."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué estructura se utiliza como referencia anatómica para la punción de la vena subclavia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clavícula"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esternón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apófisis coracoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Primera costilla"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculo pectoral mayor"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vena subclavia se localiza justo debajo de la clavícula, por lo que esta sirve de referencia para la punción."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la complicación más frecuente del cateterismo venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embolia aérea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección del sitio de inserción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia ventricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infección es la complicación más común, especialmente con uso prolongado del catéter."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué maniobra reduce el riesgo de embolia aérea durante la inserción del catéter?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiración profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiración forzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocar al paciente en posición de Trendelenburg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevar la cabeza del paciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperextender el cuello"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La posición de Trendelenburg aumenta la presión venosa central, reduciendo el riesgo de entrada de aire."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué parámetro puede medirse directamente mediante un catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión venosa central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión intracraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión de enclavamiento pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presión venosa central (PVC) refleja el retorno venoso y la función del ventrículo derecho."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Dónde debe ubicarse la punta del catéter venoso central idealmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En la vena subclavia"
+        },
+        {
+          "opcion": "B",
+          "texto": "En la vena cava superior antes de la aurícula derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dentro de la aurícula derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "En la vena innominada"
+        },
+        {
+          "opcion": "E",
+          "texto": "En la vena yugular interna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La punta debe quedar en la vena cava superior, justo antes de la entrada a la aurícula derecha."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué imagen se utiliza para confirmar la correcta colocación del catéter?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluoroscopía abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La radiografía de tórax confirma la ubicación de la punta y descarta complicaciones como neumotórax."
+    },
+    {
+      "numero": "9",
+      "texto": "Durante la inserción del catéter, el paciente presenta arritmia ventricular. ¿Cuál es la causa más probable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia súbita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penetración del catéter en la aurícula o ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión del nervio frénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El contacto del catéter con el endocardio derecho puede provocar irritación miocárdica y arritmias."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación inmediata se asocia con mayor frecuencia al abordaje subclavio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia grasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fístula arteriovenosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El neumotórax es la complicación más frecuente del abordaje subclavio por la cercanía al ápice pulmonar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes es un uso clínico del catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de la presión intracraneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de nutrición parenteral total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control del gasto cardíaco directo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitoreo de la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El catéter central se usa frecuentemente para administrar nutrición parenteral hiperosmolar."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué condición representa una contraindicación relativa al cateterismo venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombosis en la vena a canalizar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necesidad de infusión rápida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticoagulantes profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con ventilación mecánica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trombosis o infección en el sitio de acceso es una contraindicación relativa para el procedimiento."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la técnica más utilizada actualmente para guiar la inserción del catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palpación anatómica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Auscultación directa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Guía ecográfica en tiempo real"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluoroscopía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electrocardiografía intracavitaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía permite visualizar la vena en tiempo real, aumentando la tasa de éxito y reduciendo complicaciones."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué vena presenta menor riesgo de infección en cateterismos prolongados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subclavia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Yugular interna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Femoral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basílica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Safena"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El sitio subclavio tiene menor riesgo de colonización bacteriana que los accesos femorales o yugulares."
+    },
+    {
+      "numero": "15",
+      "texto": "La técnica de Seldinger implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inserción directa del catéter sin guía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punción de la vena con aguja y colocación de guía metálica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inserción quirúrgica del catéter mediante disección"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocación simultánea de catéter arterial y venoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso exclusivo de ecografía Doppler"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La técnica de Seldinger consiste en punción, introducción de una guía metálica y posterior paso del catéter sobre ella."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida previene la infección asociada al catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de guantes estériles y campo amplio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio diario del catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irrigación continua con suero fisiológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración profiláctica de antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocación sin anestesia local"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso de técnica aséptica estricta con guantes, mascarilla y campo estéril es la principal medida preventiva."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación tardía puede presentarse tras un cateterismo venoso central prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embolia aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis venosa central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arritmia aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemotórax"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La trombosis venosa central es una complicación tardía, especialmente en pacientes con uso prolongado de catéteres."
+    },
+    {
+      "numero": "18",
+      "texto": "Durante la extracción del catéter venoso central, debe realizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiración profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiración sostenida o maniobra de Valsalva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos repetida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Posición ortostática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperventilación controlada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La maniobra de Valsalva durante la extracción aumenta la presión intratorácica y previene embolia aérea."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo radiológico indica que el catéter ha sido insertado demasiado profundamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La punta en la vena subclavia"
+        },
+        {
+          "opcion": "B",
+          "texto": "La punta en la aurícula derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "El catéter doblado en la yugular"
+        },
+        {
+          "opcion": "D",
+          "texto": "El catéter paralelo a la tráquea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desplazamiento del mediastino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si la punta se proyecta dentro de la aurícula derecha, el catéter está demasiado profundo y debe retirarse unos centímetros."
+    },
+    {
+      "numero": "20",
+      "texto": "La principal indicación del cateterismo venoso central en cardiología es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de presión venosa central y administración de drogas vasoactivas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toma de muestra de gases arteriales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición de presión arterial media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control de saturación de oxígeno arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de líquidos por vía periférica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Permite medir la PVC y administrar medicamentos vasoactivos en pacientes con shock o insuficiencia cardíaca avanzada."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del cultivo de una herida infectada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar la extensión del daño tisular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar el microorganismo causante y su sensibilidad antimicrobiana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar la eficacia del tratamiento previo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar la presencia de necrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la respuesta inflamatoria local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo permite identificar el agente causal y su sensibilidad, lo que orienta la terapia antimicrobiana adecuada."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el método más apropiado para obtener una muestra de una herida crónica infectada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hisopo superficial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspirado con aguja de contenido purulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Raspado seco de la superficie"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muestra de exudado con gasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lavado con suero fisiológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aspirado con aguja reduce la contaminación superficial y refleja mejor el microorganismo causal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de bacterias predominan en infecciones de heridas quirúrgicas tempranas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilos gramnegativos aerobios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anaerobios estrictos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cocos grampositivos, especialmente Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Micobacterias no tuberculosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Levaduras del género Candida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones tempranas suelen ser causadas por S. aureus o estreptococos beta-hemolíticos."
+    },
+    {
+      "numero": "4",
+      "texto": "En un absceso profundo, ¿cuál es la mejor técnica para obtener muestra microbiológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toma con hisopo estéril del exudado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración con aguja estéril del material purulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Raspado de piel circundante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia de tejido sano adyacente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lavado de la cavidad con suero fisiológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aspiración con aguja estéril permite obtener una muestra representativa evitando contaminación superficial."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué microorganismo se asocia con infecciones de heridas tras exposición a agua dulce?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aeromonas hydrophila"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio vulnificus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium marinum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aeromonas hydrophila es típica de heridas contaminadas con agua dulce."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué debe evitarse al tomar muestra para cultivo de una herida infectada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Limpiar la superficie con suero fisiológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar material estéril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomar muestra del exudado superficial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Etiquetar correctamente el recipiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transportar en medio adecuado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exudado superficial está contaminado y no refleja al microorganismo patógeno real."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué microorganismo se debe sospechar en infecciones postquirúrgicas asociadas a material protésico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus sensible a meticilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus epidermidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas fluorescens"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Streptococcus pyogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "S. epidermidis es un patógeno oportunista frecuente en infecciones asociadas a cuerpos extraños."
+    },
+    {
+      "numero": "8",
+      "texto": "En heridas diabéticas, ¿qué característica es común en los cultivos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monomicrobianas por S. pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monomicrobianas por anaerobios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polimicrobianas con aerobios y anaerobios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causadas por hongos exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin crecimiento bacteriano"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones en pie diabético suelen ser polimicrobianas con aerobios y anaerobios."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medio de cultivo se usa para aislar bacterias anaerobias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar chocolate"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medio de thioglicolato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medio Sabouraud"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El medio de thioglicolato permite el crecimiento de bacterias anaerobias."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo sugiere contaminación en un cultivo de herida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento monomicrobiano abundante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de flora polimicrobiana superficial sin correlato clínico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento de S. aureus en alta cantidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento de anaerobios estrictos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento de Pseudomonas en tejido necrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La flora polimicrobiana superficial sin signos clínicos suele indicar contaminación."
+    },
+    {
+      "numero": "11",
+      "texto": "En infecciones por mordedura humana, ¿qué bacteria debe considerarse en el cultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eikenella corrodens"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium fortuitum"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Eikenella corrodens es característica de mordeduras humanas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el tiempo recomendado para transportar la muestra al laboratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dentro de las 12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dentro de las 6 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dentro de la hora siguiente a la toma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antes de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "No es relevante el tiempo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El transporte rápido (idealmente <1 hora) preserva la viabilidad bacteriana y evita falsos negativos."
+    },
+    {
+      "numero": "13",
+      "texto": "En un absceso por inyección, ¿qué microorganismo se sospecha con mayor frecuencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clostridium septicum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acinetobacter baumannii"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "S. aureus es el principal agente de abscesos cutáneos y de tejidos blandos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué resultado de cultivo sugiere infección activa en una herida quirúrgica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de crecimiento bacteriano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento escaso de flora cutánea habitual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento monomicrobiano con correlato clínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contaminación polimicrobiana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento solo en medio selectivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aislamiento monomicrobiano correlacionado con signos clínicos sugiere infección real."
+    },
+    {
+      "numero": "15",
+      "texto": "En una infección de herida por exposición a agua salada, ¿qué bacteria debe sospecharse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vibrio vulnificus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eikenella corrodens"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aeromonas hydrophila"
+        },
+        {
+          "opcion": "D",
+          "texto": "Serratia marcescens"
+        },
+        {
+          "opcion": "E",
+          "texto": "Burkholderia cepacia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Vibrio vulnificus se asocia con heridas expuestas a agua de mar."
+    },
+    {
+      "numero": "16",
+      "texto": "En una herida postraumática con olor fétido y burbujas subcutáneas, ¿qué agente se sospecha?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fusobacterium necrophorum"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Clostridium perfringens causa gangrena gaseosa con gas subcutáneo y olor fétido."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes pasos es esencial antes de tomar muestra de una herida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar antiséptico concentrado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retirar costras y limpiar con suero fisiológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secar completamente la herida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar anestésico local tópico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar biopsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La limpieza con suero fisiológico elimina contaminantes sin alterar el cultivo."
+    },
+    {
+      "numero": "18",
+      "texto": "En el cultivo de abscesos, ¿qué hallazgo apoya infección por anaerobios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento en agar MacConkey"
+        },
+        {
+          "opcion": "B",
+          "texto": "Olor pútrido y necrosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Color verde del exudado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de pus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemólisis beta en agar sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El olor fétido y la necrosis indican infección por anaerobios estrictos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué microorganismo es más probable en una infección por punción con clavo oxidado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium tetani"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa es frecuente en heridas punzantes, especialmente en pies."
+    },
+    {
+      "numero": "20",
+      "texto": "En una herida quirúrgica con drenaje purulento tardío y fiebre, ¿cuál es el agente más probable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enterobacter spp."
+        },
+        {
+          "opcion": "C",
+          "texto": "Clostridium difficile"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corynebacterium jeikeium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma hominis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "S. aureus es el patógeno más común en infecciones de heridas quirúrgicas tardías."
+    }
+  ]
+}

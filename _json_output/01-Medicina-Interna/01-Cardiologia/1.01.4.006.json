@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principio físico básico en el que se basa la ecocardiografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Emisión de radiación ionizante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflexión de ondas de ultrasonido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Emisión de fotones gamma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética nuclear"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absorción de rayos X"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecocardiografía utiliza ondas ultrasónicas que se reflejan en las estructuras cardíacas para generar imágenes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la frecuencia de ultrasonido más comúnmente utilizada en ecocardiografía transtorácica adulta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0,5–1 MHz"
+        },
+        {
+          "opcion": "B",
+          "texto": "1–2 MHz"
+        },
+        {
+          "opcion": "C",
+          "texto": "2–4 MHz"
+        },
+        {
+          "opcion": "D",
+          "texto": "5–7 MHz"
+        },
+        {
+          "opcion": "E",
+          "texto": "10–15 MHz"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las frecuencias entre 2 y 4 MHz permiten una adecuada penetración y resolución en pacientes adultos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué estructura cardíaca se evalúa mejor en la vista paraesternal eje largo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aurícula derecha y válvula tricúspide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventrículo izquierdo y válvula mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aurícula izquierda y válvula pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tabique interauricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventrículo derecho y válvula pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vista paraesternal eje largo muestra con claridad el ventrículo izquierdo y la válvula mitral."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué modalidad de ecocardiografía permite evaluar el flujo sanguíneo a través de las válvulas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Modo M"
+        },
+        {
+          "opcion": "B",
+          "texto": "2D convencional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "3D volumétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Speckle tracking"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Doppler permite medir la velocidad y dirección del flujo sanguíneo a través de las válvulas cardíacas."
+    },
+    {
+      "numero": "5",
+      "texto": "La ecocardiografía transesofágica está especialmente indicada para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar hipertensión pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estudiar válvulas cardíacas y estructuras posteriores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir fracción de eyección global"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar pericarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar regurgitación mitral leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecocardiografía transesofágica ofrece mejor visualización de válvulas y estructuras posteriores del corazón."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes mediciones ecocardiográficas permite estimar la función sistólica del ventrículo izquierdo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Volumen telediastólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Área de la aurícula izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fracción de eyección"
+        },
+        {
+          "opcion": "D",
+          "texto": "Velocidad E del Doppler mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión pulmonar media"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fracción de eyección del ventrículo izquierdo refleja la función sistólica global del corazón."
+    },
+    {
+      "numero": "7",
+      "texto": "En la insuficiencia aórtica, el Doppler color muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Chorro sistólico retrógrado en la aorta ascendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chorro diastólico retrógrado hacia el ventrículo izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo turbulento sistólico en la aurícula izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo reverso en la arteria pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aceleración del flujo tricuspídeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la insuficiencia aórtica, el flujo diastólico regresa desde la aorta al ventrículo izquierdo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la utilidad principal del modo M en ecocardiografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Visualizar en 3D las válvulas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir desplazamientos y dimensiones con alta resolución temporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar perfusión miocárdica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuantificar gradientes de presión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Analizar deformación miocárdica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El modo M permite medir distancias y movimientos cardíacos con excelente resolución temporal."
+    },
+    {
+      "numero": "9",
+      "texto": "La estimación de la presión pulmonar mediante ecocardiografía se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El flujo mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "El gradiente de presión tricuspídeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "La velocidad aórtica máxima"
+        },
+        {
+          "opcion": "D",
+          "texto": "El tamaño auricular izquierdo"
+        },
+        {
+          "opcion": "E",
+          "texto": "La excursión septal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se calcula usando la velocidad del jet de regurgitación tricuspídea mediante la ecuación de Bernoulli modificada."
+    },
+    {
+      "numero": "10",
+      "texto": "En la vista apical de cuatro cámaras, ¿qué estructuras se observan simultáneamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventrículo izquierdo y válvula aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambas aurículas y ambos ventrículos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Válvula pulmonar y aorta ascendente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aurícula derecha y aorta descendente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo el ventrículo derecho"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vista apical de cuatro cámaras muestra las cuatro cavidades cardíacas y el tabique interventricular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo ecocardiográfico es característico del taponamiento cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dilatación de la aorta ascendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colapso diastólico de cavidades derechas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento valvular aórtico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del espacio pericárdico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del flujo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El colapso diastólico de cavidades derechas es un signo sensible del taponamiento cardíaco."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué técnica ecocardiográfica evalúa la deformación miocárdica regional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Modo M"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doppler continuo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Speckle tracking"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía bidimensional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doppler tisular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El speckle tracking analiza el strain miocárdico, evaluando la deformación regional del músculo cardíaco."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el parámetro más usado para cuantificar la severidad de la estenosis aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Área valvular aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Velocidad E del flujo mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tamaño del anillo tricuspídeo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión auricular derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grosor del septo interventricular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El área valvular aórtica, calculada por la ecuación de continuidad, determina la severidad de la estenosis."
+    },
+    {
+      "numero": "14",
+      "texto": "El Doppler tisular permite evaluar principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Velocidad de flujo sanguíneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Movimiento y velocidad del miocardio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espesor del pericardio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Volumen auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Doppler tisular mide la velocidad del movimiento miocárdico, útil para analizar función diastólica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo es típico de una miocardiopatía hipertrófica obstructiva en ecocardiografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocinesia global"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento septal asimétrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatarse aurícula derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma apical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pericárdico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miocardiopatía hipertrófica obstructiva se caracteriza por un septo interventricular engrosado de forma asimétrica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la utilidad de la ecocardiografía de estrés?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnóstico de pericarditis constrictiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar viabilidad miocárdica e isquemia inducible"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuantificar derrames pericárdicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir presiones intracavitarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Visualizar calcificaciones coronarias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Evalúa la contractilidad segmentaria y detecta isquemia inducible o viabilidad miocárdica."
+    },
+    {
+      "numero": "17",
+      "texto": "En un paciente con insuficiencia mitral severa, ¿qué hallazgo Doppler se observa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Jet corto y centrado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Jet amplio con flujo reverso en venas pulmonares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de flujo mitral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo mitral reducido en diástole"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aceleración sistólica tardía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia mitral severa genera un jet regurgitante amplio y reverso en venas pulmonares."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la vista más adecuada para medir la fracción de eyección mediante el método de Simpson?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paraesternal eje largo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Subcostal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apical de dos y cuatro cámaras"
+        },
+        {
+          "opcion": "D",
+          "texto": "Supraclavicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transesofágica media"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método biplano de Simpson usa las vistas apicales de dos y cuatro cámaras para medir volúmenes."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo ecocardiográfico sugiere una comunicación interauricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flujo turbulento tricuspídeo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desviación del tabique interauricular con flujo de izquierda a derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colapso ventricular en diástole"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de válvula pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento del septo interventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo de izquierda a derecha a través del tabique interauricular confirma comunicación interauricular."
+    },
+    {
+      "numero": "20",
+      "texto": "En una estenosis mitral severa, el gradiente medio transmitral suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<2 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "2–5 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "5–10 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": ">10 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según edad"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un gradiente medio transmitral mayor de 10 mmHg indica estenosis mitral severa."
+    }
+  ]
+}

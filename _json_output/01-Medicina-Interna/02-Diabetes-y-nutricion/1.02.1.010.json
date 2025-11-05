@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el primer signo clínico de nefropatía diabética incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteinuria franca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microalbuminuria persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de creatinina sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria persistente (30–300 mg/día) es el marcador más temprano de nefropatía diabética incipiente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal en la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Depósito de inmunocomplejos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperfiltración glomerular y expansión mesangial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación intersticial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis capilar glomerular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia tubular severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperfiltración glomerular inicial y la expansión mesangial inducida por hiperglucemia promueven daño estructural progresivo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué rango de excreción de albúmina define microalbuminuria en orina de 24 horas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<10 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "10–30 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "30–300 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "300–500 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": ">500 mg/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria se define entre 30 y 300 mg/día y refleja daño glomerular precoz."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué medida terapéutica puede revertir la nefropatía incipiente si se inicia a tiempo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemodiálisis precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control estricto de la presión arterial y glicemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta hiperproteica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de diuréticos de asa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de ingesta de calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control estricto de la glucemia y presión arterial puede detener o revertir la nefropatía incipiente."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el método más sensible para detectar nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de creatinina plasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urea sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cociente albúmina/creatinina en muestra aislada de orina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedimento urinario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cociente albúmina/creatinina es un método sensible, fácil y reproducible para detectar microalbuminuria."
+    },
+    {
+      "numero": "6",
+      "texto": "¿En qué etapa del daño renal aparece la microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Etapa de hiperfiltración glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etapa de proteinuria clínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Etapa de insuficiencia renal avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Etapa de filtrado glomerular normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Etapa terminal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La microalbuminuria aparece tras una fase de hiperfiltración glomerular sostenida, marcando daño renal temprano."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estructura renal es la primera afectada en la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Túbulo proximal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intersticio renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Membrana basal glomerular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cápsula de Bowman"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papila renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La membrana basal glomerular se engrosa precozmente por la glicosilación no enzimática de proteínas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué factor acelera la progresión de la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control estricto de glucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial no controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio moderado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta hiposódica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de IECA"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión no controlada aumenta la presión intraglomerular y acelera la progresión del daño renal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo histológico caracteriza la nefropatía diabética incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomeruloesclerosis nodular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento de la membrana basal y expansión mesangial leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis intersticial marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depósitos inmunes subendoteliales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia tubular severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El engrosamiento de la membrana basal y expansión mesangial leve son hallazgos iniciales del daño renal diabético."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tratamiento farmacológico disminuye la microalbuminuria en diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bloqueadores de canales de calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA o ARA II"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos tiazídicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibratos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA y ARA II reducen la presión intraglomerular y la excreción de albúmina en orina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué valor de cociente albúmina/creatinina indica microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<10 mg/g"
+        },
+        {
+          "opcion": "B",
+          "texto": "10–30 mg/g"
+        },
+        {
+          "opcion": "C",
+          "texto": "30–300 mg/g"
+        },
+        {
+          "opcion": "D",
+          "texto": "300–500 mg/g"
+        },
+        {
+          "opcion": "E",
+          "texto": ">500 mg/g"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un cociente albúmina/creatinina entre 30 y 300 mg/g define microalbuminuria persistente."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué característica clínica suele acompañar a la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematuria macroscópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema generalizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oliguria persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertensión es una manifestación frecuente y contribuye al daño progresivo en la nefropatía incipiente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué cambio metabólico favorece el desarrollo de nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia sostenida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperuricemia transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipolipidemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia crónica induce glicosilación de proteínas y estrés oxidativo, dañando la barrera glomerular."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué intervención dietética es apropiada en nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del consumo proteico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción leve de proteínas y sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta rica en fósforo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de potasio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta cetogénica estricta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una dieta con restricción moderada de proteínas y sodio ayuda a reducir la presión intraglomerular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué marcador sérico puede mantenerse normal en nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albúmina plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Potasio sérico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Urea plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido úrico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La creatinina suele permanecer normal en etapas iniciales, por lo que la microalbuminuria es un marcador más precoz."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué proceso hemodinámico ocurre en la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasoconstricción de arteriola aferente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasodilatación de arteriola aferente y aumento de presión glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del flujo sanguíneo renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis de arteriola eferente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del flujo venoso renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia produce vasodilatación aferente y aumento de la presión intraglomerular, promoviendo hiperfiltración."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes factores no forma parte del manejo de nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control glicémico intensivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspensión de tabaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de IECA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta hiperproteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control de lípidos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las dietas hiperproteicas aumentan la presión intraglomerular y aceleran la progresión del daño renal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué porcentaje de pacientes diabéticos tipo 1 desarrollan microalbuminuria tras 10 años de evolución?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "20–30%"
+        },
+        {
+          "opcion": "D",
+          "texto": "40–50%"
+        },
+        {
+          "opcion": "E",
+          "texto": "70%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Aproximadamente 20–30% de los pacientes con diabetes tipo 1 desarrollan microalbuminuria tras una década."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro es más útil para evaluar la respuesta al tratamiento de nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de creatinina sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de microalbuminuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de peso corporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de colesterol total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de glucosuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción de microalbuminuria es un indicador directo de mejoría del daño glomerular temprano."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué complicación cardiovascular se asocia estrechamente con la nefropatía incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiopatía isquémica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía restrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microalbuminuria se asocia con disfunción endotelial y mayor riesgo de enfermedad cardiovascular aterosclerótica."
+    }
+  ]
+}

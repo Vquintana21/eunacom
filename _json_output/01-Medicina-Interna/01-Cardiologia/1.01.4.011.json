@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del Holter de presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar arritmias cardíacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Registrar la presión arterial durante 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la presión venosa central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinar la capacidad funcional del paciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar la variabilidad del ritmo sinusal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Holter de presión arterial registra la presión de forma ambulatoria durante 24 horas para evaluar patrones tensionales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de hipertensión puede diagnosticarse solo mediante Holter de presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión sostenida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión de bata blanca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión secundaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis hipertensiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Holter permite detectar hipertensión de bata blanca, donde la presión solo se eleva en el entorno clínico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la frecuencia habitual de mediciones en un Holter de presión arterial de 24 horas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 5 minutos todo el día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada 15–30 minutos durante el día y cada 30–60 minutos durante la noche"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada hora fija"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo al despertar y al dormir"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 2 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dispositivo mide la presión con mayor frecuencia durante el día y menos durante la noche."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el valor promedio normal de presión arterial diurna en el Holter?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 120/70 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 125/80 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 130/85 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 135/85 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 140/90 mmHg"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los valores normales en el periodo diurno son menores a 135/85 mmHg en promedio."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué significa un patrón “non-dipper” en el Holter de presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento nocturno de la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descenso nocturno normal de 10–20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de descenso nocturno de la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión matutina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial inestable durante el día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El patrón non-dipper ocurre cuando no hay descenso fisiológico nocturno de la presión arterial."
+    },
+    {
+      "numero": "6",
+      "texto": "Un patrón “dipper” normal corresponde a una reducción nocturna de la presión arterial de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10–20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "25–30%"
+        },
+        {
+          "opcion": "D",
+          "texto": "30–40%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más del 50%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El patrón normal presenta una disminución nocturna de la presión arterial entre 10 y 20%."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué patrón nocturno se asocia a mayor riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dipper"
+        },
+        {
+          "opcion": "B",
+          "texto": "Non-dipper"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extreme dipper"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reverse dipper"
+        },
+        {
+          "opcion": "E",
+          "texto": "White coat"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El patrón reverse dipper, con aumento nocturno de presión, se relaciona con mayor riesgo cardiovascular y daño de órgano blanco."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué diferencia al Holter de presión arterial del automonitoreo domiciliario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El Holter mide continuamente y durante el sueño"
+        },
+        {
+          "opcion": "B",
+          "texto": "El automonitoreo es más preciso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambos se usan solo en hospital"
+        },
+        {
+          "opcion": "D",
+          "texto": "El Holter requiere calibración manual frecuente"
+        },
+        {
+          "opcion": "E",
+          "texto": "El automonitoreo no detecta hipertensión de bata blanca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Holter realiza mediciones automáticas, incluyendo el periodo nocturno, ofreciendo un perfil completo de 24 horas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el valor promedio normal de presión arterial nocturna según el Holter?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 110/65 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 115/70 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 120/75 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 125/80 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 130/85 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante la noche, la presión normal promedio debe ser menor a 120/75 mmHg."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de hipertensión se caracteriza por valores elevados solo durante el sueño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión enmascarada nocturna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión de bata blanca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión sostenida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión resistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertensión enmascarada nocturna se detecta solo mediante monitoreo ambulatorio como el Holter."
+    },
+    {
+      "numero": "11",
+      "texto": "El promedio de presión arterial de 24 horas considerado normal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 130/80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 135/85 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 125/75 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 140/90 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 120/70 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El valor normal promedio de 24 horas es menor a 130/80 mmHg en el Holter."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué variable es clave para evaluar la variabilidad circadiana de la presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión sistólica máxima"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión media diaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Índice de descenso nocturno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frecuencia cardíaca promedio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración del sueño"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El índice de descenso nocturno compara la presión diurna y nocturna, reflejando la variabilidad circadiana."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es una indicación del Holter de presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar síncope inexplicado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confirmar hipertensión de bata blanca o enmascarada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnóstico de taquicardia ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estudio de soplos cardíacos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluación del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Holter está indicado para confirmar hipertensión de bata blanca o enmascarada y evaluar eficacia del tratamiento antihipertensivo."
+    },
+    {
+      "numero": "14",
+      "texto": "Un paciente con presión normal en consulta pero elevada en el Holter tiene:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión sostenida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión enmascarada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión de bata blanca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión enmascarada se detecta cuando la presión es normal en consulta pero elevada en el monitoreo ambulatorio."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes hallazgos en el Holter se asocia a mayor daño de órgano blanco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Patrón dipper"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión nocturna elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión diurna ligeramente aumentada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso fisiológico nocturno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frecuencia cardíaca baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión nocturna se asocia a daño renal, cerebral y cardiovascular significativo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es una contraindicación relativa para el uso de Holter de presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca estable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aneurisma de aorta abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Brazo con fístula arteriovenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión tratada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sobrepeso moderado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de brazalete en un brazo con fístula arteriovenosa puede comprometer el acceso vascular."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué variable se utiliza para evaluar la eficacia del tratamiento antihipertensivo con Holter?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia cardíaca máxima"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promedio de presión sistólica y diastólica de 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión de pulso aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Número de picos hipertensivos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El promedio de presión arterial de 24 horas es el parámetro más útil para evaluar el control antihipertensivo."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo en un Holter sugiere un efecto del tratamiento excesivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión nocturna marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón dipper normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión estable todo el día"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frecuencia cardíaca normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión diastólica ligeramente aumentada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una caída excesiva de la presión nocturna puede indicar sobretratamiento antihipertensivo y riesgo de hipoperfusión."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal ventaja del Holter de presión arterial frente a mediciones aisladas en consulta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor costo y precisión equivalente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor variabilidad técnica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permite identificar patrones circadianos y evitar sesgos de consulta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evalúa solo presión sistólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requiere intervención médica constante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Holter permite analizar variaciones circadianas y evita la influencia del estrés clínico en las mediciones."
+    },
+    {
+      "numero": "20",
+      "texto": "Un paciente con promedio de 24 horas de 135/85 mmHg en Holter tiene:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión límite"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión diagnosticada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión óptima"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un promedio de 135/85 mmHg en el monitoreo ambulatorio indica hipertensión diagnosticada según guías actuales."
+    }
+  ]
+}

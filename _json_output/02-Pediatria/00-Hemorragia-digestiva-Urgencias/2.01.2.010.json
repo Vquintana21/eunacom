@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.010",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hemorragia digestiva Urgencias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hemorragia digestiva alta en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlcera gástrica por H. pylori"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esofagitis erosiva por reflujo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Varices esofágicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ingesta de AINEs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Mallory-Weiss"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La esofagitis erosiva secundaria a reflujo gastroesofágico es la causa más común de hemorragia digestiva alta en pediatría."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el signo clínico más característico de hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematoquecia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal en fosa ilíaca derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distensión abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La melena es la manifestación clásica de sangrado proximal al ángulo de Treitz."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué acción debe realizarse primero ante un niño con hematemesis en urgencias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopia diagnóstica inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de inhibidor de bomba de protones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación de la vía aérea y estabilidad hemodinámica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transfusión sanguínea inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocación de sonda nasogástrica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En urgencias se prioriza estabilizar la vía aérea, la ventilación y la perfusión antes del diagnóstico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal causa de hemorragia digestiva baja en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Divertículo de Meckel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pólipos juveniles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fisura anal es la causa más frecuente de rectorragia leve en lactantes y niños pequeños."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo sugiere hemorragia digestiva masiva en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melena aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia, hipotensión y palidez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómitos con alimentos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobina normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de taquicardia, hipotensión y palidez indica pérdida sanguínea significativa y requiere reanimación inmediata."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué diagnóstico debe considerarse ante un niño con melena y antecedentes de hepatopatía crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varices esofágicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gastritis erosiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pólipos colónicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En pacientes con hipertensión portal secundaria a hepatopatía, las varices esofágicas son la principal causa de hemorragia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estudio confirma el diagnóstico de hemorragia digestiva alta en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endoscopia digestiva alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serie gastroduodenal con bario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía simple de abdomen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La endoscopia digestiva alta permite localizar y tratar la fuente de sangrado en el tracto superior."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la causa más frecuente de hemorragia digestiva baja en escolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Divertículo de Meckel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pólipos juveniles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorroides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los pólipos juveniles son la causa más común de rectorragia indolora en niños mayores de 2 años."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida inicial se debe tomar ante un paciente con sangrado digestivo severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antiemético"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar tipo de heces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Establecer acceso venoso periférico y reanimar con cristaloides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indicar dieta líquida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar radiografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La reanimación con cristaloides y asegurar un acceso venoso son prioritarios en el manejo inicial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo en sonda nasogástrica sugiere hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contenido bilioso sin sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contenido con restos alimentarios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspirado con sangre roja o posos de café"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspirado claro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de reflujo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aspiración de sangre o material hemático confirma origen alto del sangrado."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué agente farmacológico se administra en sangrado variceal activo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Omeprazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Octreótido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metoclopramida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrocortisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sucralfato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El octreótido reduce el flujo portal y es útil en el manejo de hemorragias por varices esofágicas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el diagnóstico diferencial más importante en rectorragia masiva infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Divertículo de Meckel"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pólipo juvenil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis ulcerosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastritis erosiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El divertículo de Meckel puede causar hemorragia digestiva baja masiva e indolora por mucosa gástrica ectópica."
+    },
+    {
+      "numero": "13",
+      "texto": "En urgencias, ¿qué parámetro indica necesidad de transfusión sanguínea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoglobina <7 g/dL o inestabilidad hemodinámica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia leve con hemoglobina normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de melena aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangrado autolimitado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de reticulocitos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La transfusión está indicada ante anemia severa o compromiso hemodinámico persistente."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo diferencia hemorragia digestiva alta de baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de hematoquecia sugiere origen bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Melena siempre indica origen bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematemesis es típica de sangrado distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rectorragia es signo de sangrado gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Color de la sangre no tiene valor diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hematoquecia proviene generalmente de sangrados distales, como colon o recto."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estudio permite identificar divertículo de Meckel sangrante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopia alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colonoscopia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gammagrafía con Tc-99m pertecnetato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tránsito intestinal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La gammagrafía con Tc-99m detecta mucosa gástrica ectópica presente en el divertículo de Meckel."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la causa más frecuente de hematoquecia leve en lactantes sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colitis alérgica por proteína de leche de vaca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Divertículo de Meckel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlcera duodenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colitis alérgica a proteínas de la leche de vaca provoca rectorragia leve sin compromiso sistémico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida está contraindicada en hemorragia digestiva activa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antieméticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocar sonda nasogástrica sin necesidad urgente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar reposo digestivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar omeprazol endovenoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitorizar signos vitales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colocación de sonda sin indicación clara puede provocar lesión adicional o aumentar el sangrado."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué diagnóstico debe sospecharse ante sangrado digestivo alto y petequias generalizadas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Púrpura trombocitopénica inmunitaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Varices esofágicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Mallory-Weiss"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colitis ulcerosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las petequias y sangrado digestivo sugieren púrpura trombocitopénica o trastorno plaquetario."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué fármaco se utiliza para reducir la secreción ácida en hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Omeprazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ranitidina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metoclopramida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cisaprida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondansetrón"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El omeprazol, inhibidor de bomba de protones, disminuye la secreción ácida y estabiliza el coágulo."
+    },
+    {
+      "numero": "20",
+      "texto": "En urgencias, ¿cuál es el objetivo principal del manejo inicial de hemorragia digestiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Localizar la fuente de sangrado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener estabilidad hemodinámica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar antibióticos empíricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obtener radiografías seriadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar endoscopia inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial se enfoca en mantener la perfusión tisular y la estabilidad hemodinámica antes del diagnóstico."
+    }
+  ]
+}

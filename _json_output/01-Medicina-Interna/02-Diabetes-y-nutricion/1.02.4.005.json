@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la creatininemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Concentración de creatinina en la orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Concentración de creatinina en el plasma o suero sanguíneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cantidad de creatina muscular total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de urea plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Excreción de proteínas en sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatininemia corresponde a la concentración de creatinina en sangre, marcador de función renal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal órgano responsable de la excreción de creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intestino delgado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina se elimina casi exclusivamente por filtración glomerular renal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué representa un aumento de creatininemia en un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mejoría del filtrado glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la masa muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del filtrado glomerular y posible daño renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve sin repercusión renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un aumento de creatinina sérica indica disminución del filtrado glomerular y posible daño renal progresivo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el rango normal de creatinina sérica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1–0.3 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.5–1.2 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.5–2.5 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.0–4.0 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "4.5–6.0 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El valor normal de creatinina sérica oscila entre 0.5 y 1.2 mg/dL, dependiendo de la masa muscular."
+    },
+    {
+      "numero": "5",
+      "texto": "¿De qué depende principalmente la producción diaria de creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingesta de proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Función hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa muscular total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de glucosa plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingesta de líquidos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La producción de creatinina es constante y depende directamente de la masa muscular corporal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué método se utiliza comúnmente para estimar la función renal a partir de la creatinina sérica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecuación de Cockcroft-Gault o CKD-EPI"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecuación de Friedewald"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de Coombs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Curva de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Índice de masa corporal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las ecuaciones de Cockcroft-Gault y CKD-EPI estiman el filtrado glomerular con base en la creatinina sérica."
+    },
+    {
+      "numero": "7",
+      "texto": "En la nefropatía diabética, el aumento progresivo de la creatininemia indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recuperación renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del filtrado glomerular y progresión del daño renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoperfusión hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incremento del flujo renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejoría del control glucémico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de creatinina refleja pérdida funcional renal progresiva en la nefropatía diabética."
+    },
+    {
+      "numero": "8",
+      "texto": "La creatinina sérica elevada en ausencia de daño renal puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de masa muscular o consumo alto de carne"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina D"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una alta masa muscular o ingesta proteica puede elevar la creatinina sin daño renal subyacente."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alteración del laboratorio sugiere nefropatía diabética junto con elevación de creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosuria aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albuminuria persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocituria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperuricemia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del colesterol HDL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de albuminuria persistente y creatinina elevada indica progresión de la nefropatía diabética."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué factor puede disminuir falsamente la creatininemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición o pérdida de masa muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperfiltración glomerular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipervolemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La baja masa muscular reduce la producción de creatinina, pudiendo subestimar el grado de disfunción renal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué función cumple la creatinina en la estimación del filtrado glomerular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sirve como sustrato energético renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Actúa como marcador endógeno de filtración glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determina la osmolaridad urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Participa en la reabsorción tubular activa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Regula el equilibrio ácido-base"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina es un marcador endógeno útil para estimar el filtrado glomerular (TFG)."
+    },
+    {
+      "numero": "12",
+      "texto": "Un valor de creatinina sérica de 2.0 mg/dL sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Función renal normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción significativa del filtrado glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Error de laboratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve sin daño renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del volumen plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una creatinina de 2.0 mg/dL indica disminución marcada del filtrado glomerular y posible daño renal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes condiciones puede causar un aumento temporal de creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatopatía leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperglucemia controlada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio intenso eleva transitoriamente la creatinina sérica por liberación muscular de creatina y deshidratación."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Por qué la creatinina es un marcador más confiable que la urea para función renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se reabsorbe activamente en los túbulos renales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Su producción es constante y depende poco de la dieta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Su concentración varía con la ingesta de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es sensible a la deshidratación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende del metabolismo hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La producción de creatinina es constante y menos influenciada por la dieta o el metabolismo hepático que la urea."
+    },
+    {
+      "numero": "15",
+      "texto": "En la insuficiencia renal crónica, la creatininemia aumenta porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la reabsorción tubular de creatinina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la producción muscular de creatinina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se reduce la filtración glomerular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye la secreción gástrica de creatinina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la degradación hepática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La creatinina se acumula por la reducción progresiva del filtrado glomerular en la insuficiencia renal crónica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué valor aproximado de TFG se asocia con duplicación de la creatinina sérica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción del 10% del TFG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción del 25% del TFG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del 50% del TFG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción del 70% del TFG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción del 90% del TFG"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una duplicación de la creatinina sérica equivale aproximadamente a una disminución del 50% del filtrado glomerular."
+    },
+    {
+      "numero": "17",
+      "texto": "En la nefropatía diabética, el aumento de creatinina suele precederse por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microalbuminuria persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria macroscópica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia normocítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La microalbuminuria aparece antes del aumento de creatinina en la progresión de la nefropatía diabética."
+    },
+    {
+      "numero": "18",
+      "texto": "La medición de creatinina en sangre se ve afectada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de cefalosporinas o cetoacidosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de vitamina C y glucosa oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nivel de triglicéridos plasmáticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de anemia hemolítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingesta baja de sodio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las cefalosporinas y la cetoacidosis pueden interferir con los métodos colorimétricos de medición de creatinina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué indicador clínico acompaña típicamente una elevación significativa de creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Poliuria y baja densidad urinaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oliguria o anuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperactividad motora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpnea compensadora"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución del volumen urinario (oliguria o anuria) suele acompañar el aumento de creatinina por falla renal aguda o crónica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida ayuda a reducir la progresión del aumento de creatinina en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control glucémico estricto y manejo de la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la ingesta proteica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del consumo de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión de hipoglucemiantes orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incremento del ejercicio anaeróbico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control glucémico y tensional adecuado previene la progresión de la nefropatía y el aumento de creatinina."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.015",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hemograma",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el rango normal de hemoglobina en un recién nacido a término?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "8-10 g/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-12 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "13-20 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "20-24 g/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "25-30 g/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los recién nacidos tienen hemoglobina más alta que los niños mayores, entre 13 y 20 g/dL."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué parámetro del hemograma se usa para evaluar el tamaño de los glóbulos rojos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematocrito"
+        },
+        {
+          "opcion": "B",
+          "texto": "VCM"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCM"
+        },
+        {
+          "opcion": "D",
+          "texto": "RDW"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuento de eritrocitos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El volumen corpuscular medio (VCM) indica el tamaño promedio de los eritrocitos."
+    },
+    {
+      "numero": "3",
+      "texto": "Un VCM bajo sugiere principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia normocítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia macrocítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VCM bajo indica eritrocitos pequeños, característico de anemia microcítica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal causa de anemia microcítica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de ácido fólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de vitamina B12"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia aplásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esferocitosis hereditaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de hierro es la causa más frecuente de anemia microcítica en pediatría."
+    },
+    {
+      "numero": "5",
+      "texto": "Un aumento del recuento de reticulocitos indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la eritropoyesis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción eritroide aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia aplásica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoplasia medular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de reticulocitos refleja una respuesta medular activa ante pérdida o destrucción de glóbulos rojos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el rango normal de leucocitos en un niño mayor de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2.000-5.000/mm³"
+        },
+        {
+          "opcion": "B",
+          "texto": "4.000-10.000/mm³"
+        },
+        {
+          "opcion": "C",
+          "texto": "8.000-15.000/mm³"
+        },
+        {
+          "opcion": "D",
+          "texto": "10.000-20.000/mm³"
+        },
+        {
+          "opcion": "E",
+          "texto": "15.000-25.000/mm³"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En niños mayores de 5 años, el recuento normal de leucocitos es de 4.000 a 10.000/mm³."
+    },
+    {
+      "numero": "7",
+      "texto": "La linfocitosis es fisiológica en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes y preescolares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adolescentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adultos jóvenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neonatos pretérmino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes y preescolares predomina la linfocitosis fisiológica respecto a los neutrófilos."
+    },
+    {
+      "numero": "8",
+      "texto": "La neutropenia se define generalmente como un recuento absoluto de neutrófilos menor de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1000/mm³"
+        },
+        {
+          "opcion": "B",
+          "texto": "1500/mm³"
+        },
+        {
+          "opcion": "C",
+          "texto": "2000/mm³"
+        },
+        {
+          "opcion": "D",
+          "texto": "2500/mm³"
+        },
+        {
+          "opcion": "E",
+          "texto": "3000/mm³"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neutropenia se define como un recuento de neutrófilos menor a 1500/mm³."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes hallazgos es típico de una infección bacteriana aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neutrofilia con desviación a la izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monocitosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones bacterianas suelen producir neutrofilia con presencia de formas inmaduras (desviación a la izquierda)."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué indica una eosinofilia persistente en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección parasitaria o alergia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La eosinofilia se asocia principalmente a enfermedades alérgicas o parasitosis."
+    },
+    {
+      "numero": "11",
+      "texto": "Un hematocrito bajo con hemoglobina normal puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Error de laboratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemodilución"
+        },
+        {
+          "opcion": "C",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemodilución reduce el hematocrito sin alterar significativamente la hemoglobina."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el rango normal de plaquetas en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50.000-100.000/mm³"
+        },
+        {
+          "opcion": "B",
+          "texto": "100.000-200.000/mm³"
+        },
+        {
+          "opcion": "C",
+          "texto": "150.000-450.000/mm³"
+        },
+        {
+          "opcion": "D",
+          "texto": "200.000-500.000/mm³"
+        },
+        {
+          "opcion": "E",
+          "texto": "250.000-550.000/mm³"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El recuento plaquetario normal en niños es de 150.000 a 450.000/mm³."
+    },
+    {
+      "numero": "13",
+      "texto": "Una trombocitopenia leve puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones virales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de vitamina B12"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemofilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talasemia mayor"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones virales pueden producir trombocitopenia leve y transitoria en niños."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro indica la variabilidad del tamaño eritrocitario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HCM"
+        },
+        {
+          "opcion": "B",
+          "texto": "VCM"
+        },
+        {
+          "opcion": "C",
+          "texto": "RDW"
+        },
+        {
+          "opcion": "D",
+          "texto": "CHCM"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reticulocitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El RDW evalúa la anisocitosis o variabilidad en el tamaño de los glóbulos rojos."
+    },
+    {
+      "numero": "15",
+      "texto": "Un VCM alto con anemia puede sugerir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia por pérdida sanguínea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de vitamina B12 o ácido fólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Talasemia menor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia de enfermedad crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VCM alto indica macrocitosis, frecuente en déficit de B12 o folato."
+    },
+    {
+      "numero": "16",
+      "texto": "La pancitopenia se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de leucocitos y plaquetas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de eritrocitos y plaquetas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución simultánea de eritrocitos, leucocitos y plaquetas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de eritrocitos y hemoglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de linfocitos únicamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pancitopenia implica reducción de las tres líneas hematopoyéticas: eritrocitos, leucocitos y plaquetas."
+    },
+    {
+      "numero": "17",
+      "texto": "Una anemia normocítica normocrómica con reticulocitos bajos sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida aguda de sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemólisis autoinmune"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla medular o anemia aplásica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobinopatía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia aplásica se caracteriza por reticulocitopenia y falla de la médula ósea."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo es compatible con una anemia hemolítica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reticulocitos bajos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haptoglobina elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bilirrubina indirecta elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "VCM bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "RDW normal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemólisis aumenta la bilirrubina indirecta por destrucción de eritrocitos."
+    },
+    {
+      "numero": "19",
+      "texto": "Una leucocitosis con linfocitos atípicos es típica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mononucleosis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neutropenia febril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toxoplasmosis congénita"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tuberculosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mononucleosis produce linfocitosis con presencia de linfocitos atípicos reactivos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué valor de hemoglobina define anemia en un niño mayor de 6 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<10 g/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<11 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<11.5 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<12 g/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<13 g/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En niños mayores de 6 años, se considera anemia una hemoglobina menor a 11.5 g/dL."
+    }
+  ]
+}

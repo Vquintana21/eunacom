@@ -1,0 +1,576 @@
+{
+  "codigo": "2.01.2.012",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Insuficiencia cardíaca. Edema pulmonar",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia cardíaca congestiva en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiopatía congénita con cortocircuito izquierda-derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocardiopatía dilatada idiopática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis constrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión pulmonar primaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las cardiopatías congénitas con cortocircuito izquierda-derecha generan sobrecarga de volumen y fallo cardíaco en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes signos clínicos es más característico de insuficiencia cardíaca izquierda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatomegalia dolorosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema de extremidades inferiores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea y estertores pulmonares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ingurgitación yugular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La insuficiencia cardíaca izquierda produce congestión pulmonar, manifestada por disnea y estertores."
+    },
+    {
+      "numero": "3",
+      "texto": "En un lactante con taquipnea, sudoración al alimentarse y hepatomegalia, el diagnóstico más probable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquiolitis viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cardíaca congestiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma del lactante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tríada de disnea, sudoración al alimentarse y hepatomegalia es clásica de insuficiencia cardíaca en lactantes."
+    },
+    {
+      "numero": "4",
+      "texto": "El edema pulmonar agudo en un niño con insuficiencia cardíaca se produce principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión oncótica plasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión hidrostática capilar pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del retorno venoso sistémico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la permeabilidad alveolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipovolemia relativa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falla ventricular izquierda aumenta la presión capilar pulmonar, provocando extravasación de líquido al intersticio."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes medicamentos está indicado en el tratamiento inicial de la insuficiencia cardíaca aguda pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA y diuréticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcioantagonistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esteroides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos de amplio espectro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA y diuréticos reducen la poscarga y la congestión en la insuficiencia cardíaca."
+    },
+    {
+      "numero": "6",
+      "texto": "En la radiografía de tórax de un niño con edema pulmonar cardiogénico se observa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrados alveolares perihiliares en alas de mariposa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atelectasias bibasales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperinsuflación pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncograma aéreo segmentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax apical"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El patrón alveolar bilateral perihiliar en alas de mariposa es típico del edema pulmonar cardiogénico."
+    },
+    {
+      "numero": "7",
+      "texto": "Un signo clínico temprano de insuficiencia cardíaca en lactantes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema maleolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea de esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dificultad para alimentarse"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis central persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fatiga y dificultad para alimentarse reflejan bajo gasto cardíaco y son signos precoces en lactantes."
+    },
+    {
+      "numero": "8",
+      "texto": "El uso de furosemida en insuficiencia cardíaca pediátrica tiene como principal objetivo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuir la poscarga"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la contractilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la congestión y la precarga"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la frecuencia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la perfusión renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La furosemida reduce el volumen intravascular, aliviando la congestión pulmonar y sistémica."
+    },
+    {
+      "numero": "9",
+      "texto": "En un paciente pediátrico con edema pulmonar, el uso de oxígeno suplementario está indicado porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reduce la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la presión venosa central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la saturación arterial de oxígeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula el gasto cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la diuresis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El oxígeno mejora la oxigenación tisular y alivia la hipoxia secundaria a congestión pulmonar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes hallazgos electrocardiográficos sugiere sobrecarga ventricular izquierda en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eje eléctrico a la derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas R altas en V5-V6"
+        },
+        {
+          "opcion": "C",
+          "texto": "QRS de bajo voltaje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas T negativas difusas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de ondas R altas en V5-V6 indica hipertrofia y sobrecarga ventricular izquierda."
+    },
+    {
+      "numero": "11",
+      "texto": "El edema pulmonar cardiogénico se diferencia del no cardiogénico por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión capilar pulmonar normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de cardiomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de estertores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor infiltración intersticial difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxemia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardiomegalia y la presión capilar pulmonar elevada son distintivas del edema cardiogénico."
+    },
+    {
+      "numero": "12",
+      "texto": "En insuficiencia cardíaca crónica infantil, el IECA reduce los síntomas principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la poscarga y la precarga"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la contractilidad miocárdica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la presión venosa central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibir la reabsorción tubular de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA reducen la carga cardíaca al disminuir la poscarga y la precarga mediante vasodilatación."
+    },
+    {
+      "numero": "13",
+      "texto": "El signo clínico más útil para evaluar la respuesta al tratamiento de insuficiencia cardíaca pediátrica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mejoría de la hepatomegalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la frecuencia cardíaca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desaparición del soplo cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del apetito"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La reducción de la hepatomegalia indica menor congestión sistémica y mejoría hemodinámica."
+    },
+    {
+      "numero": "14",
+      "texto": "Un niño con soplo pansistólico, crecimiento ponderal deficiente y disnea presenta signos de IC. La causa más probable es:",
+      "alternativas": [
+        {
+          "opcion": "C",
+          "texto": "La causa más probable es:"
+        },
+        {
+          "opcion": "A",
+          "texto": "Comunicación interventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tetralogía de Fallot"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transposición de grandes vasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocarditis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cortocircuito izquierda-derecha por comunicación interventricular produce sobrecarga y falla cardíaca temprana."
+    },
+    {
+      "numero": "15",
+      "texto": "El uso de digoxina en pediatría está indicado principalmente cuando existe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falla cardíaca por sobrecarga de volumen sin disfunción sistólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfunción sistólica significativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia ventricular concéntrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipovolemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocardiopatía restrictiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La digoxina mejora la contractilidad en casos de disfunción sistólica con gasto reducido."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes hallazgos clínicos indica congestión sistémica en un niño con IC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquipnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crepitaciones bibasales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo sistólico eyectivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hepatomegalia refleja congestión venosa sistémica por fallo del ventrículo derecho."
+    },
+    {
+      "numero": "17",
+      "texto": "La causa más frecuente de edema pulmonar agudo en niños con cardiopatía es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrecarga hídrica iatrogénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis hipertensiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfunción ventricular izquierda aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sepsis severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoespasmo grave"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falla súbita del ventrículo izquierdo aumenta la presión capilar pulmonar y produce edema."
+    },
+    {
+      "numero": "18",
+      "texto": "El mejor parámetro ecocardiográfico para evaluar la función sistólica en niños es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grosor parietal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fracción de acortamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tamaño auricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diámetro del tracto de salida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión pulmonar estimada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fracción de acortamiento es un índice confiable de función sistólica en pediatría."
+    },
+    {
+      "numero": "19",
+      "texto": "En el edema pulmonar agudo, el tratamiento más urgente consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar líquidos intravenosos rápidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de diuréticos y oxigenoterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Betabloqueo intensivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restricción de sodio estricta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inmediato incluye oxígeno y diuréticos para reducir la congestión pulmonar."
+    },
+    {
+      "numero": "20",
+      "texto": "En lactantes con insuficiencia cardíaca, el hallazgo más sensible de congestión pulmonar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquipnea persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema maleolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La taquipnea y disminución del apetito son manifestaciones tempranas de congestión pulmonar en lactantes."
+    }
+  ]
+}

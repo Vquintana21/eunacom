@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración en las concentraciones plasmáticas de lípidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de proteínas plasmáticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de ácidos grasos esenciales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del metabolismo basal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dislipidemia es una alteración de los niveles de lípidos plasmáticos como colesterol, triglicéridos o lipoproteínas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal lípido implicado en el desarrollo de aterosclerosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL-colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL-colesterol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fosfolípidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácidos grasos libres"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El LDL-colesterol se deposita en la pared arterial, promoviendo la formación de placas ateroscleróticas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes lipoproteínas tiene efecto antiaterogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "IDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipoproteína(a)"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La HDL participa en el transporte reverso de colesterol, retirándolo de los tejidos y arterias hacia el hígado."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el valor deseable de colesterol LDL en pacientes con alto riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<160 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<50 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En pacientes de alto riesgo, las guías recomiendan mantener el LDL por debajo de 70 mg/dL."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de dislipidemia se asocia más frecuentemente a la diabetes mellitus tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrigliceridemia con HDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperquilomicronemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de HDL y LDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de LCAT"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diabetes tipo 2 se asocia a hipertrigliceridemia e HDL bajo, conocida como dislipidemia diabética."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué enzima es esencial para la hidrólisis de triglicéridos en las lipoproteínas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HMG-CoA reductasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lipoproteína lipasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfolipasa A2"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apolipoproteína C-II"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acetil-CoA carboxilasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lipoproteína lipasa hidroliza los triglicéridos de las lipoproteínas ricas en TG como VLDL y quilomicrones."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el mecanismo de acción principal de las estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhiben la absorción intestinal de colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentan la síntesis de HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhiben la enzima HMG-CoA reductasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentan la lipólisis en tejidos periféricos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloquean la formación de quilomicrones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las estatinas inhiben la HMG-CoA reductasa, reduciendo la síntesis hepática de colesterol y aumentando receptores LDL."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué efecto adverso se asocia más frecuentemente al uso de estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mialgias y aumento de CPK"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las estatinas pueden causar mialgias y aumento de CPK, indicativos de miopatía inducida por el fármaco."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué fármaco disminuye principalmente los triglicéridos plasmáticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ezetimiba"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gemfibrozilo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colestiramina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niacina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fibratos como el gemfibrozilo activan el receptor PPAR-α, reduciendo triglicéridos y aumentando HDL."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué apolipoproteína se encuentra principalmente en los quilomicrones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ApoA-I"
+        },
+        {
+          "opcion": "B",
+          "texto": "ApoB-48"
+        },
+        {
+          "opcion": "C",
+          "texto": "ApoB-100"
+        },
+        {
+          "opcion": "D",
+          "texto": "ApoE"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoC-III"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ApoB-48 es característica de los quilomicrones, lipoproteínas encargadas del transporte de lípidos exógenos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué alteración lipídica es típica en el síndrome nefrótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercolesterolemia e hipertrigliceridemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipolipemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de apolipoproteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el síndrome nefrótico se produce aumento del LDL y triglicéridos por incremento de síntesis hepática de lipoproteínas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué patrón de dislipidemia es más aterogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL alto y LDL bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL pequeño y denso con HDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos bajos y HDL alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "VLDL bajo y LDL alto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LDL pequeño y denso junto a bajo HDL y triglicéridos elevados es el perfil lipídico más aterogénico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro se usa para calcular el colesterol no-HDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total - HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL - HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos/5"
+        },
+        {
+          "opcion": "D",
+          "texto": "HDL + VLDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol total + triglicéridos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El colesterol no-HDL se calcula restando el HDL del colesterol total, incluyendo todas las partículas aterogénicas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de las siguientes condiciones NO causa dislipidemia secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anorexia nerviosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de betabloqueadores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La anorexia nerviosa suele reducir los niveles plasmáticos de lípidos, no aumentarlos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de dieta es más efectiva para reducir triglicéridos elevados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rica en carbohidratos refinados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Baja en alcohol y azúcares simples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta en sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Baja en proteínas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Reducir el consumo de alcohol y azúcares simples es fundamental para controlar los triglicéridos elevados."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el objetivo principal del tratamiento de las dislipidemias en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir la cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir el riesgo cardiovascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar la retinopatía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Controlar la hiperglucemia postprandial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la masa muscular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control de las dislipidemias en diabetes busca principalmente reducir el riesgo cardiovascular asociado."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medicamento inhibe la absorción intestinal de colesterol?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ezetimiba"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niacina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fenofibrato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lovastatina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ezetimiba bloquea la proteína NPC1L1 en el intestino, reduciendo la absorción de colesterol dietario."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal indicación de los inhibidores de PCSK9?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia familiar o alto riesgo con LDL elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrigliceridemia aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome metabólico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislipidemia por hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperquilomicronemia secundaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los inhibidores de PCSK9 reducen el LDL en pacientes con hipercolesterolemia familiar o alto riesgo cardiovascular refractario a estatinas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué cambio en el estilo de vida tiene mayor impacto en el aumento del HDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio aeróbico regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta alta en grasas saturadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedentarismo prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restricción severa de proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingesta excesiva de alcohol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio aeróbico regular es una de las intervenciones más efectivas para elevar el colesterol HDL."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué valor de triglicéridos se considera criterio para hipertrigliceridemia severa con riesgo de pancreatitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥200 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥300 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥500 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥800 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥1000 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Valores de triglicéridos mayores a 500 mg/dL aumentan el riesgo de pancreatitis aguda."
+    }
+  ]
+}

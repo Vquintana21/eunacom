@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.140",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos de ansiedad generalizada",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica principal del trastorno de ansiedad generalizada en niños y adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miedos específicos a animales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Preocupación excesiva y persistente por múltiples temas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Episodios súbitos de pánico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evita lugares públicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conductas obsesivo-compulsivas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ansiedad generalizada se caracteriza por preocupaciones persistentes y desproporcionadas sobre diversas áreas de la vida cotidiana."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes síntomas físicos puede acompañar la ansiedad generalizada pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temblores, taquicardia y molestias abdominales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Somnolencia excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del apetito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los síntomas autonómicos como taquicardia, temblores y molestias gastrointestinales son comunes en la ansiedad generalizada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el criterio temporal para el diagnóstico de trastorno de ansiedad generalizada según DSM-5?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al menos 2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mes de duración"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses o más de preocupación excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 año de síntomas persistentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración indefinida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico requiere preocupación excesiva presente la mayoría de los días por al menos seis meses."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de pensamiento caracteriza el trastorno de ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ideas delirantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rumiación constante sobre posibles amenazas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pensamiento concreto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Euforia y grandiosidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Negación persistente de riesgos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pacientes presentan rumiaciones sobre situaciones cotidianas percibidas como potencialmente peligrosas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento de primera línea para la ansiedad generalizada en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia electroconvulsiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "ISRS combinados con benzodiacepinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia cognitivo-conductual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antipsicóticos atípicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio físico aislado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La terapia cognitivo-conductual es el tratamiento inicial más efectivo para la ansiedad generalizada en población pediátrica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué neurotransmisor está principalmente implicado en la fisiopatología del trastorno de ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Serotonina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Noradrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "GABA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acetilcolina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La disfunción serotoninérgica se asocia con alteraciones emocionales y ansiedad en múltiples estudios."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos es aprobado para ansiedad generalizada en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluoxetina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sertralina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diazepam"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haloperidol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quetiapina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sertralina, un ISRS, tiene evidencia de eficacia y seguridad en ansiedad pediátrica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué rasgo diferencia la ansiedad normal de la ansiedad patológica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración corta de los síntomas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de repercusión funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Respuesta adaptativa ante el estrés"
+        },
+        {
+          "opcion": "D",
+          "texto": "Persistencia e interferencia con la vida diaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad situacional específica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ansiedad se considera patológica cuando interfiere significativamente con el funcionamiento escolar, familiar o social."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes es un factor de riesgo para desarrollar ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vínculo seguro con los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición a estrés crónico o sobreprotección parental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad física regular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta autoestima"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de antecedentes familiares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estrés crónico y la sobreprotección parental aumentan la vulnerabilidad a desarrollar ansiedad generalizada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué trastorno suele coexistir con la ansiedad generalizada en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno oposicionista desafiante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno depresivo mayor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno de tics"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno bipolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esquizofrenia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depresión mayor coexiste frecuentemente con la ansiedad generalizada, agravando el pronóstico si no se trata."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué componente central debe abordarse en la terapia cognitivo-conductual para ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminación de fobias específicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Modificación de pensamientos distorsionados y conductas de evitación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Supresión farmacológica de síntomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Análisis de conflictos inconscientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia artística"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TCC busca identificar y modificar pensamientos automáticos negativos y conductas evitativas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes síntomas es más frecuente en niños pequeños con ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quejas somáticas recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ideación suicida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conductas agresivas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Episodios disociativos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alucinaciones visuales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las quejas físicas como dolor abdominal o cefalea son formas comunes de expresión de ansiedad en la infancia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué diferencia clínica existe entre ansiedad generalizada y trastorno de pánico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración de los síntomas y presencia de ataques súbitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de agorafobia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grado de irritabilidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comorbilidad con depresión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Número de síntomas somáticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ansiedad generalizada es continua, mientras el trastorno de pánico se manifiesta en episodios abruptos de miedo intenso."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué examen complementario debe solicitarse en un niño con ansiedad para descartar causas orgánicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil tiroideo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electromiografía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe descartarse hipertiroidismo, que puede producir síntomas similares a ansiedad."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué característica del sueño se observa frecuentemente en ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sueño profundo prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pesadillas recurrentes y dificultad para conciliar el sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Somnolencia diurna excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del tiempo REM"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de despertares nocturnos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El insomnio inicial y las pesadillas son síntomas comunes del trastorno de ansiedad generalizada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué herramienta se utiliza para evaluar ansiedad en niños escolarizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Hamilton"
+        },
+        {
+          "opcion": "B",
+          "texto": "Screen for Child Anxiety Related Emotional Disorders (SCARED)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inventario de Beck"
+        },
+        {
+          "opcion": "D",
+          "texto": "PHQ-9"
+        },
+        {
+          "opcion": "E",
+          "texto": "MINI-KID"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cuestionario SCARED es ampliamente validado para evaluar ansiedad en población infantil y adolescente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica cognitiva es típica en niños con ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pensamiento catastrófico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disociación de la realidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pensamiento mágico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ideación de grandiosidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Razonamiento concreto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El pensamiento catastrófico o anticipación del peor escenario es característico del trastorno de ansiedad generalizada."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué signo fisiológico acompaña con frecuencia al trastorno de ansiedad generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sudoración, tensión muscular y palpitaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoactividad motora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez extrapiramidal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La activación autonómica genera síntomas como sudoración, palpitaciones y tensión muscular sostenida."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el pronóstico habitual del trastorno de ansiedad generalizada en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Remisión espontánea en semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Curso crónico con exacerbaciones, tratable con terapia y fármacos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desarrollo de psicosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progresión a trastorno bipolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin repercusión funcional a largo plazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El curso suele ser crónico pero mejora con tratamiento psicológico y farmacológico adecuado."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estrategia preventiva es más efectiva frente a la ansiedad generalizada infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar hablar de emociones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fomentar habilidades de afrontamiento y regulación emocional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la carga académica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ignorar la ansiedad para que desaparezca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso precoz de benzodiacepinas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Enseñar habilidades de afrontamiento y manejo emocional previene la cronificación de la ansiedad en la infancia."
+    }
+  ]
+}

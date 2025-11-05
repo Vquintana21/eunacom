@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.113",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Apneas",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define la apnea en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pausa respiratoria mayor de 5 segundos con bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pausa respiratoria mayor de 10 segundos con cianosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pausa respiratoria mayor o igual a 20 segundos o más corta si se acompaña de bradicardia o desaturación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pausa respiratoria menor de 10 segundos sin síntomas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Interrupción respiratoria durante el llanto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La apnea neonatal se define como una pausa respiratoria ≥20 segundos o menor si se acompaña de bradicardia o desaturación."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de apnea en el prematuro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apnea obstructiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apnea mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea secundaria a sepsis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea por reflujo gastroesofágico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La apnea mixta, con componente central y obstructivo, es la más frecuente en prematuros."
+    },
+    {
+      "numero": "3",
+      "texto": "¿A qué se debe principalmente la apnea central del prematuro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstrucción de vías aéreas superiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmadurez del centro respiratorio en el tronco encefálico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoespasmo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La apnea central se debe a inmadurez del control respiratorio en el tallo cerebral."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de apnea se caracteriza por esfuerzo respiratorio sin flujo de aire?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apnea central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea obstructiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apnea mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea refleja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea postictal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La apnea obstructiva se produce por colapso de vías aéreas pese al esfuerzo respiratorio."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué fármaco se utiliza habitualmente para prevenir apneas en prematuros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diazepam"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cafeína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Teofilina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Furosemida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cafeína estimula el centro respiratorio y es el tratamiento de elección en apneas del prematuro."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico suele acompañar las apneas significativas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia y desaturación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la temperatura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sudoración profusa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las apneas significativas se acompañan de bradicardia y desaturación por hipoxia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué condición debe descartarse ante apneas recurrentes en un recién nacido de término?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia fisiológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección neonatal (sepsis)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterocolitis necrosante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoalbuminemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia fisiológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las apneas en neonatos de término son patológicas y suelen asociarse a sepsis o trastornos neurológicos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿A qué edad gestacional suelen desaparecer las apneas del prematuro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A las 32 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "A las 34 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "A las 36–37 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "A las 40 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 3 meses postnatales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Generalmente desaparecen hacia las 36–37 semanas de edad gestacional corregida."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué examen complementario puede ayudar a diferenciar tipos de apnea neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Polisomnografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulsioximetría"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La polisomnografía permite distinguir apneas centrales, obstructivas y mixtas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes no es una causa secundaria de apnea neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia intracraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmadurez fisiológica del centro respiratorio"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La inmadurez fisiológica es causa primaria, no secundaria, de apnea neonatal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes es un signo de apnea central en un monitor respiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esfuerzo torácico con cese de flujo aéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia simultánea de flujo y esfuerzo respiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desincronía entre tórax y abdomen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Movimientos respiratorios irregulares con taquipnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperventilación seguida de pausa corta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la apnea central se interrumpe tanto el flujo como el esfuerzo respiratorio."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la primera medida ante un episodio de apnea en un prematuro hospitalizado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar cafeína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimular suavemente y evaluar respiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar ventilación mecánica inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender la alimentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar adrenalina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El primer paso es estimular táctilmente y verificar si reinicia la respiración espontánea."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué valor de saturación de oxígeno define una desaturación significativa durante apnea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<95%"
+        },
+        {
+          "opcion": "B",
+          "texto": "<92%"
+        },
+        {
+          "opcion": "C",
+          "texto": "<90%"
+        },
+        {
+          "opcion": "D",
+          "texto": "<88%"
+        },
+        {
+          "opcion": "E",
+          "texto": "<85%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una saturación por debajo de 88% se considera clínicamente significativa en apneas neonatales."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro respiratorio se afecta primero durante un episodio de apnea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frecuencia cardíaca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenación arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejos pupilares"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoxemia aparece antes que la bradicardia por disminución de ventilación alveolar."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la conducta frente a una apnea prolongada no reversible con estimulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Observar y registrar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar oxígeno suplementario sin asistencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar ventilación con bolsa y máscara"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar líquidos intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocar en decúbito lateral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe iniciarse ventilación con bolsa y máscara si no hay recuperación espontánea."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué factor ambiental favorece la aparición de apnea en prematuros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ruido intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambiente cálido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iluminación brillante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta humedad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipotermia deprime el centro respiratorio y favorece las pausas apneicas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse ante apnea con rigidez y movimientos oculares anormales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis epiléptica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Laringomalacia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las crisis epilépticas pueden simular apneas con alteraciones motoras oculares y tónicas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué complicación puede presentarse por apneas repetidas en el prematuro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso del desarrollo neurológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cardiomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las apneas recurrentes con hipoxia se asocian a alteraciones del desarrollo neurológico a largo plazo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes parámetros se utiliza para monitorizar apneas en UCIN?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial invasiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Capnografía y oximetría continua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temperatura timpánica"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH sanguíneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frecuencia cardíaca promedio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La capnografía y oximetría continua permiten detectar pausas respiratorias y desaturaciones."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué pronóstico tienen las apneas del prematuro aisladas y sin causa secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evolucionan a muerte súbita infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Persisten hasta la adolescencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se resuelven espontáneamente con la maduración neurológica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Requieren traqueostomía permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Causan secuelas respiratorias crónicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las apneas del prematuro suelen resolverse espontáneamente al madurar el control respiratorio central."
+    }
+  ]
+}

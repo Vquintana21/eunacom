@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.5.010",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.010  - Parto normal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de parto normal o eutócico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parto sin complicaciones, con feto en presentación cefálica y evolución espontánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto con uso de fórceps"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto por cesárea programada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parto prematuro sin asistencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto múltiple espontáneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El parto eutócico es aquel que ocurre sin complicaciones, con evolución espontánea y feto en presentación cefálica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la duración normal del trabajo de parto en una primípara?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta 6 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta 12 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hasta 18 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hasta 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta 30 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En primíparas, el trabajo de parto puede durar hasta 18 horas sin considerarse patológico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuántas son las fases del trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuatro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cinco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Seis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de parto se divide en tres fases: dilatación, expulsivo y alumbramiento."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué caracteriza la fase activa del trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dilatación de 0 a 3 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación de 4 a 10 cm con contracciones regulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Expulsión del feto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Expulsión de la placenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inicio del borramiento cervical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fase activa comienza con una dilatación de 4 cm y contracciones uterinas regulares e intensas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el diámetro fetal que pasa por el canal del parto en la presentación occipitopúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suboccipitobregmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Occipitofrontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mentovertical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Submentobregmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bitemporal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la presentación occipitopúbica, el diámetro que atraviesa el canal es el suboccipitobregmático."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el orden correcto de los movimientos cardinales del parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Descenso, flexión, rotación interna, extensión, rotación externa, expulsión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flexión, descenso, rotación externa, extensión, expulsión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotación interna, descenso, flexión, expulsión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Extensión, descenso, flexión, rotación interna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Descenso, extensión, flexión, rotación externa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los movimientos cardinales son: descenso, flexión, rotación interna, extensión, rotación externa y expulsión."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué evento marca el inicio del periodo expulsivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracciones regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ruptura de membranas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso de la presentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Expulsión del feto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El periodo expulsivo comienza con la dilatación completa del cuello uterino (10 cm)."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué duración es normal para el periodo expulsivo en una multípara?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta 15 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta 30 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hasta 60 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hasta 90 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta 120 minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo expulsivo en multíparas no debería durar más de 60 minutos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué maniobra se utiliza para proteger el periné durante el expulsivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de Kristeller"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maniobra de Ritgen modificada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Leopold"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maniobra de McRoberts"
+        },
+        {
+          "opcion": "E",
+          "texto": "Maniobra de Pinard"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La maniobra de Ritgen modificada controla la salida de la cabeza fetal, evitando desgarros perineales."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el signo clínico que indica el desprendimiento placentario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salida de sangre oscura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Descenso del fondo uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación del fondo uterino y alargamiento del cordón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotura de membranas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La elevación del fondo uterino y el alargamiento del cordón umbilical indican desprendimiento placentario."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la duración normal del alumbramiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 5 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta 10 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hasta 30 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hasta 45 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta 60 minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alumbramiento normalmente ocurre dentro de los primeros 30 minutos posteriores al nacimiento."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de contracciones predominan durante el trabajo de parto activo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Irregulares e indoloras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Regulares, intensas y dolorosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espasmódicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aisladas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotónicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la fase activa, las contracciones son regulares, intensas y dolorosas, contribuyendo a la dilatación cervical."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la posición fetal más favorable para el parto normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Occipito posterior derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mento anterior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Occipito anterior izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transversa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Podálica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La posición occipito anterior izquierda es la más frecuente y favorable para el parto normal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué estructura se evalúa mediante la escala de Bishop?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Condición fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Madurez cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tono uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Integridad de membranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estado placentario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El puntaje de Bishop evalúa la madurez cervical para determinar la probabilidad de parto vaginal exitoso."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la frecuencia normal de contracciones en el periodo activo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 cada 10 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 cada 10 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "3-5 cada 10 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "6-8 cada 10 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 8 cada 10 minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante la fase activa del trabajo de parto, se esperan entre 3 y 5 contracciones cada 10 minutos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué signo indica el inicio del trabajo de parto verdadero?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracciones irregulares y no dolorosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expulsión del tapón mucoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contracciones regulares y dolorosas con modificación cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ruptura de membranas sin contracciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de flujo vaginal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de parto verdadero se caracteriza por contracciones regulares y dolorosas con borramiento y dilatación cervical progresiva."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida reduce la incidencia de desgarros perineales durante el parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Episiotomía sistemática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresas frías"
+        },
+        {
+          "opcion": "C",
+          "texto": "Protección manual del periné"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de oxitocina precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Posición supina prolongada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La protección manual del periné y el control del expulsivo disminuyen los desgarros perineales."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué componente define el mecanismo del parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelvis materna, feto y contracciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta, cordón umbilical y líquido amniótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Feto, líquido amniótico y membranas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuello uterino y vagina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Feto y periné"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El mecanismo del parto depende de la interacción entre pelvis ósea, feto y fuerzas contráctiles uterinas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la conducta inmediata tras el nacimiento del recién nacido en un parto normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Separación inmediata de la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración de vías aéreas y clampaje del cordón a los 30-60 segundos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Baño del recién nacido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación de Apgar a los 10 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tras el nacimiento, se aspiran vías aéreas si es necesario y se pinza el cordón a los 30-60 segundos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro se evalúa mediante el índice de Apgar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso y talla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejos, color, frecuencia cardíaca, respiración y tono muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Madurez pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de glucosa neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de alumbramiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Apgar evalúa vitalidad neonatal mediante cinco parámetros: frecuencia cardíaca, respiración, tono, reflejos y color."
+    }
+  ]
+}

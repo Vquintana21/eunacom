@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.016",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la influenza?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Virus de la influenza tipo A, B o C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parainfluenza tipo 3"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La influenza es causada por virus de la influenza tipo A, B o C, pertenecientes a la familia Orthomyxoviridae."
+    },
+    {
+      "numero": "2",
+      "texto": "El genoma del virus de la influenza está compuesto por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ADN monocatenario"
+        },
+        {
+          "opcion": "B",
+          "texto": "ADN bicatenario"
+        },
+        {
+          "opcion": "C",
+          "texto": "ARN monocatenario de sentido positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "ARN monocatenario de sentido negativo segmentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "ARN bicatenario no segmentado"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El virus de la influenza tiene un genoma de ARN monocatenario de sentido negativo segmentado, lo que facilita la recombinación genética."
+    },
+    {
+      "numero": "3",
+      "texto": "Las proteínas hemaglutinina (HA) y neuraminidasa (NA) del virus de influenza son importantes porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Son responsables de la replicación viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permiten la entrada y liberación del virus de la célula huésped"
+        },
+        {
+          "opcion": "C",
+          "texto": "Producen la respuesta inflamatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutralizan los anticuerpos del huésped"
+        },
+        {
+          "opcion": "E",
+          "texto": "Facilitan la síntesis proteica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemaglutinina media la unión a receptores celulares y la neuraminidasa facilita la liberación del virus de las células infectadas."
+    },
+    {
+      "numero": "4",
+      "texto": "El cambio antigénico menor (antigenic drift) en el virus de la influenza se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recombinación genética entre virus animales y humanos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mutaciones puntuales en genes de HA y NA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duplicación de segmentos genómicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambio de especie huésped"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coinfección con otros virus respiratorios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drift antigénico se debe a mutaciones puntuales que generan variaciones menores en HA y NA, responsables de epidemias anuales."
+    },
+    {
+      "numero": "5",
+      "texto": "El cambio antigénico mayor (antigenic shift) ocurre cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se acumulan mutaciones puntuales en el genoma viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "El virus de influenza A intercambia segmentos genéticos con cepas animales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se pierde un segmento de ARN viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se altera la respuesta inmune del huésped"
+        },
+        {
+          "opcion": "E",
+          "texto": "El virus sufre una mutación silenciosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shift antigénico ocurre en influenza A por reordenamiento genético entre cepas humanas y animales, generando nuevas pandemias."
+    },
+    {
+      "numero": "6",
+      "texto": "El período de incubación promedio de la influenza es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 a 2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 a 5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 a 7 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "7 a 10 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 a 14 días"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El período de incubación de la influenza es corto, generalmente de 1 a 2 días antes del inicio de los síntomas."
+    },
+    {
+      "numero": "7",
+      "texto": "La principal vía de transmisión de la influenza es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto con sangre infectada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhalación de gotitas respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contacto sexual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transmisión vectorial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición a agua contaminada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La influenza se transmite por inhalación de gotitas respiratorias expulsadas al toser, estornudar o hablar."
+    },
+    {
+      "numero": "8",
+      "texto": "La complicación bacteriana más frecuente de la influenza es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía bacteriana secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sinusitis crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La neumonía bacteriana secundaria, causada por Streptococcus pneumoniae o Staphylococcus aureus, es la complicación más frecuente."
+    },
+    {
+      "numero": "9",
+      "texto": "El diagnóstico definitivo de influenza se confirma mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cultivo bacteriano de esputo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Serología IgM"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR o test rápido de antígenos virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocultivo positivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico se confirma mediante detección de antígenos o PCR para ARN del virus en secreciones respiratorias."
+    },
+    {
+      "numero": "10",
+      "texto": "El antiviral de elección para tratar la influenza es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aciclovir"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ribavirina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oseltamivir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amantadina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valganciclovir"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El oseltamivir, inhibidor de la neuraminidasa, es el fármaco de elección para influenza A y B."
+    },
+    {
+      "numero": "11",
+      "texto": "El uso del oseltamivir es más eficaz cuando se administra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Después de 5 días del inicio de los síntomas"
+        },
+        {
+          "opcion": "B",
+          "texto": "En el primer año de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dentro de las primeras 48 horas de síntomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo como profilaxis postexposición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante la convalecencia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento antiviral es más eficaz si se inicia dentro de las primeras 48 horas desde el inicio de los síntomas."
+    },
+    {
+      "numero": "12",
+      "texto": "La vacuna antigripal se basa principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus vivos atenuados o inactivados"
+        },
+        {
+          "opcion": "B",
+          "texto": "ADN viral recombinante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proteínas de la cápside purificadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Virus mutantes sin envoltura"
+        },
+        {
+          "opcion": "E",
+          "texto": "ARN monocatenario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas contra la influenza pueden ser de virus inactivados (inyectables) o vivos atenuados (intranasales)."
+    },
+    {
+      "numero": "13",
+      "texto": "El síndrome de Reye se asocia al uso de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paracetamol en niños"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspirina en infecciones virales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oseltamivir en adultos mayores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos macrólidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de aspirina durante infecciones virales como influenza o varicela puede causar el síndrome de Reye en niños."
+    },
+    {
+      "numero": "14",
+      "texto": "El grupo con mayor riesgo de complicaciones graves por influenza incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adolescentes sanos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adultos jóvenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazadas y adultos mayores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hombres entre 20 y 40 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trabajadores de salud"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las embarazadas, adultos mayores y pacientes con comorbilidades tienen mayor riesgo de complicaciones por influenza."
+    },
+    {
+      "numero": "15",
+      "texto": "El virus de influenza A se clasifica según:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La estructura del genoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Los tipos de antígenos H y N"
+        },
+        {
+          "opcion": "C",
+          "texto": "El tamaño de la partícula viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "La patogenicidad clínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "La secuencia de ARN"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El virus de influenza A se clasifica por sus antígenos de superficie: hemaglutinina (H) y neuraminidasa (N)."
+    },
+    {
+      "numero": "16",
+      "texto": "La principal medida preventiva para controlar brotes de influenza es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aislamiento respiratorio y vacunación anual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementación vitamínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desinfección ambiental intensiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso continuo de antivirales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacunación anual y el aislamiento respiratorio son las medidas más efectivas para prevenir brotes."
+    },
+    {
+      "numero": "17",
+      "texto": "Una característica del virus influenza tipo B es que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta tanto a humanos como a animales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Causa pandemias globales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo afecta a humanos y produce epidemias locales"
+        },
+        {
+          "opcion": "D",
+          "texto": "No sufre mutaciones antigénicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carece de envoltura viral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El virus influenza tipo B afecta exclusivamente a humanos y causa epidemias estacionales, no pandemias."
+    },
+    {
+      "numero": "18",
+      "texto": "Entre las complicaciones no respiratorias de la influenza se incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis y encefalitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastroenteritis hemorrágica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colecistitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomerulonefritis postinfecciosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La influenza puede causar complicaciones no respiratorias como miocarditis, encefalitis o síndrome de Guillain-Barré."
+    },
+    {
+      "numero": "19",
+      "texto": "El mecanismo de acción del oseltamivir es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibir la síntesis de ARN viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloquear la entrada del virus a la célula"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibir la neuraminidasa viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alterar la envoltura lipídica del virus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloquear la hemaglutinina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El oseltamivir inhibe la neuraminidasa viral, impidiendo la liberación de viriones de las células infectadas."
+    },
+    {
+      "numero": "20",
+      "texto": "La influenza pandémica de 2009 fue causada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza A H3N2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Influenza A H5N1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza A H1N1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza B Yamagata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Influenza C"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pandemia de 2009 fue causada por el virus influenza A (H1N1) de origen porcino con recombinación genética."
+    }
+  ]
+}

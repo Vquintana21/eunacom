@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.097",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Ojo rojo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de ojo rojo en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glaucoma congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conjuntivitis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uveítis anterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Traumatismo ocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Queratitis herpética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conjuntivitis infecciosa, especialmente viral o bacteriana, es la causa más común de ojo rojo en pediatría."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica clínica orienta a conjuntivitis viral en un niño con ojo rojo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción purulenta espesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prurito ocular intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción acuosa y adenopatía preauricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia y dolor intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema palpebral marcado unilateral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La conjuntivitis viral se caracteriza por secreción acuosa, adenopatía preauricular y contagiosidad alta."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes causas de ojo rojo requiere derivación oftalmológica urgente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conjuntivitis alérgica leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia subconjuntival aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uveítis anterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ojo seco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Blefaritis crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La uveítis anterior puede amenazar la visión y requiere tratamiento especializado inmediato."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo clínico es más característico de queratitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción purulenta espesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fotofobia y dolor ocular intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito ocular bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatía preauricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema palpebral leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La queratitis cursa con dolor intenso, fotofobia y alteración corneal que amenaza la visión."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué signo clínico distingue una conjuntivitis de una uveítis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperemia ciliar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción purulenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito ocular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatía preauricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lagrimeo leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperemia ciliar o perilímbica es característica de uveítis, no de conjuntivitis."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo en el ojo rojo infantil sugiere glaucoma congénito?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción purulenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fotofobia, lagrimeo y blefaroespasmo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito ocular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor ocular leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de pseudomembranas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El glaucoma congénito se manifiesta con triada de fotofobia, lagrimeo y blefaroespasmo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de secreción orienta a conjuntivitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Serosa transparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mucosa filante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Purulenta espesa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acuosa leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sanguinolenta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La secreción purulenta espesa y amarillenta es característica de la conjuntivitis bacteriana."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué característica del ojo rojo sugiere etiología alérgica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor ocular y fotofobia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción purulenta y visión borrosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito intenso y lagrimeo claro bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperemia ciliar y visión reducida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlcera corneal central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prurito ocular intenso con lagrimeo claro bilateral es típico de la conjuntivitis alérgica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la medida inicial más importante en el manejo de ojo rojo sin alarma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos sistémicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresas tibias y aseo ocular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides tópicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Midriáticos tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antivirales orales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial incluye higiene ocular y compresas tibias, reservando fármacos según etiología."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el principal agente viral de conjuntivitis aguda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Herpes simplex"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citomegalovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Virus del sarampión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus sincicial respiratorio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenovirus es el agente más frecuente de conjuntivitis viral en edad pediátrica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es un signo de alarma en un niño con ojo rojo que requiere derivación urgente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción leve bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prurito ocular aislado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor ocular intenso y disminución visual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lagrimeo matinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ojo seco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Dolor severo y disminución visual sugieren patología corneal o uveal que requiere evaluación urgente."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo sugiere una queratitis herpética en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito ocular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera dendrítica corneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia subconjuntival"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secreción purulenta espesa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenopatía submandibular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La queratitis herpética presenta úlcera dendrítica corneal visible con fluoresceína."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica distingue la hemorragia subconjuntival del ojo rojo inflamatorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor ocular intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enrojecimiento difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mancha roja bien delimitada sin dolor ni secreción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secreción purulenta abundante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fotofobia marcada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemorragia subconjuntival se presenta como una mancha roja indolora y autolimitada."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo orienta a una uveítis anterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción purulenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor ocular leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fotofobia y miosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prurito ocular bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenopatía preauricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La uveítis anterior se manifiesta con fotofobia, miosis y dolor ocular profundo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué examen es esencial en el diagnóstico diferencial del ojo rojo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo rojo pupilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción con fluoresceína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oftalmoscopía indirecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Schirmer"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tinción con fluoresceína permite detectar úlceras corneales o queratitis infecciosa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo clínico sugiere cuerpo extraño ocular como causa de ojo rojo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor ocular con sensación de cuerpo extraño y lagrimeo unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción purulenta bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperemia difusa sin dolor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cuerpo extraño produce dolor, lagrimeo y sensación de arenilla unilateral."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la conducta más adecuada frente a ojo rojo con secreción purulenta en ambos ojos y sin dolor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de corticoides tópicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibiótico tópico y medidas de higiene"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antivirales orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derivación urgente a oftalmología"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antihistamínicos tópicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conjuntivitis bacteriana se trata con antibióticos tópicos y limpieza ocular frecuente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué característica diferencia una conjuntivitis bacteriana de una viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor ocular intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción purulenta y adherencia palpebral matinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito intenso y lagrimeo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de folículos tarsales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La secreción purulenta con párpados pegados es típica de conjuntivitis bacteriana."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo ocular sugiere una complicación grave del ojo rojo infeccioso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lagrimeo leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fotofobia intensa y disminución de agudeza visual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enrojecimiento conjuntival difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatía preauricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sensación de cuerpo extraño"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Fotofobia y disminución visual pueden indicar afectación corneal o uveal que requiere derivación urgente."
+    },
+    {
+      "numero": "20",
+      "texto": "En un niño con ojo rojo y edema palpebral unilateral, ¿qué diagnóstico se debe descartar primero?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conjuntivitis alérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Celulitis preseptal u orbitaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Blefaritis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia subconjuntival"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuerpo extraño ocular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema palpebral unilateral con fiebre o dolor ocular debe hacer sospechar celulitis preseptal u orbitaria."
+    }
+  ]
+}

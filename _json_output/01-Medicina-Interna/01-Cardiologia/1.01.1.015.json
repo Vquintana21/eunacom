@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.015",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por hipertensión arterial esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión causada por enfermedad renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión secundaria a endocrinopatías"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión sin causa identificable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión inducida por medicamentos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión gestacional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertensión arterial esencial o primaria no tiene una causa identificable y representa aproximadamente el 90-95% de los casos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el valor umbral diagnóstico de hipertensión arterial según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PAS ≥120 mmHg o PAD ≥80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PAS ≥130 mmHg o PAD ≥85 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "PAS ≥140 mmHg o PAD ≥90 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PAS ≥150 mmHg o PAD ≥95 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "PAS ≥160 mmHg o PAD ≥100 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico de hipertensión arterial se establece cuando la presión arterial es ≥140/90 mmHg en mediciones repetidas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes factores contribuye al desarrollo de hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperaldosteronismo primario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de resistencia vascular periférica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal congénita"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipertensión esencial, el aumento de la resistencia vascular periférica es un mecanismo fisiopatológico clave."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué componente del gasto cardíaco suele estar aumentado en etapas iniciales de la hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precarga"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contractilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Volumen sistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasto cardíaco total"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "En etapas tempranas puede haber aumento del gasto cardíaco total antes de establecerse el incremento sostenido de la resistencia periférica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes no es un factor de riesgo para hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de AINES crónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo congénito"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El hipotiroidismo congénito no se asocia típicamente a hipertensión esencial, a diferencia de los otros factores."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el órgano diana más frecuentemente afectado por la hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hígado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El riñón es uno de los principales órganos diana afectados por la hipertensión arterial prolongada, generando nefroesclerosis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué lesión histológica renal es típica de la hipertensión esencial crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis proliferativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis fibrinoide"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefroesclerosis hialina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cilindros hemáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depósitos inmunes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La nefroesclerosis hialina es la lesión característica producida por hipertensión crónica de larga evolución."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo en el fondo de ojo corresponde a hipertensión esencial grado I?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragias retinianas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudados duros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del reflejo arteriolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema de papila"
+        },
+        {
+          "opcion": "E",
+          "texto": "Algodonosos difusos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el grado I se observa aumento del reflejo arteriolar por vasoconstricción, sin hemorragias ni exudados."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estilo de vida se recomienda modificar inicialmente en la hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción de ingesta salina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender actividad física"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar consumo proteico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar frutas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar café"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La reducción del consumo de sal es una de las principales medidas no farmacológicas para controlar la presión arterial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué grupo farmacológico se utiliza frecuentemente como primera línea en hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcioantagonistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos tiazídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "ARA II"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los diuréticos tiazídicos son recomendados como tratamiento inicial por su eficacia y bajo costo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes es un signo clínico de daño cardíaco por hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia ventricular izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatación auricular derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertrofia ventricular izquierda es una respuesta adaptativa al aumento crónico de la poscarga en hipertensión esencial."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué patrón electrocardiográfico puede observarse en hipertensión esencial avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eje derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Criterios de hipertrofia ventricular izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV de primer grado"
+        },
+        {
+          "opcion": "E",
+          "texto": "QT corto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertrofia ventricular izquierda genera voltajes aumentados y alteraciones secundarias del ST-T en el ECG."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el valor de presión arterial óptima según las guías europeas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<120/80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "<130/85 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "<140/90 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "<150/95 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "<160/100 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se considera óptima una presión arterial menor de 120/80 mmHg en adultos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué complicación cerebral es más frecuente en pacientes hipertensos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia intracerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis venosa cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Migraña"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuritis óptica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión sostenida es un factor de riesgo principal para hemorragia intracerebral y accidente cerebrovascular isquémico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hormona tiene un papel central en la regulación de la presión arterial a largo plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Renina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcitonina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La renina, a través del sistema renina-angiotensina-aldosterona, regula el volumen extracelular y la presión arterial."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida dietética forma parte del plan DASH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir frutas y verduras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar ingesta de grasas saturadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir sodio y aumentar potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar proteínas animales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminar carbohidratos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El plan DASH recomienda reducir el sodio y aumentar el consumo de frutas, verduras y potasio para disminuir la presión arterial."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la causa más común de hipertensión resistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falta de adherencia al tratamiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis de arteria renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperaldosteronismo primario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La falta de adherencia al tratamiento es la causa más frecuente de hipertensión resistente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro del ecocardiograma evalúa la repercusión cardíaca de la hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracción de eyección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Volumen diastólico final"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espesor del septum interventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diámetro auricular derecho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Velocidad del flujo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento del espesor del septum interventricular indica hipertrofia ventricular izquierda secundaria a hipertensión."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué efecto adverso puede presentarse con el uso de diuréticos tiazídicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroxinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperfosfatemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipernatremia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los diuréticos tiazídicos pueden causar hiperglucemia, hiperuricemia e hipokalemia como efectos secundarios."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué porcentaje aproximado de la hipertensión es esencial (primaria)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50%"
+        },
+        {
+          "opcion": "B",
+          "texto": "60%"
+        },
+        {
+          "opcion": "C",
+          "texto": "75%"
+        },
+        {
+          "opcion": "D",
+          "texto": "90-95%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Entre el 90 y 95% de los casos de hipertensión son esenciales, sin causa secundaria identificable."
+    }
+  ]
+}

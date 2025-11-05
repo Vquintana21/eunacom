@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.013",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principio de las pruebas de aglutinación para diagnóstico de meningitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción antígeno-anticuerpo visible como precipitado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lisis de bacterias por complemento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neutralización de toxinas bacterianas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Activación de linfocitos T específicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fijación de anticuerpos en membranas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las pruebas de aglutinación se basan en la unión específica entre antígeno y anticuerpo formando agregados visibles."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué antígenos se detectan en las pruebas de aglutinación del LCR en meningitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas virales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antígenos capsulares polisacáridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enzimas bacterianas intracelulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos nucleicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exotoxinas bacterianas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pruebas detectan antígenos capsulares polisacáridos de bacterias como Neisseria, Haemophilus o Streptococcus."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué método de aglutinación se utiliza comúnmente para detectar antígenos bacterianos en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aglutinación en látex"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunofluorescencia directa"
+        },
+        {
+          "opcion": "C",
+          "texto": "ELISA indirecto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR en tiempo real"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aglutinación en látex usa partículas recubiertas con anticuerpos que se aglutinan al unirse a antígenos bacterianos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué agente etiológico de meningitis puede detectarse con prueba de aglutinación en látex?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Virus de Epstein-Barr"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cryptococcus neoformans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Listeria monocytogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Neisseria meningitidis se identifica mediante detección de sus antígenos capsulares en LCR con aglutinación en látex."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué otro agente bacteriano de meningitis puede detectarse con aglutinación en látex además de Neisseria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "B",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clostridium tetani"
+        },
+        {
+          "opcion": "D",
+          "texto": "Borrelia burgdorferi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Haemophilus influenzae tipo b produce un antígeno capsular que puede detectarse por aglutinación en látex."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de muestra se utiliza habitualmente para realizar la prueba de aglutinación en meningitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido cefalorraquídeo (LCR)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangre total anticoagulada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hisopado faríngeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LCR es la muestra más usada, pues contiene los antígenos bacterianos liberados en meningitis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la principal ventaja de las pruebas de aglutinación en látex para meningitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Identifican microorganismos no cultivables rápidamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tienen mayor sensibilidad que la PCR"
+        },
+        {
+          "opcion": "C",
+          "texto": "Son específicas solo para virus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permiten determinar resistencia antimicrobiana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requieren incubación prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Permiten una detección rápida incluso cuando los microorganismos no crecen en cultivo por tratamiento antibiótico previo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es una limitación de la prueba de aglutinación en látex?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo detecta virus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falsos positivos por reacciones cruzadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "No se puede usar en LCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Requiere equipos automatizados complejos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tarda más de 48 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pueden ocurrir falsos positivos debido a reacciones cruzadas con otros polisacáridos bacterianos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué agente de meningitis neonatal puede detectarse mediante aglutinación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus agalactiae (grupo B)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli O157:H7"
+        },
+        {
+          "opcion": "C",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Staphylococcus epidermidis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aglutinación en látex puede detectar antígenos capsulares del Streptococcus agalactiae en meningitis neonatal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué resultado indica una prueba de aglutinación positiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de turbidez en la mezcla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Formación visible de grumos o aglutinados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración azul homogénea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Precipitado cristalino en el fondo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desaparición completa del antígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aglutinación positiva se observa como formación visible de grumos en la mezcla de látex y muestra."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué agente etiológico de meningitis se detecta con mayor frecuencia por aglutinación en pacientes pediátricos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria meningitidis serogrupo A"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Haemophilus influenzae tipo b es una causa frecuente de meningitis infantil detectable mediante aglutinación."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué acción debe realizarse antes de aplicar la prueba de aglutinación en LCR turbio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Filtrar la muestra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Centrifugar y usar el sobrenadante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diluir con agua destilada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Congelar la muestra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agregar detergente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LCR se centrifuga y se utiliza el sobrenadante para evitar interferencia por detritos celulares."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué microorganismo capsulado puede dar resultado positivo en prueba de aglutinación del LCR en meningitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bartonella henselae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus pneumoniae tiene un polisacárido capsular que se detecta mediante aglutinación en látex."
+    },
+    {
+      "numero": "14",
+      "texto": "¿En qué situación clínica puede ser útil la prueba de aglutinación aunque el cultivo sea negativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paciente sin síntomas meníngeos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muestra tomada tras inicio de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Paciente con meningitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Caso de encefalitis autoinmune"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocultivo contaminado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba es útil cuando los antibióticos previos esterilizan el LCR pero persisten los antígenos detectables."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué paso es fundamental para evitar falsos negativos en las pruebas de aglutinación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calentar el reactivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Homogeneizar suavemente la mezcla antes de leer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar suero en lugar de LCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leer el resultado después de 30 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diluir siempre la muestra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una mezcla homogénea y una lectura inmediata permiten observar la aglutinación sin errores de interpretación."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de prueba de aglutinación es más rápida y se realiza directamente sobre portaobjetos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aglutinación en tubo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aglutinación pasiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aglutinación en látex"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aglutinación cruzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación por Coombs"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aglutinación en látex es rápida y se realiza directamente sobre portaobjetos con resultados en minutos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué limitación tiene la prueba de aglutinación en meningitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No detecta antígenos virales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Requiere suero en lugar de LCR"
+        },
+        {
+          "opcion": "C",
+          "texto": "Produce falsos negativos por fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Demora excesiva en resultados"
+        },
+        {
+          "opcion": "E",
+          "texto": "No puede diferenciar virus de bacterias"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aglutinación detecta antígenos bacterianos capsulares, no antígenos virales, por lo que no es útil en meningitis viral."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es una ventaja diagnóstica de la aglutinación en comparación con el Gram en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor especificidad ante bacterias encapsuladas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detecta virus respiratorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permite visualizar bacilos ácido-alcohol resistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "No requiere muestra líquida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantifica la carga bacteriana"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aglutinación es más sensible que el Gram en bacterias encapsuladas y útil incluso con baja concentración bacteriana."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué resultado debe confirmarse con cultivo u otra técnica complementaria tras una aglutinación positiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resultado negativo de control"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toda aglutinación positiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo resultados virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resultados con turbidez baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Casos sin síntomas clínicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Toda aglutinación positiva debe confirmarse con cultivo o PCR para establecer diagnóstico definitivo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué microorganismo puede dar una reacción cruzada en la prueba de aglutinación para Streptococcus pneumoniae?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus parainfluenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neisseria lactamica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus viridans puede compartir antígenos polisacáridos similares, causando reacciones cruzadas en la prueba."
+    }
+  ]
+}

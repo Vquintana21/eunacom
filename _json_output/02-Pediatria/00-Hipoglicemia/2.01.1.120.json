@@ -1,0 +1,600 @@
+{
+  "codigo": "2.01.1.120",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hipoglicemia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el valor de glicemia que define hipoglicemia neonatal en las primeras horas de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<50 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<45 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<40 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<30 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Se considera hipoglicemia neonatal cuando la glicemia es menor de 40 mg/dL en las primeras horas de vida."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué grupo de recién nacidos tiene mayor riesgo de hipoglicemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacidos de término adecuados para la edad gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hijos de madres diabéticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recién nacidos postérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactantes con lactancia exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recién nacidos con ictericia fisiológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los hijos de madres diabéticas presentan hiperinsulinismo fetal, predisponiendo a hipoglicemia postnatal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más frecuente de hipoglicemia en el período neonatal temprano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsulinismo transitorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de hormona del crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sepsis fúngica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hiperinsulinismo transitorio, especialmente en hijos de madres diabéticas o macrosómicos, es la causa más frecuente."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué síntoma es característico de hipoglicemia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactancia vigorosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Irritabilidad y temblores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoactividad con llanto agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia y apnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambas B y D"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La hipoglicemia neonatal puede manifestarse con irritabilidad, temblores, hipotermia o apnea."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de las siguientes condiciones NO se asocia a hipoglicemia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperbilirrubinemia fisiológica"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La hiperbilirrubinemia fisiológica no se asocia a hipoglicemia neonatal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la primera medida terapéutica ante hipoglicemia leve en un recién nacido asintomático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infusión de glucosa al 10% IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender alimentación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar bolo de glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar alimentación precoz oral o por sonda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dar insulina subcutánea"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La alimentación precoz es el primer paso en hipoglicemias leves asintomáticas para elevar la glicemia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo en laboratorio apoya el diagnóstico de hiperinsulinismo congénito?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina suprimida durante hipoglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetonemia elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina inapropiadamente elevada con cuerpos cetónicos bajos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácidos grasos libres altos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hiperinsulinismo se caracteriza por insulina elevada y cuerpos cetónicos bajos durante la hipoglicemia."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hormona tiene un rol fundamental en la regulación de la glicemia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hormona del crecimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El control glucémico neonatal depende del equilibrio entre insulina, cortisol, GH y catecolaminas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué valor de glicemia se considera hipoglicemia en un lactante o niño mayor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<55 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<50 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<45 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<40 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En lactantes y niños mayores se define hipoglicemia cuando la glicemia es menor a 50 mg/dL."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué síntoma neurológico se asocia a hipoglicemia grave en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Somnolencia y convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mialgias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglicemia grave puede causar convulsiones o coma debido a la falta de glucosa cerebral."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hormona contrarreguladora se activa primero durante la hipoglicemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucagón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hormona del crecimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aldosterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El glucagón es la primera hormona contrarreguladora liberada, promoviendo la gluconeogénesis hepática."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué valor de glicemia requiere tratamiento inmediato con glucosa IV en neonatos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<45 mg/dL sintomático o <25 mg/dL asintomático"
+        },
+        {
+          "opcion": "B",
+          "texto": "<60 mg/dL en todos los casos"
+        },
+        {
+          "opcion": "C",
+          "texto": "<50 mg/dL tras la primera hora"
+        },
+        {
+          "opcion": "D",
+          "texto": "<70 mg/dL persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "<30 mg/dL con convulsiones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe tratarse con glucosa IV si hay síntomas o glicemias <25 mg/dL sin respuesta a alimentación."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la concentración de glucosa usada para la infusión continua en hipoglicemia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "15%"
+        },
+        {
+          "opcion": "D",
+          "texto": "20%"
+        },
+        {
+          "opcion": "E",
+          "texto": "25%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glucosa al 10% es la concentración estándar para infusión continua en neonatos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal fuente de energía alternativa al cerebro durante hipoglicemia prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetonas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aminoácidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos grasos libres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glicerol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los cuerpos cetónicos sustituyen parcialmente la glucosa como fuente energética cerebral durante hipoglicemia prolongada."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué signo clínico puede observarse en el ECG de un paciente con hipoglicemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolongación del QT"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inversión de onda T"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoglicemia severa puede causar prolongación del QT y predisponer a arritmias."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué causa de hipoglicemia neonatal se relaciona con restricción del crecimiento intrauterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperinsulinismo persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depleción de reservas de glucógeno hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de glucosa-6-fosfatasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto en oxidación de ácidos grasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopituitarismo congénito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los neonatos con RCIU tienen escasas reservas de glucógeno, predisponiendo a hipoglicemia temprana."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio es esencial para el diagnóstico de hipoglicemia persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetonemia y cortisol plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina, GH y ácidos grasos libres durante el episodio hipoglicémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcemia total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasometría arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las determinaciones hormonales y metabólicas durante el episodio permiten diferenciar causas de hipoglicemia persistente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué condición endocrina puede causar hipoglicemia en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipopituitarismo congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "D",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El déficit de GH o ACTH en el hipopituitarismo disminuye la gluconeogénesis y causa hipoglicemia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tratamiento se indica en hipoglicemia refractaria al manejo convencional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucagón intramuscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementación de magnesio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta hipocalórica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El glucagón IM o IV es útil en hipoglicemias refractarias para estimular la liberación de glucosa hepática."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal complicación neurológica de la hipoglicemia severa prolongada en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia postneonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrofia óptica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso del desarrollo neurocognitivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceguera cortical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoglicemia prolongada y severa puede causar daño cortical y retraso neurológico permanente."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué parámetro se debe monitorizar estrechamente durante el tratamiento con glucosa IV en neonatos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuresis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicemia capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temperatura corporal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glicemia capilar debe controlarse frecuentemente para ajustar la infusión y evitar hiperglicemia."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.2.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colección de sangre intracerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acumulación localizada de pus en el parénquima cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación meníngea sin pus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia subaracnoidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema cerebral difuso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso cerebral es una colección de pus encapsulada dentro del parénquima cerebral secundaria a infección."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la vía de diseminación más frecuente en la formación de abscesos cerebrales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traumatismo craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diseminación hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extensión directa desde infección contigua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inoculación quirúrgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección congénita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La extensión directa desde otitis media, sinusitis o mastoiditis es la vía más común de formación de abscesos cerebrales."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué microorganismo se asocia con abscesos cerebrales secundarios a otitis o mastoiditis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus viridans y otros anaerobios son comunes en abscesos cerebrales secundarios a infecciones de oído medio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la localización más frecuente de los abscesos cerebrales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulo occipital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lóbulo frontal y parietal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cerebelo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tronco encefálico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tálamo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los abscesos cerebrales se localizan con mayor frecuencia en los lóbulos frontal y parietal por su irrigación abundante."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué microorganismo predomina en abscesos cerebrales secundarios a endocarditis infecciosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspergillus fumigatus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los abscesos por diseminación hematógena en pacientes con endocarditis suelen ser por Streptococcus viridans."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes patógenos es más común en pacientes inmunocomprometidos con abscesos cerebrales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nocardia asteroides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Nocardia asteroides causa abscesos cerebrales especialmente en pacientes inmunocomprometidos o en tratamiento prolongado con corticoides."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tríada clínica clásica puede observarse en el absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre, cefalea y focalidad neurológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre, rigidez de nuca y exantema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea, náuseas y fotofobia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea, vómitos y diplopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre, tos y disnea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tríada de fiebre, cefalea y signos neurológicos focales es característica, aunque se presenta solo en una minoría de casos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el estudio diagnóstico de elección para confirmar absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada con contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de senos paranasales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angiografía cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía con contraste muestra la típica lesión hipodensa con realce anular característico de un absceso cerebral."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el aspecto típico del absceso cerebral en una imagen con contraste?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión homogénea sin captación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión hipodensa con realce anular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión hiperdensa con calcificación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realce difuso sin edema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión con patrón en vidrio esmerilado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso cerebral muestra una lesión hipodensa central con un anillo de realce periférico por la cápsula."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes NO es un síntoma común del absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Focalidad neurológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La disnea no es característica del absceso cerebral; los síntomas predominantes son neurológicos y sistémicos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué microorganismo es la causa más frecuente de abscesos cerebrales postraumáticos o posquirúrgicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nocardia asteroides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoplasma gondii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus es la causa más frecuente de abscesos cerebrales secundarios a trauma craneal o neurocirugía."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el principal mecanismo patogénico del absceso cerebral por Toxoplasma gondii?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingesta de carne contaminada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reactivación de infección latente en inmunodeprimidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhalación de esporas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transfusión sanguínea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En pacientes con VIH, Toxoplasma gondii causa abscesos cerebrales por reactivación de infección latente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes estudios está contraindicado ante sospecha de absceso cerebral con hipertensión intracraneal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "EEG"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La punción lumbar está contraindicada por riesgo de herniación cerebral ante hipertensión intracraneal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento inicial de elección para un absceso cerebral pequeño sin efecto de masa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspiración quirúrgica inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibioticoterapia empírica intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides aislados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Punción lumbar diagnóstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticonvulsivantes orales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los abscesos menores de 2.5 cm sin efecto de masa pueden tratarse con antibióticos intravenosos de amplio espectro."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué combinación antibiótica empírica se recomienda para el tratamiento inicial del absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona + metronidazol + vancomicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ampicilina + gentamicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefazolina + rifampicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino + clindamicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Penicilina G + azitromicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de ceftriaxona, metronidazol y vancomicina cubre cocos grampositivos, gramnegativos y anaerobios frecuentes."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la indicación principal para el drenaje quirúrgico de un absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abscesos múltiples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Absceso único mayor de 2.5 cm con efecto de masa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de síntomas neurológicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones pequeñas con diagnóstico incierto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre persistente sin foco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los abscesos mayores de 2.5 cm o con efecto de masa significativo requieren drenaje quirúrgico o aspiración."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo en neuroimagen ayuda a diferenciar absceso cerebral de tumor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema perilesional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión con realce anular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción de la difusión en resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificación central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia intratumoral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El absceso cerebral muestra restricción de la difusión en RM, lo que ayuda a diferenciarlo de tumores necrosados."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la complicación más temida del absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ruptura al ventrículo con ventriculitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalopatía metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidrocefalia normotensiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ruptura del absceso al sistema ventricular puede provocar ventriculitis grave y se asocia a alta mortalidad."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué fármaco se agrega para prevención secundaria de crisis epilépticas en absceso cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenitoína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Topiramato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valproato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gabapentina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fenitoína se utiliza para prevenir convulsiones en pacientes con absceso cerebral y lesiones corticales."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el pronóstico del absceso cerebral con tratamiento adecuado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta mortalidad superior al 80%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad inferior al 10% con secuelas neurológicas variables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuperación completa en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Remisión espontánea sin tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progresión inevitable a meningitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con diagnóstico precoz y tratamiento adecuado, la mortalidad es menor al 10%, aunque pueden persistir secuelas neurológicas."
+    }
+  ]
+}

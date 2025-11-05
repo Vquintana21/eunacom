@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.007",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.007 - Embarazo multiple.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal complicación obstétrica asociada a embarazos múltiples?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Preeclampsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los embarazos múltiples tienen un mayor riesgo de preeclampsia en comparación con gestaciones únicas."
+    },
+    {
+      "numero": "2",
+      "texto": "El embarazo gemelar monocorial se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada feto con placenta y saco amniótico independiente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una sola placenta compartida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dos placentas fusionadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa obligada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre embarazo monoamniótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el embarazo monocorial los gemelos comparten una única placenta."
+    },
+    {
+      "numero": "3",
+      "texto": "La complicación más característica de embarazos monocoriales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restricción de crecimiento fetal simétrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de transfusión feto-fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polihidramnios aislado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de transfusión feto-fetal es típico de los embarazos monocoriales."
+    },
+    {
+      "numero": "4",
+      "texto": "El diagnóstico de corionicidad debe realizarse idealmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "En el momento del parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "No es necesario diagnosticarla"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La corionicidad debe diagnosticarse en primer trimestre, cuando la ecografía es más precisa."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo ecográfico del 'lambda' o 'twin peak' indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monocorionicidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bicorionicidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monoamniocidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riesgo de transfusión feto-fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo lambda corresponde a bicorionicidad en embarazo gemelar."
+    },
+    {
+      "numero": "6",
+      "texto": "El signo ecográfico de la 'T invertida' corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gestación monocoriónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gestación bicoriónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo triple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gestación anembrionada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta acreta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo en T invertida es característico de embarazo monocorial diamniótico."
+    },
+    {
+      "numero": "7",
+      "texto": "Una complicación materna frecuente en embarazos múltiples es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia postparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta acreta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia ovárica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemorragia postparto es más frecuente por sobredistensión uterina."
+    },
+    {
+      "numero": "8",
+      "texto": "La tasa de parto pretérmino en embarazo múltiple es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Similar a embarazos únicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levemente menor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Más elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Casi nula"
+        },
+        {
+          "opcion": "E",
+          "texto": "No tiene relación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El parto pretérmino es mucho más frecuente en embarazos múltiples."
+    },
+    {
+      "numero": "9",
+      "texto": "La principal causa de morbilidad perinatal en embarazos múltiples es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trauma obstétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Isoinmunización"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prematurez es la causa más importante de morbilidad perinatal en embarazos múltiples."
+    },
+    {
+      "numero": "10",
+      "texto": "La reducción embrionaria puede considerarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gestación única con anomalías"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazos triples o de mayor número"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gestaciones monocoriales diamnióticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las gestaciones bicoriales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nunca debe considerarse"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En embarazos triples o mayores puede considerarse reducción embrionaria para disminuir riesgos."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento recomendado para prevenir parto pretérmino en embarazo múltiple es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cerclaje rutinario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Progesterona vaginal y control ecográfico cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducción temprana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tocolíticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La progesterona y control cervical ecográfico se utilizan para prevenir parto pretérmino."
+    },
+    {
+      "numero": "12",
+      "texto": "El tipo de embarazo múltiple con mayor riesgo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bicorial biamniótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monocorial biamniótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monocorial monoamniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gemelar dicigótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazo triple bicorial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El embarazo monocorial monoamniótico es el de mayor riesgo por entrecruzamiento de cordones."
+    },
+    {
+      "numero": "13",
+      "texto": "El síndrome de transfusión feto-fetal ocurre en embarazos:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bicoriales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monocoriales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monoamnióticos solamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tricoriales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con placenta previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de transfusión feto-fetal ocurre únicamente en embarazos monocoriales."
+    },
+    {
+      "numero": "14",
+      "texto": "En embarazos múltiples la vía de parto dependerá de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corionicidad y presentación fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Número de cesáreas previas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sexo fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de anemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La decisión sobre la vía de parto depende de la corionicidad y presentaciones fetales."
+    },
+    {
+      "numero": "15",
+      "texto": "El término gestacional promedio de parto en embarazo gemelar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "39 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "37 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "35 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "34 semanas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El embarazo gemelar suele culminar en parto alrededor de las 37 semanas."
+    },
+    {
+      "numero": "16",
+      "texto": "En embarazo gemelar, la complicación más frecuente del segundo gemelo durante el parto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolapso de cordón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anencefalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección neonatal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El prolapso de cordón es una complicación característica del segundo gemelo en el parto."
+    },
+    {
+      "numero": "17",
+      "texto": "El riesgo de defectos congénitos es mayor en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gemelos monocigóticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gemelos dicigóticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo triple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazo bicorial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazo biamniótico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los gemelos monocigóticos tienen mayor riesgo de anomalías congénitas."
+    },
+    {
+      "numero": "18",
+      "texto": "La mortalidad perinatal en embarazos múltiples es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor que en embarazo único"
+        },
+        {
+          "opcion": "B",
+          "texto": "Similar a embarazo único"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dos a tres veces mayor"
+        },
+        {
+          "opcion": "D",
+          "texto": "No se afecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende solo del tipo de parto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad perinatal es de 2 a 3 veces mayor que en embarazos únicos."
+    },
+    {
+      "numero": "19",
+      "texto": "El embarazo múltiple incrementa el riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desprendimiento prematuro de placenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia postparto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los embarazos múltiples aumentan el riesgo de complicaciones hemorrágicas y placentarias."
+    }
+  ]
+}

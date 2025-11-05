@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.036",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos coagulación",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hemofilia en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de factor VII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de factor VIII"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de factor IX"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de fibrinógeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de factor XI"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemofilia A, causada por déficit de factor VIII, es la más común en niños varones."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el patrón hereditario de la hemofilia A y B?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autosómico dominante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autosómico recesivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recesivo ligado al cromosoma X"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dominante ligado al X"
+        },
+        {
+          "opcion": "E",
+          "texto": "Multifactorial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemofilia A y B son trastornos recesivos ligados al cromosoma X, afectando principalmente a varones."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tiempo de coagulación está prolongado en la hemofilia A?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiempo de protrombina (TP)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiempo de trombina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de tromboplastina parcial activada (TTPa)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuento plaquetario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de sangría"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El TTPa está prolongado por afectación de la vía intrínseca en la hemofilia A."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el factor deficiente en la enfermedad de Christmas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factor VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Factor IX"
+        },
+        {
+          "opcion": "C",
+          "texto": "Factor XI"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor VII"
+        },
+        {
+          "opcion": "E",
+          "texto": "Factor X"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemofilia B o enfermedad de Christmas se debe a déficit del factor IX."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la manifestación clínica más característica de los trastornos de la coagulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Petequias y equimosis superficiales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epistaxis recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemartrosis y hematomas profundos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Púrpura palpable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado gingival leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las hemartrosis y hematomas profundos son típicos de los defectos en factores de coagulación."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué prueba de laboratorio suele estar normal en la hemofilia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TTPa"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento plaquetario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiempo de trombina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrinógeno plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TP es normal, ya que la vía extrínseca no está afectada en la hemofilia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué medida terapéutica es fundamental en la hemofilia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo y analgésicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposición del factor deficiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina K intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transfusión de plaquetas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento base es la administración del factor VIII o IX según el tipo de hemofilia."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el defecto básico en la enfermedad de von Willebrand?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración del fibrinógeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto del factor IX"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit o disfunción del factor de von Willebrand"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de factor X"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de antitrombina III"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad de von Willebrand se debe a déficit cuantitativo o cualitativo de dicho factor."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo de laboratorio es típico en la enfermedad de von Willebrand?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TTPa prolongado y tiempo de sangría aumentado"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plaquetas bajas"
+        },
+        {
+          "opcion": "D",
+          "texto": "TTPa y TP normales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de sangría normal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El TTPa se prolonga por alteración del factor VIII y el tiempo de sangría aumenta por disfunción plaquetaria."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medicamento estimula la liberación de factor de von Willebrand?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido tranexámico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desmopresina (DDAVP)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritropoyetina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La desmopresina estimula la liberación de factor de von Willebrand desde el endotelio."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico es característico de la enfermedad de von Willebrand?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemartrosis repetidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sangrado mucocutáneo recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Equimosis profundas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Púrpura palpable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematomas extensos sin trauma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sangrado mucocutáneo, como epistaxis o menorragia, es típico del von Willebrand."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro evalúa la vía extrínseca de la coagulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TTPa"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de sangría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrinógeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuento plaquetario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TP evalúa la vía extrínseca (factores VII, X, V, II y fibrinógeno)."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro evalúa la vía intrínseca de la coagulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TP"
+        },
+        {
+          "opcion": "B",
+          "texto": "TTPa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento plaquetario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiempo de sangría"
+        },
+        {
+          "opcion": "E",
+          "texto": "INR"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TTPa evalúa los factores de la vía intrínseca: XII, XI, IX y VIII."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué manifestación clínica orienta a una coagulopatía congénita grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epistaxis leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemartrosis espontánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Petequias múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gingivorragia ocasional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematomas postraumáticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemartrosis espontánea es típica de coagulopatías severas como la hemofilia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué trastorno se caracteriza por consumo de factores de coagulación y plaquetas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemofilia A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Púrpura trombocitopénica idiopática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coagulación intravascular diseminada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad de von Willebrand"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome urémico hemolítico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La CID se caracteriza por consumo sistémico de factores y plaquetas con riesgo hemorrágico y trombótico."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes factores depende de la vitamina K?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factor VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Factor IX"
+        },
+        {
+          "opcion": "C",
+          "texto": "Factor XI"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor XII"
+        },
+        {
+          "opcion": "E",
+          "texto": "Factor XIII"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los factores II, VII, IX y X son dependientes de vitamina K para su activación hepática."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué alteración de laboratorio es típica en la deficiencia de vitamina K?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TP prolongado con TTPa normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "TTPa prolongado con TP normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambos tiempos normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plaquetas bajas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrinógeno bajo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de vitamina K afecta primero la vía extrínseca, prolongando el TP."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la complicación más frecuente del uso de concentrados de factor VIII?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombocitosis reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Formación de inhibidores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción anafiláctica inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatotoxicidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La principal complicación es la formación de anticuerpos inhibidores contra el factor VIII administrado."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medicamento se utiliza para controlar hemorragias leves en hemofilia A con buena respuesta al DDAVP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desmopresina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido tranexámico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor VII recombinante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crioprecipitado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La desmopresina estimula la liberación endógena de factor VIII en hemofilia leve."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico sugiere una alteración plaquetaria y no de coagulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemartrosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Equimosis profundas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Petequias y sangrado mucoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematomas retroperitoneales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria persistente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las alteraciones plaquetarias cursan con sangrado superficial y mucoso, no profundo."
+    }
+  ]
+}

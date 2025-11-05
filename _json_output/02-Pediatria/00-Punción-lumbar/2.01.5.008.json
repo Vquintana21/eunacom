@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.5.008",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Punción lumbar",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación de una punción lumbar en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sospecha de meningitis o encefalitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sospecha de anemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación de hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnóstico de insuficiencia renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Confirmación de bronquiolitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se realiza principalmente para el diagnóstico de infecciones del sistema nervioso central como meningitis o encefalitis."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la contraindicación absoluta para realizar una punción lumbar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombocitopenia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signos de hipertensión intracraneana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso reciente de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertensión intracraneana con papiledema o deterioro neurológico es una contraindicación absoluta."
+    },
+    {
+      "numero": "3",
+      "texto": "¿En qué espacio se introduce la aguja durante la punción lumbar en un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Entre L1 y L2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre L2 y L3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre L3 y L4"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre L4 y L5"
+        },
+        {
+          "opcion": "E",
+          "texto": "Entre L5 y S1"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En pediatría, la punción se realiza entre L4 y L5 para evitar lesión medular, que termina más abajo que en el adulto."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la posición ideal para realizar la punción lumbar en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito lateral con flexión de caderas y cuello"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedente con cuello extendido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prono con piernas extendidas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito supino con caderas rotadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedente con piernas extendidas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La posición lateral con flexión de cuello y caderas separa las apófisis espinosas para facilitar el acceso."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué medida debe tomarse antes de realizar una punción lumbar en un niño con crisis convulsiva reciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antibióticos previos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solicitar neuroimagen para descartar hipertensión intracraneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Realizar hemocultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidratar previamente al paciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar gasometría arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe descartarse hipertensión intracraneana antes de punción para evitar herniación."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué calibre de aguja se usa comúnmente en un recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "18G"
+        },
+        {
+          "opcion": "B",
+          "texto": "20G"
+        },
+        {
+          "opcion": "C",
+          "texto": "22G"
+        },
+        {
+          "opcion": "D",
+          "texto": "23G"
+        },
+        {
+          "opcion": "E",
+          "texto": "25G"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "En recién nacidos se utiliza aguja 25G por su menor diámetro y mejor tolerancia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo en LCR sugiere meningitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Líquido claro, glucosa normal, proteínas normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido turbio, glucosa baja, proteínas elevadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido rosado, glucosa alta, proteínas bajas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido claro, leucocitos normales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Líquido xantocrómico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La meningitis bacteriana cursa con LCR turbio, hipoglucorraquia y proteínas elevadas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación puede presentarse tras una punción lumbar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea postpunción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sostenida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cefalea postpunción se debe a fuga de LCR y es la complicación más común."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba se solicita con el LCR para confirmar meningitis tuberculosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ziehl-Neelsen y cultivo en Lowenstein-Jensen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de Coombs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electroforesis de proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR de adenovirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tinción Ziehl-Neelsen y cultivo en Lowenstein confirman tuberculosis meníngea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo normal en el LCR es característico en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteínas algo elevadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de linfocitos maduros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Color amarillento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En RN las proteínas son naturalmente más altas que en niños mayores."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué volumen máximo de LCR se puede extraer en un lactante sin riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "4 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 mL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El volumen seguro en lactantes es de 3 a 4 mL de LCR para análisis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo clínico contraindica la punción lumbar hasta descartar hipertensión intracraneal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rigidez de nuca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papiledema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómitos leves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de papiledema sugiere hipertensión intracraneal, contraindicación absoluta del procedimiento."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué técnica ayuda a disminuir el riesgo de cefalea postpunción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar aguja gruesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocar al paciente de pie luego del procedimiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar agujas atraumáticas y orientar el bisel paralelo a las fibras durales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar punción más alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el volumen extraído"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las agujas atraumáticas y la orientación del bisel reducen la fuga de LCR y cefalea posterior."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué precaución debe tomarse tras la punción lumbar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo relativo en decúbito supino por 1 hora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Movilización inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar compresas frías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedación prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda reposo breve en decúbito para disminuir el riesgo de cefalea postpunción."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué análisis iniciales deben realizarse siempre en el LCR obtenido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa, proteínas y recuento celular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urea y creatinina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrolitos plasmáticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Coombs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo de orina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estudio básico incluye glucosa, proteínas y recuento celular diferencial para orientar diagnóstico."
+    },
+    {
+      "numero": "16",
+      "texto": "En la punción lumbar pediátrica, ¿cuál es el punto anatómico de referencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Línea entre ambas crestas ilíacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apófisis espinosa de L2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sacro y cóccix"
+        },
+        {
+          "opcion": "D",
+          "texto": "Línea mamilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ombligo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La línea que une ambas crestas ilíacas pasa por el espacio L4-L5, punto ideal de punción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la presión normal de apertura del LCR en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5-10 cmH₂O"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-20 cmH₂O"
+        },
+        {
+          "opcion": "C",
+          "texto": "20-30 cmH₂O"
+        },
+        {
+          "opcion": "D",
+          "texto": "30-40 cmH₂O"
+        },
+        {
+          "opcion": "E",
+          "texto": "40-50 cmH₂O"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presión de apertura normal en niños está entre 10 y 20 cmH₂O."
+    },
+    {
+      "numero": "18",
+      "texto": "En caso de meningitis purulenta sospechada, ¿qué debe hacerse antes de la punción si hay inestabilidad hemodinámica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antibióticos empíricos antes del procedimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esperar estabilidad clínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Realizar TAC cerebral urgente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proceder igual bajo vigilancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rehidratar intensivamente antes de punción"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los antibióticos deben administrarse sin demora si hay inestabilidad, y la punción diferirse."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué aspecto del LCR sugiere hemorragia subaracnoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Líquido turbio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Xantocromía persistente tras centrifugación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido transparente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteínas normales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La xantocromía indica presencia de bilirrubina por degradación de hemoglobina, compatible con hemorragia subaracnoidea."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué acción debe realizarse si la punción lumbar resulta traumática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Descartar la muestra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir la punción en otro espacio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enviar la muestra aclarada a laboratorio para corrección de proteínas y eritrocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar transfusión"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe enviarse al laboratorio aclarando que fue traumática para ajustar recuentos de proteínas y células."
+    }
+  ]
+}

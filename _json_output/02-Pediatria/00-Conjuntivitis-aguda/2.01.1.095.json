@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.095",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Conjuntivitis aguda",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de conjuntivitis aguda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydia trachomatis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los adenovirus son la causa más común de conjuntivitis aguda en la infancia, generalmente de origen viral."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica clínica sugiere conjuntivitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción serosa y prurito intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción mucopurulenta y párpados pegados al despertar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fotofobia sin secreción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor ocular severo con disminución visual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secreción acuosa sin enrojecimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La secreción mucopurulenta y los párpados pegados son típicos de conjuntivitis bacteriana."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el agente bacteriano más frecuente en conjuntivitis aguda infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae no tipificable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moraxella catarrhalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Haemophilus influenzae no tipificable es el principal agente bacteriano en niños."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tratamiento inicial de una conjuntivitis bacteriana leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciprofloxacino oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tobramicina tópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides tópicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lavado ocular con solución salina y observación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Penicilina benzatina IM"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tobramicina o eritromicina tópica son tratamientos eficaces para conjuntivitis bacteriana leve."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo clínico orienta a conjuntivitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción purulenta espesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prurito y secreción mucosa escasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de folículos en conjuntiva tarsal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Úlcera corneal central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor ocular severo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los folículos en la conjuntiva tarsal son típicos de conjuntivitis viral, especialmente adenoviral."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo diferencia la conjuntivitis alérgica de otras etiologías?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperemia conjuntival"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción acuosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor ocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fotofobia severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prurito ocular intenso es característico de conjuntivitis alérgica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el tratamiento más adecuado para conjuntivitis viral adenoviral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos tópicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides tópicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medidas de higiene y compresas frías"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antivirales tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antihistamínicos orales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo es sintomático con medidas de higiene, compresas frías y evitar contagio."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es una complicación posible de conjuntivitis bacteriana no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uveítis anterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Blefaritis crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Celulitis preseptal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoftalmitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catarata secundaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infección puede extenderse a los tejidos periorbitarios causando celulitis preseptal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué germen debe sospecharse en conjuntivitis purulenta con afectación neonatal precoz?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conjuntivitis gonocócica neonatal aparece precozmente y es grave si no se trata."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la principal medida de prevención de conjuntivitis viral en escuelas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de lágrimas artificiales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento y lavado de manos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de mascarillas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar baños públicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La higiene ocular y el lavado de manos previenen la transmisión de conjuntivitis viral."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo orienta a conjuntivitis por Chlamydia trachomatis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción acuosa leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conjuntivitis folicular crónica unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exudado purulento bilateral agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de pseudomembranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fotofobia intensa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conjuntivitis folicular crónica unilateral es típica de infección por Chlamydia trachomatis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo clínico sugiere infección gonocócica ocular en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito ocular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción serosa bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema palpebral y secreción purulenta abundante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Folículos en conjuntiva tarsal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La conjuntivitis gonocócica cursa con secreción purulenta abundante y edema palpebral marcado."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué estudio confirma conjuntivitis por Chlamydia trachomatis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo en agar sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR de secreción conjuntival"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Schirmer"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PCR de secreción conjuntival es el método diagnóstico más sensible y específico para Chlamydia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué complicación puede presentarse en conjuntivitis adenoviral severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlcera corneal central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Queratitis puntata superficial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Blefaritis ulcerativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoftalmitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Celulitis orbitaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En casos graves puede desarrollarse queratitis puntata superficial con visión borrosa transitoria."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo ocular requiere derivación urgente en conjuntivitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción mucosa leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prurito ocular persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor ocular intenso o disminución visual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperemia conjuntival aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secreción bilateral simétrica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Dolor intenso o pérdida visual indican compromiso corneal o intraocular que requiere atención urgente."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué agente produce conjuntivitis purulenta en adolescentes con actividad sexual?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenovirus tipo 3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moraxella lacunata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Neisseria gonorrhoeae puede causar conjuntivitis purulenta hiperaguda en adolescentes sexualmente activos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué diferencia fundamental hay entre conjuntivitis viral y bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de prurito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo de secreción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor ocular intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Afectación unilateral obligatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fotofobia constante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la bacteriana la secreción es purulenta, mientras que en la viral es acuosa o serosa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la medida de control de contagio más importante en conjuntivitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos tópicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento del paciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado frecuente de manos y evitar contacto ocular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de lentes protectores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Instilación de lágrimas artificiales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El lavado de manos y evitar el contacto ocular previenen la diseminación del virus."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo clínico orienta a conjuntivitis membranosa por Streptococcus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Folículos tarsales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomembranas blanquecinas adheridas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción acuosa transparente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prurito intenso bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Opacidad corneal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de pseudomembranas conjuntivales es característica de conjuntivitis bacteriana grave, especialmente estreptocócica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué antibiótico se usa en conjuntivitis gonocócica neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritromicina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona intravenosa o intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloranfenicol tópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tobramicina tópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azitromicina oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ceftriaxona IV/IM es el tratamiento de elección por su eficacia frente a Neisseria gonorrhoeae."
+    }
+  ]
+}

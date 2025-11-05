@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.021",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué componentes básicos se incluyen en un perfil lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total, HDL, LDL y triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa, colesterol total y ácido úrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL, VLDL y glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total, proteínas y calcio sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos, urea y creatinina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El perfil lipídico mide colesterol total, HDL, LDL y triglicéridos para evaluar el riesgo cardiovascular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué lipoproteína se asocia con mayor riesgo aterogénico en diabetes mellitus tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL pequeñas y densas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quilomicrones"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoA-I"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las LDL pequeñas y densas son más aterogénicas y frecuentes en la dislipidemia diabética."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el valor normal recomendado para el colesterol LDL en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 160 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 80 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 60 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En pacientes diabéticos se recomienda mantener el LDL por debajo de 100 mg/dL para reducir riesgo cardiovascular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué efecto tiene la resistencia a la insulina sobre el metabolismo lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la actividad de la lipoproteinlipasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce los niveles de triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la producción hepática de VLDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementa el HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la oxidación de ácidos grasos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia a la insulina estimula la síntesis hepática de VLDL, elevando los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principal componente lipídico transportado por las VLDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol esterificado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfolípidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos grasos libres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol libre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las VLDL transportan principalmente triglicéridos sintetizados en el hígado hacia tejidos periféricos."
+    },
+    {
+      "numero": "6",
+      "texto": "El HDL ejerce su función antiaterogénica principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Favorecer la síntesis hepática de colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transportar colesterol desde tejidos hacia el hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibir la lipólisis en el tejido adiposo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la secreción de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la absorción intestinal de lípidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El HDL facilita el transporte reverso de colesterol desde tejidos periféricos hacia el hígado para su excreción."
+    },
+    {
+      "numero": "7",
+      "texto": "Un paciente diabético presenta triglicéridos de 350 mg/dL y HDL de 30 mg/dL. Esto sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dislipidemia diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatopatía aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercolesterolemia familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo primario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dislipidemia diabética típica cursa con triglicéridos elevados y HDL bajo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué valor de colesterol HDL se considera bajo en hombres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 60 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 50 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 45 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 40 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 30 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un HDL menor a 40 mg/dL en hombres se considera bajo y aumenta el riesgo cardiovascular."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué enzima convierte el colesterol libre en ésteres dentro de las lipoproteínas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lipoproteinlipasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol ester transferasa (LCAT)"
+        },
+        {
+          "opcion": "C",
+          "texto": "HMG-CoA reductasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fosfolipasa A2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acil-CoA sintetasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La LCAT esterifica el colesterol en el plasma, facilitando el transporte de HDL maduro."
+    },
+    {
+      "numero": "10",
+      "texto": "La ecuación de Friedewald se usa para calcular:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoB"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecuación de Friedewald estima el LDL: LDL = Colesterol total - HDL - (Triglicéridos/5)."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de dieta favorece la disminución de LDL en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en ácidos grasos saturados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rica en ácidos grasos monoinsaturados y fibra soluble"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta en colesterol dietario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rica en proteínas animales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Baja en carbohidratos complejos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las dietas con grasas monoinsaturadas y fibra soluble reducen la concentración plasmática de LDL."
+    },
+    {
+      "numero": "12",
+      "texto": "Un aumento de ApoB indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor cantidad de HDL funcional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del riesgo cardiovascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento de partículas aterogénicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falla hepática avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ApoB se encuentra en LDL y VLDL; su aumento refleja más partículas aterogénicas en sangre."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes alteraciones es más frecuente en el perfil lipídico del diabético mal controlado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de VLDL y LDL pequeñas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de LDL total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de ApoA-I"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la diabetes mal controlada predominan las VLDL y LDL pequeñas y densas, altamente aterogénicas."
+    },
+    {
+      "numero": "14",
+      "texto": "El colesterol total óptimo en adultos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 180 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 200 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 220 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 240 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 260 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un valor de colesterol total menor a 200 mg/dL se considera óptimo para la salud cardiovascular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué lipoproteína se incrementa principalmente en la hiperlipidemia tipo IV (Frederickson)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "IDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quilomicrones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperlipidemia tipo IV se caracteriza por un aumento de VLDL, con triglicéridos elevados."
+    },
+    {
+      "numero": "16",
+      "texto": "Un HDL alto ejerce un efecto:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proinflamatorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Procoagulante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antiaterogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglucemiante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prooxidante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El HDL tiene efecto antiaterogénico al remover colesterol de las arterias y ejercer acción antioxidante."
+    },
+    {
+      "numero": "17",
+      "texto": "En el contexto de la diabetes, la hiperglucemia crónica afecta el metabolismo lipídico por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la lipólisis y la síntesis de VLDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibir la producción hepática de triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la actividad de la HMG-CoA reductasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementar la oxidación de LDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar el HDL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperglucemia crónica estimula la lipólisis y la producción de VLDL, promoviendo dislipidemia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué marcador lipídico se considera el más importante para predecir riesgo cardiovascular en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoA-I"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El LDL elevado es el principal marcador asociado al riesgo cardiovascular en pacientes diabéticos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tratamiento no farmacológico es más efectivo para mejorar el perfil lipídico en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del consumo de grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico regular y dieta equilibrada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del consumo de fibra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restricción calórica severa sin control"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del consumo de carnes rojas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de ejercicio regular y dieta saludable mejora los niveles de HDL y reduce triglicéridos y LDL."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal apolipoproteína de las LDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ApoA-I"
+        },
+        {
+          "opcion": "B",
+          "texto": "ApoC-II"
+        },
+        {
+          "opcion": "C",
+          "texto": "ApoB-100"
+        },
+        {
+          "opcion": "D",
+          "texto": "ApoE"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoA-II"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ApoB-100 es la apolipoproteína estructural de las LDL y participa en la unión al receptor hepático."
+    }
+  ]
+}

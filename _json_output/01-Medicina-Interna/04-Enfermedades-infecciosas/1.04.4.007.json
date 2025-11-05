@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del cultivo de expectoración en enfermedades infecciosas respiratorias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar células epiteliales descamadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar el microorganismo causal y su sensibilidad antimicrobiana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir el nivel de oxígeno en secreciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinar la viscosidad del esputo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cultivo busca identificar el agente etiológico y su perfil de sensibilidad para orientar la terapia antibiótica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica indica una muestra de esputo adecuada para cultivo bacteriológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Predominio de células epiteliales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio de polimorfonucleares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Color transparente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de saliva abundante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muestra seca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de numerosos PMN indica una muestra representativa del tracto respiratorio inferior."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el criterio de Murray y Washington para validar una muestra de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cantidad de PMN y células epiteliales por campo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Color y olor del esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de recolección de la muestra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cantidad de secreción expectorada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de sangre en la muestra"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El criterio se basa en el número de PMN y células epiteliales por campo para evaluar la calidad de la muestra."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué microorganismo es el agente más frecuente en neumonía adquirida en la comunidad detectado por cultivo de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Staphylococcus aureus"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Streptococcus pneumoniae es el principal agente causal de neumonía adquirida en la comunidad."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tinción se realiza inicialmente antes del cultivo de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Ziehl-Neelsen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Giemsa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinción de Wright"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinción de azul de metileno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tinción de Gram permite orientar la etiología bacteriana y evaluar la calidad de la muestra."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué indica una muestra con más de 25 células epiteliales escamosas por campo en el examen directo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación orofaríngea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección bacteriana activa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muestra purulenta adecuada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de micobacterias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La abundancia de células epiteliales sugiere contaminación de saliva y muestra no representativa."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué medio de cultivo se utiliza comúnmente para aislar bacterias patógenas respiratorias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar Sabouraud"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar MacConkey y agar sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar EMB"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar chocolate con antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar Lowenstein-Jensen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El agar sangre y MacConkey permiten aislar bacterias grampositivas y gramnegativas respectivamente."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué resultado del cultivo de esputo sugiere infección y no contaminación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento monomicrobiano significativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento polimicrobiano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flora normal orofaríngea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de hongos ambientales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El crecimiento monomicrobiano abundante asociado a clínica sugiere infección respiratoria verdadera."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el mejor momento para recolectar la muestra de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de dormir"
+        },
+        {
+          "opcion": "B",
+          "texto": "En la tarde después del almuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "En la mañana al despertar, antes de comer o cepillarse"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de la medicación antibiótica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante el ejercicio físico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La primera expectoración matutina contiene secreciones más representativas del tracto respiratorio inferior."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué microorganismo se asocia a esputo con olor fétido y aspecto purulento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Pseudomonas aeruginosa produce secreciones verdosas y fétidas en infecciones pulmonares crónicas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué agente se busca mediante cultivo en pacientes con fibrosis quística y bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus parainfluenzae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acinetobacter baumannii"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa es el patógeno más frecuente en pacientes con fibrosis quística y daño bronquial crónico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo en el Gram orienta hacia infección por Streptococcus pneumoniae?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cocos grampositivos en racimos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacilos gramnegativos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cocos grampositivos en pares lanceolados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cocos gramnegativos diplococos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bacilos grampositivos ramificados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "S. pneumoniae se observa como diplococos grampositivos lanceolados en frotis de esputo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué se recomienda antes de recolectar el esputo para evitar contaminación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingerir agua y cepillarse los dientes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fumar un cigarrillo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhalar vapor caliente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomar antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Comer alimentos grasos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cepillado dental reduce la contaminación con flora orofaríngea antes de la expectoración."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué microorganismo se debe sospechar en pacientes hospitalizados con neumonía asociada a ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coxiella burnetii"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa y bacilos gramnegativos son comunes en neumonía asociada a ventilación mecánica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué medio es útil para el aislamiento de Legionella pneumophila en esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar chocolate"
+        },
+        {
+          "opcion": "C",
+          "texto": "BCYE (Buffered Charcoal Yeast Extract)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar Sabouraud"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Legionella pneumophila requiere el medio BCYE enriquecido con cisteína y hierro para su crecimiento."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo macroscópico puede indicar contaminación en una muestra de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Color purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de burbujas y aspecto salival"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción mucopurulenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Olor fétido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La muestra espumosa y salival indica contaminación con secreciones orales, no proveniente del tracto inferior."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué microorganismo se aísla con mayor frecuencia en neumonías nosocomiales por cultivo de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moraxella catarrhalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Klebsiella pneumoniae es frecuente en neumonías nosocomiales, especialmente en pacientes debilitados o institucionalizados."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué acción debe realizarse si el cultivo de esputo muestra flora mixta sin predominio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Repetir la muestra con técnica adecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar tratamiento empírico inmediato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reportar flora normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conservar la muestra para estudio posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Descartar contaminación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una flora mixta sin predominio indica contaminación y requiere repetir la toma de muestra."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes patógenos se asocia con esputo mucopurulento y color verdoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia psittaci"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coxiella burnetii"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Pseudomonas produce pigmentos verdosos que dan color característico al esputo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el tiempo ideal entre la obtención y el procesamiento de la muestra de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 30 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 hora"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 horas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El procesamiento rápido (<30 min) evita el sobrecrecimiento bacteriano y mantiene la representatividad microbiológica."
+    }
+  ]
+}

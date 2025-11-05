@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.024",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Infecciones respiratorias agudas bajas y sus complicaciones",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente viral más frecuente de las infecciones respiratorias agudas bajas en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus sincicial respiratorio (VSR)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza tipo A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parainfluenza tipo 3"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El VSR es la causa más frecuente de bronquiolitis e infecciones respiratorias bajas en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué signo clínico indica gravedad en una infección respiratoria baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aleteo nasal y tiraje intercostal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre baja intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinorrea serosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Odinofagia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aleteo nasal y el tiraje intercostal indican dificultad respiratoria significativa."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué agente bacteriano es la principal causa de neumonía adquirida en la comunidad en niños mayores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Mycoplasma pneumoniae es la causa más frecuente en escolares y adolescentes."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo radiológico sugiere neumonía bacteriana lobar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado alveolar consolidante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsuflación difusa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrapamiento aéreo segmentario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento peribronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El infiltrado alveolar consolidante es típico de neumonía bacteriana lobar, especialmente por neumococo."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal complicación de una neumonía bacteriana en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia laminar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pleural y empiema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquiolitis obliterante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame pleural y el empiema son las complicaciones más frecuentes de una neumonía bacteriana."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué característica clínica distingue bronquiolitis de neumonía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos productiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias difusas y sibilante espiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crepitaciones localizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consolidación radiológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquiolitis se caracteriza por sibilancias difusas debido a obstrucción bronquiolar viral."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el agente causal más frecuente de neumonía bacteriana en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydia trachomatis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus pneumoniae es el agente bacteriano más frecuente de neumonía en lactantes y preescolares."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué medida preventiva reduce significativamente las infecciones respiratorias bajas graves en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar el polvo ambiental"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactancia materna exclusiva por 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementación con hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso profiláctico de antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición solar diaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lactancia materna exclusiva fortalece la inmunidad y reduce infecciones respiratorias bajas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación se asocia con neumonía por Staphylococcus aureus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquiectasias difusas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax y absceso pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Empiema estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis intersticial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neumonía estafilocócica puede producir abscesos y neumotórax por necrosis del parénquima."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo clínico indica compromiso grave en neumonía infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre baja persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quejido espiratorio y retracciones costales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinorrea acuosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estornudos frecuentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El quejido espiratorio y las retracciones indican hipoxemia y compromiso respiratorio grave."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento de elección para neumonía neumocócica ambulatoria en preescolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritromicina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefuroxima oral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La amoxicilina es el antibiótico de elección para neumonía neumocócica no complicada."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación puede aparecer tras una infección por virus sincicial respiratorio severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquiectasias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asma recurrente o hiperreactividad bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumotórax bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiomegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El VSR puede dejar secuelas de hiperreactividad bronquial y episodios sibilantes recurrentes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro indica necesidad de hospitalización en una infección respiratoria baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre de 38°C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Saturación de O2 < 92%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos productiva persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apetito disminuido leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinorrea purulenta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una saturación de oxígeno menor al 92% indica hipoxemia y requiere hospitalización."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la causa más frecuente de derrame pleural parapneumónico en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus parainfluenzae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus pneumoniae es el principal causante de derrame pleural asociado a neumonía."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de neumonía se asocia a fiebre alta y dolor pleurítico en escolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Viral por VSR"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía bacteriana lobar por neumococo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía atípica por Mycoplasma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronconeumonía viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía por Chlamydia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neumonía neumocócica típica cursa con fiebre alta y dolor pleurítico localizado."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación se presenta por destrucción parenquimatosa en neumonía bacteriana severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Absceso pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquiolitis obliterante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernia diafragmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso pulmonar resulta de necrosis parenquimatosa secundaria a infección bacteriana severa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la principal vía de transmisión de las infecciones respiratorias bajas virales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fecal-oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transplacentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gotitas y contacto directo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vectorial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transfusión sanguínea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones respiratorias virales se transmiten por gotitas y contacto con secreciones contaminadas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué signo clínico diferencia neumonía atípica de neumonía típica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta con escalofríos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca persistente y auscultación pobre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias difusas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crepitaciones basales localizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural visible"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neumonía atípica presenta tos seca, síntomas más leves y escasos hallazgos auscultatorios."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué intervención reduce las complicaciones bacterianas de infecciones respiratorias virales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación antineumocócica y antigripal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos profilácticos mensuales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nebulizaciones rutinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suplemento de zinc diario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas antineumocócica y antigripal disminuyen complicaciones bacterianas tras infecciones virales."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el signo radiológico característico de bronconeumonía viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Consolidación lobar densa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón intersticial difuso y engrosamiento peribronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cavitación pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural masivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones virales muestran patrón intersticial y engrosamiento peribronquial difuso en radiografía."
+    }
+  ]
+}

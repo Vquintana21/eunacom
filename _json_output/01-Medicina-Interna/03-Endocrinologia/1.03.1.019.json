@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.019",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes causas es la más frecuente de osteoporosis secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperparatiroidismo primario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso prolongado de glucocorticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipogonadismo masculino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing endógeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso crónico de glucocorticoides es la causa más frecuente de osteoporosis secundaria por su efecto inhibidor sobre los osteoblastos."
+    },
+    {
+      "numero": "2",
+      "texto": "En el hiperparatiroidismo primario, la pérdida ósea se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la actividad osteoblástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la resorción ósea mediada por PTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del fósforo sérico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PTH elevada estimula la actividad osteoclástica, incrementando la resorción ósea y provocando pérdida de masa ósea."
+    },
+    {
+      "numero": "3",
+      "texto": "La osteoporosis inducida por glucocorticoides se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la formación ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la apoptosis de osteoblastos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibición de la formación ósea y aumento de la resorción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del calcio sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertrofia ósea cortical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los glucocorticoides inhiben la función osteoblástica y favorecen la resorción ósea, disminuyendo la masa ósea total."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes medicamentos puede causar osteoporosis secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiazidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heparina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-bloqueadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "AINEs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueadores del calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso prolongado de heparina aumenta la resorción ósea y puede causar osteoporosis secundaria."
+    },
+    {
+      "numero": "5",
+      "texto": "La osteopenia en un paciente con enfermedad celíaca se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de absorción de calcio y vitamina D"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la PTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalciuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperfosfatemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de magnesio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La malabsorción intestinal en la enfermedad celíaca genera déficit de calcio y vitamina D, produciendo desmineralización ósea."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué alteración endocrina se asocia con mayor frecuencia a osteoporosis secundaria en hombres jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipogonadismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Feocromocitoma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipogonadismo reduce los niveles de testosterona, disminuyendo la formación ósea y favoreciendo la pérdida de densidad ósea."
+    },
+    {
+      "numero": "7",
+      "texto": "En la acromegalia, el riesgo de fractura aumenta por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la densidad ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración en la microarquitectura ósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia sostenida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de GH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperfosfatemia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque la densidad ósea puede estar elevada, la microarquitectura está alterada, lo que aumenta el riesgo de fracturas."
+    },
+    {
+      "numero": "8",
+      "texto": "En el hipertiroidismo, la pérdida ósea ocurre por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibición de la actividad osteoclástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del recambio óseo con predominio de resorción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la síntesis de colágeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la secreción de calcitonina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las hormonas tiroideas aumentan el recambio óseo, pero predomina la resorción, disminuyendo la masa ósea."
+    },
+    {
+      "numero": "9",
+      "texto": "En el síndrome de Cushing, la osteoporosis se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de hormona del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la actividad osteoblástica por glucocorticoides endógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación de la PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de fósforo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de cortisol inhibe la formación ósea y estimula la resorción, favoreciendo la pérdida ósea."
+    },
+    {
+      "numero": "10",
+      "texto": "En la insuficiencia renal crónica, la osteoporosis se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia y déficit de vitamina D activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia por PTH elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la fosfatasa alcalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de calcio sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopotasemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de función renal reduce la síntesis de calcitriol y genera hipocalcemia, favoreciendo la resorción ósea."
+    },
+    {
+      "numero": "11",
+      "texto": "La causa más frecuente de osteoporosis secundaria en hombres es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcoholismo crónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipogonadismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipogonadismo reduce los niveles de testosterona, aumentando la resorción ósea y disminuyendo la densidad ósea."
+    },
+    {
+      "numero": "12",
+      "texto": "La pérdida ósea por inmovilización prolongada se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la actividad osteoclástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la formación ósea y aumento de resorción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la secreción de GH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipofosfatemia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de carga mecánica reduce la formación ósea y aumenta la resorción mediada por osteoclastos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué patología intestinal se asocia con osteoporosis secundaria por malabsorción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de intestino irritable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colitis ulcerosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad celíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diverticulosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocromatosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad celíaca altera la absorción intestinal de calcio y vitamina D, contribuyendo a la osteoporosis secundaria."
+    },
+    {
+      "numero": "14",
+      "texto": "En la anorexia nerviosa, la pérdida ósea se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperparatiroidismo secundario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia estrogénica y nutricional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de cortisol plasmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de fósforo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución de estrógenos y nutrientes esenciales en la anorexia provoca pérdida de masa ósea significativa."
+    },
+    {
+      "numero": "15",
+      "texto": "El hiperparatiroidismo secundario por déficit de vitamina D produce:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la masa ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resorción ósea aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibición de osteoclastos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de PTH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de vitamina D induce hipocalcemia, estimulando la secreción de PTH y la resorción ósea compensatoria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes antiepilépticos se asocia a osteoporosis secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Levetiracetam"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lamotrigina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fenitoína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Topiramato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valproato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fenitoína induce enzimas hepáticas que aumentan el catabolismo de la vitamina D, reduciendo la densidad ósea."
+    },
+    {
+      "numero": "17",
+      "texto": "El alcoholismo crónico provoca pérdida ósea principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimulación de osteoblastos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la formación ósea y malnutrición"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la síntesis de colágeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia sostenida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la PTH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El alcoholismo inhibe la actividad osteoblástica y reduce la absorción de nutrientes esenciales para el hueso."
+    },
+    {
+      "numero": "18",
+      "texto": "En la diabetes mellitus tipo 1, la pérdida ósea se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de insulina circulante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de IGF-1 y alteración del metabolismo óseo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la densidad ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de calcio dietario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de masa muscular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de insulina y IGF-1 disminuye la actividad osteoblástica, reduciendo la densidad mineral ósea."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes pruebas es útil para identificar causas secundarias de osteoporosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinación de TSH y testosterona sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las determinaciones hormonales ayudan a identificar causas secundarias como hipotiroidismo o hipogonadismo."
+    },
+    {
+      "numero": "20",
+      "texto": "La principal diferencia entre osteoporosis primaria y secundaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La edad de inicio y la presencia de enfermedad subyacente"
+        },
+        {
+          "opcion": "B",
+          "texto": "El tipo de hueso afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "La respuesta al tratamiento con calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "La localización de las fracturas"
+        },
+        {
+          "opcion": "E",
+          "texto": "El nivel de densitometría requerido para diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La osteoporosis secundaria ocurre a cualquier edad y está asociada a una causa identificable o enfermedad de base."
+    }
+  ]
+}

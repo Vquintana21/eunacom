@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.2.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de embolia cardiogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infarto agudo de miocardio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocardiopatía dilatada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrilación auricular produce estasis sanguínea en la aurícula izquierda, favoreciendo la formación de trombos y embolias sistémicas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué arteria cerebral es más frecuentemente afectada por embolias cardiogénicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cerebral posterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebral media"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cerebral anterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vertebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La arteria cerebral media es la más comúnmente afectada debido al flujo directo desde la aorta y el tamaño del vaso."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo en el ECG sugiere una causa embolígena cardiaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo AV de primer grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eje desviado a la izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "QT corto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrilación auricular causa una contracción auricular inefectiva y formación de trombos intracavitarios con alto riesgo embolígeno."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes eventos puede causar una embolia cardiogénica aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infarto agudo de miocardio con trombo mural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia tricuspídea leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolapso mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pericarditis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El infarto agudo puede generar trombos murales en el ventrículo izquierdo, los cuales se embolizan sistémicamente."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el órgano más frecuentemente comprometido por una embolia cardiogénica sistémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intestino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cerebro es el destino más común de los émbolos cardiogénicos, generando accidentes cerebrovasculares isquémicos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes cardiopatías valvulares se asocia a mayor riesgo de embolia cardiogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolapso mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis mitral predispone a fibrilación auricular y estasis sanguínea en la aurícula izquierda, generando trombos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué examen es más útil para detectar trombos intracavitarios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecocardiograma transesofágico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Angiografía coronaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "TC cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ecocardiograma transesofágico es altamente sensible para visualizar trombos en la aurícula y orejuela izquierda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico sugiere una embolia sistémica de origen cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico punzante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit neurológico súbito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema de miembros inferiores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El inicio súbito de un déficit neurológico focal es característico de una embolia cerebral de origen cardíaco."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes procedimientos aumenta el riesgo de embolia paradójica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cateterismo derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Foramen oval permeable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Marcapasos permanente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía valvular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pericardiocentesis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El foramen oval permeable permite el paso de émbolos desde la circulación venosa a la arterial (embolismo paradójico)."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación puede causar una embolia cardiogénica en la arteria mesentérica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Isquemia intestinal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peritonitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia digestiva alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ileo paralítico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El embolismo mesentérico causa isquemia intestinal aguda, una emergencia quirúrgica de alta mortalidad."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de las siguientes condiciones requiere anticoagulación para prevenir embolia cardiogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo AV de primer grado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis aórtica leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anticoagulación en fibrilación auricular previene la formación de trombos auriculares embolígenos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el tratamiento inmediato ante una embolia cerebral de origen cardiogénico con menos de 4,5 horas de evolución?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticoagulación oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombolisis intravenosa con alteplasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspirina oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heparina subcutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clopidogrel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trombólisis intravenosa con alteplasa está indicada dentro de las 4,5 horas de inicio de síntomas en embolia cerebral."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo físico puede encontrarse en una embolia periférica cardiogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso aumentado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Extremidad fría, pálida y dolorosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rubor distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis facial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema blando bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La isquemia aguda periférica por embolia produce dolor, palidez, ausencia de pulso y frialdad en la extremidad afectada."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo en ecocardiograma sugiere riesgo alto de embolia en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracción de eyección normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orejuela izquierda con trombo visible"
+        },
+        {
+          "opcion": "C",
+          "texto": "Válvula mitral normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia del VI"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis pulmonar leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de trombos en la orejuela izquierda es el hallazgo ecocardiográfico más relacionado con embolias cardiogénicas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de anticoagulación está indicada en la prevención de embolia cardiogénica por fibrilación auricular valvular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heparina de bajo peso molecular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspirina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apixabán"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clopidogrel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la fibrilación auricular valvular, los antagonistas de la vitamina K como la warfarina son el tratamiento estándar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de émbolo se origina en el ventrículo izquierdo postinfarto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Graso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aéreo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tumoral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los trombos murales se forman sobre áreas infartadas y pueden embolizar a la circulación sistémica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación puede generar una embolia cardiogénica en la arteria renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión secundaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proteinuria leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria microscópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomerulonefritis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El embolismo renal ocluye el flujo sanguíneo renal y causa isquemia con insuficiencia renal aguda."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico puede sugerir embolia séptica cardiogénica en endocarditis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre y petequias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia y bradicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión pulmonar leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La embolia séptica por vegetaciones infectadas cursa con fiebre, lesiones cutáneas y fenómenos embólicos periféricos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal estrategia preventiva en pacientes con alto riesgo de embolia cardiogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio aeróbico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticoagulación controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia diurética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasodilatadores coronarios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anticoagulación reduce significativamente la incidencia de eventos embólicos en pacientes con riesgo cardiogénico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estructura cardíaca es el sitio más común de formación de trombos embolígenos en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orejuela izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aurícula derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Válvula tricúspide"
+        },
+        {
+          "opcion": "E",
+          "texto": "Seno coronario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La orejuela izquierda es el sitio donde se forma la mayoría de los trombos en la fibrilación auricular."
+    }
+  ]
+}

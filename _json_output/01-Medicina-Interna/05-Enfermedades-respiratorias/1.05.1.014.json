@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.014",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal característica fisiopatológica del edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión hidrostática capilar pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la presión oncótica plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la permeabilidad capilar alveolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción venosa pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla del ventrículo izquierdo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se produce por aumento de la permeabilidad de la membrana alveolocapilar, permitiendo la salida de líquido al intersticio y alveolos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes NO es una causa de edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de distrés respiratorio agudo (SDRA)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhalación de gases tóxicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infarto agudo al miocardio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pancreatitis aguda"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El infarto agudo al miocardio causa edema cardiogénico, no por aumento de permeabilidad alveolar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo hemodinámico diferencia el edema pulmonar no cardiogénico del cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión capilar pulmonar elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión capilar pulmonar normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la presión venosa central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión arterial severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el edema no cardiogénico, la presión capilar pulmonar se mantiene normal (<18 mmHg)."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el hallazgo radiológico típico en el edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiomegalia y redistribución vascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados alveolares bilaterales sin cardiomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural derecho"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del tamaño del ventrículo izquierdo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hilios pulmonares prominentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se observan infiltrados alveolares bilaterales difusos sin aumento del tamaño cardíaco."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes mecanismos produce edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión hidrostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la permeabilidad capilar alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del drenaje linfático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipervolemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla valvular mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de permeabilidad alveolar permite paso de líquido rico en proteínas hacia el espacio alveolar."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es una causa frecuente de edema pulmonar no cardiogénico en UCI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infarto de miocardio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis con SDRA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión pulmonar crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis mitral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sepsis es una causa común de SDRA, que cursa con edema pulmonar no cardiogénico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el contenido proteico del líquido alveolar en el edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajo contenido proteico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alto contenido proteico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia total de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Igual al plasma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo contenido lipídico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido tiene alto contenido proteico por el daño de la membrana alveolocapilar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de las siguientes es una causa neurológica de edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia subaracnoidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tromboembolismo pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia ventricular izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial sistémica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia subaracnoidea puede desencadenar edema pulmonar neurogénico por descarga adrenérgica masiva."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo clínico es típico del edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea con crepitantes bibasales y cardiomegalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea intensa con infiltrados bilaterales y corazón normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos seca sin disnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema periférico marcado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disnea severa con corazón de tamaño normal es típica del edema no cardiogénico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial más importante del edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación mecánica con PEEP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo y líquidos intravenosos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ventilación con PEEP mejora la oxigenación y reduce el colapso alveolar en el SDRA."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué diferencia el líquido del edema pulmonar no cardiogénico del cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El no cardiogénico es pobre en proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "El no cardiogénico es rico en proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambos son idénticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "El cardiogénico tiene leucocitos elevados"
+        },
+        {
+          "opcion": "E",
+          "texto": "El no cardiogénico tiene glucosa baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido del edema no cardiogénico es rico en proteínas por daño alveolocapilar."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué valor de presión capilar pulmonar (PCP) se encuentra típicamente en edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 25 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 18 y 25 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 18 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 25 y 30 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor de 30 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PCP es menor de 18 mmHg, lo que diferencia al edema no cardiogénico del cardiogénico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes eventos puede causar edema pulmonar no cardiogénico agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrecarga hídrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reexpansión pulmonar rápida tras neumotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla del ventrículo izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión pulmonar crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reexpansión pulmonar rápida puede provocar edema pulmonar no cardiogénico por daño endotelial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo gasométrico es característico del edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia refractaria a oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercapnia aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoxemia corregible con oxígeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis respiratoria leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxemia refractaria es característica del SDRA debido a shunt intrapulmonar y colapso alveolar."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una causa hematológica reconocida de edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción transfusional aguda (TRALI)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Policitemia vera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia idiopática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina B12"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El TRALI (Transfusion-Related Acute Lung Injury) causa edema pulmonar no cardiogénico por reacción inmunológica."
+    },
+    {
+      "numero": "16",
+      "texto": "En el edema pulmonar no cardiogénico, la presión oncótica plasmática suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normal o ligeramente disminuida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Marcadamente elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extremadamente baja (<5 mmHg)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentada por hiperalbuminemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indeterminable"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presión oncótica se mantiene normal; el problema principal es la permeabilidad alveolocapilar aumentada."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes NO se utiliza de forma rutinaria en el manejo del edema pulmonar no cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación con PEEP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control de la causa subyacente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos agresivos de rutina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitorización hemodinámica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los diuréticos no son esenciales porque el problema no es de sobrecarga hídrica sino de permeabilidad."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el signo clínico más característico en el edema pulmonar no cardiogénico grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esputo rosado espumoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cianosis y taquipnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias aisladas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxemia severa se manifiesta con cianosis y taquipnea marcadas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la mortalidad aproximada del edema pulmonar no cardiogénico en contexto de SDRA grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor al 5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-40%"
+        },
+        {
+          "opcion": "D",
+          "texto": "50-60%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor al 80%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad del SDRA grave, causa frecuente de edema pulmonar no cardiogénico, se aproxima al 40%."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué diferencia clave existe entre edema pulmonar cardiogénico y no cardiogénico en la radiografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de cardiomegalia en el no cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados perihiliares en el no cardiogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corazón de tamaño normal en el no cardiogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural bilateral solo en el no cardiogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Redistribución vascular en el no cardiogénico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El edema no cardiogénico muestra un corazón de tamaño normal, a diferencia del cardiogénico."
+    }
+  ]
+}

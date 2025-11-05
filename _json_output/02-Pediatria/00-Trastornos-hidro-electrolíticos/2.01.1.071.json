@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.071",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos hidro-electrolíticos",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el electrolito más abundante del líquido extracelular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Magnesio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fósforo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sodio es el principal catión del líquido extracelular y regula el equilibrio osmótico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el electrolito más abundante del líquido intracelular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Magnesio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El potasio es el principal catión intracelular y determina el potencial de membrana celular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué manifestación clínica es típica de la hiponatremia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiponatremia severa puede causar edema cerebral con convulsiones."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal causa de hiponatremia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea con reposición inadecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipokalemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diarrea con reposición hídrica hipotónica produce pérdidas de sodio y dilución plasmática."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la alteración electrocardiográfica típica de la hiperkalemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T planas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intervalo QT prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas P prominentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperkalemia se asocia a ondas T picudas y ensanchamiento del QRS."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué alteración produce el uso prolongado de diuréticos de asa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia e hipocalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia e hiperkalemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los diuréticos de asa causan pérdida de sodio, potasio y calcio, provocando hiponatremia e hipocalcemia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué manifestación clínica es característica de la hipocalcemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tetania y signos de Chvostek"
+        },
+        {
+          "opcion": "C",
+          "texto": "Letargo e hipotonía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalcemia produce hiperexcitabilidad neuromuscular con tetania y signo de Chvostek positivo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo se asocia a hipernatremia deshidratante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Letargo y fontanela deprimida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema palpebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sudoración excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de peso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipernatremia causa deshidratación celular con letargo y fontanela deprimida."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alteración causa el hiperaldosteronismo primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia e hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipernatremia e hipokalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermagnesemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de aldosterona aumenta la reabsorción de sodio y la excreción de potasio."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo clínico es característico de la hipokalemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debilidad muscular y arritmias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fasciculaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipokalemia severa produce debilidad muscular y riesgo de arritmias cardíacas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la principal manifestación de la hipermagnesemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión respiratoria y arritmias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temblores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ansiedad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefalea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipermagnesemia deprime la función neuromuscular y puede causar paro respiratorio o cardíaco."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué trastorno ácido-base suele acompañar a la hipokalemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna alteración"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipokalemia se asocia frecuentemente a alcalosis metabólica por aumento de excreción de H⁺."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué causa la hipocalcemia en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prematurez y asfixia perinatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de vitamina D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperparatiroidismo materno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliglobulia neonatal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prematurez y la asfixia neonatal alteran el metabolismo del calcio provocando hipocalcemia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué valor de sodio sérico define hiponatremia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Na⁺ < 135 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Na⁺ < 140 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Na⁺ < 130 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Na⁺ < 125 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Na⁺ < 120 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se considera hiponatremia cuando el sodio plasmático es menor de 135 mEq/L."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo ECG se asocia a hipokalemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión del ST y ondas U"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prolongación del PR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acortamiento del QT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipokalemia produce depresión del ST, ondas U y prolongación del QT."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la causa más frecuente de hipernatremia en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación por fiebre y vómitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de secreción inadecuada de ADH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta excesiva de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperhidratación endovenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deshidratación con pérdida de agua libre por fiebre o vómitos causa hipernatremia en lactantes."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tratamiento inicial se indica en hiponatremia sintomática grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero fisiológico al 0,9%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suero salino hipertónico al 3%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción hídrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Furosemida oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Manitol intravenoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiponatremia grave con síntomas neurológicos requiere suero salino hipertónico al 3% bajo control."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué signo clínico sugiere hiponatremia dilucional por SIADH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión y taquicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema pulmonar y natremia baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación y pérdida de peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SIADH causa retención de agua con natremia baja y expansión de volumen extracelular."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué trastorno se asocia a acidosis metabólica con hiperkalemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis tubular renal tipo IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Bartter"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos persistentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acidosis tubular renal tipo IV cursa con retención de potasio y acidosis metabólica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro se utiliza para valorar la hidratación en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diuresis y peso corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoglobina sérica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tamaño pupilar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control de la diuresis y del peso corporal permite estimar el estado de hidratación."
+    }
+  ]
+}

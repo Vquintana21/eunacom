@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flavivirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alphavirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retrovirus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dengue es causado por un virus del género Flavivirus, perteneciente a la familia Flaviviridae."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el vector principal de transmisión del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anopheles gambiae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aedes aegypti"
+        },
+        {
+          "opcion": "C",
+          "texto": "Culex pipiens"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aedes albopictus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Phlebotomus papatasi"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El mosquito Aedes aegypti es el principal vector urbano del virus del dengue."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuántos serotipos del virus del dengue se conocen?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuatro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cinco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Seis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Existen cuatro serotipos: DENV-1, DENV-2, DENV-3 y DENV-4, todos capaces de causar enfermedad."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el periodo de incubación habitual del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-7 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "10-15 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "20-25 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 30 días"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El periodo de incubación del dengue suele ser de 3 a 7 días tras la picadura infectante."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes síntomas es característico del dengue clásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea profusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exantema maculopapular y mialgias intensas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesiones vesiculares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esplenomegalia marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefalea frontal sin fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dengue clásico se manifiesta con fiebre alta, exantema, cefalea retroocular y mialgias intensas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el hallazgo hematológico más característico en dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis con neutrofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombocitopenia y hemoconcentración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eosinofilia persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monocitosis reactiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trombocitopenia y la hemoconcentración son hallazgos clave por fuga plasmática y destrucción plaquetaria."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo clínico orienta a dengue grave (hemorrágico)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal intenso y sangrado de mucosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos seca y mialgias leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatías cervicales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre persistente sin sangrado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor abdominal y los sangrados espontáneos indican progresión a dengue grave con extravasación plasmática."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué prueba rápida se utiliza para el diagnóstico temprano de dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antígeno NS1"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM específica por ELISA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR convencional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación de Wright"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La detección del antígeno NS1 permite el diagnóstico durante los primeros 5 días de fiebre."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué marcador serológico aparece primero en la infección por dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgG"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgA"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgE"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgD"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La IgM específica aparece alrededor del quinto día y sugiere infección reciente por dengue."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el mecanismo fisiopatológico del dengue hemorrágico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toxicidad directa del virus sobre endotelio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Respuesta inmune exacerbada con aumento de permeabilidad capilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Destrucción hepática masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de canales de calcio en plaquetas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depósito de inmunocomplejos en riñones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dengue grave se debe a una respuesta inmune intensa que provoca fuga plasmática y hemorragias."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué manifestación indica fuga plasmática significativa en dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatomegalia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pleural o ascitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exantema generalizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame pleural o la ascitis son signos clínicos de extravasación plasmática grave."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la complicación más grave del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de shock por dengue"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningoencefalitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocarditis viral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de shock por dengue es la complicación más severa, causada por extravasación masiva de plasma."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el tratamiento específico del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Interferón alfa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antivirales específicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rehidratación y manejo sintomático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoglobulina intravenosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento es de soporte, centrado en la hidratación y control de síntomas, sin antivirales específicos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué medicamento debe evitarse en el manejo del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paracetamol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ibuprofeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sales de rehidratación oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ondansetrón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clorfenamina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los AINES como el ibuprofeno deben evitarse por riesgo de sangrado en pacientes con trombocitopenia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo de laboratorio indica riesgo de dengue severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematocrito en ascenso y plaquetas <100.000"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de transaminasas menor de 2x"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento del hematocrito junto con trombocitopenia indica extravasación plasmática y riesgo de dengue severo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el principal criterio para hospitalizar a un paciente con dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor articular leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signos de alarma como vómitos persistentes o sangrado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea intensa aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema sin fiebre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los signos de alarma como sangrado, vómitos o dolor abdominal indican necesidad de hospitalización."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de inmunidad confiere la infección por un serotipo del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunidad cruzada completa y permanente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunidad específica permanente para ese serotipo y transitoria para otros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sin inmunidad alguna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunidad parcial durante toda la vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunidad dependiente de anticuerpos neutralizantes inespecíficos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La infección genera inmunidad permanente contra el serotipo infectante y transitoria contra los demás."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué prueba permite confirmar el diagnóstico de dengue durante la fase de convalecencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detección del antígeno NS1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serología IgM o aumento de títulos de IgG"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR tiempo real"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocultivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante la convalecencia se detectan anticuerpos IgM o incremento de IgG en muestras pareadas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico se observa con mayor frecuencia en la fase de recuperación del dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Choque hipovolémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exantema con prurito y mejoría general"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematemesis masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar agudo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coma hipoglucémico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la fase de recuperación suele aparecer un exantema pruriginoso y mejoría del estado general."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes estrategias es la más efectiva para prevenir el dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación masiva anual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminación de criaderos de mosquitos y control vectorial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento respiratorio de pacientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo de agua hervida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La eliminación de criaderos y control del Aedes aegypti son las medidas preventivas más efectivas."
+    }
+  ]
+}

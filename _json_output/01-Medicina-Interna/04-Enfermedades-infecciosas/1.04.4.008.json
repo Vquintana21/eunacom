@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principio básico de la tinción de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diferenciar bacterias según la forma de sus flagelos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Distinguir bacterias por su contenido lipídico y estructura de la pared celular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar bacterias con cápsula polisacárida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clasificar bacterias por su metabolismo aeróbico o anaeróbico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar bacterias intracelulares obligadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tinción de Gram diferencia bacterias según la composición de su pared: gruesa en Gram positivas y delgada en Gram negativas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué color adquieren las bacterias Gram positivas después de la tinción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rojas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Verdes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azules o violetas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incoloras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amarillas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bacterias Gram positivas retienen el cristal violeta y se observan de color violeta o azul bajo el microscopio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué color presentan las bacterias Gram negativas al finalizar la tinción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Azul oscuro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rosa o rojo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verde"
+        },
+        {
+          "opcion": "D",
+          "texto": "Negro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amarillo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bacterias Gram negativas pierden el cristal violeta y se tiñen de rosa con la safranina."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes pasos de la tinción de Gram es el agente decolorante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cristal violeta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lugol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcohol-acetona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Safranina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azul de metileno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alcohol-acetona actúa como decolorante, eliminando el color de las bacterias Gram negativas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principal componente de la pared celular de las bacterias Gram positivas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peptidoglucano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lipopolisacárido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido teicoico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteína de membrana externa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fosfolípidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las Gram positivas tienen una gruesa capa de peptidoglucano responsable de retener el cristal violeta."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué bacteria se observa como cocos Gram positivos en racimos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Listeria monocytogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus forma racimos de cocos Gram positivos característicos en la tinción de Gram."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué morfología presentan las bacterias Neisseria spp. en la tinción de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilos Gram negativos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocos Gram positivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diplococos Gram negativos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cocos en cadenas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bacilos Gram positivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Neisseria spp. se observan como diplococos Gram negativos, típicamente intracelulares."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes microorganismos es un bacilo Gram negativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacillus anthracis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "E",
+          "texto": "Staphylococcus epidermidis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Escherichia coli es un bacilo Gram negativo, común en infecciones urinarias y digestivas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué colorante se utiliza primero en la técnica de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Safranina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristal violeta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fucsina básica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lugol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azul de metileno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cristal violeta es el colorante primario que tiñe inicialmente todas las bacterias."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué función cumple el lugol en la tinción de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Actúa como decolorante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fija el colorante primario al peptidoglucano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiñe bacterias negativas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permite visualizar esporas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Destruye la pared bacteriana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lugol o mordiente fija el cristal violeta al peptidoglucano, formando un complejo insoluble."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué bacteria se identifica como bacilo Gram positivo en empalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Corynebacterium diphtheriae se observa como bacilos Gram positivos dispuestos en empalizada o letras chinas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué microorganismo aparece como bacilo Gram negativo no fermentador?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proteus mirabilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella enterica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yersinia pestis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Pseudomonas aeruginosa es un bacilo Gram negativo no fermentador, frecuente en infecciones hospitalarias."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué microorganismo no puede visualizarse correctamente con tinción de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neisseria meningitidis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Mycobacterium tuberculosis no se tiñe con Gram debido a su alto contenido lipídico; requiere Ziehl-Neelsen."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo de Gram sugiere contaminación orofaríngea en muestra de esputo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilos Gram negativos monomicrobianos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocos Gram positivos en racimos abundantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flora polimicrobiana con células epiteliales escamosas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Predominio de PMN y un solo tipo bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de crecimiento"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de flora polimicrobiana y muchas células epiteliales indica contaminación oral."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de bacterias poseen una membrana externa rica en lipopolisacáridos (LPS)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gram positivas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gram negativas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gram variables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido-alcohol resistentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esporuladas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bacterias Gram negativas presentan una membrana externa con lipopolisacáridos, importante en su virulencia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué microorganismo se observa como diplococo Gram positivo lanceolado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus pneumoniae aparece como diplococos Gram positivos con forma lanceolada en el Gram."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué indica la observación de cocos Gram negativos intracelulares en secreción uretral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección por Chlamydia trachomatis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección por Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección por Mycoplasma hominis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección por Streptococcus agalactiae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección por Gardnerella vaginalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los diplococos Gram negativos intracelulares son característicos de Neisseria gonorrhoeae en muestras uretrales."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué estructura bacteriana es la principal responsable de retener el colorante en Gram positivas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Membrana citoplasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cápsula polisacárida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capa de peptidoglucano gruesa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pili y fimbrias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esporas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La capa gruesa de peptidoglucano retiene el complejo cristal violeta-lugol en bacterias Gram positivas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el orden correcto de los pasos en la tinción de Gram?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lugol, cristal violeta, alcohol, safranina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristal violeta, lugol, alcohol, safranina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cristal violeta, alcohol, lugol, safranina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Safranina, lugol, alcohol, cristal violeta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lugol, safranina, cristal violeta, alcohol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El orden correcto es: cristal violeta (colorante primario), lugol (mordiente), alcohol (decolorante) y safranina (contracolorante)."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tipo de resultado se obtiene si la decoloración con alcohol es excesiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Todas las bacterias se tiñen de violeta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Las Gram positivas pueden parecer negativas"
+        },
+        {
+          "opcion": "C",
+          "texto": "No se observan bacterias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Las Gram negativas se tornan azules"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la intensidad del color"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La decoloración excesiva elimina el color incluso de las Gram positivas, dando falsos resultados negativos."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.001",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Alimentación normal",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la recomendación de lactancia materna exclusiva según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta los 3 meses de vida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta los 4 meses de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hasta los 5 meses de vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hasta los 6 meses de vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta el año de vida"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La OMS recomienda lactancia materna exclusiva hasta los 6 meses de edad y luego complementarla con alimentación sólida."
+    },
+    {
+      "numero": "2",
+      "texto": "La principal fuente de energía en la leche materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lípidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carbohidratos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitaminas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Minerales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los lípidos constituyen la principal fuente energética de la leche materna, aportando cerca del 50% del total calórico."
+    },
+    {
+      "numero": "3",
+      "texto": "La proteína predominante en la leche humana es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caseína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactoglobulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactoferrina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alfa-lactoalbúmina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Albumina sérica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La alfa-lactoalbúmina es la principal proteína de la leche materna, de fácil digestión para el lactante."
+    },
+    {
+      "numero": "4",
+      "texto": "El calostro se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alto contenido graso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajo contenido proteico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riqueza en inmunoglobulinas A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta concentración de lactosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor volumen que la leche madura"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El calostro es rico en inmunoglobulinas A y confiere inmunidad pasiva al recién nacido."
+    },
+    {
+      "numero": "5",
+      "texto": "La leche madura aparece generalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al segundo día postparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al cuarto día postparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "A la semana del parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Al décimo día postparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Al mes de vida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La leche madura se establece entre el tercer y cuarto día postparto, tras la bajada de la leche."
+    },
+    {
+      "numero": "6",
+      "texto": "El inicio de la alimentación complementaria debe realizarse a los:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "4 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "9 meses"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "A partir de los 6 meses se recomienda introducir alimentación complementaria junto con la lactancia materna."
+    },
+    {
+      "numero": "7",
+      "texto": "El primer alimento recomendado en la alimentación complementaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leche entera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Jugos cítricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verduras y cereales fortificados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carnes rojas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las verduras cocidas, frutas y cereales fortificados con hierro son los primeros alimentos sugeridos."
+    },
+    {
+      "numero": "8",
+      "texto": "El hierro en la leche materna se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Baja biodisponibilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alta biodisponibilidad a pesar de su baja concentración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Concentración alta y poco absorbible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Origen no hemo exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inactivación por lactosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hierro de la leche materna, aunque escaso, tiene alta biodisponibilidad, siendo bien absorbido por el lactante."
+    },
+    {
+      "numero": "9",
+      "texto": "La leche de vaca entera no debe darse antes del año porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contiene demasiada grasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiene bajo contenido de calcio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Posee exceso de proteínas y sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es pobre en vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Provoca intolerancia a la lactosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de proteínas y sodio de la leche de vaca puede sobrecargar el riñón del lactante."
+    },
+    {
+      "numero": "10",
+      "texto": "El reflejo de succión-deglución se coordina completamente alrededor de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "28 semanas de gestación"
+        },
+        {
+          "opcion": "B",
+          "texto": "32 semanas de gestación"
+        },
+        {
+          "opcion": "C",
+          "texto": "34 semanas de gestación"
+        },
+        {
+          "opcion": "D",
+          "texto": "36 semanas de gestación"
+        },
+        {
+          "opcion": "E",
+          "texto": "40 semanas de gestación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La coordinación completa del reflejo succión-deglución-respiración se logra cerca de las 34 semanas de gestación."
+    },
+    {
+      "numero": "11",
+      "texto": "El volumen gástrico del recién nacido al nacimiento es de aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "20 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "30 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "50 mL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El volumen gástrico del recién nacido es de unos 20 mL, aumentando progresivamente en la primera semana."
+    },
+    {
+      "numero": "12",
+      "texto": "Durante los primeros 6 meses, la ganancia ponderal esperada es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 g/semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "100 g/semana"
+        },
+        {
+          "opcion": "C",
+          "texto": "150-200 g/semana"
+        },
+        {
+          "opcion": "D",
+          "texto": "250 g/semana"
+        },
+        {
+          "opcion": "E",
+          "texto": "300 g/semana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante los primeros 6 meses, el lactante gana entre 150 y 200 gramos por semana en promedio."
+    },
+    {
+      "numero": "13",
+      "texto": "El contenido de proteínas de la leche materna es menor que el de la leche de vaca, lo cual:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Favorece el crecimiento excesivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Genera déficit proteico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Favorece la digestibilidad y crecimiento adecuado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta el riesgo de alergia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Provoca hipoproteinemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La menor cantidad de proteínas en la leche materna facilita la digestión y un crecimiento equilibrado."
+    },
+    {
+      "numero": "14",
+      "texto": "El aporte calórico recomendado en un lactante de 6 meses es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "60 kcal/kg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "80 kcal/kg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "100 kcal/kg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "120 kcal/kg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "140 kcal/kg/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un lactante de 6 meses requiere cerca de 100 kcal/kg/día para un crecimiento normal."
+    },
+    {
+      "numero": "15",
+      "texto": "La principal ventaja inmunológica de la leche materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor contenido de hierro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de inmunoglobulina A secretora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bajo contenido lipídico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta concentración de sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación de flora patógena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunoglobulina A secretora protege las mucosas del lactante frente a infecciones respiratorias y digestivas."
+    },
+    {
+      "numero": "16",
+      "texto": "En caso de madre con VIH, la lactancia materna:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Está contraindicada en todos los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se permite sin tratamiento antirretroviral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depende del acceso a fórmula segura y tratamiento antirretroviral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debe interrumpirse al mes de vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo se permite con leche pasteurizada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La decisión depende del tratamiento y condiciones de seguridad; en algunos contextos se permite con TARV materna."
+    },
+    {
+      "numero": "17",
+      "texto": "El uso de miel está contraindicado en menores de 1 año porque puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alergia alimentaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caries dental precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Botulismo infantil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intolerancia a la fructosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La miel puede contener esporas de Clostridium botulinum, causante de botulismo infantil."
+    },
+    {
+      "numero": "18",
+      "texto": "En la alimentación complementaria, la introducción del huevo debe hacerse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de los 4 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después del año"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 9 y 12 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 18 meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda introducir el huevo a partir de los 6 meses, comenzando con la yema cocida."
+    },
+    {
+      "numero": "19",
+      "texto": "La vitamina D debe suplementarse en lactantes porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No está presente en la leche materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evita la anemia ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Previene el raquitismo y mejora absorción de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula la ganancia ponderal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Previene alergias alimentarias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La suplementación con vitamina D previene el raquitismo y asegura adecuada mineralización ósea."
+    },
+    {
+      "numero": "20",
+      "texto": "El suplemento de hierro en lactantes se recomienda iniciar a partir de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "4 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "9 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda suplementar hierro desde los 6 meses, cuando las reservas fisiológicas empiezan a disminuir."
+    }
+  ]
+}

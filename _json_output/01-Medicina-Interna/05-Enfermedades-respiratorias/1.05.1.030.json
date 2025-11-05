@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.030",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define una neumonía nosocomial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía adquirida en la comunidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía que aparece 48 horas o más después de la hospitalización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía por virus respiratorios adquirida fuera del hospital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía en paciente con VIH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía diagnosticada antes del ingreso hospitalario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neumonía nosocomial se desarrolla 48 horas o más después del ingreso, sin evidencia de infección previa."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué microorganismo es una causa frecuente de neumonía asociada a ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydophila pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa es un patógeno común en neumonías asociadas a ventilación mecánica por su capacidad de colonizar equipos hospitalarios."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué factor de riesgo aumenta la probabilidad de neumonía nosocomial por bacilos Gram negativos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de corticoides inhalatorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación mecánica prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso reciente de antipiréticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio intenso previo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ventilación mecánica prolongada favorece la colonización y aspiración de bacilos Gram negativos del tracto respiratorio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué agente etiológico es característico de neumonía nosocomial temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus sensible a meticilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae multirresistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acinetobacter baumannii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En neumonía nosocomial temprana predominan patógenos similares a la comunidad como S. aureus sensible y H. influenzae."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué antibiótico es adecuado para cubrir Pseudomonas en neumonía nosocomial grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefepime"
+        },
+        {
+          "opcion": "C",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefazolina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritromicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cefepime, una cefalosporina de cuarta generación, tiene buena cobertura frente a Pseudomonas aeruginosa."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué patógeno se asocia a neumonía nosocomial posterior a influenza?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus resistente a meticilina (MRSA)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pneumocystis jirovecii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium avium"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El MRSA puede causar neumonía nosocomial grave postinfluenza, frecuentemente necrosante."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el mecanismo fisiopatológico más frecuente de las neumonías nosocomiales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhalación de aerosoles contaminados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración de secreciones orofaríngeas colonizadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diseminación hematógena"
+        },
+        {
+          "opcion": "D",
+          "texto": "Extensión desde estructuras adyacentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reactivación viral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aspiración de secreciones orofaríngeas colonizadas por flora hospitalaria es la principal vía de infección nosocomial."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes microorganismos es típico de neumonía nosocomial tardía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydia pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En neumonía nosocomial tardía predominan bacterias multirresistentes como Pseudomonas aeruginosa o Acinetobacter."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo clínico puede sugerir una neumonía nosocomial en un paciente intubado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre aislada sin cambios respiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del volumen y purulencia de las secreciones traqueales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos seca sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estertores basales leves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea intermitente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de la purulencia y volumen de secreciones en un paciente ventilado es un signo clásico de neumonía nosocomial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medida preventiva es eficaz para reducir la incidencia de neumonía asociada a ventilador?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos profilácticos prolongados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación de la cabecera 30–45°"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedación continua profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspiración continua del esputo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso rutinario de corticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Elevar la cabecera entre 30° y 45° reduce el riesgo de aspiración y neumonía asociada a ventilación mecánica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué prueba es más útil para confirmar neumonía nosocomial en paciente ventilado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo periférico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax con infiltrado nuevo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteína C reactiva elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedimentación globular aumentada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aparición de un nuevo infiltrado pulmonar en la radiografía junto a síntomas clínicos confirma el diagnóstico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la duración típica del tratamiento antibiótico en neumonía nosocomial no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "10–14 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "21 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento de 7 días suele ser suficiente en neumonías nosocomiales con buena respuesta clínica y sin complicaciones."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué microorganismo debe sospecharse en neumonía nosocomial con antecedentes de antibioterapia prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bordetella pertussis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La antibioterapia prolongada selecciona flora resistente como Pseudomonas o Acinetobacter."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué patógeno suele causar neumonía nosocomial en pacientes con traqueostomía crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acinetobacter baumannii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos los anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Pacientes con traqueostomía crónica suelen colonizarse por bacilos Gram negativos como Pseudomonas, Acinetobacter y Enterobacter."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo radiológico sugiere neumonía nosocomial por bacilos Gram negativos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado lobar único"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón intersticial difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consolidaciones multilobares con cavitación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos miliares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vidrio esmerilado periférico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las neumonías por Gram negativos pueden causar consolidaciones multilobares y cavitaciones por necrosis tisular."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué antibiótico cubre mejor al MRSA en neumonía nosocomial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefepime"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amoxicilina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vancomicina es el tratamiento de elección para infecciones por Staphylococcus aureus resistente a meticilina."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué método microbiológico es útil para identificar el agente etiológico de una neumonía nosocomial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspirado endotraqueal o lavado broncoalveolar con cultivo cuantitativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen de orina general"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test rápido de antígenos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Serología IgM"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cultivo cuantitativo de aspirado o lavado broncoalveolar permite identificar el patógeno y diferenciar colonización de infección."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes antibióticos tiene cobertura frente a Acinetobacter baumannii multirresistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meropenem"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colistina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Levofloxacino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colistina se usa como tratamiento de última línea para infecciones por Acinetobacter multirresistente."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes factores NO aumenta el riesgo de neumonía nosocomial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación mecánica prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso prolongado de antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hospitalización corta de menos de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia inmunosupresora"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una hospitalización corta sin exposición a factores de riesgo no aumenta la probabilidad de neumonía nosocomial."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida es clave para prevenir neumonías nosocomiales en hospitales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de mascarillas por el personal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavado de manos y manejo adecuado de dispositivos invasivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Profilaxis antibiótica universal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento respiratorio de todos los pacientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso diario de broncoscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lavado de manos y el manejo aséptico de dispositivos invasivos son las medidas más efectivas para prevenir infecciones nosocomiales."
+    }
+  ]
+}

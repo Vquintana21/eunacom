@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de amenorrea primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Asherman"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anorexia nerviosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de ovario poliquístico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Turner (45,X0) es la causa más común de amenorrea primaria por disgenesia gonadal."
+    },
+    {
+      "numero": "2",
+      "texto": "La amenorrea secundaria se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de menarquia antes de los 16 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de menstruación por más de 3 meses en mujeres con ciclos previos regulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menstruaciones irregulares en adolescentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangrado uterino anovulatorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cese menstrual antes de los 40 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera amenorrea secundaria cuando hay ausencia de menstruación por más de 3 meses en mujeres previamente menstruantes."
+    },
+    {
+      "numero": "3",
+      "texto": "El primer paso en la evaluación de una paciente con amenorrea secundaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Descartar embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dosificar FSH y LH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar ecografía pélvica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El embarazo debe descartarse siempre como primera causa de amenorrea secundaria."
+    },
+    {
+      "numero": "4",
+      "texto": "La amenorrea hipotalámica funcional se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio intenso, estrés o bajo peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de ovario poliquístico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Sheehan"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estrés, la pérdida de peso o el ejercicio excesivo disminuyen la secreción de GnRH, causando amenorrea hipotalámica."
+    },
+    {
+      "numero": "5",
+      "texto": "El síndrome de Asherman se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anovulación crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adherencias intrauterinas poslegrado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia ovárica prematura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipersecreción de prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipogonadismo hipogonadotrófico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Asherman se debe a sinequias intrauterinas posteriores a legrados o infecciones endometriales."
+    },
+    {
+      "numero": "6",
+      "texto": "En la insuficiencia ovárica prematura, los niveles hormonales muestran:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH baja y estradiol alto"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH alta y estradiol bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "LH baja y progesterona alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH elevada y prolactina alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol bajo y ACTH baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia ovárica cursa con hipogonadismo hipergonadotrófico: FSH alta y estradiol bajo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo clínico sugiere síndrome de ovario poliquístico (SOP) como causa de amenorrea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperpigmentación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hirsutismo y acné"
+        },
+        {
+          "opcion": "C",
+          "texto": "Galactorrea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estrías violáceas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exoftalmos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SOP cursa con hiperandrogenismo clínico, manifestado como hirsutismo, acné y alteraciones menstruales."
+    },
+    {
+      "numero": "8",
+      "texto": "La amenorrea con galactorrea se asocia más frecuentemente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Sheehan"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prolactinoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia ovárica prematura"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prolactinoma causa hiperprolactinemia, que inhibe la secreción de GnRH, provocando amenorrea y galactorrea."
+    },
+    {
+      "numero": "9",
+      "texto": "La prueba de progesterona positiva indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit estrogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de útero y niveles adecuados de estrógenos endógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción del tracto genital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia ovárica severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia hipofisaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si tras administrar progesterona aparece sangrado, el eje estrogénico y el endometrio están funcionales."
+    },
+    {
+      "numero": "10",
+      "texto": "El síndrome de Sheehan ocurre típicamente después de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trauma craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia posparto masiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legrado uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección puerperal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Sheehan se produce por necrosis hipofisaria secundaria a hipotensión severa posparto."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de las siguientes hormonas está suprimida en la amenorrea hipotalámica funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "GnRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolactina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La amenorrea hipotalámica se caracteriza por supresión de GnRH y, secundariamente, disminución de FSH y LH."
+    },
+    {
+      "numero": "12",
+      "texto": "En la amenorrea por hipotiroidismo, la hiperprolactinemia se explica por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de TRH que estimula prolactina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento directo de T3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Supresión de dopamina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación de FSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación de GnRH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el hipotiroidismo, la TRH elevada estimula la secreción de prolactina, provocando amenorrea."
+    },
+    {
+      "numero": "13",
+      "texto": "La amenorrea con olfato disminuido es característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Kallmann"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Sheehan"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Kallmann combina hipogonadismo hipogonadotrófico con anosmia por alteración del desarrollo de GnRH y bulbos olfatorios."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes estudios es útil para evaluar el síndrome de Asherman?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética hipofisaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histerosalpingografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dosificación de FSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol sérico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La histerosalpingografía permite visualizar sinequias intrauterinas, características del síndrome de Asherman."
+    },
+    {
+      "numero": "15",
+      "texto": "La ausencia de caracteres sexuales secundarios en una amenorrea primaria indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración hipotalámica o hipofisaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Asherman"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción del canal cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anovulación crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ausencia de caracteres sexuales sugiere un trastorno central (hipogonadismo hipogonadotrófico)."
+    },
+    {
+      "numero": "16",
+      "texto": "La amenorrea con desarrollo mamario normal y ausencia de útero sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Rokitansky-Küster-Hauser"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Kallmann"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipogonadismo hipogonadotrófico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Rokitansky-Küster-Hauser se caracteriza por agenesia uterovaginal con ovarios normales y desarrollo mamario normal."
+    },
+    {
+      "numero": "17",
+      "texto": "En una paciente con amenorrea y TSH elevada, el tratamiento de elección es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cabergolina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clomifeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona cíclica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo debe tratarse con levotiroxina, lo que normaliza los niveles de TSH y prolactina."
+    },
+    {
+      "numero": "18",
+      "texto": "En la insuficiencia ovárica prematura, la causa más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autoinmunidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de GnRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tumor ovárico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La autoinmunidad es la causa más común de insuficiencia ovárica prematura espontánea."
+    },
+    {
+      "numero": "19",
+      "texto": "El síndrome de Sheehan causa amenorrea por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Necrosis de la adenohipófisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperplasia suprarrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de TRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteración ovárica primaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción aumentada de FSH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La necrosis isquémica hipofisaria posparto produce déficit de gonadotropinas, causando amenorrea."
+    },
+    {
+      "numero": "20",
+      "texto": "Una mujer con amenorrea, galactorrea y prolactina elevada debe someterse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de supresión con dexametasona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética de silla turca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medición de cortisol urinario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinación de DHEA-S"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resonancia magnética de hipófisis permite confirmar un prolactinoma o lesión hipofisaria como causa de hiperprolactinemia."
+    }
+  ]
+}

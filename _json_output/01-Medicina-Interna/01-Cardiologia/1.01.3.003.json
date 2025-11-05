@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.3.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el rango terapéutico habitual del INR para un paciente con fibrilación auricular en tratamiento con warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.0–1.5"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.5–2.0"
+        },
+        {
+          "opcion": "C",
+          "texto": "2.0–3.0"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.0–4.0"
+        },
+        {
+          "opcion": "E",
+          "texto": "4.0–5.0"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rango terapéutico óptimo para la mayoría de los pacientes con fibrilación auricular es un INR entre 2.0 y 3.0."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué fármaco revierte de forma más rápida los efectos de la warfarina en una hemorragia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina K oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plasma fresco congelado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Concentrado de complejo de protrombina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heparina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido tranexámico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El concentrado de complejo de protrombina corrige rápidamente el INR y controla el sangrado severo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el mecanismo de acción de los anticoagulantes orales directos tipo dabigatrán?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibición del factor Xa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición directa de la trombina (IIa)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Activación de antitrombina III"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición del factor IX"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo del factor VII"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Dabigatrán inhibe directamente la trombina, evitando la conversión de fibrinógeno en fibrina."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el antídoto específico de dabigatrán?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "B",
+          "texto": "Idarucizumab"
+        },
+        {
+          "opcion": "C",
+          "texto": "Andexanet alfa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Protamina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido tranexámico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Idarucizumab es un anticuerpo monoclonal que neutraliza rápidamente los efectos de dabigatrán."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué parámetro de laboratorio se utiliza para monitorizar la eficacia de la warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiempo de trombina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiempo de tromboplastina parcial (TTPa)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de protrombina (TP) e INR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiempo de coagulación total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuento plaquetario"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tiempo de protrombina, expresado como INR, refleja la intensidad de la anticoagulación con warfarina."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué anticoagulante puede usarse de forma segura durante el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heparina no fraccionada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rivaroxabán"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apixabán"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dabigatrán"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La heparina no fraccionada no atraviesa la placenta y es segura para el feto."
+    },
+    {
+      "numero": "7",
+      "texto": "En pacientes con válvula mecánica, ¿cuál es el rango terapéutico de INR recomendado habitualmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.5–2.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "2.0–3.0"
+        },
+        {
+          "opcion": "C",
+          "texto": "2.5–3.5"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.5–4.5"
+        },
+        {
+          "opcion": "E",
+          "texto": "1.0–1.5"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las válvulas mecánicas requieren anticoagulación más intensa, con INR entre 2.5 y 3.5."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el riesgo principal asociado al uso de anticoagulantes orales directos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia gastrointestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arritmia ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutropenia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sangrado gastrointestinal es la complicación más frecuente de los anticoagulantes orales directos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alimento puede disminuir el efecto anticoagulante de la warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espinacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Papas fritas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cítricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manzanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carne blanca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las verduras de hoja verde ricas en vitamina K reducen el efecto de la warfarina."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué parámetro debe evaluarse antes de iniciar anticoagulación en un paciente con FA no valvular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Score CHA₂DS₂-VASc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niveles de fibrinógeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento de leucocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de ferritina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tasa de filtración glomerular corregida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El score CHA₂DS₂-VASc estima el riesgo tromboembólico y orienta la necesidad de anticoagulación."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué sustancia neutraliza los efectos anticoagulantes de la heparina no fraccionada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "B",
+          "texto": "Protamina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Idarucizumab"
+        },
+        {
+          "opcion": "D",
+          "texto": "Andexanet alfa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desmopresina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La protamina se une a la heparina y revierte rápidamente su efecto anticoagulante."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué acción debe tomarse ante un INR >5 sin sangrado activo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender warfarina y administrar vitamina K oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar dosis de warfarina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dar plasma fresco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar heparina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Continuar dosis habitual"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Si no hay sangrado, se suspende warfarina y se administra vitamina K oral para reducir el INR."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué anticoagulante NO requiere monitorización rutinaria de laboratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heparina no fraccionada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enoxaparina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rivaroxabán"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acenocumarol"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Rivaroxabán tiene efecto predecible y no necesita control rutinario del INR o TP."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal ventaja de los anticoagulantes orales directos sobre la warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor vida media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor interacción alimentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor necesidad de monitorización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor riesgo hemorrágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más económicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los anticoagulantes orales directos tienen menos interacciones y no requieren monitorización del INR."
+    },
+    {
+      "numero": "15",
+      "texto": "En un paciente con insuficiencia renal avanzada, ¿qué anticoagulante se prefiere?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dabigatrán"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apixabán"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rivaroxabán"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heparina no fraccionada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edoxabán"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La heparina no fraccionada es segura porque no se acumula en insuficiencia renal avanzada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué fármaco puede aumentar el efecto anticoagulante de la warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rifampicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenitoína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Barbitúricos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Amiodarona inhibe el metabolismo hepático de la warfarina, aumentando su efecto anticoagulante."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la principal complicación de la heparina no fraccionada tras varios días de uso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombocitopenia inducida por heparina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatotoxicidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpotasemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La trombocitopenia inducida por heparina es una complicación inmunomediada grave que requiere suspender el fármaco."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué factor de la coagulación inhiben los anticoagulantes tipo rivaroxabán y apixabán?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factor II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Factor V"
+        },
+        {
+          "opcion": "C",
+          "texto": "Factor VII"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor Xa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Factor IX"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Rivaroxabán y apixabán inhiben selectivamente el factor Xa, bloqueando la generación de trombina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué conducta debe adoptarse antes de una cirugía electiva en paciente anticoagulado con warfarina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender warfarina 5 días antes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender warfarina el mismo día"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mantener dosis habitual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duplicar dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reemplazar por AAS"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Warfarina se suspende 5 días antes para permitir normalización del INR preoperatorio."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro se utiliza para ajustar dosis de heparina no fraccionada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "INR"
+        },
+        {
+          "opcion": "B",
+          "texto": "TTPa"
+        },
+        {
+          "opcion": "C",
+          "texto": "TP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plaquetas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tiempo de tromboplastina parcial activado (TTPa) guía el ajuste de dosis de heparina no fraccionada."
+    }
+  ]
+}

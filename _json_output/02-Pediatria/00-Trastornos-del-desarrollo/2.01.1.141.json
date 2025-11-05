@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.141",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos del desarrollo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por trastorno del desarrollo en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso en una sola área del desarrollo psicomotor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afectación persistente de múltiples áreas del desarrollo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno exclusivamente motor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno transitorio del aprendizaje"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit cognitivo leve sin repercusión funcional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los trastornos del desarrollo afectan diversas áreas como lenguaje, cognición, motricidad y socialización de forma persistente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes es un ejemplo de trastorno del desarrollo global?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dislalia funcional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autismo infantil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso específico del lenguaje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislexia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tartamudez"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trastorno del espectro autista afecta la comunicación, la conducta y la interacción social, siendo un trastorno global del desarrollo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué instrumento se utiliza habitualmente para la evaluación del desarrollo psicomotor en Chile en menores de 2 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TEPSI"
+        },
+        {
+          "opcion": "B",
+          "texto": "EEDP"
+        },
+        {
+          "opcion": "C",
+          "texto": "WISC-V"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bayley III"
+        },
+        {
+          "opcion": "E",
+          "texto": "Denver II"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El EEDP se utiliza en Chile para evaluar el desarrollo psicomotor en niños menores de 2 años."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes signos de alarma sugiere un trastorno del desarrollo a los 18 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Camina con apoyo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dice tres palabras comprensibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "No señala ni imita gestos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duerme 10 horas diarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Come con las manos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ausencia de gestos comunicativos y la falta de imitación son signos precoces de alteración del desarrollo social o comunicativo."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué área del desarrollo se evalúa con mayor precisión mediante el test TEPSI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Motricidad gruesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Motricidad fina, lenguaje y coordinación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crecimiento ponderal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comprensión auditiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Socialización"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TEPSI evalúa motricidad fina, coordinación y lenguaje en niños de 2 a 5 años."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la intervención más importante frente a un retraso del desarrollo detectado en la consulta pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esperar evolución espontánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derivación temprana a estimulación y diagnóstico especializado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inicio de farmacoterapia inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar información a los padres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar neuroimagen en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La intervención temprana y la derivación a programas de estimulación son esenciales para mejorar el pronóstico del desarrollo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo a los 12 meses sugiere alteración del desarrollo comunicativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Balbuceo simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de dos palabras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de balbuceo y contacto ocular pobre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Camina con apoyo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reconoce su nombre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de balbuceo y de contacto ocular a los 12 meses puede indicar trastorno del desarrollo del lenguaje o del espectro autista."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la prevalencia estimada de trastornos del espectro autista en la población infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 en 10.000"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 en 500"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 en 100"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 en 1.000"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 en 10"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prevalencia actual estimada del TEA es aproximadamente 1 en 100 niños según la OMS."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué dominio se ve principalmente afectado en los trastornos del espectro autista?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje y comunicación social"
+        },
+        {
+          "opcion": "B",
+          "texto": "Motricidad gruesa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Memoria de trabajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Visión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento físico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los TEA afectan la comunicación social recíproca y los patrones de comportamiento repetitivos o restringidos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes es un signo precoz del trastorno del espectro autista?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje expresivo normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imitación social activa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falta de respuesta al nombre y pobre contacto ocular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Juego simbólico adecuado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desarrollo motor avanzado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de respuesta al nombre y el escaso contacto ocular son signos de alarma tempranos para TEA."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué instrumento se utiliza para la pesquisa temprana de autismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "M-CHAT"
+        },
+        {
+          "opcion": "B",
+          "texto": "TEPSI"
+        },
+        {
+          "opcion": "C",
+          "texto": "EEDP"
+        },
+        {
+          "opcion": "D",
+          "texto": "WISC-IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Denver II"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cuestionario M-CHAT es una herramienta de detección temprana de riesgo de autismo en niños pequeños."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué diagnóstico debe sospecharse ante un niño con buena memoria visual, lenguaje literal y dificultades sociales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno por déficit atencional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Asperger"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno específico del lenguaje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Discapacidad intelectual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutismo selectivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Asperger se caracteriza por dificultades sociales y rigidez cognitiva, con lenguaje y cognición conservados."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué prueba es útil para evaluar inteligencia en niños con sospecha de discapacidad intelectual?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EEDP"
+        },
+        {
+          "opcion": "B",
+          "texto": "TEPSI"
+        },
+        {
+          "opcion": "C",
+          "texto": "WISC-V"
+        },
+        {
+          "opcion": "D",
+          "texto": "M-CHAT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Conners"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El test WISC-V permite medir coeficiente intelectual y diferenciar tipos de déficit cognitivo en edad escolar."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes factores se asocia a mayor riesgo de trastornos del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso adecuado al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez extrema y bajo peso neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Madre joven sin antecedentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control prenatal completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de infecciones congénitas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prematurez y el bajo peso al nacer son factores de riesgo reconocidos para trastornos del neurodesarrollo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué intervención es clave en los trastornos del desarrollo del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratamiento farmacológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia fonoaudiológica temprana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Educación especial exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia ocupacional intensiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación táctil pasiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La intervención fonoaudiológica precoz mejora la comunicación y el pronóstico funcional del lenguaje."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes alteraciones se considera un trastorno específico del desarrollo motor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno por déficit atencional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dispraxia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Rett"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno de la comunicación social"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dislexia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dispraxia afecta la planificación y ejecución motora fina sin déficit neurológico estructural."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica distingue un retraso simple del desarrollo de un trastorno del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio en la infancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de regresión y persistencia del déficit"
+        },
+        {
+          "opcion": "C",
+          "texto": "Afectación transitoria de una sola área"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejoría espontánea sin intervención"
+        },
+        {
+          "opcion": "E",
+          "texto": "Relación normal con pares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En los trastornos del desarrollo, las alteraciones son persistentes y pueden incluir regresión funcional."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico orienta a un trastorno global del desarrollo más que a un retraso aislado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso leve del lenguaje sin otros déficits"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit en varias áreas del desarrollo simultáneamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso psicomotor leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comportamiento adecuado para la edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afecto recíproco preservado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El compromiso simultáneo de varias áreas del desarrollo define los trastornos globales del desarrollo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué técnica terapéutica ha mostrado eficacia en trastornos del espectro autista?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia ABA (Análisis Conductual Aplicado)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia farmacológica exclusiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia electroconvulsiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia de juego libre no estructurada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio aeróbico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La terapia ABA es una intervención conductual estructurada con evidencia de eficacia en TEA."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué enfoque debe tener la atención integral de los niños con trastornos del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exclusivamente médico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Multidisciplinario, con familia y entorno educativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo farmacológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Centrado en la escuela"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfocado en diagnóstico y no en intervención"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El abordaje debe ser integral y multidisciplinario, incluyendo salud, educación y apoyo familiar."
+    }
+  ]
+}

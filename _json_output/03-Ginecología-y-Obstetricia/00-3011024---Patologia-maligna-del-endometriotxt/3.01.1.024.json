@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.024",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.024 - Patologia maligna del endometrio.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo histológico más frecuente de cáncer endometrial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma de células claras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma endometrioide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma mucinoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sarcoma uterino"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma endometrioide representa la mayoría de los casos de cáncer endometrial."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma cardinal del cáncer endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucorrea fétida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metrorragia postmenopáusica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pélvico crónico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sangrado uterino anormal, especialmente postmenopáusico, es el síntoma más característico."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal factor de riesgo para cáncer de endometrio tipo I es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición crónica a estrógenos sin oposición"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de tabaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Actividad física intensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estímulo estrogénico no contrarrestado por progesterona es el factor de riesgo central."
+    },
+    {
+      "numero": "4",
+      "texto": "El cáncer de endometrio tipo II se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ser dependiente de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ser más frecuente en mujeres obesas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ser más agresivo, independiente de estrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Siempre presentarse en mujeres premenopáusicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tener mejor pronóstico que el tipo I"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tipo II es independiente de estrógenos y más agresivo, asociado a peor pronóstico."
+    },
+    {
+      "numero": "5",
+      "texto": "El grosor endometrial en ecografía transvaginal que obliga a biopsia en postmenopáusicas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥2 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥3 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥4 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥6 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥10 mm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En mujeres postmenopáusicas, un grosor ≥4 mm con sangrado amerita biopsia endometrial."
+    },
+    {
+      "numero": "6",
+      "texto": "La vía más frecuente de diseminación del cáncer endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transcelómica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peritoneal directa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Canal endocervical"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diseminación linfática es la principal ruta de propagación del cáncer endometrial."
+    },
+    {
+      "numero": "7",
+      "texto": "El estudio histológico diagnóstico de elección para cáncer endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Citología cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Legrado uterino fraccionado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía transvaginal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La biopsia endometrial es el procedimiento de elección para confirmar el diagnóstico."
+    },
+    {
+      "numero": "8",
+      "texto": "El estadio FIGO I de cáncer endometrial implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invasión al cérvix"
+        },
+        {
+          "opcion": "B",
+          "texto": "Invasión limitada al endometrio y miometrio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Afectación ganglionar pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metástasis a distancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diseminación peritoneal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estadio I está limitado al útero, con o sin invasión al miometrio."
+    },
+    {
+      "numero": "9",
+      "texto": "El tratamiento estándar del cáncer endometrial localizado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histerectomía total con salpingooforectomía bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia externa inicial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de progestágenos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ablación endometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La histerectomía con anexectomía bilateral es el tratamiento estándar en enfermedad localizada."
+    },
+    {
+      "numero": "10",
+      "texto": "El uso de tamoxifeno se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del riesgo de cáncer endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incremento del riesgo de cáncer endometrial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor incidencia de leiomiomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ningún efecto sobre el endometrio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de la hiperplasia endometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamoxifeno incrementa el riesgo de hiperplasia y carcinoma endometrial."
+    },
+    {
+      "numero": "11",
+      "texto": "El marcador tumoral que puede elevarse en cáncer endometrial avanzado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CA-19.9"
+        },
+        {
+          "opcion": "B",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "C",
+          "texto": "CA-125"
+        },
+        {
+          "opcion": "D",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Beta-hCG"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El CA-125 puede elevarse en enfermedad avanzada y es útil para seguimiento."
+    },
+    {
+      "numero": "12",
+      "texto": "El síndrome de Lynch aumenta el riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de cuello uterino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de endometrio y colon"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer de ovario únicamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cáncer de vejiga"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de Lynch aumenta significativamente el riesgo de cáncer de endometrio y colon."
+    },
+    {
+      "numero": "13",
+      "texto": "Un factor protector frente a cáncer de endometrio es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia estrogénica sin oposición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos combinados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nuliparidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menarquia precoz"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los anticonceptivos orales combinados reducen el riesgo de carcinoma endometrial."
+    },
+    {
+      "numero": "14",
+      "texto": "El hallazgo ecográfico más sugestivo de cáncer endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio atrófico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento heterogéneo con vascularización aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistes miometriales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Imagen hipoecoica submucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrio lineal fino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El engrosamiento heterogéneo del endometrio con vascularización aumentada sugiere carcinoma endometrial."
+    },
+    {
+      "numero": "15",
+      "texto": "El factor pronóstico más importante en cáncer endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histología"
+        },
+        {
+          "opcion": "C",
+          "texto": "Profundidad de invasión miometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antecedente de infertilidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La profundidad de invasión miometrial es el factor pronóstico más importante."
+    },
+    {
+      "numero": "16",
+      "texto": "En mujeres jóvenes con deseo de fertilidad y cáncer endometrial temprano, el tratamiento conservador consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progestágenos en altas dosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamoxifeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Legrado repetido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de progestágenos en altas dosis puede emplearse en casos seleccionados con deseo de fertilidad."
+    },
+    {
+      "numero": "17",
+      "texto": "La diseminación hematógena del cáncer endometrial afecta principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado y pulmón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colon"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piel"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diseminación hematógena afecta principalmente a hígado y pulmón en etapas avanzadas."
+    },
+    {
+      "numero": "18",
+      "texto": "El estadio II de cáncer endometrial corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad confinada al útero"
+        },
+        {
+          "opcion": "B",
+          "texto": "Invasión cervical estromal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compromiso seroso o anexial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metástasis ganglionares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metástasis a distancia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estadio II implica invasión al estroma cervical, sin extensión fuera del útero."
+    },
+    {
+      "numero": "19",
+      "texto": "La supervivencia global en cáncer de endometrio estadio I es cercana a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "50%"
+        },
+        {
+          "opcion": "C",
+          "texto": "70%"
+        },
+        {
+          "opcion": "D",
+          "texto": "85-90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El cáncer endometrial en estadio I tiene una supervivencia a 5 años cercana al 85-90%."
+    }
+  ]
+}

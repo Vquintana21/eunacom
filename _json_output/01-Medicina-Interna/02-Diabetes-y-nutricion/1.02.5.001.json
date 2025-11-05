@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.5.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de las curaciones en el pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar el uso de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acelerar la cicatrización y prevenir infecciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar completamente el tejido sano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la sensibilidad del pie"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener el pie completamente seco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las curaciones buscan mantener un ambiente óptimo para la cicatrización y prevenir la progresión de infecciones."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de tejido debe retirarse durante el desbridamiento básico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tejido sano epitelial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tejido necrótico y desvitalizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Callosidades no inflamadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tejido con granulación activa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cicatrices epitelizadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desbridamiento elimina tejido necrótico o desvitalizado para prevenir infección y favorecer la granulación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la solución más recomendada para el lavado inicial de una úlcera diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agua oxigenada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcohol al 70%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suero fisiológico estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solución yodada concentrada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vinagre diluido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El suero fisiológico estéril limpia sin dañar el tejido viable ni interferir con la cicatrización."
+    },
+    {
+      "numero": "4",
+      "texto": "En el cuidado del pie diabético, el control glicémico es fundamental porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acelera la formación de tejido cicatricial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye el flujo sanguíneo local"
+        },
+        {
+          "opcion": "C",
+          "texto": "Favorece la angiogénesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reduce la susceptibilidad a infecciones y mejora la cicatrización"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementa la presión plantar"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El control glicémico adecuado mejora la respuesta inmunitaria y la regeneración tisular."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de apósito se prefiere en úlceras con exudado moderado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasa seca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrogeles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alginatos de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espumas de poliuretano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compresas de alcohol"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las espumas de poliuretano absorben el exudado y mantienen un ambiente húmedo favorable para la cicatrización."
+    },
+    {
+      "numero": "6",
+      "texto": "La inspección diaria del pie en pacientes diabéticos permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar tempranamente lesiones o infecciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la sensibilidad plantar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar la necesidad de curaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorecer la formación de callos protectores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la vascularización local"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La observación diaria ayuda a identificar lesiones tempranas y prevenir úlceras complicadas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el agente causal más común de infección en el pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteus mirabilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Streptococcus pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Staphylococcus aureus es el microorganismo más frecuentemente aislado en infecciones del pie diabético."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de desbridamiento es más común en atención primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autolítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quirúrgico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enzimático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mecánico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biológico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El desbridamiento mecánico con gasas estériles y suero fisiológico es habitual en curaciones básicas."
+    },
+    {
+      "numero": "9",
+      "texto": "El uso de apósitos oclusivos en el pie diabético busca:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secar la herida rápidamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener un ambiente húmedo controlado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la oxigenación tisular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la temperatura local"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la circulación local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ambiente húmedo promueve la migración celular y una cicatrización más rápida y ordenada."
+    },
+    {
+      "numero": "10",
+      "texto": "La presencia de mal olor, aumento del exudado y cambio de coloración en la herida sugieren:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cicatrización normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección local"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia tisular leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis seca estable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desbridamiento incompleto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Estos signos clínicos orientan hacia infección del lecho de la herida y requieren evaluación médica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la característica principal del pie neuropático diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor intenso y constante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de pulsos pedios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida de la sensibilidad protectora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piel cianótica y fría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deformidades óseas sin úlceras"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La neuropatía periférica produce pérdida de sensibilidad, favoreciendo lesiones por trauma o presión."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el paso inicial en una curación básica del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar pomadas antibióticas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavar con suero fisiológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cubrir con apósito oclusivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar antibióticos sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar un desbridamiento agresivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lavado con suero fisiológico permite eliminar restos y preparar la herida para su evaluación y tratamiento."
+    },
+    {
+      "numero": "13",
+      "texto": "El uso de calzado adecuado en pacientes con pie diabético tiene como objetivo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión plantar y prevenir lesiones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener el pie completamente inmóvil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Favorecer la transpiración excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar el roce para eliminar callosidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sustituir el vendaje compresivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El calzado terapéutico distribuye la presión plantar y previene la formación de nuevas úlceras."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de vendaje se recomienda para proteger la herida sin comprometer la circulación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresivo elástico firme"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suave y no adherente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adherente con esparadrapo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apósito seco de gasa rígida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vendaje con presión variable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vendaje suave y no adherente protege la herida evitando el trauma al retirar el apósito."
+    },
+    {
+      "numero": "15",
+      "texto": "El uso de antisépticos tópicos como la povidona yodada debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "De uso rutinario en todas las curaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitado completamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Limitado a infecciones o zonas perilesionales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicado sobre el tejido de granulación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sustituido por alcohol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso excesivo puede dañar tejido viable; su aplicación debe restringirse a zonas infectadas o de riesgo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la complicación más grave del pie diabético mal tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neuropatía reversible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amputación del miembro afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperhidrosis plantar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dermatitis por contacto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlceras venosas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La infección profunda y necrosis tisular pueden llevar a la amputación si no se trata a tiempo."
+    },
+    {
+      "numero": "17",
+      "texto": "El desbridamiento autolítico se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de bisturí y tijeras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acción de enzimas endógenas y apósitos húmedos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicación de calor localizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos tópicos de amplio espectro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión mecánica intermitente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aprovecha las enzimas del organismo, potenciadas por apósitos oclusivos que mantienen humedad controlada."
+    },
+    {
+      "numero": "18",
+      "texto": "En un paciente diabético con úlcera sin signos de infección, la indicación es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar antibióticos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Curaciones regulares y control metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desbridamiento quirúrgico urgente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar antisépticos concentrados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amputación parcial profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo conservador con curaciones adecuadas y control glicémico suele ser suficiente sin antibióticos sistémicos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal medida preventiva frente al pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso diario de antisépticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control estricto de la glucemia y cuidado podológico regular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar caminar descalzo en exteriores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de calzado cerrado en todo momento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicación de cremas antibióticas diarias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control glicémico y el cuidado regular de los pies son esenciales para prevenir lesiones y complicaciones."
+    },
+    {
+      "numero": "20",
+      "texto": "Durante la curación del pie diabético, se debe evitar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar guantes estériles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retirar tejido desvitalizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar sustancias irritantes como alcohol o yodo concentrado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener la herida húmeda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar la temperatura del ambiente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alcohol y las soluciones yodadas concentradas lesionan el tejido sano y retrasan la cicatrización."
+    }
+  ]
+}

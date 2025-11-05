@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.019",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Asma bronquial",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica fisiopatológica principal del asma bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncodilatación persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación crónica de la vía aérea con hiperreactividad bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción irreversible de las vías aéreas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción aumentada de surfactante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El asma se caracteriza por inflamación crónica e hiperreactividad bronquial que causa obstrucción reversible del flujo aéreo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el síntoma cardinal del asma bronquial infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca nocturna o con ejercicio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico punzante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tos seca nocturna o inducida por ejercicio es un síntoma típico de asma en niños."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué factor ambiental se asocia más fuertemente con exacerbaciones asmáticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición a humo de tabaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio moderado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Altitud elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en omega-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El humo de tabaco es uno de los principales desencadenantes ambientales del asma infantil."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo clínico es típico durante una crisis asmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Roncus inspiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias espiratorias difusas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estertores crepitantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silencio auscultatorio con hipoventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estridor inspiratorio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las sibilancias espiratorias difusas son características del broncoespasmo asmático."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el examen de elección para confirmar el diagnóstico de asma en mayores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oximetría de pulso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espirometría con prueba broncodilatadora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba cutánea de alergia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La espirometría con prueba broncodilatadora confirma obstrucción reversible del flujo aéreo, característica del asma."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué valor de incremento en VEF1 tras broncodilatador apoya el diagnóstico de asma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento ≥8%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento ≥10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento ≥12%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento ≥15%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento ≥20%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un aumento del VEF1 ≥12% tras broncodilatador es diagnóstico de obstrucción reversible compatible con asma."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el principal mediador inflamatorio implicado en la fisiopatología del asma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prostaglandina E2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucotrienos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicinina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Serotonina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los leucotrienos contribuyen a la broncoconstricción, edema y secreción mucosa en el asma."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el tratamiento de elección para la crisis asmática leve a moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta2 agonistas de acción corta inhalados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antileucotrienos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides intravenosos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los beta2 agonistas de acción corta (salbutamol) son el tratamiento inicial de elección en crisis asmáticas leves o moderadas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué fármaco se utiliza para el control a largo plazo del asma persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides inhalados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salbutamol oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ipratropio inhalado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Teofilina oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los corticoides inhalados son la piedra angular del tratamiento controlador del asma persistente."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué define una crisis asmática grave en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia respiratoria normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Saturación de O2 <92% y dificultad para hablar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de VEF1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una saturación de O2 <92% y disnea con dificultad para hablar indican crisis asmática grave."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué examen es más útil para monitorizar el control del asma a nivel domiciliario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Capnografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pico flujo espiratorio (PEF)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax semanal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oximetría de pulso continua"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma mensual"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El medidor de pico flujo permite al paciente valorar su grado de obstrucción bronquial y control del asma."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo radiológico puede observarse en un niño asmático durante una crisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsuflación pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia segmentaria bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperinsuflación pulmonar es un hallazgo común debido al atrapamiento aéreo durante las crisis asmáticas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica diferencia el asma del broncoespasmo viral recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respuesta a beta2 agonistas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de antecedentes atópicos y síntomas intercrisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad de inicio temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sibilancias con infecciones virales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resolución espontánea con el crecimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El asma se asocia a antecedentes atópicos y síntomas intercrisis, a diferencia del broncoespasmo viral."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué marcador inflamatorio puede estar elevado en el asma alérgico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eosinófilos en sangre periférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plaquetas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Basófilos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de eosinófilos refleja inflamación de tipo alérgico mediada por IgE en el asma."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué intervención educativa es clave en el manejo del asma infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar los ejercicios respiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Instruir sobre técnica inhalatoria y control ambiental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender inhaladores ante mejoría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Automedicación con antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de oxígeno domiciliario permanente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La educación en técnica inhalatoria y control de factores ambientales es fundamental para un buen control del asma."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes es un desencadenante frecuente de crisis asmática en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Consumo de leche"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición a ácaros del polvo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacunación reciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta hipercalórica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de hierro oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ácaros del polvo doméstico son un desencadenante frecuente de exacerbaciones asmáticas alérgicas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el principal objetivo del tratamiento del asma en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminar la enfermedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir las crisis y mantener la función pulmonar normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender los síntomas temporales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar el uso de corticosteroides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevenir el contagio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo es lograr control de síntomas, prevenir crisis y mantener función pulmonar normal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes fármacos NO es útil en el manejo del asma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Montelukast"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salbutamol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ipratropio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluticasona"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los antibióticos como la amoxicilina no tienen indicación en el tratamiento del asma bronquial."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo funcional indica asma mal controlada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VEF1 >80%"
+        },
+        {
+          "opcion": "B",
+          "texto": "PEF variable más del 20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de síntomas nocturnos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Saturación de oxígeno normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respuesta completa a broncodilatador"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una variabilidad del pico flujo mayor al 20% refleja asma no controlada."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida preventiva ha demostrado reducir exacerbaciones asmáticas en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación antigripal anual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso prolongado de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar ejercicio físico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminación del gluten"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspensión de corticoides inhalados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacunación anual contra influenza reduce las exacerbaciones virales del asma infantil."
+    }
+  ]
+}

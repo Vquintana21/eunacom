@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.4.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Concentración de calcio plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Excreción renal de calcio en la orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depósito de calcio en tejidos blandos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absorción intestinal de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles de calcio intracelular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La calciuria es la cantidad de calcio eliminada por la orina, reflejando el equilibrio entre absorción intestinal, filtración y reabsorción renal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal sitio de reabsorción de calcio en la nefrona?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Túbulo distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Túbulo contorneado proximal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asa de Henle"
+        },
+        {
+          "opcion": "D",
+          "texto": "Túbulo colector"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomérulo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aproximadamente el 65% del calcio filtrado se reabsorbe en el túbulo proximal mediante transporte pasivo dependiente de sodio y agua."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes hormonas disminuye la calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcitonina"
+        },
+        {
+          "opcion": "B",
+          "texto": "PTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PTH reduce la excreción urinaria de calcio al estimular su reabsorción en el túbulo distal."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué efecto tiene la hipercalcemia sobre la calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La disminuye"
+        },
+        {
+          "opcion": "B",
+          "texto": "No la modifica"
+        },
+        {
+          "opcion": "C",
+          "texto": "La aumenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende del fósforo plasmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la reabsorción intestinal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipercalcemia satura la reabsorción tubular de calcio, aumentando su excreción urinaria (calciuria)."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes factores aumenta la calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PTH elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carga salina alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipovolemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipomagnesemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una dieta alta en sodio incrementa la excreción de calcio, ya que ambos iones comparten mecanismos de reabsorción en el túbulo proximal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué porcentaje aproximado del calcio filtrado se excreta en la orina en condiciones normales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1%"
+        },
+        {
+          "opcion": "B",
+          "texto": "5%"
+        },
+        {
+          "opcion": "C",
+          "texto": "10%"
+        },
+        {
+          "opcion": "D",
+          "texto": "25%"
+        },
+        {
+          "opcion": "E",
+          "texto": "50%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Solo alrededor del 1% del calcio filtrado por el glomérulo se excreta en la orina, el resto se reabsorbe en la nefrona."
+    },
+    {
+      "numero": "7",
+      "texto": "La hipercalciuria idiopática se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia con PTH baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcemia normal y aumento de la excreción de calcio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia con hipercalciuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "PTH elevada y calciuria baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipercalciuria idiopática la calcemia es normal, pero la excreción urinaria de calcio está aumentada sin causa secundaria evidente."
+    },
+    {
+      "numero": "8",
+      "texto": "La PTH regula la calciuria principalmente actuando en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Túbulo proximal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asa gruesa ascendente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Túbulo distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Túbulo colector"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomérulo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PTH estimula la reabsorción de calcio en el túbulo distal, reduciendo la calciuria."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué efecto tiene el calcitriol sobre la calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la excreción renal de calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la absorción intestinal y puede incrementar la calciuria secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibe la acción de la PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "No influye en el metabolismo del calcio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El calcitriol aumenta la absorción intestinal de calcio, lo que puede elevar la calciuria si hay exceso de aporte o reabsorción renal limitada."
+    },
+    {
+      "numero": "10",
+      "texto": "La acidosis metabólica crónica provoca:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la calciuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la calciuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sin cambio en la excreción de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición de la resorción ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la absorción intestinal de calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis promueve la liberación de calcio óseo y su excreción renal, aumentando la calciuria."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de fármaco puede causar hipercalciuria como efecto adverso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiazidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antagonistas del calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los glucocorticoides aumentan la excreción renal de calcio y disminuyen su absorción intestinal, provocando hipercalciuria."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes fármacos disminuye la calciuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidroclorotiazida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Manitol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las tiazidas reducen la excreción renal de calcio al aumentar su reabsorción en el túbulo distal."
+    },
+    {
+      "numero": "13",
+      "texto": "Una dieta rica en proteínas animales puede producir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la calciuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la calciuria por acidosis metabólica leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia sostenida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la PTH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso proteico genera acidosis metabólica leve que incrementa la liberación y excreción de calcio."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro de laboratorio es necesario para calcular la relación calcio/creatinina urinaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio sérico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio y creatinina urinarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fósforo sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "PTH plasmática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La relación calcio/creatinina se obtiene dividiendo las concentraciones urinarias de ambos compuestos, útil para evaluar hipercalciuria."
+    },
+    {
+      "numero": "15",
+      "texto": "En el hiperparatiroidismo primario se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia e hipocalciuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia e hipercalciuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normocalcemia e hipocalciuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia e hipercalciuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia e hipofosfaturia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de PTH produce hipercalcemia y aumento de la filtración de calcio, elevando la calciuria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la principal consecuencia clínica de una hipercalciuria sostenida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefrolitiasis por oxalato de calcio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteoporosis cortical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipercalciuria mantenida favorece la formación de cálculos renales de calcio, especialmente de oxalato o fosfato cálcico."
+    },
+    {
+      "numero": "17",
+      "texto": "En un paciente con hipocalcemia e hipocalciuria, la causa más probable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoparatiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperparatiroidismo secundario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Bartter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalciuria idiopática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el hipoparatiroidismo la deficiencia de PTH disminuye la reabsorción renal y la calcemia, generando hipocalciuria."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué situación fisiológica puede aumentar la calciuria transitoriamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sueño prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ayuno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperaturas frías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo prolongado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio físico intenso puede aumentar la filtración glomerular y la excreción temporal de calcio."
+    },
+    {
+      "numero": "19",
+      "texto": "En un paciente con enfermedad renal crónica avanzada, se espera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calciuria aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calciuria disminuida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calciuria normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluctuación diaria de la calciuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia con calciuria alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción del filtrado glomerular limita la excreción de calcio, disminuyendo la calciuria en la insuficiencia renal avanzada."
+    },
+    {
+      "numero": "20",
+      "texto": "El balance entre calciuria y natriuresis se explica porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El calcio inhibe la bomba de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambos se reabsorben conjuntamente en el túbulo proximal"
+        },
+        {
+          "opcion": "C",
+          "texto": "El calcio estimula la excreción de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "El sodio inhibe la PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "El calcio y el fósforo compiten por la reabsorción tubular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el túbulo proximal, la reabsorción de calcio depende parcialmente del transporte de sodio, por lo que la natriuresis aumenta la calciuria."
+    }
+  ]
+}

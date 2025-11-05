@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.4.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué parámetro de los gases arteriales indica la oxigenación del paciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH"
+        },
+        {
+          "opcion": "E",
+          "texto": "SaO₂"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PaO₂ refleja la presión parcial de oxígeno disuelto en sangre arterial, indicador directo de oxigenación."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el valor normal aproximado de la PaO₂ en un adulto joven a nivel del mar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "80–100 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "40–60 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "100–120 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "60–70 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "30–50 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PaO₂ normal en adultos jóvenes a nivel del mar oscila entre 80 y 100 mmHg."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué valor normal de pH arterial indica equilibrio ácido-base adecuado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "7,35–7,45"
+        },
+        {
+          "opcion": "B",
+          "texto": "7,10–7,30"
+        },
+        {
+          "opcion": "C",
+          "texto": "7,50–7,60"
+        },
+        {
+          "opcion": "D",
+          "texto": "7,20–7,40"
+        },
+        {
+          "opcion": "E",
+          "texto": "7,60–7,70"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El pH normal en sangre arterial se mantiene entre 7,35 y 7,45, rango compatible con equilibrio fisiológico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el valor normal de PaCO₂ en sangre arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "35–45 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "25–30 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "45–55 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "20–25 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "50–60 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PaCO₂ normal oscila entre 35 y 45 mmHg, reflejando ventilación alveolar adecuada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué indica una PaCO₂ elevada con pH bajo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compensación renal completa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un aumento de la PaCO₂ con pH bajo refleja hipoventilación y acidosis respiratoria primaria."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué parámetro se usa para evaluar la función ventilatoria alveolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "SaO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "BE (exceso de base)"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PaCO₂ es el mejor indicador del estado ventilatorio alveolar, elevándose en hipoventilación."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué ocurre con el pH en una alcalosis respiratoria aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta por disminución de la PaCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye por aumento de H⁺"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permanece igual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta por incremento de HCO₃⁻"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye por acidosis metabólica compensatoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La disminución rápida de la PaCO₂ eleva el pH, produciendo alcalosis respiratoria aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué indica una PaO₂ menor de 60 mmHg?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia significativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperoxia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Error en la toma de muestra"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una PaO₂ menor de 60 mmHg define hipoxemia clínicamente relevante, independientemente del pH o PaCO₂."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué valor normal tiene el bicarbonato (HCO₃⁻) plasmático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "22–26 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "15–18 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "28–32 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "10–15 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "30–35 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El rango normal de HCO₃⁻ plasmático es 22–26 mEq/L, regulado por los riñones."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué fórmula se utiliza para calcular el gradiente alveolo-arterial de oxígeno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PAO₂ - PaO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂ - HCO₃⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH - PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "HCO₃⁻ - BE"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO₂ - SaO₂"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El gradiente alveolo-arterial se calcula restando la PaO₂ de la PAO₂ estimada según la ecuación alveolar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el valor normal aproximado del gradiente alveolo-arterial de oxígeno en adultos jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<10 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "20–30 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "40–50 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "60–70 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": ">80 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El gradiente A-a normal es menor de 10 mmHg y aumenta con la edad."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo se observa en la insuficiencia respiratoria tipo II?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia con hipercapnia (PaCO₂ >45 mmHg)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia con PaCO₂ baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO₂ normal y pH alcalino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica pura"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaCO₂ <30 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La insuficiencia respiratoria tipo II se caracteriza por hipoventilación con retención de CO₂ y acidosis respiratoria."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué ocurre en una acidosis metabólica no compensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye el pH y el HCO₃⁻"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta el pH y el HCO₃⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye el pH y aumenta la PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta el pH y disminuye la PaCO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "HCO₃⁻ y pH normales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la acidosis metabólica no compensada, el pH y el bicarbonato plasmático se reducen."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué mecanismo de compensación ocurre en la acidosis respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento renal de la reabsorción de HCO₃⁻"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperventilación compensatoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución renal del HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "Liberación de ácido láctico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la excreción de CO₂"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En acidosis respiratoria crónica, los riñones compensan aumentando la reabsorción de bicarbonato."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué patrón se observa en alcalosis metabólica no compensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de pH y HCO₃⁻ con PaCO₂ normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de pH y HCO₃⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de PaCO₂ y pH bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH normal con bicarbonato bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución simultánea de HCO₃⁻ y PaCO₂"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La alcalosis metabólica no compensada se caracteriza por aumento del pH y del bicarbonato plasmático sin retención de CO₂."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué valor de SaO₂ suele corresponder a una PaO₂ de 60 mmHg?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aproximadamente 90%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aproximadamente 70%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aproximadamente 95%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aproximadamente 80%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aproximadamente 100%"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una PaO₂ de 60 mmHg se asocia a una saturación de oxígeno de alrededor del 90%, según la curva de disociación."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de alteración ácido-base produce la hiperventilación aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis combinada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperventilación disminuye la PaCO₂ y eleva el pH, generando alcalosis respiratoria."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes cambios indica hipoxia tisular severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO₂ <40 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂ >45 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻ >30 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "SaO₂ >95%"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH >7,45"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una PaO₂ menor de 40 mmHg indica oxigenación inadecuada y riesgo de hipoxia tisular crítica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué alteración se observa en la hipoventilación alveolar pura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de PaCO₂ y disminución de PaO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución simultánea de PaCO₂ y PaO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de PaO₂ y pH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de PaO₂ con PaCO₂ normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del HCO₃⁻ sin cambio en pH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoventilación causa retención de CO₂ (PaCO₂ alta) y descenso de la PaO₂ sin alteraciones del gradiente A-a."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué valor define acidosis severa en el análisis de gases arteriales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH <7,20"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH <7,35"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH <7,40"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH >7,50"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH >7,60"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un pH inferior a 7,20 refleja acidosis grave con compromiso potencial de la función cardiovascular y neurológica."
+    }
+  ]
+}

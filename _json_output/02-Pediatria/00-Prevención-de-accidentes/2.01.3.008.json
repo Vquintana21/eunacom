@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.008",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Prevención de accidentes",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de muerte por accidente en menores de 1 año?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caídas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asfixia por cuerpo extraño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quemaduras"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intoxicaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ahogamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La asfixia por cuerpo extraño es la causa más frecuente de muerte accidental en lactantes menores de 1 año."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal medida preventiva para evitar la muerte súbita y asfixia accidental del lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocar al bebé boca abajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dormir en la misma cama con los padres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dormir en posición supina en superficie firme"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar almohadas blandas y mantas gruesas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener el entorno cálido con calefacción alta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La posición supina sobre superficie firme reduce significativamente el riesgo de asfixia y muerte súbita."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la medida más efectiva para prevenir caídas en niños pequeños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocar alfombras gruesas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Instalar rejas en ventanas y barandas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar calzado con suela dura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar que el niño gatee libremente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerrar las puertas interiores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las rejas y barandas previenen caídas desde alturas, una causa frecuente de traumatismos graves."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué grupo etario presenta mayor riesgo de intoxicaciones accidentales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes menores de 3 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños de 1 a 4 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escolares mayores de 10 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los niños de 1 a 4 años exploran el entorno con las manos y la boca, aumentando el riesgo de intoxicaciones."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la recomendación para prevenir intoxicación por medicamentos en el hogar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Guardarlos en frascos sin etiquetas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantenerlos en el refrigerador"
+        },
+        {
+          "opcion": "C",
+          "texto": "Guardar en envases originales fuera del alcance de los niños"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejarlos visibles para recordatorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar envases de vidrio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los medicamentos deben conservarse en sus envases originales y fuera del alcance o vista del niño."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la medida más efectiva para prevenir ahogamientos en niños pequeños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar salvavidas inflables"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supervisión continua y directa de un adulto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocar cercos bajos alrededor de piscinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permitir que aprendan solos a nadar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar alarmas acuáticas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La supervisión directa y constante de un adulto previene la mayoría de los ahogamientos infantiles."
+    },
+    {
+      "numero": "7",
+      "texto": "La ingesta de detergentes líquidos encapsulados en niños pequeños se considera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No peligrosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un accidente menor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una intoxicación potencialmente grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un evento sin necesidad de atención médica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Una causa de alergias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los detergentes encapsulados pueden causar quemaduras químicas y compromiso respiratorio grave."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué medida es efectiva para prevenir quemaduras por líquidos calientes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dar té tibio en mamadera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocar los mangos de ollas hacia adentro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permitir que los niños estén en la cocina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar agua muy caliente para el baño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener calefactores sin protección"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Girar los mangos hacia adentro reduce el riesgo de derrames y quemaduras por líquidos calientes."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la medida más adecuada para prevenir accidentes viales en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permitir que viajen en brazos del adulto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de sistemas de retención infantil según edad y peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sentar al niño en el asiento delantero"
+        },
+        {
+          "opcion": "D",
+          "texto": "No usar cinturón de seguridad en trayectos cortos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Permitir que se muevan libremente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los sistemas de retención infantil (sillas, alzadores) disminuyen drásticamente la mortalidad por accidentes viales."
+    },
+    {
+      "numero": "10",
+      "texto": "¿A qué edad se recomienda el uso del alzador con cinturón de tres puntas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desde el nacimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desde los 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desde los 4 años y hasta 12 años o 135 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo en adolescentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desde los 10 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alzador se usa entre los 4 y 12 años, o hasta alcanzar 135 cm de estatura, según la normativa chilena."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el principal riesgo asociado al uso de andadores en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desarrollo psicomotor acelerado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevención de caídas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del riesgo de caídas y traumatismos craneales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación motora adecuada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de accidentes domésticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de andadores se asocia a caídas, fracturas y retraso en el desarrollo motor autónomo."
+    },
+    {
+      "numero": "12",
+      "texto": "Para prevenir aspiración de cuerpos extraños, se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ofrecer frutos secos desde los 8 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortar alimentos en trozos pequeños y supervisar la ingesta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permitir comer acostado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar caramelos duros como premio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar líquidos espesos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cortar los alimentos y supervisar al niño durante las comidas previene la aspiración y asfixia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la edad de mayor riesgo de asfixia por cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 1 año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 1 y 3 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 5 y 7 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escolares mayores de 10 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los niños de 1 a 3 años tienen alto riesgo por su tendencia a llevar objetos a la boca."
+    },
+    {
+      "numero": "14",
+      "texto": "El síndrome del niño sacudido se produce por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Golpes directos en la cabeza"
+        },
+        {
+          "opcion": "B",
+          "texto": "Movimiento brusco de aceleración y desaceleración del cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Caídas desde baja altura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión externa torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Golpes en extremidades"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El movimiento brusco del cráneo causa hemorragias intracraneales y lesiones retinianas sin trauma externo visible."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué medida ayuda a prevenir accidentes por electrocución en el hogar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cubrir enchufes con protectores plásticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permitir manipular cables desconectados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar adaptadores múltiples sin control"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejar aparatos enchufados sin supervisión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar alargadores largos en el suelo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los protectores plásticos en enchufes reducen el riesgo de electrocución accidental en niños pequeños."
+    },
+    {
+      "numero": "16",
+      "texto": "La principal medida preventiva frente a accidentes en el hogar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prohibir juegos en interiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supervisión activa de los cuidadores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar todos los juguetes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejar al niño solo brevemente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar solo muebles bajos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La supervisión activa y permanente es la medida más eficaz para prevenir accidentes domésticos."
+    },
+    {
+      "numero": "17",
+      "texto": "En el baño, la medida más efectiva para prevenir ahogamientos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar flotadores pequeños"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dejar el agua preparada antes del baño"
+        },
+        {
+          "opcion": "C",
+          "texto": "No dejar al niño solo ni por segundos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bañarlo con puertas abiertas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar esponjas absorbentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Nunca se debe dejar al niño sin supervisión, incluso con poca cantidad de agua en la tina."
+    },
+    {
+      "numero": "18",
+      "texto": "Para prevenir lesiones por armas de fuego en el hogar se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Guardar el arma descargada y bajo llave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Guardar municiones en el mismo lugar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mostrar al niño el arma para educarlo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejarla oculta pero accesible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar arma sin seguro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las armas deben mantenerse descargadas, bajo llave y separadas de la munición para evitar accidentes fatales."
+    },
+    {
+      "numero": "19",
+      "texto": "En zonas rurales, la principal causa de accidentes graves en niños es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mordeduras de animales y caídas de altura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ahogamiento en piscinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Choques vehiculares urbanos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quemaduras por calefacción"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intoxicaciones por humo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En entornos rurales predominan las mordeduras y caídas en patios o corrales sin protección adecuada."
+    },
+    {
+      "numero": "20",
+      "texto": "El rol del pediatra en prevención de accidentes incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo tratar lesiones accidentales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educar a la familia sobre riesgos y medidas preventivas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derivar siempre a salud pública"
+        },
+        {
+          "opcion": "D",
+          "texto": "Limitarse al control del desarrollo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar intervenir en temas domésticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pediatra debe orientar activamente a la familia sobre prevención de accidentes según la edad del niño."
+    }
+  ]
+}

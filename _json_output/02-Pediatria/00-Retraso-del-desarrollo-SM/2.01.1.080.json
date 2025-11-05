@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.080",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Retraso del desarrollo SM",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por retraso del desarrollo psicomotor (SM)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso en una sola área del desarrollo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desfase de dos o más áreas del desarrollo respecto a la edad cronológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de discapacidad intelectual leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retraso exclusivo en el lenguaje"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno de conducta asociado a aprendizaje"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El retraso del desarrollo psicomotor implica afectación en dos o más áreas, como motricidad, lenguaje y socialización."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes hitos motores debe estar adquirido a los 12 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caminar solo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Correr"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sostener la cabeza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sentarse sin apoyo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Subir escaleras"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "A los 12 meses, la mayoría de los niños caminan solos o con apoyo leve."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más frecuente de retraso global del desarrollo en el mundo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez extrema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malformaciones cerebrales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastornos del espectro autista"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de Down es la causa genética más frecuente de retraso global del desarrollo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué herramienta se utiliza para evaluar el desarrollo psicomotor en Chile?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Denver II"
+        },
+        {
+          "opcion": "B",
+          "texto": "TEPSI"
+        },
+        {
+          "opcion": "C",
+          "texto": "EEDP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bayley"
+        },
+        {
+          "opcion": "E",
+          "texto": "Battelle"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El EEDP se usa en menores de 2 años para evaluar el desarrollo psicomotor en Chile."
+    },
+    {
+      "numero": "5",
+      "texto": "¿A qué edad se aplica el test TEPSI en Chile?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0 a 12 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 a 24 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 a 5 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 a 7 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 7 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El TEPSI evalúa desarrollo psicomotor entre los 2 y 5 años de edad."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué área evalúa el test TEPSI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje, motricidad y cognición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Motricidad, coordinación y lenguaje"
+        },
+        {
+          "opcion": "C",
+          "texto": "Afectividad y socialización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Memoria y atención"
+        },
+        {
+          "opcion": "E",
+          "texto": "Comprensión lectora"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TEPSI evalúa motricidad, coordinación y lenguaje para estimar el desarrollo global."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la primera área que suele mostrar retraso en patologías neurológicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Motricidad gruesa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Motricidad fina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Área social"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cognición"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La motricidad gruesa suele alterarse primero ante trastornos neurológicos globales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué examen debe realizarse en todo niño con retraso global del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tamizaje auditivo y visual"
+        },
+        {
+          "opcion": "C",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cariotipo y estudio metabólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía de cráneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las alteraciones sensoriales son causas tratables de retraso del desarrollo, por lo que deben descartarse inicialmente."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hito del lenguaje debe estar adquirido a los 2 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dice 2 palabras simples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Combina 2 palabras en frases"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuenta hasta tres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pronuncia todo el alfabeto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Repite canciones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "A los 2 años, el niño debe combinar palabras, iniciando frases simples como 'quiero agua'."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hito motor grueso se alcanza aproximadamente a los 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caminar con apoyo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sentarse sin apoyo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rodar ambos lados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gatear"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saltar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "A los 6 meses, el lactante suele rodar en ambas direcciones y sostiene bien la cabeza."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico sugiere retraso global del desarrollo y no sólo del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de frases a los 2 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso motor y del lenguaje asociados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pronuncia menos de 10 palabras"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comprende órdenes simples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Interacción social conservada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando hay retraso en varias áreas (motora y lenguaje), se trata de un retraso global del desarrollo."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué condición debe descartarse ante retraso global del desarrollo sin causa aparente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergia alimentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de vitamina D"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo congénito es una causa tratable y frecuente de retraso del desarrollo global."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo es más característico del trastorno del espectro autista?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso en la marcha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lenguaje expresivo normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falta de contacto visual y socialización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperactividad aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Motricidad fina retrasada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de contacto visual y las alteraciones en la interacción social son signos cardinales del TEA."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué instrumento evalúa específicamente el desarrollo del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EEDP"
+        },
+        {
+          "opcion": "B",
+          "texto": "TEPSI"
+        },
+        {
+          "opcion": "C",
+          "texto": "PLON-R"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bayley"
+        },
+        {
+          "opcion": "E",
+          "texto": "Denver II"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El PLON-R evalúa las distintas áreas del lenguaje en niños de 3 a 6 años."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué factor prenatal aumenta el riesgo de retraso del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia perinatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto eutócico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactancia materna prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nacimiento a término"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación materna"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxia perinatal puede causar daño cerebral y retraso psicomotor posterior."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué indicador permite diferenciar un retraso global leve de uno severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Número de áreas afectadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grado de compromiso funcional y evolución de los hitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sexo del niño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla y peso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El grado de compromiso funcional y la evolución de los hitos determinan la severidad del retraso."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de intervención temprana es más efectiva en retraso del desarrollo global?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisioterapia exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intervención multidisciplinaria con estimulación integral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medicamentos estimulantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Educación especial sin apoyo médico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento únicamente psicológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El abordaje multidisciplinario precoz mejora el pronóstico funcional del niño con retraso global."
+    },
+    {
+      "numero": "18",
+      "texto": "¿A qué edad debe adquirir el niño la capacidad de decir su primer palabra con significado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "9 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La primera palabra con significado suele aparecer cerca del año de vida."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué condición genética se asocia con retraso global y macroorquidismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Prader-Willi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de X Frágil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Angelman"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome X Frágil es una causa hereditaria de retraso global con rasgos físicos como macroorquidismo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el principal objetivo del seguimiento en niños con retraso del desarrollo SM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Confirmar diagnóstico genético"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir parámetros antropométricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar y tratar precozmente nuevas áreas afectadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ajustar el calendario de vacunas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir visitas al especialista"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El seguimiento busca detectar precozmente nuevas alteraciones y optimizar la intervención integral."
+    }
+  ]
+}

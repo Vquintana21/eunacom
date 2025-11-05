@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente del síndrome de Cushing endógeno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenoma hipofisario productor de ACTH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma suprarrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción ectópica de ACTH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenoma suprarrenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia nodular bilateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El adenoma hipofisario productor de ACTH (enfermedad de Cushing) es la causa más común del Cushing endógeno."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal causa de síndrome de Cushing exógeno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso crónico de glucocorticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenoma hipofisario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma suprarrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome paraneoplásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal congénita"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso prolongado de glucocorticoides sistémicos es la causa más común de síndrome de Cushing exógeno."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo clínico más característico del síndrome de Cushing es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida de peso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad centrípeta y cara de luna llena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piel gruesa y seca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpigmentación cutánea leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obesidad centrípeta con cara de luna llena y giba dorsal son rasgos típicos del síndrome de Cushing."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la prueba inicial más sensible para detectar síndrome de Cushing?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol plasmático en ayunas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de supresión con dexametasona 1 mg nocturna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortisol plasmático al mediodía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medición de ACTH basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol sérico postprandial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de supresión con dexametasona de baja dosis es el método de detección más sensible del hipercortisolismo."
+    },
+    {
+      "numero": "5",
+      "texto": "El cortisol urinario libre elevado confirma:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperaldosteronismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Addison"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de cortisol urinario libre en 24 horas confirma la presencia de hipercortisolismo endógeno."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la característica bioquímica del síndrome de Cushing ACTH-independiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ACTH elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "ACTH suprimida"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH normal alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol suprimido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Renina elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En las causas suprarrenales (adenoma o carcinoma), el cortisol elevado suprime la secreción hipofisaria de ACTH."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes signos se asocia a hipercortisolismo crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperpigmentación difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estrías violáceas anchas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de vello axilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de glucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión ortostática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las estrías violáceas anchas (>1 cm) son típicas del síndrome de Cushing por atrofia dérmica y fragilidad capilar."
+    },
+    {
+      "numero": "8",
+      "texto": "En la enfermedad de Cushing (origen hipofisario), los niveles de ACTH son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altos o normales altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suprimidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inexistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuidos por retroalimentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normales bajos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la enfermedad de Cushing, el adenoma hipofisario secreta ACTH en exceso, provocando hipercortisolismo con ACTH alta o normal-alta."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es un efecto metabólico típico del síndrome de Cushing?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia e intolerancia a la glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de sensibilidad a la insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de cortisol induce resistencia a la insulina, favoreciendo hiperglucemia y diabetes secundaria."
+    },
+    {
+      "numero": "10",
+      "texto": "La prueba de supresión con dexametasona a dosis altas ayuda a diferenciar entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cushing ACTH dependiente y ACTH independiente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cushing hipofisario y ectópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cushing endógeno y exógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Addison y Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia y carcinoma suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Solo los tumores hipofisarios responden parcialmente a la supresión con dosis altas de dexametasona, a diferencia de los ectópicos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo radiológico se espera en un Cushing ACTH-independiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microadenoma hipofisario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa suprarrenal unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia hipofisaria difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión pulmonar paraneoplásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Silla turca vacía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En los casos ACTH-independientes, suele observarse un adenoma o carcinoma suprarrenal unilateral en las imágenes."
+    },
+    {
+      "numero": "12",
+      "texto": "El síndrome de Cushing ectópico se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ACTH elevada y suprimible con dexametasona"
+        },
+        {
+          "opcion": "B",
+          "texto": "ACTH elevada no suprimible y progresión rápida"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH baja y cortisol normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "ACTH normal y cortisol suprimido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol bajo con ACTH alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la secreción ectópica de ACTH, los niveles son muy altos y no se suprimen con dexametasona."
+    },
+    {
+      "numero": "13",
+      "texto": "El tumor pulmonar más asociado a síndrome de Cushing ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma epidermoide"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma microcítico de pulmón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoide típico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma bronquioloalveolar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma microcítico de pulmón es la neoplasia más frecuentemente asociada a secreción ectópica de ACTH."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo óseo es típico del síndrome de Cushing?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteosclerosis difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteoporosis y fracturas vertebrales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperostosis cortical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de densidad ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Condrocalcinosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de cortisol favorece la reabsorción ósea y reduce la formación, causando osteoporosis y fracturas vertebrales."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué alteración hematológica es típica en el síndrome de Cushing?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfopenia y neutrofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucopenia generalizada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cortisol aumenta los neutrófilos circulantes y reduce linfocitos y eosinófilos por redistribución celular."
+    },
+    {
+      "numero": "16",
+      "texto": "Una complicación metabólica común del síndrome de Cushing es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipercortisolismo crónico causa resistencia a la insulina, produciendo diabetes secundaria en hasta 20% de los casos."
+    },
+    {
+      "numero": "17",
+      "texto": "En el síndrome de Cushing, los niveles de potasio tienden a ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bajos por efecto mineralocorticoide del cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Altos por pérdida renal reducida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variables sin patrón definido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de cortisol estimula receptores mineralocorticoides, causando hipopotasemia e hipernatremia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes tratamientos es el más apropiado para enfermedad de Cushing hipofisaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adrenalectomía bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resección transesfenoidal del adenoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia corporal total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quimioterapia citotóxica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso crónico de ketoconazol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cirugía transesfenoidal para extirpar el adenoma hipofisario es el tratamiento de elección."
+    },
+    {
+      "numero": "19",
+      "texto": "El fármaco ketoconazol se utiliza en el síndrome de Cushing porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibe la secreción de ACTH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloquea la síntesis de cortisol a nivel suprarrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la excreción de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suprime la conversión de T4 a T3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimula receptores de glucocorticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ketoconazol inhibe enzimas esteroidogénicas como la 11β-hidroxilasa, reduciendo la síntesis de cortisol."
+    },
+    {
+      "numero": "20",
+      "texto": "Tras la cirugía curativa del Cushing, el paciente puede requerir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia supresora con dexametasona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposición temporal con glucocorticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administración de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo beta permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspensión total de corticoides de inmediato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tras resección tumoral, el eje HHA puede estar suprimido, requiriendo glucocorticoides temporales hasta su recuperación."
+    }
+  ]
+}

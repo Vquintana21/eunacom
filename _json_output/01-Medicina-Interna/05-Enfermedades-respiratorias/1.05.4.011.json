@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.4.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué mide la prueba de la tuberculina (PPD)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La cantidad de bacilos circulantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "La inmunidad humoral frente a Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "La hipersensibilidad retardada mediada por células T"
+        },
+        {
+          "opcion": "D",
+          "texto": "La producción de anticuerpos IgM específicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "La respuesta a la vacuna BCG"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PPD evalúa una reacción de hipersensibilidad tipo IV mediada por linfocitos T sensibilizados."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el antígeno utilizado en la prueba de PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteína recombinante ESAT-6"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derivado proteico purificado de Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antígeno de superficie micobacteriano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lipopolisacárido micobacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Interferón gamma recombinante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PPD usa un derivado proteico purificado del Mycobacterium tuberculosis para inducir la respuesta cutánea."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio anatómico recomendado para aplicar la PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cara anterior del antebrazo izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cara posterior del antebrazo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Región deltoidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cara lateral del muslo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Región escapular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PPD se aplica intradérmicamente en la cara anterior del antebrazo, preferentemente izquierdo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuánto volumen de PPD se debe inyectar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.05 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.1 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "0.2 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.5 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "1.0 mL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se inyectan 0.1 mL de PPD intradérmico, equivalentes a 5 unidades tuberculínicas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿A las cuántas horas se debe leer la prueba de la tuberculina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12-24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "24-48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "48-72 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "72-96 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "96-120 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lectura se realiza entre las 48 y 72 horas tras la aplicación para evaluar la induración."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué se mide al interpretar la PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El eritema"
+        },
+        {
+          "opcion": "B",
+          "texto": "El diámetro de la induración palpable"
+        },
+        {
+          "opcion": "C",
+          "texto": "El enrojecimiento visible"
+        },
+        {
+          "opcion": "D",
+          "texto": "El área con descamación"
+        },
+        {
+          "opcion": "E",
+          "texto": "La zona de hiperpigmentación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Solo la induración palpable, no el eritema, se considera al medir la reacción."
+    },
+    {
+      "numero": "7",
+      "texto": "Una induración de 10 mm se considera positiva en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toda persona vacunada con BCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trabajadores de salud y contactos recientes de TB"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes inmunocomprometidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niños menores de 4 años sin factores de riesgo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Personas sin exposición previa conocida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En contactos recientes y personal de salud, una induración ≥10 mm es positiva."
+    },
+    {
+      "numero": "8",
+      "texto": "En pacientes con VIH, la PPD se considera positiva con una induración de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥15 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥10 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥5 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥3 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥8 mm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En inmunodeprimidos, como pacientes con VIH, una induración ≥5 mm es positiva."
+    },
+    {
+      "numero": "9",
+      "texto": "Una induración de 15 mm o más se considera positiva en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toda persona, incluso sin factores de riesgo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo vacunados con BCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo inmunodeprimidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo trabajadores de salud"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo contactos de TB activa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una induración ≥15 mm se considera positiva independientemente de los factores de riesgo."
+    },
+    {
+      "numero": "10",
+      "texto": "La vacuna BCG puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falsos negativos en la PPD"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falsos positivos en la PPD"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacciones cruzadas con prueba IGRA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de induración en vacunados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Supresión de linfocitos T"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La BCG puede inducir falsos positivos en la PPD debido a reactividad cruzada con micobacterias no tuberculosas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes puede causar un falso negativo en la PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación BCG reciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección por micobacterias atípicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de corticoides sistémicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación antigripal reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición ambiental al polvo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides pueden suprimir la respuesta inmune, generando falsos negativos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la causa más frecuente de anergia tuberculínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección reciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación previa con BCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunosupresión severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicación subcutánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunosupresión impide la respuesta celular, causando anergia tuberculínica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué indica una conversión tuberculínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la induración en 10 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la induración en 10 mm o más respecto a una previa negativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falsificación del resultado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coinfección con micobacterias no tuberculosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción cruzada con la vacuna BCG"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conversión indica infección reciente por Mycobacterium tuberculosis tras un aumento ≥10 mm."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de prueba es la PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba serológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de hipersensibilidad inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba cutánea de hipersensibilidad retardada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba molecular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba microbiológica directa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PPD es una prueba cutánea de hipersensibilidad retardada (tipo IV)."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la unidad utilizada para expresar la dosis de PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Unidades internacionales (UI)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Unidades tuberculínicas (UT)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microgramos por mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mililitros por dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Unidades micobacterianas (UM)"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PPD se expresa en unidades tuberculínicas; se usan habitualmente 5 UT por dosis."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes situaciones requiere repetir la PPD en 1-3 semanas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PPD positiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "PPD negativa en personal de salud nuevo"
+        },
+        {
+          "opcion": "C",
+          "texto": "PPD con eritema sin induración"
+        },
+        {
+          "opcion": "D",
+          "texto": "PPD aplicada en el sitio incorrecto"
+        },
+        {
+          "opcion": "E",
+          "texto": "PPD con ampolla visible tras inyección"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En personal de salud, la prueba de dos pasos se usa para detectar falsos negativos iniciales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la técnica correcta de aplicación de la PPD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inyección subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inyección intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inyección intradérmica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inyección intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inyección en mucosa oral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PPD se administra intradérmicamente para inducir una respuesta local mediada por células T."
+    },
+    {
+      "numero": "18",
+      "texto": "Una PPD negativa en un paciente con tuberculosis activa puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección reciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sobredosis de PPD"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exposición a micobacterias ambientales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anergia inmunológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación BCG previa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La anergia por inmunosupresión puede dar falsos negativos incluso en enfermedad activa."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes pruebas no se ve afectada por la vacuna BCG?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PPD"
+        },
+        {
+          "opcion": "B",
+          "texto": "IGRA (Interferon Gamma Release Assay)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción de Mantoux"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de tuberculina clásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas se ven afectadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La IGRA no se afecta por BCG y es más específica para infección por M. tuberculosis."
+    },
+    {
+      "numero": "20",
+      "texto": "La prueba de Mantoux es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una variante de la prueba de PPD"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un examen serológico alternativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una prueba molecular de PCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una técnica radiológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un cultivo de esputo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba de Mantoux es el método estándar de aplicación intradérmica de la PPD."
+    }
+  ]
+}

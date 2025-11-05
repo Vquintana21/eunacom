@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.5.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es una cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incisión en la tráquea a nivel del segundo anillo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acceso quirúrgico de emergencia entre el cartílago cricoides y el tiroides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción en la membrana hioidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocación de tubo nasofaríngeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspiración de secreciones traqueales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cricoidostomía consiste en abrir la vía aérea a través de la membrana cricotiroidea entre el cartílago tiroides y cricoides."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal indicación de la cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracaso de intubación endotraqueal y ventilación imposible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción nasal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paro cardiorrespiratorio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se indica en situaciones donde no se puede intubar ni ventilar al paciente por vías convencionales."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué estructura anatómica se incide durante la cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cartílago tiroides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Membrana cricotiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anillo traqueal superior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cartílago aritenoideo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epiglotis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incisión se realiza a nivel de la membrana cricotiroidea, entre el cartílago tiroides y el cricoides."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de procedimiento representa la cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diagnóstico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temporal de emergencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Definitivo y permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paliativo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Es un procedimiento temporal y de emergencia para asegurar la vía aérea en casos críticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la contraindicación absoluta de la cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fractura de laringe"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción subglótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apnea prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traqueítis bacteriana"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fractura laríngea es una contraindicación absoluta debido al riesgo de daño estructural y sangrado masivo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el tamaño típico de la incisión en una cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.5 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.5 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "2-3 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "4 cm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La incisión suele ser de 2 a 3 cm para permitir una adecuada inserción del tubo o cánula."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de cánula se inserta tras la incisión cricotiroidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cánula orofaríngea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cánula de Guedel"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tubo endotraqueal pequeño o cánula de traqueostomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cánula nasofaríngea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catéter venoso central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se inserta un tubo endotraqueal pequeño o una cánula de traqueostomía para permitir la ventilación."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la principal complicación inmediata de la cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección tardía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis traqueal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fístula traqueoesofágica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia es la complicación inmediata más común debido a lesión de vasos locales."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué referencia anatómica se utiliza para localizar la membrana cricotiroidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cartílago aritenoideo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cartílago tiroides y cricoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hueso hioides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Traquea media"
+        },
+        {
+          "opcion": "E",
+          "texto": "Manubrio esternal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se ubica la membrana entre el cartílago tiroides superior y el cartílago cricoides inferior."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué estructura debe evitarse durante la incisión para prevenir sangrado excesivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena yugular externa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arteria cricotiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glándula tiroides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vena tiroidea media"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tronco braquiocefálico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe evitarse lesionar la arteria cricotiroidea, que cruza la membrana cricotiroidea y puede causar sangrado."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la diferencia principal entre cricoidostomía y traqueostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La cricoidostomía es más inferior"
+        },
+        {
+          "opcion": "B",
+          "texto": "La traqueostomía se realiza en urgencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "La cricoidostomía es más rápida y temporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "La traqueostomía usa aguja gruesa"
+        },
+        {
+          "opcion": "E",
+          "texto": "La cricoidostomía requiere anestesia general"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cricoidostomía es un acceso rápido y temporal, mientras la traqueostomía es un procedimiento más definitivo."
+    },
+    {
+      "numero": "12",
+      "texto": "¿En qué pacientes está contraindicada la cricoidostomía quirúrgica estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adultos con obstrucción laríngea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niños menores de 12 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con EPOC"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes en paro cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes intubados previamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En niños menores de 12 años está contraindicada por riesgo alto de daño laríngeo y estenosis subglótica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué maniobra se realiza para confirmar la correcta colocación del tubo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Auscultar el abdomen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Palpar el cartílago tiroides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verificar expansión torácica y auscultar ambos campos pulmonares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comprimir la carótida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar suero fisiológico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La expansión torácica bilateral y la auscultación pulmonar confirman correcta ventilación tras la inserción."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de anestesia se usa habitualmente en una cricoidostomía de emergencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anestesia general"
+        },
+        {
+          "opcion": "B",
+          "texto": "Local con lidocaína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo regional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin anestesia"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "En emergencias vitales se realiza sin anestesia por la urgencia de asegurar la vía aérea."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación tardía puede presentarse tras una cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis subglótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfisema subcutáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis subglótica puede aparecer semanas después debido a cicatrización de la mucosa lesionada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la técnica más utilizada en situaciones extrahospitalarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cricoidostomía quirúrgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cricoidostomía por punción con catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Traqueostomía percutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringectomía parcial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intubación retrógrada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cricoidostomía por punción con catéter es preferida en urgencias prehospitalarias por su rapidez y simplicidad."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué instrumento se utiliza para dilatar la incisión en la membrana cricotiroidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pinza de Kocher"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pinza de Allis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pinza de mosquito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pinza de Kelly o hemostato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bisturí eléctrico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una pinza de Kelly permite dilatar la incisión y facilitar la introducción del tubo de ventilación."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué debe realizarse tras estabilizar la vía aérea con una cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Observar sin intervención"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retirar el tubo en 10 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convertir a traqueostomía definitiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar anestesia general"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocar collar cervical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una vez estabilizado el paciente, debe realizarse traqueostomía definitiva para asegurar la vía aérea a largo plazo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes es un signo de complicación grave tras una cricoidostomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis profusa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ronquera pasajera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor local leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Expectoración aumentada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis profusa puede indicar lesión vascular o traqueal significativa, requiriendo evaluación inmediata."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué función cumple la cricoidostomía en el manejo de emergencia de la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la presión intratorácica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilar temporalmente al paciente hasta asegurar vía definitiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la hipercapnia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Facilitar la intubación orotraqueal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Permitir la succión de secreciones faríngeas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Su función principal es mantener ventilación y oxigenación temporales hasta establecer una vía aérea definitiva."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del régimen dietético en pacientes con dislipidemias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir los niveles de LDL y triglicéridos, y aumentar el HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar la absorción intestinal de grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevar la ingesta de proteínas animales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar el peso corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El régimen dietético busca disminuir LDL y triglicéridos, y aumentar HDL para reducir el riesgo cardiovascular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de grasa debe limitarse más estrictamente en una dieta para dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grasas monoinsaturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grasas trans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grasas poliinsaturadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Grasas omega-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasas vegetales naturales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las grasas trans aumentan el LDL y reducen el HDL, incrementando significativamente el riesgo cardiovascular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes alimentos es una fuente importante de ácidos grasos omega-3?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carne de res"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aceite de oliva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pescado azul (salmón, sardina)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manteca animal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quesos maduros"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los pescados grasos son ricos en omega-3, que disminuyen triglicéridos y reducen inflamación vascular."
+    },
+    {
+      "numero": "4",
+      "texto": "En pacientes con hipercolesterolemia, el colesterol dietético no debe superar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "200 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "400 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "600 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "800 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "1000 mg/día"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El límite recomendado de colesterol dietético es 200 mg/día para controlar los niveles séricos de LDL."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de fibra dietética ayuda a reducir el colesterol LDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibra insoluble"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibra soluble"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibra lignina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibra resistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibra no fermentable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibra soluble atrapa ácidos biliares y reduce la absorción intestinal de colesterol."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué patrón alimentario se asocia con mejor control lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta occidental alta en grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta mediterránea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta cetogénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en ultraprocesados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta alta en carnes rojas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta mediterránea, rica en frutas, verduras, legumbres y grasas saludables, mejora el perfil lipídico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de ácidos grasos deben predominar en la dieta de pacientes con dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saturados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monoinsaturados y poliinsaturados"
+        },
+        {
+          "opcion": "D",
+          "texto": "De cadena corta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidrogenados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los ácidos grasos monoinsaturados y poliinsaturados reducen el LDL y favorecen el HDL."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes alimentos debe evitarse en una dieta para hipertrigliceridemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Avena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frutas frescas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bebidas alcohólicas y azucaradas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Legumbres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verduras verdes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alcohol y el azúcar simple elevan significativamente los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué efecto tiene la pérdida de peso sobre los lípidos plasmáticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta LDL y triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye LDL y triglicéridos, y puede elevar HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo aumenta HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "No tiene efecto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la lipólisis hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción ponderal mejora el metabolismo lipídico, reduciendo LDL y triglicéridos, y elevando HDL."
+    },
+    {
+      "numero": "10",
+      "texto": "El consumo de esteroles vegetales en la dieta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la absorción de colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la absorción intestinal de colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta el HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye los triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "No tiene efecto metabólico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los esteroles vegetales compiten con el colesterol en la absorción intestinal, reduciendo su nivel sérico."
+    },
+    {
+      "numero": "11",
+      "texto": "En la dislipidemia, el consumo de carbohidratos debe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incrementarse libremente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducirse, priorizando carbohidratos complejos y fibra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sustituirse totalmente por grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Limitarse solo al desayuno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminarse por completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Reducir carbohidratos simples y aumentar fibra mejora el control de triglicéridos y colesterol."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes aceites es más recomendable para cocinar en pacientes con dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aceite de coco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aceite de oliva extra virgen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aceite de palma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manteca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasa animal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aceite de oliva extra virgen es rico en ácidos grasos monoinsaturados, beneficiosos para el perfil lipídico."
+    },
+    {
+      "numero": "13",
+      "texto": "El exceso de fructosa en la dieta se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la oxidación de grasas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento de triglicéridos y resistencia a la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de colesterol total"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fructosa en exceso favorece la lipogénesis hepática y eleva los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "14",
+      "texto": "En la dieta para dislipidemias, el consumo de proteínas debe provenir preferentemente de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carnes rojas grasosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pescados, legumbres y carnes magras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Productos embutidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quesos curados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasas animales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las fuentes magras de proteína y el pescado aportan menos grasa saturada y más ácidos grasos saludables."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué efecto tiene el consumo de alcohol en los niveles lipídicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye los triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta los triglicéridos y el riesgo cardiovascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eleva el HDL sin efectos adversos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye el colesterol total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El alcohol incrementa la síntesis hepática de triglicéridos y agrava la hipertrigliceridemia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de ejercicio complementa mejor el tratamiento dietético en dislipidemias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio aeróbico regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio de fuerza exclusivamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio anaeróbico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Actividades intermitentes sin control"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio aeróbico regular reduce triglicéridos y mejora los niveles de HDL y sensibilidad a la insulina."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la recomendación de consumo de fibra en pacientes con dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 g/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 g/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "20–30 g/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "50 g/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin restricción"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El consumo de 20–30 g diarios de fibra mejora la excreción de colesterol y regula la glucemia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué efecto tiene sustituir grasas saturadas por carbohidratos refinados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta triglicéridos y reduce HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eleva el HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejora la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la glucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Sustituir grasas saturadas por carbohidratos refinados eleva triglicéridos y reduce HDL, empeorando el perfil lipídico."
+    },
+    {
+      "numero": "19",
+      "texto": "La niacina presente en algunos alimentos tiene el efecto de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir el HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar el HDL y disminuir los triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevar la presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la absorción de calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La niacina mejora el perfil lipídico al aumentar HDL y reducir triglicéridos y LDL."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes alimentos contribuye a disminuir el colesterol sérico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aguacate"
+        },
+        {
+          "opcion": "B",
+          "texto": "Manteca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carnes procesadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quesos duros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pasteles industriales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aguacate contiene grasas monoinsaturadas que reducen el LDL y mejoran el perfil lipídico global."
+    }
+  ]
+}

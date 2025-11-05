@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.134",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trisomía 21",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa genética de la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duplicación del cromosoma 18"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de un cromosoma 21 adicional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Translocación del cromosoma 13"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monosomía parcial del cromosoma 21"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutación en el gen FMR1"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trisomía 21 se debe a la presencia de un cromosoma 21 extra en todas o algunas células."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes es la forma más común de trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trisomía por translocación robertsoniana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mosaicismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trisomía libre completa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duplicación parcial del 21"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trisomía inducida por mutación de novo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La trisomía libre completa representa el 95% de los casos y se origina por no disyunción meiótica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el factor de riesgo más importante para la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad paterna avanzada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición a radiación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Historia familiar de cáncer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de ácido fólico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El riesgo aumenta con la edad materna, especialmente después de los 35 años, debido a errores en la meiosis."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes rasgos físicos es característico del síndrome de Down?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orejas grandes y puntiagudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fisuras palpebrales oblicuas hacia arriba"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mandíbula prominente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nariz aguileña"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las fisuras palpebrales oblicuas hacia arriba son un rasgo típico junto con puente nasal plano y pliegue epicántico."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué cardiopatía congénita es más frecuente en la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tetralogía de Fallot"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comunicación interventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Canal auriculoventricular completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ductus arterioso persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coartación de aorta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El canal auriculoventricular completo es la cardiopatía más frecuente, presente en aproximadamente 40% de los casos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes trastornos hematológicos se asocia más con la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucemia linfoblástica aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia por deficiencia de hierro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplasia medular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma de Hodgkin"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemofilia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los niños con trisomía 21 tienen mayor riesgo de desarrollar leucemia linfoblástica aguda y mieloide aguda."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué anomalía gastrointestinal es típica del síndrome de Down?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis pilórica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia esofágica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Onfalocele"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastroquisis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La atresia duodenal es característica, presente en aproximadamente el 5% de los casos de trisomía 21."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el hallazgo radiológico clásico asociado a atresia duodenal en estos pacientes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo del doble burbuja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nivel hidroaéreo único"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microcolon"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distensión de asas delgadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gas ausente en el abdomen"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo del doble burbuja representa aire en estómago y duodeno, típico de atresia duodenal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de alteración endocrina es común en pacientes con trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo autoinmune"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo congénito o adquirido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes tipo 1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo es frecuente, tanto congénito como adquirido, y requiere seguimiento regular."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de retraso del desarrollo es característico en la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Motor fino y del lenguaje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo cognitivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo motor grueso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Auditivo exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Psicosocial sin compromiso intelectual"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El retraso global del desarrollo afecta tanto el área motora como del lenguaje y cognitiva."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la alteración oftalmológica más frecuente en la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Catarata congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miopía progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coloboma de iris"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glaucoma congénito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las cataratas congénitas son frecuentes y pueden afectar la visión desde etapas tempranas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la expectativa de vida promedio actual para personas con trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 20 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "20-30 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "40-50 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 60 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende solo del tipo de trisomía"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Con atención médica adecuada, la expectativa de vida supera los 60 años en países desarrollados."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes infecciones es más común en pacientes con trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones urinarias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones respiratorias recurrentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otitis media crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gastroenteritis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis bacteriana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones respiratorias recurrentes son frecuentes por anomalías anatómicas y disfunción inmunológica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la alteración auditiva más común en la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sordera neurosensorial profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media serosa con hipoacusia conductiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia del conducto auditivo externo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Labirintitis congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesteatoma congénito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La otitis media serosa recurrente causa hipoacusia conductiva, afectando el desarrollo del lenguaje."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la causa más frecuente de muerte en niños con síndrome de Down?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones respiratorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia cardíaca secundaria a cardiopatía congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Complicaciones digestivas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo no tratado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las cardiopatías congénitas no corregidas son la principal causa de mortalidad en los primeros años."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo hematológico benigno puede verse en el recién nacido con trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Poliglobulia neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucemia transitoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfocitosis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplasia medular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La leucemia transitoria es una condición autolimitada que ocurre en recién nacidos con trisomía 21."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué anomalía ortopédica es frecuente en la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Luxación congénita de cadera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inestabilidad atlantoaxoidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pie plano valgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escoliosis congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sindactilia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inestabilidad atlantoaxoidea ocurre por laxitud ligamentaria y puede causar compresión medular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué método diagnóstico confirma la trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía prenatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medición de alfafetoproteína materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cariotipo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de ADN fetal libre en sangre materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis con ultrasonido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cariotipo confirma el diagnóstico al mostrar tres copias del cromosoma 21."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué prueba de cribado prenatal tiene mayor sensibilidad para detectar trisomía 21?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Doble marcador bioquímico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Triple test"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía del pliegue nucal"
+        },
+        {
+          "opcion": "D",
+          "texto": "ADN fetal libre en sangre materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El ADN fetal libre en sangre materna ofrece la mayor sensibilidad y especificidad para detectar trisomías."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes intervenciones es esencial en el seguimiento del paciente con síndrome de Down?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecocardiograma al nacimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia cerebral anual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia hormonal de crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación auditiva mensual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar vacunas vivas atenuadas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ecocardiograma precoz es fundamental para detectar y tratar cardiopatías congénitas asociadas."
+    }
+  ]
+}

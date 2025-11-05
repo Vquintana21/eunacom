@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.4.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el método estándar para medir la densidad mineral ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía convencional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Absorciometría dual de rayos X (DXA)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gammagrafía ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DXA es el método de referencia para medir densidad mineral ósea por su precisión y baja radiación."
+    },
+    {
+      "numero": "2",
+      "texto": "La densitometría ósea DXA evalúa principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contenido de calcio plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resistencia mecánica ósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cantidad de masa ósea mineral por área"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absorción intestinal de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Volumen de médula ósea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DXA cuantifica la masa mineral ósea en gramos por centímetro cuadrado, reflejando densidad ósea areal."
+    },
+    {
+      "numero": "3",
+      "texto": "Las regiones anatómicas más utilizadas en la densitometría ósea son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craneo y clavícula"
+        },
+        {
+          "opcion": "B",
+          "texto": "Columna lumbar y cuello femoral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radio distal y húmero proximal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pelvis completa y tibia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sacro y escápula"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La DXA mide principalmente la densidad en columna lumbar y cuello femoral por su alto valor diagnóstico y pronóstico."
+    },
+    {
+      "numero": "4",
+      "texto": "El valor T-score en densitometría ósea compara al paciente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Individuos de la misma edad y sexo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Población joven de referencia (30 años)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños y adolescentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con osteoporosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Población general mayor de 65 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El T-score compara la densidad ósea del paciente con el promedio de adultos jóvenes sanos del mismo sexo."
+    },
+    {
+      "numero": "5",
+      "texto": "Un T-score entre -1.0 y -2.5 indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteoporosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Densidad normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fractura vertebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un T-score entre -1.0 y -2.5 define osteopenia, un estado de pérdida ósea leve."
+    },
+    {
+      "numero": "6",
+      "texto": "Un T-score menor o igual a -2.5 se interpreta como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteoporosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperparatiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raquitismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un T-score ≤ -2.5 confirma osteoporosis según la clasificación de la OMS."
+    },
+    {
+      "numero": "7",
+      "texto": "El Z-score en densitometría ósea se utiliza principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hombres jóvenes y mujeres premenopáusicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mujeres posmenopáusicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ancianos mayores de 70 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niños menores de 10 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con fracturas previas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Z-score compara con individuos de la misma edad y sexo, útil en jóvenes y premenopáusicas."
+    },
+    {
+      "numero": "8",
+      "texto": "El intervalo recomendado para repetir la densitometría ósea en pacientes sin tratamiento es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada 5 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo una vez en la vida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En ausencia de tratamiento, la DXA se repite cada 2 años para evaluar progresión o estabilidad ósea."
+    },
+    {
+      "numero": "9",
+      "texto": "El principal objetivo clínico de la densitometría ósea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnosticar fracturas recientes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuantificar calcio plasmático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar riesgo de fractura osteoporótica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinar metabolismo del fósforo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir masa muscular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DXA permite estimar el riesgo de fractura al evaluar la densidad mineral ósea."
+    },
+    {
+      "numero": "10",
+      "texto": "El método DXA utiliza dos haces de rayos X que permiten:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir masa grasa corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcular la masa mineral y el tejido blando por separado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar microfracturas óseas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar el metabolismo del calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la densidad cortical exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La DXA diferencia hueso y tejido blando mediante dos haces de rayos X de distinta energía."
+    },
+    {
+      "numero": "11",
+      "texto": "Una limitación importante de la densitometría ósea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta dosis de radiación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Interferencia por artrosis o calcificaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Imposibilidad de medir la columna lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso exclusivo en niños"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dependencia de contraste intravenoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cambios degenerativos como osteofitos o calcificaciones pueden sobreestimar la densidad ósea medida por DXA."
+    },
+    {
+      "numero": "12",
+      "texto": "La OMS recomienda realizar densitometría ósea en mujeres:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de la menarquia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menores de 40 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Posmenopáusicas con factores de riesgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante el embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con obesidad leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DXA está indicada en mujeres posmenopáusicas con factores de riesgo de osteoporosis o fractura."
+    },
+    {
+      "numero": "13",
+      "texto": "En la densitometría ósea, un aumento del T-score indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la densidad ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor riesgo de fractura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejoría en la densidad mineral ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error en la calibración"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de osteomalacia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un T-score más alto refleja mayor densidad mineral ósea y menor riesgo de fractura."
+    },
+    {
+      "numero": "14",
+      "texto": "El cálculo de riesgo de fractura a 10 años puede realizarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Índice de Tiffeneau"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala FRAX"
+        },
+        {
+          "opcion": "C",
+          "texto": "Índice de Gleason"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escala de Child-Pugh"
+        },
+        {
+          "opcion": "E",
+          "texto": "Puntaje CHA2DS2-VASc"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El FRAX integra factores clínicos y T-score para estimar el riesgo de fractura osteoporótica a 10 años."
+    },
+    {
+      "numero": "15",
+      "texto": "El valor Z-score se considera anormal cuando es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de +2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de -2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre -1 y +1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor de +3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de -1"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un Z-score menor de -2 indica densidad ósea significativamente inferior a la esperada para la edad y sexo."
+    },
+    {
+      "numero": "16",
+      "texto": "Una indicación frecuente de densitometría en varones es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipogonadismo o tratamiento prolongado con corticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Andropausia fisiológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de masa muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteomielitis previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hipogonadismo y el uso crónico de glucocorticoides son causas secundarias de pérdida ósea en varones."
+    },
+    {
+      "numero": "17",
+      "texto": "La radiación emitida por una densitometría ósea DXA es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta, similar a una TAC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moderada, similar a una radiografía torácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muy baja, menor que una radiografía dental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peligrosa para embarazadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Superior a 10 mSv"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DXA emite una dosis de radiación extremadamente baja, menor que la de una radiografía dental."
+    },
+    {
+      "numero": "18",
+      "texto": "La densitometría ósea periférica se usa principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar huesos corticales distales como radio o talón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir la densidad vertebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuantificar el calcio plasmático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar masa muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar osteomalacia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La densitometría periférica mide huesos corticales distales como el radio o calcáneo para tamizaje rápido."
+    },
+    {
+      "numero": "19",
+      "texto": "En pacientes tratados por osteoporosis, se recomienda repetir la DXA para control en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "18-24 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo si hay fractura"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El control con DXA se realiza cada 18 a 24 meses para evaluar la respuesta terapéutica."
+    },
+    {
+      "numero": "20",
+      "texto": "Una densitometría ósea con resultados falsamente elevados puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracturas vertebrales previas o artrosis severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteoporosis severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de bisfosfonatos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las calcificaciones y la artrosis pueden aumentar artificialmente la densidad medida por DXA en la columna lumbar."
+    }
+  ]
+}

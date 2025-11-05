@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.100",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hipertrofia adenoidea-amigdalina",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de obstrucción nasal crónica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia adenoidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación septal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sinusitis maxilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pólipo nasal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertrofia adenoidea es la causa más común de obstrucción nasal crónica en la infancia."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué signo clínico es característico de la hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Voz nasal abierta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquido nocturno y respiración bucal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epistaxis recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor faríngeo constante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca diurna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertrofia adenoidea produce obstrucción nasal que se manifiesta con ronquido y respiración bucal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué complicación se asocia frecuentemente a la hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media serosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sinusitis frontal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Faringoamigdalitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquiolitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción de la trompa de Eustaquio por adenoides hipertróficas favorece la otitis media serosa."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo facial es típico de la hipertrofia adenoidea prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macroglosia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Facies adenoidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proptosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Micrognatia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asimetría facial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La facies adenoidea se caracteriza por boca abierta, nariz estrecha y expresión apática por respiración bucal crónica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estudio es más útil para confirmar hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nasofibroscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de senos paranasales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringoscopía indirecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía cervical"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La nasofibroscopía permite visualizar directamente el tamaño de las adenoides y su grado de obstrucción."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la manifestación clínica principal de la hipertrofia amigdalina obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disfagia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquido y apnea del sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otalgia recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epistaxis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las amígdalas hipertróficas pueden causar obstrucción faríngea, ronquido y apnea del sueño."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué característica distingue la hipertrofia amigdalina de la amigdalitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de exudado purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crecimiento crónico sin signos inflamatorios agudos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatías dolorosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Halitosis súbita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertrofia amigdalina es un agrandamiento crónico sin signos de infección aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la principal indicación para adenoamigdalectomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor de garganta recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea obstructiva del sueño y ronquido severo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otitis media leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinitis crónica alérgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Facies adenoidea aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La apnea obstructiva del sueño con ronquido severo es la principal indicación quirúrgica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación puede producir la hipertrofia adenoidea en el desarrollo dentomaxilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prognatismo mandibular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paladar ojival y mordida abierta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroglosia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Micrognatia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asimetría mandibular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La respiración bucal crónica altera el desarrollo maxilar y causa paladar ojival y mordida abierta."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué síntoma nocturno es típico de la hipertrofia adenoamigdalina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insomnio intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquido y pausas respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sialorrea excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Despertares por tos seca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somnolencia al inicio del sueño"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ronquido y las pausas respiratorias nocturnas son signos clásicos de obstrucción de la vía aérea superior."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué signo físico orienta a hipertrofia amigdalina obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amígdalas grado III o IV sin eritema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado purulento bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenopatías dolorosas cervicales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión ulcerada faríngea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úvula desviada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Amígdalas muy aumentadas de tamaño, sin signos inflamatorios, sugieren hipertrofia obstructiva."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el método diagnóstico inicial más accesible para valorar hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nasofibroscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía lateral de cavum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoscopía rígida nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía lateral de cavum es un método inicial sencillo para estimar el tamaño adenoideo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación auditiva puede presentarse por hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoacusia conductiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoacusia neurosensorial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinnitus crónico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Otitis externa recurrente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Labirintitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción de la trompa de Eustaquio genera hipoacusia conductiva por derrame seroso."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué efecto puede tener la hipertrofia adenoamigdalina sobre el sueño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insomnio crónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Somnolencia diurna y apnea del sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pesadillas recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sueño prolongado sin despertares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bruxismo leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trastorno obstructivo del sueño causa ronquido y somnolencia diurna secundaria a hipoxia intermitente."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes síntomas NO es típico de hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respiración bucal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquido nocturno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Voz gangosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Otalgia irradiada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción nasal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La otalgia irradiada es poco frecuente; los demás síntomas son característicos de hipertrofia adenoidea."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es una indicación médica no quirúrgica en hipertrofia adenoidea leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos profilácticos prolongados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides nasales tópicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antihistamínicos orales diarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descongestionantes tópicos crónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antivirales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides tópicos nasales pueden reducir el tamaño adenoideo en casos leves."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estructura anatómica crece en la hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amígdalas palatinas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amígdala faríngea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cornetes nasales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringe"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úvula"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La amígdala faríngea o adenoides se encuentra en el techo de la nasofaringe y puede hipertrofiarse."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué síntoma en niños pequeños puede deberse a hipertrofia adenoidea severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea matinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apneas y despertares nocturnos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfagia progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epistaxis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las apneas nocturnas y despertares frecuentes indican obstrucción respiratoria significativa."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué complicación respiratoria puede originarse por hipertrofia adenoamigdalina severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apnea obstructiva del sueño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquiolitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sinusitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis alérgica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertrofia adenoamigdalina puede causar apnea obstructiva del sueño al dificultar el flujo aéreo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo auditivo sugiere otitis serosa secundaria a hipertrofia adenoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoacusia conductiva y membrana timpánica retráctil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoacusia neurosensorial bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinnitus agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor punzante al masticar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vértigo postural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción de la trompa de Eustaquio por adenoides hipertróficas causa hipoacusia conductiva y retracción timpánica."
+    }
+  ]
+}

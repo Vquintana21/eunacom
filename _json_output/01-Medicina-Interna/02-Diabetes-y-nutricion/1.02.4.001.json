@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la arteriografía de extremidades inferiores en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Visualizar la morfología arterial y determinar la localización de obstrucciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir el flujo venoso superficial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar microangiopatías retinianas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcular la tasa de filtración glomerular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La arteriografía permite identificar estenosis u oclusiones arteriales y evaluar la extensión de la enfermedad arterial periférica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo que justifica la realización de arteriografía en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera isquémica no cicatrizante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retinopatía leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nefropatía microalbuminúrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuropatía sensitiva distal leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una úlcera isquémica no cicatrizante indica posible obstrucción arterial significativa, justificando el estudio angiográfico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el método de contraste utilizado habitualmente en la arteriografía convencional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sulfato de bario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Yodo hidrosoluble"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gadolinio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aire estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dióxido de carbono"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los contrastes yodados hidrosolubles se utilizan para delinear el árbol arterial en la arteriografía convencional."
+    },
+    {
+      "numero": "4",
+      "texto": "En pacientes con insuficiencia renal, el uso de contraste yodado debe manejarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administración libre de contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidratación adecuada y minimización del volumen de contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensión del tratamiento antihipertensivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso simultáneo de AINES"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de diuréticos de asa antes del estudio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hidratación adecuada y limitar el volumen de contraste reducen el riesgo de nefropatía inducida por contraste."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes métodos es una alternativa menos invasiva a la arteriografía convencional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Angiografía por resonancia magnética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía simple de piernas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía sin contraste"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doppler venoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La angiografía por resonancia magnética permite visualizar arterias sin uso de contrastes yodados, siendo menos invasiva."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el sitio más común de punción para realizar una arteriografía de extremidades inferiores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Arteria radial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arteria humeral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arteria femoral común"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arteria poplítea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arteria tibial posterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La arteria femoral común es el sitio más habitual por su accesibilidad y calibre adecuado para cateterización."
+    },
+    {
+      "numero": "7",
+      "texto": "Durante la arteriografía, la visualización de flujo colateral sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfusión normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Isquemia severa con oclusión principal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo arterial aumentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección activa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema tisular leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desarrollo de circulación colateral indica obstrucción arterial significativa con compensación parcial del flujo."
+    },
+    {
+      "numero": "8",
+      "texto": "En el contexto del pie diabético, la arteriografía tiene utilidad para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la densidad ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar la necesidad de revascularización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar neuropatía periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir la glucemia capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar infecciones por hongos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La arteriografía permite definir si el paciente es candidato a revascularización quirúrgica o endovascular."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación puede derivarse del uso de contraste yodado en pacientes diabéticos con nefropatía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefropatía inducida por contraste"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El contraste yodado puede agravar la función renal y causar nefropatía inducida por contraste en diabéticos."
+    },
+    {
+      "numero": "10",
+      "texto": "El hallazgo angiográfico de estenosis segmentaria múltiple en arterias tibiales es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ateroesclerosis diabética distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasculitis de grandes vasos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Leriche"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad de Raynaud"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ateroesclerosis diabética afecta arterias distales con estenosis múltiples y calcificación de la media arterial."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es una contraindicación relativa para realizar una arteriografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal crónica avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes tipo 2 controlada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión tratada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia renal avanzada aumenta el riesgo de nefropatía por contraste, siendo una contraindicación relativa."
+    },
+    {
+      "numero": "12",
+      "texto": "El signo angiográfico de ‘corte abrupto’ en una arteria periférica indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oclusión arterial aguda o crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo turbulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espasmo vascular leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasodilatación fisiológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ‘corte abrupto’ del contraste representa una oclusión completa del vaso en el punto afectado."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué técnica se emplea actualmente para reducir la dosis de contraste en la arteriografía digital?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subtracción digital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión de inyección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de filtros ópticos rojos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proyección lateral exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolongación del tiempo de exposición"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La subtracción digital mejora la visualización vascular utilizando menos contraste y exposición radiológica."
+    },
+    {
+      "numero": "14",
+      "texto": "En la arteriografía de extremidades inferiores, la enfermedad arterial periférica suele afectar principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Arteria ilíaca externa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arterias femorales y poplíteas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arteria renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arteria axilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arteria carótida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La enfermedad arterial periférica afecta comúnmente el sector femoropoplíteo y arterias distales en pacientes diabéticos."
+    },
+    {
+      "numero": "15",
+      "texto": "Antes de una arteriografía, debe suspenderse la metformina porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Provoca hipoglucemia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta el riesgo de acidosis láctica con el uso de contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibe la secreción de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Interfiere con la coagulación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Causa retención de contraste"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metformina se suspende 48 horas antes por riesgo de acidosis láctica si se produce daño renal tras el contraste."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué signo angiográfico sugiere enfermedad arterial crónica más que aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corte abrupto de flujo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Circulación colateral desarrollada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de colaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis fresca visible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Opacificación venosa temprana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de vasos colaterales indica cronicidad del proceso oclusivo y adaptación hemodinámica progresiva."
+    },
+    {
+      "numero": "17",
+      "texto": "El hallazgo de calcificación difusa en arterias tibiales durante la arteriografía se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aneurisma periférico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esclerosis de Monckeberg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tromboflebitis profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasculitis necrosante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia venosa crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La esclerosis de Monckeberg produce calcificación medial difusa, típica de pacientes diabéticos y ancianos."
+    },
+    {
+      "numero": "18",
+      "texto": "En la interpretación de la arteriografía, un flujo lento y tardío en la fase distal sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfusión adecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasoespasmo leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Isquemia distal por obstrucción severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recanalización completa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión de perfusión normal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo lento distal es indicativo de hipoperfusión severa causada por obstrucción arterial proximal significativa."
+    },
+    {
+      "numero": "19",
+      "texto": "Una complicación inmediata de la arteriografía puede ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematoma en el sitio de punción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hematoma en el sitio de punción es una complicación frecuente y generalmente leve de la arteriografía femoral."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes medidas previene complicaciones postarteriografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Movilizar al paciente de inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presionar el sitio de punción y mantener reposo en cama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar calor local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender líquidos intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar diuréticos de rutina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La compresión del sitio de punción y el reposo previenen hematomas y hemorragias postprocedimiento."
+    }
+  ]
+}

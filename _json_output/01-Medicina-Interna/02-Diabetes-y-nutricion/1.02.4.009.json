@@ -1,0 +1,600 @@
+{
+  "codigo": "1.02.4.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal uso del electrocardiograma (ECG) en pacientes con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar neuropatía periférica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar cardiopatía isquémica y arritmias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Analizar metabolismo lipídico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ECG permite detectar alteraciones isquémicas y arritmias, frecuentes en pacientes diabéticos por la macroangiopatía."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse en la hipoglucemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión del ST y ondas T invertidas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ondas U prominentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "QTc acortado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglucemia puede inducir cambios de repolarización similares a isquemia, como depresión del ST y ondas T invertidas."
+    },
+    {
+      "numero": "3",
+      "texto": "En un paciente diabético con infarto silente, el ECG puede mostrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas Q patológicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "QT corto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV de primer grado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritmo nodal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los infartos silentes pueden dejar ondas Q patológicas en ausencia de dolor debido a neuropatía autonómica diabética."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes electrolitos alterados puede modificar significativamente el ECG en cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Magnesio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperkalemia o hipokalemia asociada a la cetoacidosis diabética puede producir cambios importantes en el ECG."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué cambio en el ECG sugiere hiperkalemia en un paciente con diabetes descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T aplanadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intervalo QT prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de ondas U"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperkalemia causa ondas T altas y picudas, típico hallazgo en descompensación diabética."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué derivación explora principalmente la pared inferior del corazón en el ECG?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "V1-V2"
+        },
+        {
+          "opcion": "B",
+          "texto": "V3-V4"
+        },
+        {
+          "opcion": "C",
+          "texto": "V5-V6"
+        },
+        {
+          "opcion": "D",
+          "texto": "II, III y aVF"
+        },
+        {
+          "opcion": "E",
+          "texto": "I y aVL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las derivaciones II, III y aVF representan la actividad eléctrica de la pared inferior del ventrículo izquierdo."
+    },
+    {
+      "numero": "7",
+      "texto": "En un paciente diabético con isquemia miocárdica, el hallazgo más precoz en el ECG suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas Q"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depresión del ST o inversión de T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los primeros signos de isquemia suelen ser depresión del ST e inversión de la onda T."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué representa el segmento ST en el electrocardiograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Despolarización auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Despolarización ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Repolarización ventricular temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Repolarización auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Despolarización del nodo SA"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El segmento ST corresponde a la repolarización ventricular temprana y es clave para identificar isquemia."
+    },
+    {
+      "numero": "9",
+      "texto": "La prolongación del intervalo QT en un paciente diabético puede relacionarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopotasemia leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipocalemia prolonga el intervalo QT, predisponiendo a arritmias ventriculares."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo es característico del infarto agudo de miocardio en el ECG?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas U prominentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión del ST"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acortamiento del PR"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La elevación persistente del segmento ST indica lesión transmural aguda."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué causa metabólica relacionada con la diabetes puede prolongar el QT?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalemia prolonga el QT al enlentecer la repolarización ventricular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la frecuencia cardíaca normal en un ECG de ritmo sinusal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40-60 lpm"
+        },
+        {
+          "opcion": "B",
+          "texto": "60-100 lpm"
+        },
+        {
+          "opcion": "C",
+          "texto": "100-120 lpm"
+        },
+        {
+          "opcion": "D",
+          "texto": "120-150 lpm"
+        },
+        {
+          "opcion": "E",
+          "texto": "150-200 lpm"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ritmo sinusal normal se encuentra entre 60 y 100 latidos por minuto."
+    },
+    {
+      "numero": "13",
+      "texto": "La neuropatía autonómica diabética puede manifestarse en el ECG como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Variabilidad normal de la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de variabilidad sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia respiratoria marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrilación auricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neuropatía autonómica reduce la variabilidad de la frecuencia cardíaca en el ECG."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué alteración del ECG sugiere isquemia subendocárdica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión del ST"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ondas Q profundas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de P"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depresión del ST es típica de isquemia subendocárdica o angina estable."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes puede alterar la lectura del ECG en un paciente con diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperuricemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad puede atenuar los voltajes eléctricos del ECG y dificultar su interpretación."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué estructura cardíaca genera el complejo QRS en el ECG?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aurículas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulo sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventrículos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haz de Bachmann"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pericardio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El complejo QRS refleja la despolarización de los ventrículos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué manifestación electrocardiográfica puede verse en la hiperkalemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del PR"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas P amplias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desaparición de la onda P"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolongación del QT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia respiratoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperkalemia severa puede hacer desaparecer la onda P y ensanchar el QRS."
+    },
+    {
+      "numero": "18",
+      "texto": "En el ECG, el intervalo PR representa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiempo de conducción auriculoventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración de la despolarización ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Repolarización auricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Repolarización ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conducción intraventricular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El intervalo PR representa el tiempo entre el inicio de la despolarización auricular y el inicio de la ventricular."
+    },
+    {
+      "numero": "19",
+      "texto": "En la cetoacidosis diabética, ¿qué patrón puede observarse si hay hiperkalemia asociada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T planas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ondas Q prominentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "QT corto"
+        },
+        {
+          "opcion": "E",
+          "texto": "PR prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperkalemia asociada produce ondas T picudas y simétricas en el ECG."
+    },
+    {
+      "numero": "20",
+      "texto": "En un ECG, ¿qué significa una onda Q patológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia ventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infarto previo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Isquemia aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritmo nodal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las ondas Q profundas o anchas representan necrosis miocárdica previa, típica de infarto antiguo."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué hallazgo en el ECG indica repolarización ventricular anómala?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas P anchas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión o inversión de T"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prolongación del PR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desaparición de QRS"
+        },
+        {
+          "opcion": "E",
+          "texto": "QT acortado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inversión o depresión de la onda T refleja repolarización ventricular anómala o isquemia."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la enzima más específica para el diagnóstico de infarto agudo de miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK total"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Troponina I/T"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las troponinas cardíacas I y T son las más específicas y sensibles para daño miocárdico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué tiempo se elevan las troponinas tras un infarto agudo de miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 hora"
+        },
+        {
+          "opcion": "C",
+          "texto": "3–6 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "12–24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "48 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las troponinas comienzan a elevarse entre 3 y 6 horas después del inicio del infarto."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tiempo aproximado de normalización de las troponinas después de un infarto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "7–14 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 mes"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las troponinas pueden permanecer elevadas durante 7 a 14 días tras un infarto agudo de miocardio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué isoenzima de la creatinfosfoquinasa (CPK) es más específica del músculo cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK-MM"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-BB"
+        },
+        {
+          "opcion": "D",
+          "texto": "CK-M"
+        },
+        {
+          "opcion": "E",
+          "texto": "CK-MB2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fracción MB (miocárdica) de la CPK es la más específica del músculo cardíaco."
+    },
+    {
+      "numero": "5",
+      "texto": "¿En qué momento se eleva la CK-MB después del inicio de un infarto agudo de miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1–2 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "3–6 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "8–12 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "48 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La CK-MB se eleva entre 3 y 6 horas después del inicio de la necrosis miocárdica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la duración típica de la elevación de CK-MB tras un infarto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "24–48 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "3–5 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "7–10 días"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La CK-MB se mantiene elevada por 2 a 3 días después de un infarto agudo de miocardio."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué enzima cardíaca es útil para detectar reinfarto precoz?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina T"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "D",
+          "texto": "AST"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mioglobina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La CK-MB es útil para detectar reinfarto precoz por su corta vida media y rápida normalización."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué isoenzima de la lactato deshidrogenasa (LDH) predomina en el miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDH-1"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH-2"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH-3"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH-4"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH-5"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El miocardio contiene principalmente LDH-1, que aumenta en el infarto agudo de miocardio."
+    },
+    {
+      "numero": "9",
+      "texto": "En un infarto agudo, la relación LDH-1/LDH-2 se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permanecer normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Invertirse (LDH-1 > LDH-2)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar LDH-2 predominantemente"
+        },
+        {
+          "opcion": "E",
+          "texto": "No cambiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el infarto, la relación LDH-1/LDH-2 se invierte, volviéndose mayor a 1."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la primera enzima que se eleva tras un infarto de miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La mioglobina se eleva primero (1–2 horas) pero es poco específica para el miocardio."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de las siguientes enzimas NO es específica del corazón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH-1"
+        },
+        {
+          "opcion": "D",
+          "texto": "AST"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mioglobina"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La AST se encuentra también en hígado, músculo esquelético y otros tejidos, por lo que no es específica cardíaca."
+    },
+    {
+      "numero": "12",
+      "texto": "En un paciente con daño renal crónico, ¿qué marcador puede estar falsamente elevado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina T"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH-1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La troponina T puede elevarse falsamente en insuficiencia renal crónica sin infarto agudo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el valor pronóstico más importante de las troponinas elevadas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Predicen mortalidad y eventos cardiovasculares futuros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indican hipoxia pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evalúan función renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinan el tipo de arritmia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miden volumen de infarto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las troponinas elevadas se asocian con mayor riesgo de muerte y eventos cardíacos futuros."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué isoenzima de CK predomina en el músculo esquelético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CK-BB"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MM"
+        },
+        {
+          "opcion": "D",
+          "texto": "CK-M"
+        },
+        {
+          "opcion": "E",
+          "texto": "CK-MP"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El músculo esquelético contiene principalmente la fracción CK-MM de la creatinfosfoquinasa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes marcadores tiene la vida media más corta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina T"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH-1"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La CK-MB tiene una vida media de aproximadamente 12 horas, siendo útil para evaluar reinfarto."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes marcadores NO es útil para el diagnóstico precoz de infarto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mioglobina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH-1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Troponina T"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La LDH-1 se eleva tardíamente (24–48 h), por lo que no sirve para diagnóstico precoz."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué enzima fue históricamente utilizada antes del uso de troponinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "C",
+          "texto": "AST"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "CK total"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La CK-MB fue el marcador más utilizado antes de la adopción de las troponinas como estándar."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal ventaja de las troponinas sobre la CK-MB?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor sensibilidad y especificidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor rapidez de elevación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor vida media corta"
+        },
+        {
+          "opcion": "D",
+          "texto": "No se alteran por ejercicio"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se detectan en insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las troponinas son más sensibles y específicas para el daño miocárdico que la CK-MB."
+    },
+    {
+      "numero": "19",
+      "texto": "La fracción MB de la CPK se eleva principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Daño muscular generalizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infarto agudo de miocardio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traumatismo óseo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fracción CK-MB se asocia de manera directa con necrosis del tejido miocárdico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el marcador más adecuado para evaluar el tamaño del infarto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mioglobina"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "C",
+          "texto": "Troponina I/T"
+        },
+        {
+          "opcion": "D",
+          "texto": "AST"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH total"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El nivel de troponina se correlaciona con la extensión del daño miocárdico y el tamaño del infarto."
+    }
+  ]
+}

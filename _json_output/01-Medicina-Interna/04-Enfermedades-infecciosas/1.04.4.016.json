@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.016",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se detecta principalmente en las pruebas serológicas para enfermedades infecciosas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antígenos virales en sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticuerpos o antígenos específicos frente a un agente infeccioso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Material genético del patógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células infectadas del huésped"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fragmentos de proteínas plasmáticas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pruebas serológicas detectan anticuerpos o antígenos específicos en suero para diagnosticar infecciones actuales o pasadas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes inmunoglobulinas aparece primero en una infección aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgG"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgA"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgM"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgE"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgD"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La IgM es la primera inmunoglobulina en aparecer durante una infección aguda, indicando infección reciente."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué significa la presencia aislada de IgG positiva en una prueba serológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección reciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunidad previa o infección pasada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error de laboratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección latente activa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La IgG positiva aislada indica exposición previa o inmunidad adquirida por infección o vacunación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué técnica serológica se utiliza comúnmente para cuantificar anticuerpos en suero?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aglutinación en látex"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "ELISA permite detectar y cuantificar anticuerpos o antígenos específicos con alta sensibilidad y especificidad."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la utilidad principal de la serología en infecciones virales como hepatitis B?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distinguir entre infección activa, resuelta o vacunación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuantificar la carga viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar resistencia antiviral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar función hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir proteínas séricas totales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La serología de hepatitis B permite diferenciar entre infección activa, resuelta o inmunidad por vacunación."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué marcador serológico indica infección aguda por hepatitis B?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anti-HBs positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "HBsAg positivo y anti-HBc IgM positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo anti-HBc IgG positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "HBsAg negativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anti-HBe positivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de HBsAg y anti-HBc IgM confirma infección aguda por virus de hepatitis B."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba serológica se usa para confirmar una infección por VIH tras un ELISA positivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Western blot o inmunoensayo confirmatorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aglutinación directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR para ADN bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Widal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Western blot confirma la presencia de anticuerpos específicos contra proteínas del VIH tras un ELISA positivo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de respuesta inmunitaria se evalúa con las pruebas de aglutinación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Celular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Humoral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Innate"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunidad de mucosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inflamatoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pruebas de aglutinación evalúan la respuesta humoral mediante la detección de anticuerpos séricos específicos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué característica define una seroconversión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desaparición del antígeno viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aparición de anticuerpos detectables tras infección o vacunación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de linfocitos T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Negativización del cultivo bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de fiebre persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La seroconversión ocurre cuando los anticuerpos se vuelven detectables en sangre tras exposición al antígeno."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué indica un aumento de cuatro veces en el título de anticuerpos entre dos muestras séricas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección pasada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación reciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección activa reciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falso positivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunidad cruzada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un aumento de cuatro veces o más en títulos de anticuerpos indica infección activa o reciente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué utilidad tiene la detección de anticuerpos IgG e IgM en toxoplasmosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar la gravedad de la infección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diferenciar infección reciente de pasada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar respuesta celular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir carga parasitaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar resistencia al tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La detección de IgM sugiere infección reciente, mientras que IgG indica exposición previa o infección antigua."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué marcador serológico se utiliza para el diagnóstico de sífilis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticuerpos anti-HBc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reacción VDRL o RPR"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de ELISA para IgG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antígeno p24"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación Widal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El VDRL o RPR detecta anticuerpos no treponémicos utilizados para diagnóstico y seguimiento de sífilis."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué método confirmatorio se utiliza tras una prueba VDRL positiva para sífilis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de TPHA o FTA-ABS"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR para Treponema pallidum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo en medio selectivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunofluorescencia para IgM"
+        },
+        {
+          "opcion": "E",
+          "texto": "Western blot"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las pruebas treponémicas como TPHA o FTA-ABS confirman la infección tras un test no treponémico positivo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué prueba serológica se utiliza para diagnóstico de fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de Widal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de Paul-Bunnell"
+        },
+        {
+          "opcion": "C",
+          "texto": "ELISA para IgM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación en látex"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba de Widal detecta anticuerpos contra antígenos O y H de Salmonella typhi en suero."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una limitación común de las pruebas serológicas en diagnóstico de infecciones agudas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Baja especificidad para bacterias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiempo necesario para desarrollar anticuerpos detectables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta tasa de falsos negativos en infecciones crónicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "No se pueden realizar en suero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requieren PCR complementaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Puede haber un período ventana antes de que se desarrollen anticuerpos detectables, reduciendo la sensibilidad inicial."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué prueba serológica se utiliza para detectar infección por Epstein-Barr virus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de Paul-Bunnell o Monospot"
+        },
+        {
+          "opcion": "B",
+          "texto": "VDRL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aglutinación Widal"
+        },
+        {
+          "opcion": "D",
+          "texto": "TPHA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anti-HBs"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El test de Paul-Bunnell o Monospot detecta anticuerpos heterófilos característicos de la mononucleosis infecciosa por EBV."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué indica un resultado negativo para IgM y positivo para IgG en rubéola?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección reciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunidad por infección pasada o vacunación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Periodo ventana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Error de laboratorio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ausencia de IgM y presencia de IgG refleja inmunidad adquirida o infección pasada resuelta."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué prueba serológica es más útil para el diagnóstico de dengue en fase aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgG por ELISA"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM por ELISA"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR para ARN viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aglutinación cruzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Western blot"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La detección de IgM específica por ELISA es útil para diagnosticar dengue en la fase aguda."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro se considera al interpretar pruebas serológicas pareadas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de títulos de IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio significativo en títulos de anticuerpos entre fase aguda y convaleciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de antígeno viral constante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación de proteínas plasmáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambios en leucocitos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La comparación entre muestras aguda y convaleciente busca aumento de títulos de anticuerpos, indicando infección reciente."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tipo de prueba serológica se utiliza para detectar antígenos circulantes del VIH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ELISA de cuarta generación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR cuantitativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación directa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ELISA de cuarta generación detecta simultáneamente anticuerpos contra VIH y el antígeno p24, mejorando diagnóstico precoz."
+    }
+  ]
+}

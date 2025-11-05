@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.046",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Reflujo gastroesofágico y vómitos del lactante",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes afirmaciones describe mejor el reflujo gastroesofágico fisiológico en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se asocia siempre a esofagitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Requiere tratamiento farmacológico prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consiste en regurgitaciones sin repercusión en el crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es indicación de cirugía antirreflujo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Produce aspiración pulmonar en la mayoría de los casos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reflujo fisiológico se caracteriza por regurgitaciones frecuentes sin impacto en la ganancia ponderal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué signo orienta a reflujo gastroesofágico patológico en un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Regurgitación postprandial aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ganancia de peso adecuada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irritabilidad persistente y rechazo alimentario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eructos frecuentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sueño prolongado después de comer"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reflujo patológico se asocia a rechazo alimentario, llanto e irritabilidad persistente."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la principal medida no farmacológica en el manejo del reflujo fisiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar inhibidores de bomba de protones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener al lactante en posición prono"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espesar las mamaderas y fraccionar las tomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar fórmula hidrolizada en todos los casos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspender alimentación oral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El fraccionamiento de tomas y el uso de espesantes reducen los episodios de regurgitación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué examen confirma el diagnóstico de enfermedad por reflujo gastroesofágico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "pHmetría esofágica de 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tránsito intestinal baritado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoscopía digestiva alta sola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía simple de abdomen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pHmetría esofágica cuantifica la exposición ácida y confirma la enfermedad por reflujo."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la complicación más frecuente del reflujo gastroesofágico no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esofagitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gastritis erosiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hernia diafragmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlcera duodenal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La exposición crónica al ácido produce esofagitis y síntomas digestivos altos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la conducta inicial frente a un lactante con regurgitaciones pero buen crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solicitar endoscopía digestiva alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indicar IBP por 8 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tranquilizar a los padres y observar evolución"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender lactancia materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar pHmetría de urgencia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En casos sin signos de alarma, se indica observación y medidas posturales simples."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es un signo de alarma en un lactante con vómitos recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos después de cada comida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos proyectivos biliosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Regurgitación de leche coagulada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Llanto intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sueño corto después de alimentarse"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los vómitos biliosos indican obstrucción intestinal y requieren evaluación urgente."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico orienta a estenosis hipertrófica de píloro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos biliosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos no biliosos en proyectil y pérdida de peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia leve y hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distensión abdominal con fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis pilórica causa vómitos no biliosos en proyectil y pérdida ponderal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué posición postprandial se recomienda en lactantes con reflujo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prono plano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supino con cabeza elevada 30°"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lateral izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lateral derecho plano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sentado en silla 90°"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La posición supina con inclinación moderada reduce el reflujo sin aumentar riesgo de muerte súbita."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medicamento puede usarse en enfermedad por reflujo confirmada y sintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Omeprazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Domperidona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ranitidina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metoclopramida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carbonato de calcio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los inhibidores de bomba de protones reducen la acidez y mejoran la esofagitis por reflujo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es una manifestación extraesofágica del reflujo en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dermatitis atópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Convulsiones febriles"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El reflujo ácido puede provocar microaspiraciones y otitis media recurrente."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué examen permite detectar complicaciones anatómicas asociadas al reflujo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tránsito esofagogastroduodenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "pHmetría de 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de aliento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coprocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tránsito contrastado muestra alteraciones anatómicas como hernia hiatal o estenosis pilórica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica define el vómito fisiológico del lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuente, bilioso y proyectil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ocasional, sin bilis y sin repercusión ponderal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Doloroso y con sangre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acompañado de ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con distensión abdominal marcada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vómito fisiológico es leve, sin bilis ni pérdida de peso y sin signos de enfermedad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿En qué edad es más frecuente el reflujo gastroesofágico fisiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primeras 2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 1 y 4 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 a 12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después del año"
+        },
+        {
+          "opcion": "E",
+          "texto": "Etapa preescolar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflujo fisiológico es más frecuente entre el primer y cuarto mes de vida."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué manifestación sugiere alergia a la proteína de leche de vaca y no reflujo simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Regurgitaciones aisladas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea con sangre y vómitos persistentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Llanto postprandial leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sueño intranquilo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del apetito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diarrea con sangre y vómitos persistentes sugieren alergia a la proteína de leche de vaca."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo clínico indica posible aspiración secundaria a reflujo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinorrea persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos nocturna o episodios de apneas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dermatitis facial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Irritabilidad leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos y apneas nocturnas pueden deberse a microaspiración por reflujo gastroesofágico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el mecanismo principal del reflujo gastroesofágico en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión del esfínter esofágico inferior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relajaciones transitorias del esfínter esofágico inferior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipersecreción gástrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retraso en el vaciamiento gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración de la mucosa esofágica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las relajaciones transitorias del esfínter esofágico inferior permiten el paso retrógrado del contenido gástrico."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué alimento puede exacerbar los síntomas de reflujo en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fórmula de soya"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cítricos o jugos ácidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Avena líquida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leche materna exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papilla de arroz"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los cítricos y alimentos ácidos pueden agravar los síntomas del reflujo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuándo está indicada la cirugía antirreflujo en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflujo fisiológico persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fracaso del tratamiento médico con complicaciones graves"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irritabilidad posprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regurgitación sin esofagitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de reflujo leve en pHmetría"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cirugía se reserva para casos refractarios o con complicaciones como aspiración o esofagitis severa."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de reflujo gastroesofágico patológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prematurez y displasia broncopulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactancia materna exclusiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Posición supina para dormir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inicio temprano de alimentación sólida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso elevado al nacer"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prematurez y displasia broncopulmonar predisponen a reflujo gastroesofágico severo."
+    }
+  ]
+}

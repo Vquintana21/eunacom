@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.2.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza a las infecciones invasivas de partes blandas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compromiso superficial limitado a la epidermis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afectación profunda con destrucción tisular rápida y sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral autolimitada de la piel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción alérgica a toxinas bacterianas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proceso inflamatorio crónico sin necrosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Estas infecciones involucran tejidos profundos como fascia o músculo y pueden producir necrosis y shock séptico rápidamente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la celulitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus y Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium marinum"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La celulitis es causada principalmente por S. aureus y S. pyogenes, que invaden la dermis y tejido subcutáneo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico distingue a la fasceitis necrotizante de la celulitis simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor leve localizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ampollas y anestesia cutánea precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema limitado y calor local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatías regionales dolorosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema pruriginoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor intenso desproporcionado, la anestesia cutánea y la formación de ampollas son signos característicos de fasceitis necrotizante."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tratamiento de elección de la celulitis no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos tópicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje quirúrgico inmediato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos sistémicos dirigidos a cocos grampositivos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antivirales de amplio espectro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desbridamiento radical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La celulitis se trata con antibióticos sistémicos como cefazolina o cloxacilina para cubrir Streptococcus y Staphylococcus."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué microorganismo produce fasceitis necrotizante tipo II?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vibrio vulnificus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escherichia coli"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fasceitis necrotizante tipo II es monomicrobiana y está causada por Streptococcus beta-hemolítico del grupo A."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo imagenológico es característico de la fasceitis necrotizante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento dérmico sin gas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de gas en planos fasciales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificaciones cutáneas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colección subcutánea encapsulada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de grasa subcutánea sin líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía o radiografía puede mostrar gas en tejidos blandos, un hallazgo sugestivo de infección necrosante."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de necrosis predomina en la miositis clostridial (gangrena gaseosa)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Necrosis caseosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis licuefactiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis coagulativa con gas y hemólisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis grasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necrosis fibrinoide"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La miositis clostridial produce necrosis coagulativa del músculo, hemólisis y gas tisular por Clostridium perfringens."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la medida terapéutica más importante en fasceitis necrotizante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso exclusivo de antibióticos intravenosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicación de oxígeno hiperbárico sin cirugía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desbridamiento quirúrgico urgente y amplio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresas frías locales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación clínica prolongada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento fundamental es el desbridamiento quirúrgico agresivo combinado con antibióticos de amplio espectro."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué factor de riesgo está fuertemente asociado con fasceitis necrotizante tipo I polimicrobiana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inyección intramuscular reciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus y enfermedad vascular periférica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alergia medicamentosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exposición solar prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traumatismo cerrado leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones polimicrobianas necrosantes son más frecuentes en pacientes diabéticos o con insuficiencia vascular periférica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es un signo clínico clásico de la gangrena gaseosa clostridial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ampollas serosas sin dolor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crepitación subcutánea con dolor intenso y edema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exantema pruriginoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperemia localizada sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez muscular sin fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La gangrena gaseosa se presenta con crepitación por gas, dolor intenso y progresión rápida del edema."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué antibiótico inhibe la producción de toxinas en infecciones por Streptococcus pyogenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amikacina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La clindamicina inhibe la síntesis proteica bacteriana y reduce la producción de exotoxinas en infecciones graves por estreptococos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo analítico orienta a fasceitis necrotizante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis leve con linfocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR elevada y leucocitosis marcada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperbilirrubinemia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fasceitis necrotizante cursa con leucocitosis severa y PCR muy elevada, reflejando inflamación sistémica intensa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de miositis se asocia con Streptococcus del grupo A y se acompaña de shock tóxico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miositis eosinofílica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miositis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miositis necrotizante estreptocócica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miositis granulomatosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miositis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La miositis necrotizante estreptocócica puede causar liberación masiva de toxinas, con shock tóxico y falla multiorgánica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo clínico precoz es típico en fasceitis necrotizante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor desproporcionado al examen físico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anestesia inmediata de la zona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampollas purulentas tempranas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descamación sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración cianótica inicial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor intenso, mayor al esperado por el aspecto cutáneo, es un signo precoz y característico de la fasceitis necrotizante."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el agente etiológico clásico de la mionecrosis gaseosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vibrio vulnificus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Clostridium perfringens produce alfa-toxina que destruye tejido muscular y genera gas subcutáneo en la mionecrosis gaseosa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de herida favorece la infección por Vibrio vulnificus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Punción con clavo oxidado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición de heridas a agua salada o mariscos crudos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inyección intramuscular contaminada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mordedura de animal doméstico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Herida quirúrgica reciente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Vibrio vulnificus causa infecciones necrosantes tras exposición de heridas a agua de mar o consumo de mariscos crudos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la indicación más urgente en una sospecha de fasceitis necrotizante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar oxigenoterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solicitar tomografía sin contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar antibióticos y consultar cirugía de urgencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar punción diagnóstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar confirmación microbiológica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Ante sospecha de fasceitis, se inicia antibiótico empírico y se solicita valoración quirúrgica urgente para desbridamiento."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué combinación antibiótica empírica se recomienda para fasceitis necrotizante tipo I?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona + metronidazol + vancomicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ampicilina + gentamicina + clindamicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefepime + metronidazol + vancomicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meropenem + linezolid"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefazolina + rifampicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El esquema cefepime, metronidazol y vancomicina cubre cocos grampositivos, gramnegativos y anaerobios en infecciones polimicrobianas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico indica miositis necrotizante septicémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Debilidad muscular progresiva con crepitación y shock séptico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor muscular leve sin fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampollas serosas localizadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema cutáneo superficial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prurito generalizado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La miositis necrotizante septicémica cursa con necrosis muscular extensa, gas tisular, shock séptico y alta mortalidad."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida adicional puede considerarse en la gangrena gaseosa clostridial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenoterapia hiperbárica como adyuvante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo y antibiótico oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tratamiento antiviral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía reconstructiva inmediata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El oxígeno hiperbárico puede usarse como adyuvante al desbridamiento quirúrgico y antibióticos en mionecrosis clostridial."
+    }
+  ]
+}

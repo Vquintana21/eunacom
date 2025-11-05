@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de mortalidad en pacientes con diabetes mellitus tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad cardiovascular aterosclerótica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infecciones recurrentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad cardiovascular aterosclerótica representa la principal causa de muerte en diabéticos tipo 2."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué mecanismo fisiopatológico relaciona la diabetes con el riesgo cardiovascular aumentado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsulinemia y disfunción endotelial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición de la lipólisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de ácidos grasos libres"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia a la insulina y la disfunción endotelial promueven aterosclerosis y daño vascular crónico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes factores es parte del síndrome metabólico asociado a mayor riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrigliceridemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertrigliceridemia es uno de los componentes del síndrome metabólico que incrementa el riesgo cardiovascular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué alteración lipídica es característica en pacientes con diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrigliceridemia y HDL bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercolesterolemia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDL aumentado pero con alta densidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los diabéticos presentan hipertrigliceridemia, HDL bajo y LDL pequeñas y densas, aumentando el riesgo aterogénico."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué marcador inflamatorio se asocia con mayor riesgo cardiovascular en diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR ultrasensible elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ferritina baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina D elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de eritropoyetina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La proteína C reactiva ultrasensible elevada refleja inflamación crónica y mayor riesgo aterosclerótico en diabéticos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué órgano blanco se afecta más tempranamente por la aterosclerosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El corazón es el órgano más afectado inicialmente por la aterosclerosis coronaria acelerada en la diabetes."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos tiene evidencia en la reducción de riesgo cardiovascular en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sulfonilureas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina regular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meglitinidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiazolidinedionas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La metformina reduce el riesgo cardiovascular al mejorar la sensibilidad a la insulina y el perfil lipídico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué papel tiene la dislipidemia diabética en la patogénesis de la enfermedad cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reduce la inflamación endotelial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorece la formación de placas ateroscleróticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la vasodilatación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye la coagulación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibe la agregación plaquetaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las partículas LDL pequeñas y densas favorecen la infiltración endotelial y formación de placas ateroscleróticas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de dieta se asocia con menor riesgo cardiovascular en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta mediterránea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta cetogénica extrema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta en sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Baja en fibra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta mediterránea rica en grasas monoinsaturadas y fibra reduce el riesgo cardiovascular en pacientes diabéticos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué nivel de presión arterial se considera meta en pacientes diabéticos para reducir riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<150/90 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "<140/90 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "<130/80 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "<120/70 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "<110/60 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La meta recomendada es mantener la presión arterial por debajo de 130/80 mmHg para reducir riesgo cardiovascular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de enfermedad cardiovascular en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL alto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microalbuminuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normoglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio regular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bajo índice de masa corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microalbuminuria refleja daño endotelial y predice riesgo aumentado de enfermedad cardiovascular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de disfunción endotelial ocurre en la diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del óxido nítrico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasoconstricción por reducción del óxido nítrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de prostaciclina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de endotelina-1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la adhesión plaquetaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia reduce la disponibilidad de óxido nítrico, promoviendo vasoconstricción y aterogénesis."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué valor de hemoglobina glicosilada (HbA1c) se recomienda mantener para reducir complicaciones cardiovasculares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<8.5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "<8.0%"
+        },
+        {
+          "opcion": "C",
+          "texto": "<7.0%"
+        },
+        {
+          "opcion": "D",
+          "texto": "<6.0%"
+        },
+        {
+          "opcion": "E",
+          "texto": "<5.0%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un control glucémico con HbA1c menor de 7% reduce el riesgo de complicaciones micro y macrovasculares."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes medicamentos hipoglucemiantes ha demostrado beneficio cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Empagliflozina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glibenclamida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pioglitazona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acarbosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Repaglinida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La empagliflozina, un inhibidor SGLT2, reduce la mortalidad cardiovascular en pacientes con diabetes tipo 2."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué efecto tiene la obesidad abdominal en la diabetes y el riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la resistencia a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce el estrés oxidativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la inflamación sistémica y la resistencia a la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorece el aumento de HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad visceral promueve inflamación y resistencia a la insulina, aumentando el riesgo cardiovascular."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué marcador clínico se utiliza como predictor temprano de daño cardiovascular en diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Excreción urinaria de albúmina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido úrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bilirrubina indirecta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La microalbuminuria es un marcador temprano de daño endotelial y riesgo cardiovascular aumentado."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de ejercicio físico se recomienda para disminuir el riesgo cardiovascular en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio anaeróbico exclusivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio aeróbico regular combinado con resistencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedentarismo controlado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio de alta intensidad sin supervisión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo caminatas ocasionales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio aeróbico combinado con entrenamiento de resistencia mejora la sensibilidad a la insulina y reduce riesgo cardiovascular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué valor de LDL se recomienda como meta en diabéticos con alto riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<55 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<40 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda mantener LDL por debajo de 70 mg/dL en diabéticos con riesgo cardiovascular elevado."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el efecto de la hiperglucemia crónica sobre las arterias coronarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la vasodilatación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promueve la glicación de proteínas endoteliales y aterosclerosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye la adhesión de macrófagos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reduce la oxidación lipídica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la permeabilidad vascular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia favorece la glicación y oxidación endotelial, promoviendo la aterosclerosis coronaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estrategia integral es más efectiva para reducir el riesgo cardiovascular en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo control glucémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control multifactorial de glucosa, presión y lípidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio sin ajuste dietético"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión de todos los carbohidratos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento farmacológico exclusivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control multifactorial de glucosa, lípidos y presión arterial reduce significativamente la mortalidad cardiovascular."
+    }
+  ]
+}

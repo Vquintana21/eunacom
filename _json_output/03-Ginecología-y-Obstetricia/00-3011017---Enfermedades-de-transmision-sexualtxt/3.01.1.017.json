@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.017",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.017 - Enfermedades de transmision sexual.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la sífilis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus ducreyi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma genitalium"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sífilis es causada por la espiroqueta Treponema pallidum, transmitida principalmente por contacto sexual."
+    },
+    {
+      "numero": "2",
+      "texto": "El chancro duro es la lesión típica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sífilis primaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gonorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clamidia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes genital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tricomoniasis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El chancro duro indoloro es característico de la sífilis primaria."
+    },
+    {
+      "numero": "3",
+      "texto": "La secreción purulenta uretral es más característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sífilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gonorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Herpes simple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clamidia"
+        },
+        {
+          "opcion": "E",
+          "texto": "VPH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La gonorrea se caracteriza por secreción uretral purulenta y disuria."
+    },
+    {
+      "numero": "4",
+      "texto": "La clamidia no tratada puede complicarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Fitz-Hugh-Curtis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cistitis hemorrágica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La infección por clamidia puede causar enfermedad inflamatoria pélvica y síndrome de Fitz-Hugh-Curtis."
+    },
+    {
+      "numero": "5",
+      "texto": "El tratamiento de elección para sífilis primaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penicilina G benzatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Doxiciclina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metronidazol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La penicilina G benzatina en dosis única es el tratamiento de elección para sífilis primaria."
+    },
+    {
+      "numero": "6",
+      "texto": "El diagnóstico de certeza de herpes genital se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Serología"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo viral o PCR"
+        },
+        {
+          "opcion": "C",
+          "texto": "Examen directo con Gram"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de VDRL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papanicolaou"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico confirmatorio de herpes genital se realiza mediante cultivo viral o PCR para VHS."
+    },
+    {
+      "numero": "7",
+      "texto": "El VIH se transmite principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto cutáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transfusiones, vía sexual y vertical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Picaduras de insecto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Saliva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aire"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La transmisión del VIH ocurre principalmente por vía sexual, transfusional y vertical madre-hijo."
+    },
+    {
+      "numero": "8",
+      "texto": "El agente causal del chancroide es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus ducreyi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Herpes simple tipo 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El chancroide está producido por Haemophilus ducreyi, causando úlceras dolorosas genitales."
+    },
+    {
+      "numero": "9",
+      "texto": "El condiloma acuminado está producido por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VPH de bajo riesgo (6 y 11)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Herpes simple tipo 1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma genitalium"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los condilomas acuminados son causados por VPH de bajo riesgo, especialmente tipos 6 y 11."
+    },
+    {
+      "numero": "10",
+      "texto": "La tricomoniasis se diagnostica con mayor certeza mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Papanicolaou"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen en fresco con microscopía"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR de VPH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Serología"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Gram"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La visualización directa del protozoo Trichomonas vaginalis en microscopía confirma el diagnóstico."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento de elección para tricomoniasis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Doxiciclina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Penicilina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceftriaxona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metronidazol en dosis única o prolongada es el tratamiento de elección para tricomoniasis."
+    },
+    {
+      "numero": "12",
+      "texto": "La prueba no treponémica más usada para sífilis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FTA-ABS"
+        },
+        {
+          "opcion": "B",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "C",
+          "texto": "VDRL"
+        },
+        {
+          "opcion": "D",
+          "texto": "ELISA"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VDRL es una prueba no treponémica usada para tamizaje y seguimiento de sífilis."
+    },
+    {
+      "numero": "13",
+      "texto": "La cervicitis mucopurulenta es característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clamidia y gonorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Herpes simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sífilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tricomoniasis"
+        },
+        {
+          "opcion": "E",
+          "texto": "VPH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Clamidia y gonorrea son causas frecuentes de cervicitis mucopurulenta."
+    },
+    {
+      "numero": "14",
+      "texto": "El linfogranuloma venéreo es causado por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chlamydia trachomatis serotipos L1-L3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes virus"
+        },
+        {
+          "opcion": "E",
+          "texto": "VPH 18"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El linfogranuloma venéreo es causado por Chlamydia trachomatis serotipos L1-L3, con linfadenitis inguinal dolorosa."
+    },
+    {
+      "numero": "15",
+      "texto": "El diagnóstico de gonorrea se confirma mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cultivo en Thayer-Martin"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de VDRL"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR para VIH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Examen en fresco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test rápido de antígeno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cultivo en medio Thayer-Martin es el estándar para diagnóstico confirmatorio de gonorrea."
+    },
+    {
+      "numero": "16",
+      "texto": "El tratamiento actual recomendado para gonorrea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona intramuscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penicilina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritromicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ceftriaxona intramuscular es el tratamiento recomendado debido a resistencia creciente a otros antibióticos."
+    },
+    {
+      "numero": "17",
+      "texto": "El diagnóstico definitivo de VIH se establece con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba rápida"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA de cuarta generación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Western blot o PCR confirmatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de orina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico de VIH requiere confirmación con pruebas específicas como Western blot o PCR."
+    },
+    {
+      "numero": "18",
+      "texto": "La prevención más eficaz de ETS incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticonceptivos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "DIU"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de preservativo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ducha vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de preservativo es la medida más eficaz para reducir la transmisión de ETS."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.015",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué significa la sigla PCR en diagnóstico molecular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Protein Chain Reaction"
+        },
+        {
+          "opcion": "B",
+          "texto": "Polymerase Chain Reaction"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polysaccharide Clumping Reaction"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peptide Chain Replication"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polymerase Cell Replication"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "PCR significa 'Polymerase Chain Reaction' o reacción en cadena de la polimerasa, técnica que amplifica ADN específico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la enzima clave utilizada en la PCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ADN polimerasa humana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taq polimerasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "ARN polimerasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ligasas del ADN"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transcriptasa inversa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Taq polimerasa, aislada de Thermus aquaticus, resiste altas temperaturas y permite la amplificación cíclica del ADN."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el objetivo principal de la reacción en cadena de la polimerasa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar anticuerpos contra un agente infeccioso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amplificar fragmentos específicos de ADN"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sintetizar proteínas bacterianas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inactivar patógenos en sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar la función enzimática celular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El propósito de la PCR es amplificar una secuencia específica de ADN para su detección o análisis."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuáles son los componentes básicos de una reacción de PCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ADN molde, cebadores, nucleótidos y Taq polimerasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "ARN, ribosomas, aminoácidos y ATP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enzimas, proteínas y glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos, antígenos y suero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido úrico, bases nitrogenadas y coenzimas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los elementos esenciales son ADN molde, cebadores, nucleótidos (dNTPs) y la enzima Taq polimerasa."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué fase de la PCR implica la separación de las hebras de ADN?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnaturalización"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alineamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hibridación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elongación final"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la desnaturalización, el ADN bicatenario se separa mediante calentamiento a unos 94-96°C."
+    },
+    {
+      "numero": "6",
+      "texto": "¿En qué etapa de la PCR se unen los cebadores al ADN molde?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnaturalización"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alineamiento (annealing)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elongación final"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desactivación enzimática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante el alineamiento o annealing, los cebadores se aparean con las secuencias complementarias del ADN molde."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué temperatura se utiliza típicamente en la etapa de extensión de PCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30°C"
+        },
+        {
+          "opcion": "B",
+          "texto": "55°C"
+        },
+        {
+          "opcion": "C",
+          "texto": "72°C"
+        },
+        {
+          "opcion": "D",
+          "texto": "90°C"
+        },
+        {
+          "opcion": "E",
+          "texto": "100°C"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La Taq polimerasa tiene su temperatura óptima de actividad a 72°C, usada en la etapa de extensión."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de patógenos puede detectarse mediante PCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo bacterias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo virus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacterias, virus, hongos y parásitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo hongos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo ADN humano"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PCR permite detectar cualquier microorganismo que posea material genético, incluyendo virus, bacterias y hongos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué variante de la PCR permite la detección y cuantificación en tiempo real?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR anidada"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR múltiple"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR en tiempo real (qPCR)"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR inversa"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR aleatoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PCR en tiempo real o qPCR cuantifica el ADN amplificado mediante fluorescencia durante el proceso."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué elemento permite visualizar los productos de PCR en un gel de agarosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Azul de metileno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristal violeta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bromuro de etidio o fluoróforo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinta china"
+        },
+        {
+          "opcion": "E",
+          "texto": "Safranina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los productos amplificados se visualizan bajo luz UV tras tinción con bromuro de etidio o colorantes fluorescentes."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué ventaja ofrece la PCR sobre los métodos de cultivo microbiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor rapidez y sensibilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor costo por muestra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identifica cepas resistentes automáticamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permite pruebas de sensibilidad antimicrobiana"
+        },
+        {
+          "opcion": "E",
+          "texto": "No requiere ADN"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La PCR detecta material genético con gran sensibilidad y rapidez, incluso en muestras donde no hay crecimiento bacteriano."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de PCR se utiliza para detectar ARN viral como el SARS-CoV-2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR múltiple"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "C",
+          "texto": "RT-PCR (PCR con transcriptasa inversa)"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR anidada"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR cuantitativa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La RT-PCR convierte ARN en ADN complementario mediante transcriptasa inversa antes de la amplificación."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué riesgo principal presenta la PCR en diagnóstico clínico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta tasa de falsos negativos por inhibidores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contaminación cruzada y falsos positivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necesidad de gran volumen de muestra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Baja sensibilidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pérdida de especificidad por temperatura"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La alta sensibilidad de la PCR la hace susceptible a contaminación con ADN exógeno, generando falsos positivos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué elemento en la PCR define la especificidad del fragmento amplificado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Los dNTPs"
+        },
+        {
+          "opcion": "B",
+          "texto": "La enzima polimerasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Los cebadores (primers)"
+        },
+        {
+          "opcion": "D",
+          "texto": "La concentración de ADN molde"
+        },
+        {
+          "opcion": "E",
+          "texto": "El número de ciclos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La secuencia de los cebadores determina la región del ADN que será amplificada, definiendo la especificidad."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué patógeno se diagnostica frecuentemente por PCR en LCR en meningitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Herpes simplex virus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cryptococcus neoformans"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El herpes simplex virus se detecta eficazmente por PCR en LCR, siendo el método de elección en meningitis viral."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica distingue la PCR múltiple de la PCR convencional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usa diferentes enzimas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amplifica varias secuencias en una sola reacción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Requiere solo un cebador"
+        },
+        {
+          "opcion": "D",
+          "texto": "Produce fragmentos más largos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se realiza sin control de temperatura"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR múltiple amplifica simultáneamente varias secuencias utilizando múltiples pares de cebadores específicos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué indicador se utiliza en la PCR en tiempo real para medir la amplificación del ADN?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluorescencia emitida por sondas o colorantes intercalantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambios de pH del medio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Turbidez de la muestra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la temperatura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conductividad eléctrica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la qPCR se mide la fluorescencia emitida por colorantes o sondas que se unen al ADN amplificado."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué característica permite a la PCR detectar infecciones en fase temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta especificidad del cultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amplificación exponencial de ADN del patógeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dependencia de anticuerpos del huésped"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de medios selectivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento de proteínas antigénicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR amplifica pequeñas cantidades de ADN, permitiendo detectar patógenos incluso antes de la respuesta inmune."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué control se incluye para descartar contaminación en una reacción de PCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control positivo con ADN conocido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control negativo sin ADN molde"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control de temperatura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control con dNTPs extras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control de pH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control negativo sin ADN molde permite verificar la ausencia de contaminación en reactivos o muestras."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué ventaja ofrece la PCR digital frente a la PCR en tiempo real?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor rapidez pero menor sensibilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuantificación absoluta de ADN sin curva estándar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detección cualitativa únicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso exclusivo para virus ARN"
+        },
+        {
+          "opcion": "E",
+          "texto": "No requiere cebadores específicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR digital permite cuantificar moléculas de ADN individualmente, proporcionando una cuantificación absoluta sin curva estándar."
+    }
+  ]
+}

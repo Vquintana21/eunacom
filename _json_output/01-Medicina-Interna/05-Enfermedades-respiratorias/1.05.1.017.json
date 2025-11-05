@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.017",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el criterio diagnóstico espirométrico de EPOC leve o moderada según GOLD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VEF1/CVF > 0.8"
+        },
+        {
+          "opcion": "B",
+          "texto": "VEF1/CVF < 0.7 posbroncodilatador"
+        },
+        {
+          "opcion": "C",
+          "texto": "VEF1/CVF = 0.9"
+        },
+        {
+          "opcion": "D",
+          "texto": "VEF1/CVF > 0.75 prebroncodilatador"
+        },
+        {
+          "opcion": "E",
+          "texto": "VEF1/CVF normal con disnea leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico de EPOC requiere una relación VEF1/CVF menor de 0.7 posbroncodilatador."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué valor de VEF1 define EPOC leve según GOLD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VEF1 ≥ 80% del predicho"
+        },
+        {
+          "opcion": "B",
+          "texto": "VEF1 entre 50-79% del predicho"
+        },
+        {
+          "opcion": "C",
+          "texto": "VEF1 entre 30-49% del predicho"
+        },
+        {
+          "opcion": "D",
+          "texto": "VEF1 < 30% del predicho"
+        },
+        {
+          "opcion": "E",
+          "texto": "VEF1 > 90% del predicho"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La EPOC leve se define por un VEF1 ≥ 80% del valor predicho."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué valor de VEF1 corresponde a EPOC moderada según GOLD?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥ 90% del predicho"
+        },
+        {
+          "opcion": "B",
+          "texto": "80-100% del predicho"
+        },
+        {
+          "opcion": "C",
+          "texto": "50-79% del predicho"
+        },
+        {
+          "opcion": "D",
+          "texto": "< 50% del predicho"
+        },
+        {
+          "opcion": "E",
+          "texto": "30-49% del predicho"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La EPOC moderada corresponde a un VEF1 entre 50% y 79% del valor predicho."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el síntoma más precoz de la EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea de esfuerzo progresiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor torácico pleurítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disnea de esfuerzo progresiva es el síntoma inicial más común en fases leves o moderadas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el factor de riesgo más importante para desarrollar EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación ambiental"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo crónico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exposición al frío"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo es el principal factor de riesgo para el desarrollo de EPOC en el mundo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué prueba diagnóstica confirma la obstrucción del flujo aéreo en EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La espirometría es la prueba fundamental para confirmar la obstrucción del flujo aéreo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo radiológico puede observarse en EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campos pulmonares hiperclaros leves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulos pulmonares múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento intersticial difuso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado alveolar apical"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En fases leves, puede observarse discreta hiperclaridad pulmonar y aumento del espacio aéreo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes síntomas sugiere bronquitis crónica en EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea aislada sin tos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos productiva crónica más de 3 meses al año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sibilancias ocasionales sin tos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor torácico opresivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquitis crónica se define por tos productiva por al menos 3 meses durante 2 años consecutivos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué cambio fisiopatológico predomina en el enfisema pulmonar leve o moderado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del espacio aéreo distal con destrucción alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrado linfocítico intersticial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoconstricción reversible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis intersticial difusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El enfisema se caracteriza por destrucción de los tabiques alveolares y aumento del espacio aéreo distal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué intervención es más efectiva para frenar la progresión de la EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de mantenimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Abandono del tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenoterapia nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suplementos vitamínicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El abandono del tabaquismo es la única medida capaz de ralentizar la progresión de la enfermedad."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento broncodilatador inicial en EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta-2 agonista de acción corta según necesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoide sistémico diario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Teofilina oral prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia continua"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento inicial consiste en broncodilatadores de acción corta a demanda para aliviar los síntomas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo gasométrico es común en EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercapnia grave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia leve o normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis respiratoria severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxemia refractaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En etapas iniciales, la gasometría puede mostrar hipoxemia leve o valores normales."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué vacuna es recomendable en pacientes con EPOC leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antineumocócica y antigripal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antivaricela"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antimeningocócica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis B"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las vacunas antineumocócica y antigripal reducen el riesgo de exacerbaciones infecciosas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro clínico se utiliza para evaluar la disnea en EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Glasgow"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Borg o mMRC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de Barthel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Índice de Karnofsky"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Romberg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La escala mMRC o de Borg cuantifica la intensidad de la disnea y ayuda a evaluar la gravedad funcional."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo auscultatorio es común en EPOC moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Roncus y sibilancias espiratorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estertores crepitantes basales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Silencio auscultatorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo tubario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frote pleural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los roncus y sibilancias son típicos por el estrechamiento bronquial y aumento de secreciones."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida no farmacológica mejora la tolerancia al ejercicio en EPOC moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rehabilitación pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxigenoterapia continua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta hipocalórica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de corticoides orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo prolongado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La rehabilitación pulmonar mejora la capacidad de ejercicio y la calidad de vida."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes hallazgos puede observarse en EPOC leve en la exploración física?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución leve del murmullo vesicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema en miembros inferiores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de músculos accesorios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingurgitación yugular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En etapas iniciales puede observarse leve disminución del murmullo vesicular por atrapamiento aéreo."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué combinación terapéutica se recomienda en EPOC moderada sintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoide sistémico + antibiótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Beta-2 agonista de acción prolongada + antimuscarínico de acción prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Teofilina + mucolítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxígeno + betabloqueador"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibiótico profiláctico + diurético"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación LABA + LAMA mejora los síntomas y reduce exacerbaciones en EPOC moderada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tipo de ejercicio es más recomendado en la rehabilitación de EPOC moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicios de fuerza exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicios aeróbicos y de resistencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicios isométricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicios en hipoxia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguno, se recomienda reposo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ejercicios aeróbicos y de resistencia mejoran la función cardiovascular y la eficiencia respiratoria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué prueba complementaria permite evaluar la capacidad funcional en EPOC moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de caminata de 6 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espirometría prebroncodilatador"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El test de caminata de 6 minutos evalúa la capacidad de ejercicio y la respuesta al tratamiento."
+    }
+  ]
+}

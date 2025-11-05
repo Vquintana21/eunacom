@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.5.012",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.012 - Prueba de trabajo de parto.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluación de la fase latente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intento controlado de parto vaginal en condiciones de riesgo relativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación del bienestar fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación del inicio del parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición del tono uterino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de trabajo de parto es una evaluación controlada para determinar la viabilidad de un parto vaginal en pacientes con antecedentes o condiciones de riesgo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es una indicación clásica para realizar una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea segmentaria previa con incisión transversal baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desproporción cefalopélvica evidente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presentación podálica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sufrimiento fetal agudo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se puede realizar una prueba de trabajo de parto en mujeres con cesárea previa segmentaria transversal baja, si no existen contraindicaciones."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué condición contraindica una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea segmentaria baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presentación cefálica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cicatriz uterina corporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Útero bicorne"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad materna avanzada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una cicatriz corporal o clásica aumenta el riesgo de rotura uterina y contraindica el trabajo de parto."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el principal riesgo de la prueba de trabajo de parto en mujeres con cesárea previa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección puerperal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotura uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desgarro cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atención prolongada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La principal complicación en pacientes con cesárea previa es la rotura uterina durante el trabajo de parto."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué se evalúa principalmente durante la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estado materno general"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bienestar fetal y progresión del trabajo de parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cantidad de líquido amniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamaño placentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tono perineal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la prueba de trabajo de parto se evalúan la progresión cervical y el bienestar fetal en condiciones controladas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la mejor localización para realizar una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Centro de atención primaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sala de parto con monitoreo continuo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sala ambulatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consultorio prenatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Unidad de preparto sin equipamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse en un ambiente hospitalario con capacidad de cesárea de emergencia y monitoreo fetal continuo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué criterio indica éxito de la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de dolor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación completa y parto vaginal espontáneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cesárea indicada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trabajo de parto detenido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertonía uterina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba es exitosa si se logra la dilatación completa y el parto vaginal sin complicaciones materno-fetales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué parámetro se usa para evaluar la progresión del trabajo de parto durante la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia cardíaca materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grado de dilatación cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temperatura corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dilatación cervical y el descenso de la presentación son los indicadores clave de progresión durante la prueba."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes hallazgos obliga a suspender la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracciones regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor lumbar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sufrimiento fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Movimientos fetales activos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aparición de sufrimiento fetal es indicación inmediata para interrumpir la prueba y realizar cesárea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué método de monitoreo fetal se utiliza durante la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Doppler intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiotocografía continua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palpación uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Auscultación cada 30 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oximetría fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se emplea la cardiotocografía continua para detectar precozmente signos de sufrimiento fetal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es un criterio de exclusión para la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea previa transversal baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Feto en presentación cefálica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Madurez cervical adecuada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Feto único"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La placenta previa contraindica el trabajo de parto por riesgo de hemorragia masiva."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de incisión uterina previa es más segura para permitir una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incisión corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incisión en T"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incisión transversal segmentaria baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incisión vertical alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incisión miomectomía previa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La incisión transversal segmentaria baja es la más segura y la única que permite intento de parto vaginal posterior."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo clínico sugiere rotura uterina durante la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotonía uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia fetal súbita y dolor abdominal persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento progresivo de contracciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desprendimiento de membranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia materna leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La rotura uterina se manifiesta con dolor abdominal agudo, pérdida de la presentación y bradicardia fetal súbita."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el intervalo ideal entre contracciones durante una prueba de trabajo de parto normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 cada 2 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 cada 3-4 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 cada 6 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 cada 10 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 cada 12 minutos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante el trabajo de parto efectivo, las contracciones ocurren cada 3-4 minutos con intensidad adecuada."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué condición debe cumplirse antes de iniciar una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Membranas rotas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de contracciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presentación cefálica encajada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Madurez pulmonar fetal confirmada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dilata menos de 2 cm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presentación cefálica encajada y la pelvis clínicamente adecuada son esenciales antes de iniciar la prueba."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué método puede emplearse para estimular el trabajo de parto durante la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxitocina en infusión controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amniocentesis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Misoprostol vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tacto repetido cada 15 minutos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La oxitocina puede usarse para regular contracciones bajo estricta vigilancia materno-fetal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el objetivo final de la prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar madurez cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar resistencia pélvica y bienestar fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inducir parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir complicaciones neonatales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar frecuencia de contracciones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite valorar si la pelvis materna y la respuesta fetal permiten la continuación segura del parto vaginal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo en el monitoreo fetal obliga a cesárea inmediata durante la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aceleraciones variables"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaceleraciones tardías repetidas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia basal normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variabilidad moderada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aceleraciones frecuentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las desaceleraciones tardías repetidas son signo de hipoxia fetal y requieren interrupción inmediata del trabajo de parto."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué duración máxima se recomienda para la prueba de trabajo de parto antes de decidir cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "4 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "8 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si tras 8 horas no hay progreso adecuado o hay signos de sufrimiento, se indica cesárea."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida preventiva se debe tomar antes de iniciar una prueba de trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocar vía venosa y disponibilidad quirúrgica inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar analgésico oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar laboratorio completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dar deambulación libre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar hidratación materna"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe existir acceso venoso y equipo quirúrgico disponible en caso de complicaciones materno-fetales."
+    }
+  ]
+}

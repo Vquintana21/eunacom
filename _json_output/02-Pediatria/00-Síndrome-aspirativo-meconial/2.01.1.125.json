@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.1.125",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome aspirativo meconial",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza al síndrome aspirativo meconial (SAM)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstrucción bronquial por leche materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración de líquido amniótico claro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción y reacción inflamatoria por meconio en vías respiratorias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección bacteriana intrauterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoplasia pulmonar congénita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SAM ocurre por aspiración de meconio al líquido amniótico, generando obstrucción, inflamación e hipertensión pulmonar."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo para síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Postmadurez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo múltiple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corioamnionitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción del crecimiento intrauterino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La postmadurez aumenta la probabilidad de expulsión de meconio intraútero y aspiración por hipoxia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico inicial orienta a síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cianosis y dificultad respiratoria al nacer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre y taquipnea al tercer día"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apneas recurrentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distensión abdominal leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dificultad respiratoria y cianosis inmediata tras el parto son manifestaciones típicas del SAM."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo radiológico es característico del síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campos pulmonares hiperlúcidos con diafragmas aplanados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados alveolares gruesos y áreas de hiperinsuflación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia homogénea bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Patrón en vidrio esmerilado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmones hiperclaros con ausencia de trama"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía muestra infiltrados irregulares con hiperinsuflación y áreas atelectásicas alternadas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué complicación grave puede acompañar al síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión pulmonar persistente del recién nacido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de dificultad respiratoria tipo II"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia intraventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax por sobreventilación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertensión pulmonar persistente es frecuente por vasoconstricción hipóxica y daño alveolar."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal en el síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la producción de surfactante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoespasmo difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción bronquial parcial y alteración del intercambio gaseoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alveolitis eosinofílica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoventilación central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El meconio causa obstrucción parcial, atrapamiento aéreo, atelectasias y alteración de la oxigenación."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo en el líquido amniótico sugiere riesgo de síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de meconio espeso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Olor fétido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Color rosado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido amniótico meconial espeso aumenta el riesgo de aspiración y obstrucción pulmonar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué medida inmediata se recomienda al nacer un recién nacido vigoroso con líquido meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspirar tráquea antes del llanto"
+        },
+        {
+          "opcion": "B",
+          "texto": "No aspirar y proceder a rutina normal de reanimación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intubación endotraqueal preventiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar surfactante profiláctico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilación con presión positiva inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En RN vigorosos no se recomienda aspiración rutinaria; se maneja como un parto normal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida se debe realizar en un recién nacido con líquido meconial y depresión respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilar con bolsa autoinflable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspirar boca y nariz superficialmente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intubar y aspirar tráquea antes de ventilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocar oxígeno libremente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimular vigorosamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si el RN no es vigoroso, se intuba y aspira tráquea antes de iniciar ventilación para evitar aspiración profunda."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de insuficiencia respiratoria causa el síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercápnica leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxémica con hipercapnia secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restrictiva pura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstructiva crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mixta restrictiva-obstructiva"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El SAM genera un patrón mixto por obstrucción bronquial y colapso alveolar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué signo clínico puede observarse en la auscultación pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Silencio auscultatorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Roncus y estertores gruesos bilaterales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias inspiratorias aisladas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Murmullo vesicular aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Auscultación normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de ruidos bronquiales gruesos refleja obstrucción y presencia de meconio en vías respiratorias."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro gasométrico es característico del síndrome aspirativo meconial severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO₂ elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂ disminuida"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO₂ <50 mmHg con acidosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "SatO₂ normal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SAM severo se manifiesta con hipoxemia y acidosis respiratoria por alteración ventilación/perfusión."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tratamiento específico puede mejorar la oxigenación en casos graves de SAM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de óxido nítrico inhalado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación no invasiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción hídrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de broncodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El óxido nítrico inhalado reduce la hipertensión pulmonar persistente y mejora la oxigenación."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué alteración se observa en la mecánica pulmonar del SAM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la distensibilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la distensibilidad y aumento del espacio muerto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la resistencia vascular sistémica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alveolitis fibrótica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoventilación central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El meconio produce inflamación, colapso alveolar y rigidez pulmonar que reducen la distensibilidad."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación pulmonar puede aparecer durante el tratamiento del SAM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax por hiperinsuflación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural seroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia compensatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis intersticial inmediata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ventilación con presión positiva puede causar rotura alveolar y neumotórax."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo diferencia SAM de la enfermedad de membrana hialina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aparece en prematuros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se asocia a líquido amniótico claro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ocurre en recién nacido de término o postérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de déficit de surfactante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía con patrón reticulogranular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SAM afecta a RN de término o postérmino, a diferencia de la enfermedad de membrana hialina que ocurre en prematuros."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la indicación de uso de surfactante exógeno en SAM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Siempre al nacimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo si hay evidencia de déficit de surfactante y falla respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Como profilaxis en todo líquido meconial"
+        },
+        {
+          "opcion": "D",
+          "texto": "En casos leves para prevenir neumonía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nunca está indicado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El surfactante puede mejorar la oxigenación en casos graves con inactivación surfactante por meconio."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tipo de parto tiene mayor riesgo de SAM?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea electiva antes de término"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto prolongado con sufrimiento fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto inducido precozmente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazo gemelar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto pretérmino sin complicaciones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sufrimiento fetal durante el trabajo de parto puede inducir la eliminación y aspiración de meconio."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el pronóstico general del síndrome aspirativo meconial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad cercana al 50%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recuperación completa en la mayoría con tratamiento adecuado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secuelas respiratorias graves en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evolución hacia fibrosis pulmonar crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta incidencia de daño neurológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con manejo adecuado, la mayoría de los recién nacidos con SAM se recuperan sin secuelas permanentes."
+    }
+  ]
+}

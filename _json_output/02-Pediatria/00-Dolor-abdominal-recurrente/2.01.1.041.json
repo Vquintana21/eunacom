@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.1.041",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Dolor abdominal recurrente",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define el dolor abdominal recurrente en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal continuo durante más de una semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal que interfiere con las actividades diarias por al menos 3 episodios en 3 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve y ocasional sin repercusión funcional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal asociado siempre a fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal postprandial de corta duración"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se define como tres o más episodios en tres meses que interfieren con las actividades del niño."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de dolor abdominal recurrente en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlcera péptica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parasitosis intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor funcional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad inflamatoria intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apendicitis crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los casos de dolor abdominal recurrente son funcionales sin causa orgánica demostrable."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico obliga a descartar causa orgánica en dolor abdominal recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor periumbilical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor nocturno que despierta al niño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor relacionado con estrés"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de vómitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El dolor nocturno que interrumpe el sueño es un signo de alarma para patología orgánica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes síntomas NO es típico del dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor intermitente periumbilical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normalidad entre los episodios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de vómitos biliosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Buen estado general"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociación con factores emocionales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los vómitos biliosos orientan a una causa orgánica obstructiva y no a un dolor funcional."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué característica clínica sugiere un origen funcional del dolor abdominal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor con fiebre recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor difuso sin pérdida de peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematoquecia frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos matutinos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor funcional suele ser difuso, sin alteraciones nutricionales ni orgánicas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes pruebas es la más útil para descartar enfermedad celíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticuerpos antitransglutaminasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de hidrógeno espirado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de sudor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticuerpos antitransglutaminasa son los más sensibles para detectar enfermedad celíaca."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué examen inicial se recomienda en un niño con dolor abdominal recurrente y vómitos persistentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coprocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endoscopía alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía abdominal es útil para descartar causas biliares, renales o estructurales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué trastorno psicológico se asocia frecuentemente con dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno de pánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno de ansiedad o estrés escolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esquizofrenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depresión mayor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno obsesivo compulsivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estrés emocional o escolar puede manifestarse con dolor abdominal funcional recurrente."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo es un signo de alarma en dolor abdominal recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor relacionado con comidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea ocasional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos persistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor periumbilical sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad escolar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los vómitos persistentes orientan a una posible causa orgánica digestiva o metabólica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué patología debe descartarse ante dolor abdominal recurrente con hematoquecia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de intestino irritable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gastroenteritis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad inflamatoria intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intolerancia a la lactosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor funcional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de sangre en heces obliga a descartar enfermedad inflamatoria intestinal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el patrón más habitual del dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor nocturno constante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor periumbilical intermitente sin relación con las comidas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor epigástrico con vómitos biliosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor asociado a fiebre y diarrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor localizado en fosa iliaca derecha"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor funcional suele ser periumbilical e intermitente, sin otros síntomas sistémicos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal herramienta terapéutica en el dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educación y apoyo psicológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antiespasmódicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía exploratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción dietética estricta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La educación y el abordaje psicológico son pilares del manejo del dolor funcional."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué examen orienta al diagnóstico de gastritis o úlcera péptica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coprológico seriado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de hidrógeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La endoscopía permite confirmar gastritis o úlcera péptica mediante visualización directa."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse ante dolor abdominal recurrente con cefalea y vómitos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Migraña abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gastroenteritis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apendicitis crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis ulcerosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno de ansiedad"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La migraña abdominal combina dolor abdominal, vómitos y cefalea en escolares."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo descarta dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Relación con ansiedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Interferencia escolar ocasional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida de peso significativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor periumbilical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor sin síntomas digestivos asociados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida de peso indica posible causa orgánica subyacente y no un dolor funcional."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida es recomendable en el manejo inicial del dolor abdominal funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender toda la alimentación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar el ejercicio físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reasegurar al niño y los padres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indicar antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar TAC abdominal de rutina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reaseguro y educación familiar ayudan a disminuir la ansiedad y frecuencia del dolor."
+    },
+    {
+      "numero": "17",
+      "texto": "En el dolor abdominal funcional, ¿qué hallazgo de laboratorio se espera?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pruebas normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de PCR"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevación de transaminasas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el dolor funcional no hay alteraciones de laboratorio ni inflamación sistémica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué enfermedad debe considerarse si hay dolor abdominal recurrente y retraso del crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor funcional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad celíaca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de intestino irritable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parasitosis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno de ansiedad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La enfermedad celíaca se asocia a diarrea crónica y alteración del crecimiento ponderal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué característica diferencia el síndrome de intestino irritable del dolor abdominal funcional simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor postprandial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asociación con cambios en el hábito intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor sin relación con las comidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor de corta duración"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de intestino irritable se asocia con cambios en el ritmo y consistencia de las deposiciones."
+    }
+  ]
+}

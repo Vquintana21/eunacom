@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.5.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa reversible más frecuente de paro cardiorrespiratorio en el contexto hospitalario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia es la causa reversible más común de paro cardiorrespiratorio, especialmente en pacientes hospitalizados."
+    },
+    {
+      "numero": "2",
+      "texto": "Durante la RCP, ¿cuál es la frecuencia recomendada de compresiones torácicas en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "60-80 por minuto"
+        },
+        {
+          "opcion": "B",
+          "texto": "80-100 por minuto"
+        },
+        {
+          "opcion": "C",
+          "texto": "100-120 por minuto"
+        },
+        {
+          "opcion": "D",
+          "texto": "120-140 por minuto"
+        },
+        {
+          "opcion": "E",
+          "texto": "140-160 por minuto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las guías AHA recomiendan una frecuencia de 100 a 120 compresiones por minuto en adultos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la profundidad adecuada de las compresiones torácicas en un adulto durante RCP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2-3 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-4 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "4-5 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "5-6 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "6-8 cm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las compresiones deben tener una profundidad de al menos 5 cm pero no más de 6 cm."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la relación compresión-ventilación recomendada en adultos sin vía aérea avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15:1"
+        },
+        {
+          "opcion": "B",
+          "texto": "15:2"
+        },
+        {
+          "opcion": "C",
+          "texto": "30:1"
+        },
+        {
+          "opcion": "D",
+          "texto": "30:2"
+        },
+        {
+          "opcion": "E",
+          "texto": "50:2"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La relación estándar en adultos es 30 compresiones por 2 ventilaciones cuando no hay vía aérea avanzada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué ritmo cardíaco requiere desfibrilación inmediata durante una RCP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Actividad eléctrica sin pulso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fibrilación ventricular y la taquicardia ventricular sin pulso son ritmos desfibrilables."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la dosis inicial de adrenalina recomendada en un paro cardíaco adulto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1 mg IV cada 3-5 min"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.5 mg IV cada 5 min"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 mg IV cada 3-5 min"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 mg IV cada 10 min"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 mg IV cada 5 min"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dosis recomendada es 1 mg IV cada 3 a 5 minutos durante el paro cardíaco."
+    },
+    {
+      "numero": "7",
+      "texto": "En una taquicardia ventricular sin pulso, además de la desfibrilación, ¿qué medicamento se recomienda después de la tercera descarga?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiodarona 300 mg IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lidocaína 50 mg IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atropina 1 mg IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio 10 mg IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenosina 6 mg IV"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Después de la tercera descarga, se administra amiodarona 300 mg IV en bolo."
+    },
+    {
+      "numero": "8",
+      "texto": "Durante la RCP, ¿cuándo debe evaluarse el ritmo cardíaco nuevamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 30 segundos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada minuto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 2 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de cada ciclo de 5 compresiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo al inicio y al final"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ritmo se evalúa cada 2 minutos o después de 5 ciclos de RCP para minimizar interrupciones."
+    },
+    {
+      "numero": "9",
+      "texto": "En un paciente intubado, ¿cuál es la frecuencia de ventilación durante la RCP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 cada 2 segundos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 cada 3 segundos"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 cada 4 segundos"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 cada 5-6 segundos"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 cada 10 segundos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Con vía aérea avanzada, se ventila a razón de 1 ventilación cada 6 segundos sin interrumpir las compresiones."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes condiciones corresponde a una de las 'H' reversibles en paro cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis coronaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipotermia es una de las causas reversibles del grupo de las 'H' en el algoritmo de RCP."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué maniobra se recomienda para abrir la vía aérea en un paciente sin sospecha de trauma cervical?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tracción mandibular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación del mentón y extensión cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión cricoidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotación de cabeza lateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Extensión forzada del cuello"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La maniobra frente-mentón (head tilt-chin lift) es la adecuada en ausencia de trauma cervical."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el primer paso en la cadena de supervivencia ante un paro cardiorrespiratorio extrahospitalario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio de RCP por testigos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Activar el sistema de emergencias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desfibrilación temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuidados postresucitación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de adrenalina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El primer eslabón de la cadena de supervivencia es activar el sistema de emergencias médicas."
+    },
+    {
+      "numero": "13",
+      "texto": "En la asistolia, ¿cuál es la intervención más importante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desfibrilación inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Marcapasos transcutáneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compresiones torácicas y adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cardioversión sincronizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de amiodarona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En asistolia, la RCP de alta calidad y la administración de adrenalina son prioritarias."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes ritmos NO es desfibrilable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia ventricular sin pulso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad eléctrica sin pulso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia ventricular polimórfica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrilación ventricular fina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La actividad eléctrica sin pulso no responde a desfibrilación; requiere compresiones y adrenalina."
+    },
+    {
+      "numero": "15",
+      "texto": "Durante la RCP, ¿qué acción se debe evitar para no comprometer la perfusión coronaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rotar compresor cada 2 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Interrumpir compresiones innecesariamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilar con bolsa-mascarilla"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desfibrilar cuando corresponde"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitorizar ECG"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las interrupciones frecuentes en las compresiones reducen la presión de perfusión coronaria."
+    },
+    {
+      "numero": "16",
+      "texto": "Tras el retorno de circulación espontánea (ROSC), ¿cuál es la meta de saturación de oxígeno recomendada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "80-85%"
+        },
+        {
+          "opcion": "B",
+          "texto": "88-92%"
+        },
+        {
+          "opcion": "C",
+          "texto": "94-98%"
+        },
+        {
+          "opcion": "D",
+          "texto": "100%"
+        },
+        {
+          "opcion": "E",
+          "texto": "75-80%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda mantener la saturación entre 94-98% para evitar tanto hipoxia como hiperoxia post-ROSC."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué ritmo suele preceder más comúnmente a la asistolia en un paro cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Actividad eléctrica sin pulso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV de primer grado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La asistolia frecuentemente sigue a una fibrilación ventricular prolongada o no tratada."
+    },
+    {
+      "numero": "18",
+      "texto": "En un paciente con actividad eléctrica sin pulso, ¿qué acción inicial es correcta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desfibrilación inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar compresiones y buscar causas reversibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar amiodarona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar marcapasos transcutáneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardioversión sincronizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prioridad es RCP y búsqueda de causas reversibles (4H y 4T) en actividad eléctrica sin pulso."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el objetivo principal de la desfibrilación en la RCP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimular el nodo sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restablecer un ritmo organizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la contractilidad ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducir una asistolia controlada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desfibrilación busca detener la actividad eléctrica caótica para permitir que el nodo sinusal retome el control."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro indica una RCP de alta calidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia de 80 compresiones/minuto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación excesiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Minimización de interrupciones y compresiones de 5 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresiones superficiales y rápidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desfibrilación cada 30 segundos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La RCP de alta calidad requiere compresiones de al menos 5 cm y evitar interrupciones innecesarias."
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.3.005",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.005 - Manejo de la salud de la mujer climatérica.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal cambio endocrino que caracteriza la menopausia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de progesterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de estrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de estrógenos y aumento de FSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de LH y estrógenos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de FSH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La menopausia se caracteriza por caída de estrógenos y aumento de FSH y LH."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma más frecuente en el síndrome climatérico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sofocos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insomnio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depresión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los sofocos son el síntoma más común de la mujer climatérica, reportados por hasta el 80%."
+    },
+    {
+      "numero": "3",
+      "texto": "La terapia hormonal en la menopausia está contraindicada en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres con osteoporosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Historia de cáncer de mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sofocos severos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menopausia temprana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia hormonal está contraindicada en pacientes con cáncer de mama por riesgo de recurrencia."
+    },
+    {
+      "numero": "4",
+      "texto": "Un beneficio documentado de la terapia de reemplazo hormonal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de riesgo de cáncer de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevención de enfermedad cardiovascular en todas las edades"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejoría de síntomas vasomotores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incremento del riesgo de demencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del riesgo de trombosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TRH es eficaz en mejorar síntomas vasomotores y atrofia urogenital."
+    },
+    {
+      "numero": "5",
+      "texto": "El riesgo de osteoporosis en la mujer climatérica se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de estrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitamina B12"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor actividad física"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución de estrógenos posmenopáusicos favorece la pérdida ósea y riesgo de osteoporosis."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué examen se utiliza como estándar para evaluar densidad mineral ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Densitometría ósea (DEXA)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La densitometría ósea (DEXA) es el método de elección para evaluar osteoporosis."
+    },
+    {
+      "numero": "7",
+      "texto": "La atrofia urogenital en la menopausia se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de estrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento de progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de andrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia estrogénica causa adelgazamiento de mucosa vaginal y síntomas urogenitales."
+    },
+    {
+      "numero": "8",
+      "texto": "El tratamiento no hormonal más usado para los sofocos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gabapentina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tibolona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Raloxifeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clonidina"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La clonidina puede utilizarse como alternativa no hormonal para tratar sofocos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es un riesgo asociado a la terapia hormonal combinada prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de trombosis venosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incremento del cáncer de mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de cáncer de endometrio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de accidente cerebrovascular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de memoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TRH combinada aumenta el riesgo de cáncer de mama con uso prolongado."
+    },
+    {
+      "numero": "10",
+      "texto": "En mujeres histerectomizadas, la TRH debe administrarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estrógeno solo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progesterona solo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrógeno + progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Andrógenos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcio y vitamina D exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En mujeres sin útero se puede usar estrógeno solo, evitando riesgo endometrial."
+    },
+    {
+      "numero": "11",
+      "texto": "El principal efecto adverso de los moduladores selectivos de receptores de estrógeno (SERMs) es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteoporosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de riesgo trombótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer de ovario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los SERMs como raloxifeno aumentan el riesgo de trombosis venosa profunda."
+    },
+    {
+      "numero": "12",
+      "texto": "El climaterio se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Periodo entre menarquia y menopausia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transición entre etapa reproductiva y no reproductiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo entre menarquia y primer embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Periodo entre parto y menopausia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad reproductiva temprana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El climaterio es la transición desde la etapa reproductiva a la no reproductiva."
+    },
+    {
+      "numero": "13",
+      "texto": "Una medida preventiva no farmacológica en la mujer climatérica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir consumo de calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir actividad física"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar ingesta de calcio y vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender ejercicio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar consumo de alcohol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ingesta adecuada de calcio y vitamina D previene osteoporosis."
+    },
+    {
+      "numero": "14",
+      "texto": "El diagnóstico de menopausia se confirma tras:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses sin menstruación"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses sin menstruación"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses sin menstruación"
+        },
+        {
+          "opcion": "D",
+          "texto": "2 años sin menstruación"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH disminuida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La menopausia se diagnostica tras 12 meses de amenorrea sin otra causa."
+    },
+    {
+      "numero": "15",
+      "texto": "Un síntoma psicológico frecuente en la mujer climatérica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipomanía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastornos depresivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Psicosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Euforia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Delirios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depresión y ansiedad son síntomas psicológicos frecuentes en el climaterio."
+    },
+    {
+      "numero": "16",
+      "texto": "La terapia estrogénica local se recomienda en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sofocos severos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteoporosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome urogenital severo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El estrógeno local es útil para tratar atrofia vaginal y síntomas urogenitales."
+    },
+    {
+      "numero": "17",
+      "texto": "En la mujer climatérica, la prevención cardiovascular incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TRH en todas las mujeres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de estatinas y control de factores de riesgo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar ejercicio físico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión sin tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control de factores de riesgo cardiovascular es clave en el manejo de la mujer climatérica."
+    },
+    {
+      "numero": "18",
+      "texto": "La tibolona se utiliza en menopausia porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es un inhibidor de FSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Combina efectos estrogénicos, progestagénicos y androgénicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Es un antiestrogénico puro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye riesgo cardiovascular"
+        },
+        {
+          "opcion": "E",
+          "texto": "No afecta síntomas vasomotores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tibolona combina efectos estrogénicos, progestagénicos y androgénicos mejorando síntomas."
+    }
+  ]
+}

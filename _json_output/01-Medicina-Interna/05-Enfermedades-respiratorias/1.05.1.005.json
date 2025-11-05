@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inflamación crónica de los bronquios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación aguda de la mucosa bronquial por infección o irritantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección alveolar bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperreactividad bronquial no infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción bronquial irreversible"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquitis aguda es una inflamación transitoria de la mucosa bronquial causada generalmente por infecciones virales o irritantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus influenza y parainfluenza"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los virus respiratorios como influenza, parainfluenza y coronavirus son las causas más comunes de bronquitis aguda."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma cardinal de la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea intensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis abundante"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tos, inicialmente seca y luego productiva, es el síntoma principal de la bronquitis aguda."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuánto suele durar la tos en la bronquitis aguda no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 1 y 2 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 3 y 4 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 8 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menos de 24 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tos de la bronquitis aguda suele persistir entre 3 y 4 semanas debido a la inflamación bronquial residual."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo auscultatorio es característico de la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estertores crepitantes bilaterales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Roncus y sibilancias diseminadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Silencio respiratorio unilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo tubárico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ruidos respiratorios normales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquitis aguda suele acompañarse de roncus y sibilancias dispersas por secreciones y broncoconstricción leve."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes síntomas NO es típico de la bronquitis aguda viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos productiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor retroesternal leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Expectoración purulenta persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malestar general"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La expectoración purulenta persistente sugiere sobreinfección bacteriana o neumonía, no bronquitis viral pura."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el diagnóstico diferencial más importante de la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sinusitis aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe distinguirse de neumonía, pues esta presenta fiebre alta, taquipnea y consolidación radiológica, ausentes en la bronquitis aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué examen complementario suele ser normal en la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma con leucocitosis marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial con hipoxemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de esputo con bacilos ácido-alcohol resistentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "TAC de tórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de tórax es normal o muestra solo hiperinsuflación leve, sin consolidaciones en bronquitis aguda."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el manejo principal de la bronquitis aguda viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento sintomático y reposo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopia diagnóstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nebulizaciones con antibióticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo es sintomático, con hidratación, antitusivos y reposo, ya que en la mayoría de los casos es viral."
+    },
+    {
+      "numero": "10",
+      "texto": "¿En qué caso se justifica el uso de antibióticos en bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En todos los pacientes mayores de 60 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Si hay evidencia de infección bacteriana o EPOC descompensado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por presencia de fiebre leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por tos persistente sin expectoración"
+        },
+        {
+          "opcion": "E",
+          "texto": "Como medida preventiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antibióticos se indican solo si hay sospecha de infección bacteriana o en pacientes con comorbilidades respiratorias."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué microorganismo puede causar bronquitis aguda bacteriana atípica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corynebacterium diphtheriae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Mycoplasma pneumoniae puede causar bronquitis aguda atípica con tos prolongada y escasa fiebre."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo en la exploración física orienta a bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Matidez a la percusión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del murmullo vesicular localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias difusas y roncus dispersos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crepitantes finos basales persistentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frote pleural audible"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Sibilancias y roncus generalizados son típicos de bronquitis aguda sin signos de consolidación."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación puede aparecer en una bronquitis aguda mal tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía secundaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfisema pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia lobar crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis intersticial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar agudo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una sobreinfección bacteriana puede complicar la bronquitis y evolucionar a neumonía."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes factores de riesgo favorece la bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo activo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de frutas antioxidantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación antigripal anual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Buena higiene ambiental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo irrita la mucosa bronquial y predispone a infecciones respiratorias agudas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo de laboratorio sugiere etiología bacteriana en bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitos normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis con desviación a la izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfocitosis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monocitos elevados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La leucocitosis con desviación a la izquierda sugiere infección bacteriana sobreagregada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el tratamiento sintomático más adecuado para la tos seca en bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Codeína o dextrometorfano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos macrólidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Expectorantes con guaifenesina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatadores de acción larga"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los antitusivos como codeína o dextrometorfano se usan en la fase inicial con tos seca irritativa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida preventiva reduce la incidencia de bronquitis aguda viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación antigripal anual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso rutinario de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar bebidas frías"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo alto de proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio intenso en invierno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacunación antigripal previene infecciones respiratorias virales, causa principal de bronquitis aguda."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la evolución habitual de la bronquitis aguda no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Remisión espontánea en 2 a 3 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progresión a insuficiencia respiratoria crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evolución a bronquiectasias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cronificación inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Persistencia de fiebre por meses"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La bronquitis aguda suele resolverse espontáneamente en pocas semanas con tratamiento sintomático."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué característica del esputo no debe considerarse indicación automática de antibióticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambio de color a verdoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de volumen del esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de estrías hemáticas leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Olor fétido persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración mayor a 4 semanas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El esputo verdoso no implica necesariamente infección bacteriana; puede deberse a neutrófilos en bronquitis viral."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué población tiene mayor riesgo de complicaciones por bronquitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adultos jóvenes sanos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niños pequeños y ancianos con comorbilidades"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deportistas de alto rendimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trabajadores rurales no fumadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mujeres embarazadas sin patologías previas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los extremos de la vida y las comorbilidades respiratorias aumentan el riesgo de complicaciones por bronquitis aguda."
+    }
+  ]
+}

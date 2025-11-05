@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.005",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Radiografía de cráneo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la indicación principal de una radiografía de cráneo en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluación de fontanelas abiertas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traumatismo craneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detección de calcificaciones intracraneanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluación de senos paranasales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de cráneo se utiliza principalmente para descartar fracturas o lesiones óseas tras un traumatismo craneal."
+    },
+    {
+      "numero": "2",
+      "texto": "En un lactante con sospecha de craneosinostosis, la radiografía de cráneo permite visualizar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento óseo difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suturas obliteradas prematuramente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suturas abiertas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Senos frontales desarrollados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fractura parietal bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La craneosinostosis se diagnostica por la fusión prematura de una o más suturas craneales."
+    },
+    {
+      "numero": "3",
+      "texto": "El signo del cobre batido en radiografía de cráneo se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocefalia aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión endocraneana crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteogénesis imperfecta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las impresiones digitiformes o patrón de cobre batido son un signo indirecto de hipertensión endocraneana."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo radiográfico es normal en niños menores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suturas completamente fusionadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de senos frontales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento del hueso occipital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depresión ósea frontal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desplazamiento de la silla turca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los senos frontales comienzan a desarrollarse alrededor de los 6 años, por lo que su ausencia es normal en menores."
+    },
+    {
+      "numero": "5",
+      "texto": "En radiografía de cráneo, los huesos wormianos son característicos de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fractura parietal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los huesos wormianos son osículos accesorios que se asocian con osteogénesis imperfecta."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estructura se evalúa mejor con la proyección de Towne en la radiografía de cráneo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Silla turca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Base del cráneo y occipital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suturas coronales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seno esfenoidal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Órbitas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La proyección de Towne permite evaluar la base del cráneo y el hueso occipital con precisión."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo sugiere hipertensión endocraneana en un niño mayor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ensanchamiento sutural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Borramiento de suturas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Impresiones digitiformes en la tabla interna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silla turca pequeña"
+        },
+        {
+          "opcion": "E",
+          "texto": "Senos paranasales hiperneumatizados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las impresiones digitiformes o patrón de cobre batido indican presión intracraneana aumentada crónicamente."
+    },
+    {
+      "numero": "8",
+      "texto": "En lactantes con hidrocefalia, la radiografía de cráneo puede mostrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diástasis de suturas y adelgazamiento óseo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cierre de fontanelas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificación difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de densidad ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fractura occipital"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de la presión intracraneana produce diástasis de suturas y adelgazamiento del hueso craneal."
+    },
+    {
+      "numero": "9",
+      "texto": "El desplazamiento de la calcificación pineal en radiografía sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de presión intracraneana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tumor de línea media"
+        },
+        {
+          "opcion": "C",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrocefalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raquitismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desviación de la calcificación pineal indica desplazamiento por una masa intracraneana."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el hallazgo más frecuente en una fractura craneal lineal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento cortical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión ósea localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Línea radiolúcida sin desplazamiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sombra adenoidea aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de densidad en senos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fractura lineal se visualiza como una línea radiolúcida sin desplazamiento de bordes óseos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estructura anatómica se identifica mejor en la proyección lateral del cráneo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Senos maxilares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Silla turca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suturas lambdoideas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seno esfenoidal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Región mastoidea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La silla turca se aprecia con mayor claridad en la proyección lateral del cráneo."
+    },
+    {
+      "numero": "12",
+      "texto": "La radiografía de cráneo no es útil para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar fracturas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar craneosinostosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar hemorragia subaracnoidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observar calcificaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valorar senos paranasales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las hemorragias intracraneanas no son visibles en radiografía, requieren tomografía computada."
+    },
+    {
+      "numero": "13",
+      "texto": "En un niño con macrocefalia, la radiografía muestra suturas abiertas y huesos delgados. Esto sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocefalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fractura múltiple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteopetrosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hidrocefalia causa ensanchamiento de suturas y adelgazamiento de la tabla ósea externa."
+    },
+    {
+      "numero": "14",
+      "texto": "El hallazgo de líneas radiolúcidas múltiples en huesos craneales de un lactante puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracturas múltiples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suturas normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Artefacto técnico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raquitismo"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El raquitismo produce desmineralización ósea y zonas radiolúcidas por alteración del crecimiento endocondral."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estructura craneal se observa mejor en la proyección posteroanterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seno frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Silla turca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suturas lambdoideas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Foramen magno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peñasco temporal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La proyección PA permite evaluar el seno frontal y las regiones óseas anteriores del cráneo."
+    },
+    {
+      "numero": "16",
+      "texto": "El cierre prematuro de la sutura sagital origina una cabeza con forma:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Braquicéfala"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolicocefálica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plagiocefálica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trigonocefálica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Microcefálica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cierre de la sutura sagital produce una cabeza alargada en sentido anteroposterior (dolicocefalia)."
+    },
+    {
+      "numero": "17",
+      "texto": "En fracturas de base de cráneo, el signo radiográfico más característico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Línea radiolúcida en el peñasco temporal o esfenoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento del hueso frontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ensanchamiento sutural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cierre de fontanelas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de densidad ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las fracturas basales pueden verse como líneas radiolúcidas que atraviesan el peñasco temporal o esfenoides."
+    },
+    {
+      "numero": "18",
+      "texto": "Una silla turca agrandada en un niño puede estar asociada a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tumor hipofisario o quiste selárico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Craneosinostosis múltiple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de la silla turca puede deberse a tumores hipofisarios o quistes relacionados con la hipófisis."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo radiográfico es normal en neonatos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fontanelas cerradas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suturas amplias y fontanelas visibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Silla turca aumentada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento del occipital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de senos frontales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las suturas abiertas y fontanelas amplias son normales en neonatos y reflejan la flexibilidad craneal."
+    },
+    {
+      "numero": "20",
+      "texto": "El hallazgo de múltiples huesos wormianos en un niño con fracturas frecuentes orienta a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Displasia fibrosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Craneosinostosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Crouzon"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de huesos wormianos junto a fragilidad ósea es típica de la osteogénesis imperfecta."
+    }
+  ]
+}

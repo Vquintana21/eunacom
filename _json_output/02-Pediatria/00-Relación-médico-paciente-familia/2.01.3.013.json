@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.013",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Relación médico-paciente-familia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principio fundamental en la relación médico-paciente-familia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autoridad del médico sobre la familia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Participación activa y comunicación efectiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exclusión de los padres en decisiones clínicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Centralización de la información en el especialista"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prioridad del tratamiento sobre la empatía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La relación médico-paciente-familia se basa en la comunicación abierta y la participación compartida en la toma de decisiones."
+    },
+    {
+      "numero": "2",
+      "texto": "En la atención pediátrica, la entrevista debe enfocarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo el diagnóstico médico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspectos biológicos, emocionales y familiares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Opiniones del médico exclusivamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resultados de laboratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Historia clínica breve y técnica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La entrevista pediátrica integra aspectos biológicos, emocionales y familiares para comprender al niño en su contexto."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué caracteriza la comunicación efectiva con los padres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje técnico y complejo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar contacto visual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escucha activa y empatía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hablar solo de resultados clínicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Minimizar sus preocupaciones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La escucha activa y la empatía fomentan confianza y mejor adherencia al tratamiento."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el rol del niño en la entrevista médica según su edad y madurez?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Participar de acuerdo a su nivel de desarrollo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo escuchar sin intervenir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Responder a preguntas técnicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estar ausente durante la consulta"
+        },
+        {
+          "opcion": "E",
+          "texto": "No participar hasta la adolescencia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe incluirse al niño progresivamente en la conversación según su madurez y capacidad de comprensión."
+    },
+    {
+      "numero": "5",
+      "texto": "Un conflicto común entre médico y familia puede surgir cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hay expectativas distintas sobre el manejo clínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se comparte la información con transparencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "El médico promueve la toma de decisiones compartida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se explica claramente el plan de tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "El equipo multidisciplinario participa activamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las expectativas diferentes pueden generar tensión, por lo que es clave una comunicación anticipatoria y clara."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué elemento fortalece la alianza terapéutica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evasión de temas emocionales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Foco exclusivo en exámenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Respeto, confianza y coherencia comunicacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Autoritarismo médico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desinterés por la dinámica familiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La alianza terapéutica se sostiene en la confianza, respeto y coherencia en la comunicación con familia y paciente."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es una conducta adecuada frente a padres ansiosos o sobreprotectores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escuchar, validar emociones y ofrecer información clara"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ignorar su ansiedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Regañar su actitud"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apresurar la consulta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Delegar totalmente en otro profesional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Validar la ansiedad parental y brindar información ayuda a contener y mejorar la confianza en el equipo médico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cómo debe manejar el pediatra la confidencialidad con adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar hablar a solas con ellos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debe informar todo a los padres sin excepción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Respetar su privacidad salvo riesgo vital o legal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solicitar consentimiento escrito de los padres para todo"
+        },
+        {
+          "opcion": "E",
+          "texto": "No ofrecer confidencialidad bajo ningún caso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El respeto a la confidencialidad del adolescente fortalece la confianza, salvo cuando hay riesgo vital o legal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el objetivo de involucrar a la familia en la atención médica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mejorar adherencia y comprensión del tratamiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar errores del niño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sustituir decisiones del paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir tiempo de consulta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cumplir requisitos administrativos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La participación familiar favorece la comprensión del tratamiento y mejora la adherencia terapéutica."
+    },
+    {
+      "numero": "10",
+      "texto": "La entrevista pediátrica centrada en la familia se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la comunicación al mínimo necesario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promover decisiones unilaterales del médico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Priorizar solo el componente biológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar el contexto familiar y social del niño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ignorar las percepciones de los cuidadores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El enfoque centrado en la familia reconoce su rol esencial en la salud y bienestar del niño."
+    },
+    {
+      "numero": "11",
+      "texto": "En situaciones de desacuerdo con la familia, el médico debe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender la atención"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negociar, explicar y buscar consenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar discutir el tema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transferir el caso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Imponer su decisión clínica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diálogo basado en respeto y negociación favorece la toma de decisiones compartida y reduce conflictos."
+    },
+    {
+      "numero": "12",
+      "texto": "Un ejemplo de comunicación no verbal positiva en pediatría es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mirar al computador mientras se habla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cruzar los brazos durante la entrevista"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sonreír y mantener contacto visual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar gestos o expresiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hablar en tono elevado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sonrisa y el contacto visual generan confianza y cercanía con el niño y la familia."
+    },
+    {
+      "numero": "13",
+      "texto": "Cuando los padres tienen creencias culturales diferentes sobre el tratamiento, el pediatra debe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar explicaciones detalladas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escuchar y negociar considerando sus valores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Imponer la conducta médica sin discusión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ignorar sus opiniones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derivar automáticamente el caso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Reconocer la diversidad cultural favorece la adherencia y el respeto en la relación terapéutica."
+    },
+    {
+      "numero": "14",
+      "texto": "Una buena comunicación con la familia disminuye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Los conflictos y errores en la atención"
+        },
+        {
+          "opcion": "B",
+          "texto": "La satisfacción del paciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "La participación de los padres"
+        },
+        {
+          "opcion": "D",
+          "texto": "La comprensión del tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "El vínculo terapéutico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La comunicación efectiva previene conflictos y mejora la seguridad y satisfacción en la atención."
+    },
+    {
+      "numero": "15",
+      "texto": "El consentimiento informado en pediatría debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo la firma de los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Explicación comprensible para padres y, según edad, para el niño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo detalles técnicos del procedimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terminología legal compleja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exclusión del paciente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe explicarse de forma clara a los padres y adaptarse al nivel de comprensión del niño."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué actitud favorece el vínculo terapéutico con el niño hospitalizado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar contacto con los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ignorar sus miedos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permitir su participación en rutinas y decisiones simples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantenerlo alejado del equipo médico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir la visita familiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Incluir al niño y mantener su entorno familiar mejora su adaptación y colaboración al tratamiento."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué modelo de atención favorece el empoderamiento familiar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atención centrada en la enfermedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Modelo paternalista"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atención centrada en la familia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atención fragmentada por especialidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "Modelo basado en urgencias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El modelo centrado en la familia promueve la participación y corresponsabilidad en la salud del niño."
+    },
+    {
+      "numero": "18",
+      "texto": "En la relación médico-familia, la empatía implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sentir lástima por los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comprender emocionalmente su situación sin perder objetividad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar contacto emocional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Minimizar sus preocupaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transferir la responsabilidad emocional a otro profesional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La empatía permite comprender emociones familiares sin comprometer la objetividad médica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué elemento es esencial para lograr una relación de confianza?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar dar malas noticias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coherencia entre lo que se dice y se hace"
+        },
+        {
+          "opcion": "C",
+          "texto": "Comunicación breve y distante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mostrar autoridad sin escucha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Delegar las decisiones médicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coherencia entre discurso y acción genera credibilidad y confianza en el médico."
+    },
+    {
+      "numero": "20",
+      "texto": "El respeto por la autonomía progresiva del niño significa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Considerar su opinión según edad y madurez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Que puede decidir sin informar a sus padres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Excluirlo del proceso clínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dar prioridad absoluta a la opinión parental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Limitar su participación en decisiones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La autonomía progresiva implica incluir al niño en decisiones según su capacidad y desarrollo."
+    }
+  ]
+}

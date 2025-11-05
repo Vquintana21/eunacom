@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.4.007",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.4.007 - Papanicolau.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del examen de Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnosticar cáncer invasor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar infecciones vaginales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar lesiones precancerosas del cuello uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar la flora vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Confirmar embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Papanicolaou busca detectar lesiones precancerosas y tempranas del cuello uterino, permitiendo tratamiento oportuno."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad se recomienda iniciar el tamizaje con Papanicolaou según la mayoría de las guías?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A los 15 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 18 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "A los 21 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 25 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 30 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tamizaje citológico se inicia a los 21 años, independientemente del inicio de la actividad sexual."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Con qué frecuencia debe realizarse el Papanicolaou en mujeres con resultados normales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada 2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 3 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada 5 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 10 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Papanicolaou debe realizarse cada 3 años en mujeres con resultados negativos consecutivos y bajo riesgo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el agente etiológico principal asociado a las lesiones intraepiteliales cervicales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus del papiloma humano (VPH)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Herpes simple tipo 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El virus del papiloma humano (VPH) es el principal agente etiológico de las lesiones cervicales precancerosas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué instrumento se utiliza para obtener la muestra endocervical en el Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espátula de Ayre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hisopo de algodón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citocepillo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pinza de Pozzi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espéculo de Cusco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El citocepillo permite obtener células de la zona endocervical, complementando la muestra exocervical."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la zona ideal para la toma de muestra en el Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Canal endocervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fondo de saco posterior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Zona de transformación del cuello uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cérvix posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pared vaginal anterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La zona de transformación es donde se originan la mayoría de las lesiones premalignas cervicales."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué clasificación reemplazó al sistema de Papanicolaou clásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clasificación Bethesda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clasificación FIGO"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sistema TNM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clasificación WHO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clasificación CIN"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El sistema Bethesda es el estándar actual para reportar resultados citológicos cervicales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué significa el término ASC-US en el informe de Bethesda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células escamosas normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células glandulares atípicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células escamosas atípicas de significado indeterminado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión de alto grado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma in situ"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "ASC-US indica presencia de células escamosas atípicas, pero sin criterios para lesión intraepitelial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué conducta se recomienda ante un resultado ASC-US en el Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Repetir citología en 6-12 meses o test de VPH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derivar a colposcopía inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Realizar biopsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Repetir examen en 5 años"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Ante un ASC-US se recomienda repetir la citología o realizar test de VPH para definir conducta."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué significa LSIL en el sistema Bethesda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión escamosa intraepitelial de bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión intraepitelial de alto grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma invasor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células glandulares atípicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cervicitis aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "LSIL corresponde a lesión escamosa intraepitelial de bajo grado, asociada generalmente a infección por VPH."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el significado de HSIL en el sistema Bethesda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión escamosa de bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión escamosa de alto grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células glandulares atípicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "HSIL indica lesión escamosa intraepitelial de alto grado, con mayor riesgo de progresión a cáncer."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de células evalúa principalmente el examen de Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células endometriales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células escamosas y glandulares del cuello uterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células basales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células del epitelio vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células trofoblásticas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Papanicolaou analiza células escamosas y glandulares del epitelio cervical para detectar alteraciones."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué resultado citológico requiere colposcopía inmediata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ASC-US"
+        },
+        {
+          "opcion": "B",
+          "texto": "LSIL"
+        },
+        {
+          "opcion": "C",
+          "texto": "HSIL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Negativo para lesión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia epitelial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una lesión de alto grado (HSIL) requiere colposcopía para confirmar y dirigir biopsia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué condición puede interferir con la adecuada interpretación del Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menopausia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección activa o sangrado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio físico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sangrado o infección activa altera la lectura citológica al dificultar la visualización celular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué indica un informe negativo para lesión intraepitelial o malignidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión de bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de infección viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citología normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células glandulares atípicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un resultado negativo para lesión significa citología normal, sin signos de infección ni displasia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué microorganismo puede detectarse incidentalmente en un Papanicolaou?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichomonas vaginalis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma genitalium"
+        },
+        {
+          "opcion": "D",
+          "texto": "Virus Epstein-Barr"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gardnerella vaginalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Trichomonas vaginalis puede identificarse incidentalmente por sus características morfológicas en el frotis."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de epitelio recubre el exocérvix?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epitelio cilíndrico simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epitelio cúbico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epitelio escamoso estratificado no queratinizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epitelio transicional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epitelio glandular secretor"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exocérvix está revestido por epitelio escamoso estratificado no queratinizado, sensible a la infección por VPH."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes resultados citológicos requiere control en 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HSIL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LSIL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Negativo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma invasor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atipias glandulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ante una LSIL puede indicarse control citológico a los 6 meses para evaluar regresión o persistencia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo citológico se asocia al uso prolongado de anticonceptivos orales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Displasia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrofia epitelial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metaplasia escamosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células con vacuolas citoplasmáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células endometriales anormales"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El uso prolongado de anticonceptivos orales puede producir cambios citoplasmáticos con vacuolización del epitelio cervical."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué técnica de preparación citológica ha reemplazado al frotis convencional en muchos centros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Citología en base líquida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematoxilina-eosina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunocitoquímica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frotis de Pappenheim"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La citología en base líquida mejora la calidad de la muestra y reduce artefactos."
+    }
+  ]
+}

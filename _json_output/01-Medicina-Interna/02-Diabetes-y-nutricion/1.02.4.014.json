@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.014",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del examen de orina semicuantitativa en pacientes con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir función hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar glucosuria y cetonuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar el volumen urinario total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Analizar el pH sanguíneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar infecciones virales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen semicuantitativo evalúa la presencia y concentración aproximada de glucosa y cuerpos cetónicos en orina, indicadores del control metabólico en diabetes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué principio químico se utiliza en las tiras reactivas para medir glucosa en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción de Benedict"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxidación con glucosa oxidasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de nitrato a nitrito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción de Fehling"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración con azul de metileno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glucosa oxidasa cataliza la oxidación de la glucosa, generando peróxido de hidrógeno que cambia el color de la tira reactiva."
+    },
+    {
+      "numero": "3",
+      "texto": "La presencia de glucosa en orina semicuantitativa se reporta comúnmente como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Positivo/Negativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "mg/dL o cruces (+ a ++++)"
+        },
+        {
+          "opcion": "C",
+          "texto": "mg/L exactos"
+        },
+        {
+          "opcion": "D",
+          "texto": "porcentaje absoluto"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH urinario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las tiras reactivas expresan glucosuria de forma semicuantitativa en cruces (+ a ++++) o mg/dL."
+    },
+    {
+      "numero": "4",
+      "texto": "Un resultado de glucosa +++ en orina indica aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "250 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "500 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "1000 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Tres cruces (+++) corresponden aproximadamente a 500 mg/dL de glucosa en orina."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué enzima interviene en la detección de cuerpos cetónicos en tiras reactivas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactato deshidrogenasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peroxidasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nitroprusiato de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transaminasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catalasa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El nitroprusiato de sodio reacciona con el acetoacetato produciendo un cambio de color violeta, utilizado para detectar cetonas."
+    },
+    {
+      "numero": "6",
+      "texto": "Un resultado de cetonas ++ en orina indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de lipólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normalidad metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hallazgo de cetonas ++ indica cetosis moderada, común en cetoacidosis incipiente o ayuno prolongado."
+    },
+    {
+      "numero": "7",
+      "texto": "En el examen de orina semicuantitativa, una lectura de glucosa negativa y cetonas positivas puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes compensada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefropatía avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglucemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante el ayuno prolongado, el cuerpo utiliza lípidos como fuente energética, produciendo cetonas sin glucosuria."
+    },
+    {
+      "numero": "8",
+      "texto": "La sensibilidad del examen semicuantitativo de glucosa en orina se considera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta para hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baja para glucemias <180 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máxima para glucemias normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inútil en cetoacidosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Similar a glucemia capilar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test semicuantitativo detecta glucosuria solo cuando la glucemia supera el umbral renal (~180 mg/dL)."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es una limitación del examen semicuantitativo de orina en el control diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falsos positivos por orina alcalina"
+        },
+        {
+          "opcion": "B",
+          "texto": "No detecta hipoglucemia ni cambios agudos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resultados en mg/dL exactos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación de pH urinario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición directa de insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen no refleja hipoglucemia ni cambios agudos del control metabólico, ya que detecta glucosa excretada tardíamente."
+    },
+    {
+      "numero": "10",
+      "texto": "La cetonuria detectada semicuantitativamente en un diabético descompensado indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Producción normal de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de glucosa como sustrato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de lipólisis y cetogénesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del metabolismo basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de insulina activa la lipólisis y cetogénesis, produciendo acumulación de cuerpos cetónicos detectables en orina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué factor puede causar un falso negativo en la detección de cetonas urinarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orina ácida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición prolongada al aire"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta concentración de glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de proteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La volatilización de la acetona al exponer la muestra al aire puede producir falsos negativos."
+    },
+    {
+      "numero": "12",
+      "texto": "Una muestra de orina con glucosa + y cetonas ++ sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control metabólico óptimo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis diabética moderada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ayuno fisiológico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación de glucosuria y cetonuria moderada indica cetoacidosis diabética en desarrollo."
+    },
+    {
+      "numero": "13",
+      "texto": "El resultado de cetonas ++++ en orina representa aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "15 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "20 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un resultado de ++++ equivale aproximadamente a 15 mmol/L de cuerpos cetónicos, indicativo de cetoacidosis severa."
+    },
+    {
+      "numero": "14",
+      "texto": "La orina semicuantitativa con glucosa negativa y cetonas +++ en un paciente diabético puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administración excesiva de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ayuno o vómitos prolongados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglucemia posprandial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sobrehidratación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ayuno o vómitos prolongados inducen cetogénesis por déficit de carbohidratos, incluso sin glucosuria."
+    },
+    {
+      "numero": "15",
+      "texto": "La prueba semicuantitativa de proteínas en orina se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción con azul de metileno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio de color por indicador ácido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción con peroxidasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de nitrato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxidación enzimática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El método del indicador ácido cambia de color según el pH modificado por la unión de proteínas a la tira reactiva."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué resultado semicuantitativo se considera anormal en la detección de proteínas en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Negativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trazas"
+        },
+        {
+          "opcion": "C",
+          "texto": "+"
+        },
+        {
+          "opcion": "D",
+          "texto": "++"
+        },
+        {
+          "opcion": "E",
+          "texto": "+++ o más"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Resultados de ++ o más indican proteinuria significativa, compatible con daño renal diabético."
+    },
+    {
+      "numero": "17",
+      "texto": "Un falso positivo de glucosa en orina puede presentarse por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH ácido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contaminación con peróxido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina refrigerada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta concentración de urea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dilución excesiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El peróxido o agentes oxidantes pueden alterar la reacción de la glucosa oxidasa, generando falsos positivos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el rango normal esperado para la densidad urinaria en una muestra semicuantitativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.000–1.005"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.010–1.030"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.035–1.050"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.950–1.000"
+        },
+        {
+          "opcion": "E",
+          "texto": "1.060–1.070"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La densidad urinaria normal se encuentra entre 1.010 y 1.030, reflejando la concentración normal de solutos."
+    },
+    {
+      "numero": "19",
+      "texto": "En el contexto de diabetes, el examen semicuantitativo de orina es útil principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnóstico definitivo de nefropatía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Seguimiento de control metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar función hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar infecciones crónicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar sodio plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen semicuantitativo permite monitorear el control metabólico mediante detección de glucosa y cetonas urinarias."
+    },
+    {
+      "numero": "20",
+      "texto": "Una orina con glucosa +++ y cetonas negativas sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglucemia sin cetosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal avanzada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glucosuria marcada sin cetonuria indica hiperglucemia sin cetosis, habitual en diabetes tipo 2 descompensada."
+    }
+  ]
+}

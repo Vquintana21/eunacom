@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.5.004",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Maniobra de Heimlich",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la maniobra de Heimlich en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la presión intratorácica para expulsar un cuerpo extraño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimular el reflejo tusígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Abrir las vías respiratorias mediante extensión del cuello"
+        },
+        {
+          "opcion": "D",
+          "texto": "Forzar la inspiración profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la aspiración de líquidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La maniobra de Heimlich busca generar presión torácica para expulsar un cuerpo extraño de la vía aérea."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuándo se debe realizar la maniobra de Heimlich en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cuando presenta tos eficaz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo en obstrucción completa sin poder hablar o toser"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuando hay estridor leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante una crisis asmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "En caso de paro respiratorio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se aplica únicamente en obstrucción completa de la vía aérea, sin tos ni respiración efectiva."
+    },
+    {
+      "numero": "3",
+      "texto": "En un lactante menor de un año, ¿cómo se maneja una obstrucción completa de la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresiones abdominales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Golpes interescapulares alternados con compresiones torácicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masaje cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilaciones forzadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión sobre el epigastrio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se alternan cinco golpes interescapulares con cinco compresiones torácicas en el lactante."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Dónde se colocan las manos en un niño mayor al aplicar la maniobra de Heimlich?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobre el apéndice xifoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debajo del ombligo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre el ombligo y el apéndice xifoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "En el esternón"
+        },
+        {
+          "opcion": "E",
+          "texto": "En el epigastrio alto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presión se aplica entre el ombligo y el apéndice xifoides, hacia adentro y arriba."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué debe hacerse si el niño pierde la conciencia durante la maniobra de Heimlich?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Continuar con compresiones abdominales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar RCP básica y revisar la vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocarlo en posición lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar oxígeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar respuesta espontánea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe iniciarse RCP e inspeccionar la vía aérea antes de ventilar."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes signos sugiere obstrucción completa de la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos débil pero audible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estridor leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis y silencio respiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Llanto intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aleteo nasal leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cianosis y ausencia de sonidos respiratorios indican obstrucción completa y requieren acción inmediata."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué acción está contraindicada durante la maniobra de Heimlich?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la eficacia de cada compresión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Introducir los dedos a ciegas en la boca del niño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Realizar compresiones rítmicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Controlar signos vitales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar presión hacia adentro y arriba"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "No se deben introducir los dedos a ciegas, ya que puede empujar el cuerpo extraño más profundo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hacer si el niño tose con fuerza y respira?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar la maniobra de Heimlich inmediatamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dejar que continúe tosiendo y observar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar aire con bolsa y mascarilla"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar golpes interescapulares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar compresiones abdominales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si la tos es efectiva, se debe permitir que continúe, vigilando signos de empeoramiento."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la dirección del movimiento durante la maniobra de Heimlich?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hacia adelante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hacia abajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hacia adentro y arriba"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo hacia arriba"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hacia atrás"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El movimiento debe ser rápido, hacia adentro y hacia arriba para generar presión intratorácica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hacer si el cuerpo extraño es visible en la boca del niño inconsciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intentar retirarlo con pinza Magill"
+        },
+        {
+          "opcion": "B",
+          "texto": "Continuar compresiones abdominales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplar aire forzado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejarlo hasta RCP avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar masaje cardíaco"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Solo debe retirarse si el objeto es visible y accesible con pinza Magill o pinza similar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué complicación puede causar una maniobra de Heimlich mal aplicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epistaxis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fractura costal o lesión hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema laríngeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aplicación incorrecta o con exceso de fuerza puede lesionar órganos abdominales o fracturar costillas."
+    },
+    {
+      "numero": "12",
+      "texto": "En lactantes, ¿cuántos golpes interescapulares deben aplicarse antes de las compresiones torácicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2"
+        },
+        {
+          "opcion": "B",
+          "texto": "3"
+        },
+        {
+          "opcion": "C",
+          "texto": "5"
+        },
+        {
+          "opcion": "D",
+          "texto": "7"
+        },
+        {
+          "opcion": "E",
+          "texto": "10"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se alternan 5 golpes interescapulares con 5 compresiones torácicas hasta lograr la desobstrucción."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hacer después de que el niño expulsa el cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dar líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observar en urgencias médicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar RCP preventiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar ventilación asistida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dar medicamentos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe ser evaluado médicamente para descartar complicaciones o lesiones por la maniobra."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué debe hacerse si el niño se vuelve cianótico y no emite sonidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar ventilación boca a boca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar la maniobra de Heimlich inmediatamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pedir al niño que tosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observar la evolución"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar oxígeno por mascarilla"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cianosis y el silencio respiratorio son indicaciones claras para iniciar la maniobra de Heimlich."
+    },
+    {
+      "numero": "15",
+      "texto": "¿En qué tipo de pacientes se deben evitar las compresiones abdominales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños mayores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes menores de un año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños con tos efectiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niños con fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes, las compresiones abdominales están contraindicadas y se reemplazan por compresiones torácicas."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué acción complementa la maniobra de Heimlich en caso de ineficacia inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reevaluar posición y repetir el ciclo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar ventilación asistida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar desfibrilador automático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar intubación inmediata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se debe verificar la técnica y repetir el ciclo antes de avanzar a RCP."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué indica la aparición de tos o respiración tras las compresiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracaso de la maniobra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Éxito parcial o total de la maniobra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necesidad de RCP avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inestabilidad hemodinámica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La recuperación de la respiración indica que el cuerpo extraño fue expulsado o desplazado."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la técnica recomendada para embarazadas o niños obesos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresiones torácicas en lugar de abdominales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresiones lumbares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masaje subdiafragmático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresiones epigástricas suaves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilaciones repetidas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En estos casos se realizan compresiones torácicas para evitar daño visceral."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuántas compresiones abdominales deben realizarse antes de reevaluar la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1"
+        },
+        {
+          "opcion": "B",
+          "texto": "3"
+        },
+        {
+          "opcion": "C",
+          "texto": "5"
+        },
+        {
+          "opcion": "D",
+          "texto": "10"
+        },
+        {
+          "opcion": "E",
+          "texto": "15"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda realizar 5 compresiones antes de reevaluar la permeabilidad de la vía aérea."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tipo de fuerza debe aplicarse en la maniobra de Heimlich pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suave y continua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moderada y controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fuerte y repetitiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rápida pero dosificada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Constante y ascendente"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Debe aplicarse fuerza rápida y dirigida, evitando excesiva presión que pueda causar lesiones."
+    }
+  ]
+}

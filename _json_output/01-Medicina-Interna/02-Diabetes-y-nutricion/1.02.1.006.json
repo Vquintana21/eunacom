@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué mecanismo fisiopatológico explica la diabetes inducida por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción autoinmune de células beta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la resistencia a la insulina y gluconeogénesis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la secreción de glucagón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia absoluta de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del metabolismo de la insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides aumentan la resistencia periférica a la insulina y estimulan la gluconeogénesis hepática, elevando la glucemia."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de corticoide tiene mayor riesgo de inducir hiperglucemia sostenida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidrocortisona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betametasona tópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluticasona inhalada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dexametasona tiene una acción prolongada y potencia glucocorticoide elevada, lo que aumenta el riesgo de hiperglucemia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿En qué momento del día suele observarse la hiperglucemia por corticoides orales administrados en la mañana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "En la madrugada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después del almuerzo o en la tarde"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante el sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmediatamente después de la dosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides aumentan la glucemia postprandial, especialmente en la tarde, cuando su efecto glucogénico es máximo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué grupo de pacientes tiene mayor riesgo de desarrollar diabetes por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adultos jóvenes con bajo IMC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con antecedente familiar de diabetes tipo 2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños con enfermedades autoinmunes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atletas de alto rendimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pacientes con predisposición genética o factores de riesgo para diabetes tipo 2 son más vulnerables a la hiperglucemia inducida por corticoides."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué prueba diagnóstica se recomienda para detectar diabetes por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucemia en ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucemia posprandial o vespertina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoglobina glicosilada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetonas urinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulinemia basal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glucemia posprandial o vespertina detecta mejor la hiperglucemia inducida por corticoides, que puede no reflejarse en ayuno."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes efectos metabólicos de los corticoides contribuye directamente a la hiperglucemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la captación muscular de glucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la lipólisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulación de la gluconeogénesis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de la secreción de glucagón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la glucogenólisis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides estimulan la gluconeogénesis hepática, aumentando la producción endógena de glucosa."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos es más útil para tratar hiperglucemia por corticoides en pacientes hospitalizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina NPH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pioglitazona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acarbosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glibenclamida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina NPH se ajusta bien al perfil temporal de acción de los corticoides y es útil en hospitalizados."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué patrón de glucemia caracteriza a la diabetes por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglucemia nocturna aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucemia matinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucemia normal en ayuno y elevada postprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglucemia continua todo el día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis recurrente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides elevan principalmente la glucemia postprandial, con niveles normales o casi normales en ayuno."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida preventiva puede reducir el riesgo de diabetes inducida por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la dosis diaria de insulina basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar la administración nocturna de corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender todos los carbohidratos en la dieta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar corticoides de acción ultracorta exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Combinar corticoides con betabloqueadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Administrar corticoides en la mañana minimiza el impacto sobre la glucemia, respetando el ritmo circadiano del cortisol."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué cambio dietético es más apropiado en pacientes que reciben tratamiento prolongado con corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar azúcares simples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir carbohidratos complejos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar proteínas y fibra, limitando azúcares refinados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar completamente las grasas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una dieta con más proteínas y fibra y menos azúcares simples ayuda a controlar la glucemia durante el tratamiento con corticoides."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué valor de glucemia posprandial sugiere diabetes inducida por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥110 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥126 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥140 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥180 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥200 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Una glucemia posprandial ≥200 mg/dL indica hiperglucemia significativa posiblemente inducida por corticoides."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué condición aumenta la susceptibilidad a hiperglucemia por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad y síndrome metabólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición calórica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad y el síndrome metabólico favorecen la resistencia a la insulina, potenciando el efecto hiperglucemiante de los corticoides."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro de laboratorio puede verse alterado por el uso crónico de corticoides además de la glucemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio sérico disminuido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoglobina aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol y triglicéridos elevados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido úrico disminuido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sodio bajo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides aumentan los niveles de colesterol y triglicéridos debido a sus efectos lipolíticos y gluconeogénicos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal riesgo de suspender abruptamente los corticoides en un paciente con diabetes inducida por ellos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia suprarrenal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La suspensión brusca de corticoides puede causar insuficiencia suprarrenal aguda por supresión del eje hipotálamo-hipófiso-suprarrenal."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes es un corticoide con menor efecto hiperglucemiante relativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocortisona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betametasona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triamcinolona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hidrocortisona tiene menor potencia glucocorticoide y menor riesgo de inducir hiperglucemia comparada con dexametasona o betametasona."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué estrategia terapéutica se utiliza cuando la hiperglucemia por corticoides no se controla con antidiabéticos orales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender inmediatamente los corticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agregar insulina de acción intermedia o rápida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cambiar a corticoide inhalado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar solo dieta sin fármacos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar bloqueadores de glucagón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si la hiperglucemia persiste, se agrega insulina, usualmente de acción intermedia ajustada al horario del corticoide."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de las siguientes situaciones es típica en la diabetes inducida por corticoides a corto plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dependencia crónica de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglucemia reversible tras suspender el corticoide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Destrucción autoinmune de islotes pancreáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistencia a metformina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperglucemia inducida por corticoides suele ser transitoria y se resuelve tras la suspensión del fármaco."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué órgano es el principal responsable del aumento de glucosa inducido por corticoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tejido adiposo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Páncreas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hígado aumenta la gluconeogénesis bajo el efecto de los corticoides, elevando la glucosa plasmática."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el efecto de los corticoides sobre las células beta pancreáticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan su proliferación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhiben la secreción de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulan la liberación de insulina postprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "No tienen ningún efecto directo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Destruyen las células beta por mecanismo autoinmune"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides pueden inhibir la secreción de insulina, agravando la hiperglucemia inducida por resistencia periférica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida de seguimiento se recomienda en pacientes en tratamiento prolongado con corticoides sistémicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monitoreo de glucemia capilar posprandial y HbA1c periódica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control exclusivo de colesterol total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición de cortisol basal semanal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía hepática mensual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dosificación de ácido úrico trimestral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control de glucemia posprandial y HbA1c permite detectar y monitorear la diabetes inducida por corticoides."
+    }
+  ]
+}

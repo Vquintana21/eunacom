@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.3.013",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes vacunas se aplica al nacer según el PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BCG y hepatitis B"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pentavalente y rotavirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza y polio"
+        },
+        {
+          "opcion": "D",
+          "texto": "SRP y varicela"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumococo y meningococo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Al nacer se administra BCG para prevenir tuberculosis grave y la primera dosis de hepatitis B."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué componentes incluye la vacuna pentavalente usada en el PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DTP, polio, hepatitis B"
+        },
+        {
+          "opcion": "B",
+          "texto": "DTP, Hib, hepatitis B"
+        },
+        {
+          "opcion": "C",
+          "texto": "DTP, Hib, rotavirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis A, BCG, polio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxoide tetánico, SRP, Hib"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna pentavalente combina DTP, Haemophilus influenzae tipo b y hepatitis B."
+    },
+    {
+      "numero": "3",
+      "texto": "¿A qué edad se aplica la vacuna SRP (sarampión, rubéola, parotiditis)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna SRP se administra a los 12 meses de edad con refuerzo posterior a los 6 años."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el objetivo principal del Plan Ampliado de Inmunizaciones (PAI)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la mortalidad por cáncer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir enfermedades inmunoprevenibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratar infecciones respiratorias agudas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la cobertura hospitalaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejorar la nutrición infantil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El PAI busca prevenir y controlar enfermedades prevenibles mediante vacunación gratuita y universal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué vacuna protege contra la poliomielitis en el esquema del PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna IPV/OPV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna DTP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacuna SRP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna BCG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacuna Hib"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El PAI utiliza vacuna inactivada (IPV) y oral (OPV) contra el poliovirus, según la edad y contexto epidemiológico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué enfermedad previene la vacuna BCG?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tétanos neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tuberculosis miliar y meníngea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Difteria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis meningocócica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La BCG previene las formas graves de tuberculosis, especialmente la meníngea y la miliar en la infancia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué vacuna del PAI debe aplicarse cada año a grupos de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "DTP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna contra la influenza se aplica anualmente a niños pequeños, adultos mayores y personas con comorbilidades."
+    },
+    {
+      "numero": "8",
+      "texto": "¿A qué edad se administra la primera dosis de la vacuna pentavalente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La primera dosis de la vacuna pentavalente se aplica a los 2 meses de edad según el calendario del PAI."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de vacuna es la antitetánica incluida en el PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus atenuado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toxoide"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polisacárido conjugado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recombinante"
+        },
+        {
+          "opcion": "E",
+          "texto": "ARN mensajero"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna antitetánica es un toxoide inactivado que induce inmunidad contra la toxina del Clostridium tetani."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué vacuna del PAI protege contra infecciones respiratorias y otitis causadas por Haemophilus influenzae tipo b?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pentavalente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "D",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna pentavalente incluye el componente contra Haemophilus influenzae tipo b para prevenir meningitis y neumonía."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué enfermedad previene la vacuna contra el rotavirus incluida en el PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gastroenteritis viral grave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacuna contra rotavirus previene la gastroenteritis aguda grave causada por este virus en lactantes."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué refuerzo se aplica a los 4 años en el esquema del PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pentavalente"
+        },
+        {
+          "opcion": "C",
+          "texto": "DTP y polio"
+        },
+        {
+          "opcion": "D",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis B"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "A los 4 años se administran refuerzos de DTP y polio para mantener inmunidad frente a estas enfermedades."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué vacuna se aplica durante el embarazo como parte del PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza y Tdpa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "C",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "E",
+          "texto": "BCG"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Durante el embarazo se recomienda la vacunación con Tdpa y la influenza para proteger a madre y recién nacido."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué vacuna previene la difteria, el tétanos y la tos ferina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "DTP o Tdpa"
+        },
+        {
+          "opcion": "C",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna DTP protege contra difteria, tétanos y tos ferina, administrándose en múltiples dosis durante la infancia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el intervalo mínimo entre la primera y segunda dosis de la vacuna contra hepatitis B en el esquema PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "6 meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El intervalo mínimo recomendado entre las dos primeras dosis de hepatitis B es de un mes."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué vacuna previene el sarampión dentro del PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DTP"
+        },
+        {
+          "opcion": "B",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pentavalente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El componente 'S' de la vacuna SRP protege contra el virus del sarampión."
+    },
+    {
+      "numero": "17",
+      "texto": "¿A qué edad se administra el refuerzo de la vacuna SRP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "4 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "9 años"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El refuerzo de la vacuna SRP se aplica a los 6 años para mantener la inmunidad contra sarampión, rubéola y parotiditis."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de las siguientes vacunas del PAI contiene virus vivos atenuados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BCG y SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis B y DTP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pentavalente y polio inactivada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza inactivada y rotavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis A y Hib"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas BCG y SRP están elaboradas con microorganismos vivos atenuados que inducen inmunidad prolongada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué vacuna previene el tétanos neonatal en el esquema del PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tdpa administrada en embarazadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pentavalente infantil"
+        },
+        {
+          "opcion": "E",
+          "texto": "Influenza"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacunación materna con Tdpa protege al recién nacido contra el tétanos neonatal mediante transferencia de anticuerpos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué vacuna previene la parotiditis epidémica según el PAI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SRP"
+        },
+        {
+          "opcion": "B",
+          "texto": "DTP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pentavalente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis B"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacuna SRP incluye protección contra el virus de la parotiditis (paperas)."
+    }
+  ]
+}

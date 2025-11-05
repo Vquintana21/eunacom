@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.115",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Convulsiones neonatales",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de convulsiones en el período neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia intracraneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección del sistema nervioso central"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La asfixia perinatal y la encefalopatía hipóxico-isquémica son las causas más comunes de convulsiones neonatales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué período suelen presentarse las convulsiones por encefalopatía hipóxico-isquémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En las primeras 6 horas de vida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre las 12 y 24 horas de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de las 72 horas de vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante la segunda semana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante el primer mes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las convulsiones por hipoxia suelen manifestarse entre las 12 y 24 horas postparto."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica diferencia las convulsiones neonatales de las de otras edades?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Siempre son tónico-clónicas generalizadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "No suelen presentar pérdida de conciencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aparecen solo durante el sueño"
+        },
+        {
+          "opcion": "D",
+          "texto": "No requieren estudio etiológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre son benignas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las convulsiones neonatales frecuentemente son focales o sutiles y no implican pérdida de conciencia evidente."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la alteración metabólica más común asociada a convulsiones neonatales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipermagnesemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperbilirrubinemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoglicemia es la alteración metabólica más frecuente en el neonato con convulsiones."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el estudio inicial de elección en un neonato con convulsiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transfontanelar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Punción lumbar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El EEG permite confirmar la actividad convulsiva y orientar su tipo y localización."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de convulsión neonatal se caracteriza por desviación ocular y movimientos faciales unilaterales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tónica generalizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mioclónica multifocal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Focal clónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sutil"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espasmo infantil"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones clónicas focales afectan una región del cuerpo, comúnmente cara u ojo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de las siguientes situaciones requiere descartar infección del SNC como causa de convulsiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones en un RN de término sin otros síntomas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsiones asociadas a fiebre o irritabilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones durante el sueño sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones aisladas en las primeras 12 h"
+        },
+        {
+          "opcion": "E",
+          "texto": "Convulsiones con Apgar normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre e irritabilidad pueden indicar meningitis o encefalitis como causa subyacente."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo del líquido cefalorraquídeo sugiere etiología infecciosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucorraquia normal y proteínas normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucorraquia y pleocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del cloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión baja y sin células"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglucorraquia y la pleocitosis orientan a meningitis bacteriana o viral."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué fármaco anticonvulsivante se considera de primera línea en neonatos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fenitoína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenobarbital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diazepam"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levetiracetam"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido valproico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fenobarbital es el anticonvulsivante inicial de elección por su eficacia y seguridad en neonatos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de convulsión neonatal se presenta con movimientos sutiles como succión o nistagmo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clónica multifocal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mioclónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sutil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tónica generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espasmos infantiles"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones sutiles pueden manifestarse solo con succión, mirada fija o nistagmo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo de laboratorio puede sugerir hipocalcemia como causa de convulsiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio total <8 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fósforo bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa >100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Magnesio alto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un calcio total menor de 8 mg/dL o ionizado <1 mmol/L es diagnóstico de hipocalcemia."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué patrón de convulsión suele verse en hemorragia intraventricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clónicas multifocales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mioclónicas generalizadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tónicas sostenidas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sutiles intermitentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espasmos periódicos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia intraventricular produce convulsiones clónicas multifocales por irritación cortical difusa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué condición metabólica causa convulsiones típicamente entre el 2° y 3° día de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia tardía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpotasemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalcemia tardía ocurre a los 2–3 días de vida y puede provocar convulsiones."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo en el EEG neonatal indica mal pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Patrón de bajo voltaje persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descargas intermitentes multifocales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad continua simétrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ondas agudas transitorias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Patrón de sueño-vigilia diferenciado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un EEG de bajo voltaje persistente sugiere daño cerebral severo y mal pronóstico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué signo clínico orienta a convulsiones tónicas neonatales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracción sostenida de extremidades sin clonus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sacudidas rápidas de un miembro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación ocular repetitiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aleteo labial rítmico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Succión repetitiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las convulsiones tónicas presentan rigidez sostenida, sin movimientos clónicos asociados."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tratamiento se utiliza cuando no hay respuesta al fenobarbital en convulsiones neonatales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Valproato de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levetiracetam o fenitoína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clonazepam"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diazepam oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El levetiracetam o fenitoína son las alternativas cuando no hay respuesta al fenobarbital."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes es un factor de riesgo perinatal para convulsiones neonatales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia fisiológica leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea electiva programada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prematurez tardía sin complicaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso adecuado para la edad gestacional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La asfixia perinatal es un importante factor de riesgo de convulsiones en el neonato."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico diferencia una convulsión de un temblor neonatal benigno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ocurre en respuesta a estímulos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Es suprimible con sujeción pasiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acompaña alteración autonómica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiene frecuencia baja y simétrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cede al tacto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones se acompañan de alteraciones autonómicas como apnea, cianosis o cambios de FC."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué examen es fundamental ante sospecha de error innato del metabolismo como causa de convulsiones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil metabólico ampliado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electrolitos plasmáticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El perfil metabólico (amonio, lactato, aminoácidos, ácidos orgánicos) permite descartar errores congénitos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué pronóstico tienen las convulsiones neonatales sintomáticas de causa reversible tratada precozmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad alta y secuelas graves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recurrencia a largo plazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Buena evolución sin secuelas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia refractaria futura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit motor permanente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones secundarias a causas reversibles, tratadas oportunamente, suelen tener evolución favorable."
+    }
+  ]
+}

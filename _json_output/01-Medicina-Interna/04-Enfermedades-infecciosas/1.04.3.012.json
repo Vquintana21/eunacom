@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.3.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué tipo de vacuna se utiliza para la prevención de la hepatitis B?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus inactivado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus atenuado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Subunidad recombinante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoide"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vector viral no replicante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna contra la hepatitis B es una vacuna recombinante que contiene el antígeno de superficie (HBsAg) del virus."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la vía de administración de la vacuna contra la influenza?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intradérmica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Subcutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intravenosa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La vacuna inactivada contra la influenza se administra por vía intramuscular, usualmente en el músculo deltoides."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué vacuna se recomienda en adultos mayores y pacientes inmunocomprometidos para prevenir neumonía bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna conjugada 13-valente (PCV13)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna polisacárida 23-valente (PPSV23)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambas, según el esquema secuencial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna viva atenuada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacuna combinada con influenza"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación secuencial de PCV13 y PPSV23 amplía la protección frente a los serotipos de Streptococcus pneumoniae."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el intervalo recomendado entre la vacuna PCV13 y PPSV23 en adultos inmunocompetentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 año"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 años"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Se recomienda administrar PPSV23 al menos 1 año después de PCV13 en adultos inmunocompetentes."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de vacuna es la utilizada para prevenir la varicela?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inactivada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atenuada de virus vivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toxoide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recombinante de subunidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "ADN plasmídico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna contra varicela utiliza virus vivo atenuado del virus varicela-zóster para inducir inmunidad duradera."
+    },
+    {
+      "numero": "6",
+      "texto": "La vacuna antirrábica se administra después de una mordedura de animal sospechoso junto con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunoglobulina antirrábica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacuna antitetánica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacuna BCG"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En exposición sospechosa, se aplica la vacuna antirrábica junto a inmunoglobulina específica para protección pasiva y activa."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el número total de dosis del esquema habitual de vacunación contra hepatitis B en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 dosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 dosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 dosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El esquema estándar de vacunación contra hepatitis B consta de 3 dosis: 0, 1 y 6 meses."
+    },
+    {
+      "numero": "8",
+      "texto": "¿En qué grupo se recomienda especialmente la vacuna contra hepatitis A?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños menores de 1 año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con enfermedad hepática crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes inmunocomprometidos severos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Personas con diabetes tipo 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna contra hepatitis A está indicada en pacientes con enfermedad hepática crónica o exposición ocupacional."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuándo está indicada la vacunación meningocócica tetravalente (A, C, Y, W135)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo en lactantes menores de 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo en adultos mayores"
+        },
+        {
+          "opcion": "C",
+          "texto": "En viajeros a zonas endémicas o brotes"
+        },
+        {
+          "opcion": "D",
+          "texto": "En cualquier adulto sano"
+        },
+        {
+          "opcion": "E",
+          "texto": "En pacientes con diabetes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna meningocócica tetravalente está indicada en viajeros y personas expuestas a brotes por Neisseria meningitidis."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué vacuna se administra anualmente debido a la variación antigénica del virus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumococo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rabia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna contra la influenza debe aplicarse anualmente para cubrir nuevas cepas circulantes del virus."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué vacuna está contraindicada en pacientes inmunodeprimidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza inactivada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis B recombinante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Varicela atenuada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumococo conjugada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis A inactivada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las vacunas con virus vivos atenuados, como la de varicela, están contraindicadas en inmunodeprimidos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué vacuna antineumocócica se recomienda primero en adultos con inmunodeficiencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PPSV23"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCV13"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambas simultáneamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCV7"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna, solo antibióticos preventivos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En inmunodeficientes se administra primero PCV13 para inducir inmunidad más robusta, seguida de PPSV23."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuántas dosis de vacuna antirrábica se administran en profilaxis postexposición en persona no vacunada previamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 dosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "4 dosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "6 dosis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El esquema postexposición incluye 5 dosis de vacuna antirrábica en los días 0, 3, 7, 14 y 28."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué grupo etario se beneficia más de la vacuna antineumocócica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños menores de 2 años y adultos mayores de 65"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adolescentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adultos jóvenes sanos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con hipertensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazadas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacunación antineumocócica es prioritaria en niños pequeños y adultos mayores por su mayor vulnerabilidad a infecciones invasivas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el intervalo mínimo entre las dos dosis de vacuna contra hepatitis A?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 meses"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La segunda dosis de hepatitis A se aplica 6 meses después de la primera para asegurar inmunidad prolongada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué vacuna previene la encefalitis secundaria a infección viral en adultos jóvenes no inmunizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rabia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna contra la varicela previene complicaciones neurológicas como la encefalitis postinfecciosa en adultos no inmunizados."
+    },
+    {
+      "numero": "17",
+      "texto": "En un brote comunitario de meningococo del serogrupo B, la medida preventiva principal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos profilácticos masivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación específica para serogrupo B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuarentena obligatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión de actividades escolares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento de todos los contactos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacunación contra meningococo B es la medida más efectiva para controlar brotes de este serogrupo específico."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de las siguientes vacunas debe administrarse tras exposición ocupacional al virus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumococo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningococo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna contra hepatitis B debe administrarse tras exposición ocupacional a sangre o fluidos potencialmente infectados."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué vacuna debe aplicarse a los viajeros que visitarán zonas rurales de África con brotes epidémicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningococo tetravalente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza estacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rabia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda la vacuna meningocócica tetravalente (A, C, Y, W135) a viajeros hacia la “cintura africana del meningococo”."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la indicación principal de la vacuna contra la rabia en profilaxis preexposición?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cazadores y veterinarios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con EPOC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Personas mayores de 65 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazadas en segundo trimestre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Personal de laboratorio de microbiología general"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis preexposición con vacuna antirrábica se indica en personas con alto riesgo ocupacional, como veterinarios o biólogos."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.5.001",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.001 - Amniocentesis.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Extracción de sangre fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punción del cordón umbilical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obtención de líquido amniótico para estudio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toma de biopsia placentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición de líquido amniótico por ecografía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La amniocentesis consiste en la punción del saco amniótico para extraer líquido con fines diagnósticos o terapéuticos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué trimestre se realiza habitualmente la amniocentesis diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante el parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "En cualquier momento del embarazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La amniocentesis se realiza comúnmente entre las semanas 15 y 20 de gestación para minimizar riesgos y obtener resultados útiles."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la indicación más frecuente de la amniocentesis diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detección de malformaciones cardíacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diagnóstico de aneuploidías fetales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición del líquido amniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación de bienestar fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento de hidramnios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La principal indicación es el diagnóstico de aneuploidías como el síndrome de Down mediante estudio cromosómico fetal."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué prueba se puede realizar con el líquido obtenido en la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cariotipo fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de Coombs indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Kleihauer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinación de glucosa materna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido amniótico permite analizar el cariotipo fetal mediante cultivo celular para detectar anomalías genéticas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estructura se atraviesa para realizar la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vagina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cordón umbilical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pared abdominal y útero"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cérvix"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aguja atraviesa la pared abdominal y uterina bajo guía ecográfica hasta el saco amniótico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué complicación grave puede ocurrir tras una amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia cerebral fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aborto espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aborto espontáneo es una complicación poco frecuente pero grave, con un riesgo estimado de 0.1-0.3%."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué técnica de imagen se utiliza para guiar la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluoroscopía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía guía en tiempo real la punción para evitar daño fetal y seleccionar el sitio adecuado."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué color anormal del líquido amniótico sugiere sufrimiento fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amarillo claro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verde meconial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azulado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La coloración verde del líquido amniótico indica la presencia de meconio, asociado a sufrimiento fetal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estudio se realiza con líquido amniótico en embarazos de riesgo de incompatibilidad Rh?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinación de AFP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de Coombs directa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición de bilirrubina (∆OD450)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Kleihauer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cariotipo fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La bilirrubina en líquido amniótico evalúa la hemólisis fetal en la enfermedad hemolítica por incompatibilidad Rh."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué marcador fetal se mide en líquido amniótico para evaluar defectos del tubo neural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta-HCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estriol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alfafetoproteína (AFP)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibina A"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La alfafetoproteína elevada en líquido amniótico se asocia con defectos del tubo neural como espina bífida."
+    },
+    {
+      "numero": "11",
+      "texto": "¿En qué casos está contraindicada la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embarazo múltiple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta previa o infección activa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mujer mayor de 35 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oligohidramnios leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amenaza de parto prematuro resuelta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La amniocentesis está contraindicada ante placenta previa o infecciones uterinas por riesgo de complicaciones."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué cantidad de líquido se extrae generalmente durante una amniocentesis diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "10-20 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "30-50 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 100 mL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se extraen de 10 a 20 mL de líquido amniótico, suficiente para estudios genéticos y bioquímicos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el riesgo estimado de pérdida fetal tras una amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.01%"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.1-0.3%"
+        },
+        {
+          "opcion": "C",
+          "texto": "1%"
+        },
+        {
+          "opcion": "D",
+          "texto": "5%"
+        },
+        {
+          "opcion": "E",
+          "texto": "10%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El riesgo de pérdida fetal es bajo, entre 0.1 y 0.3%, dependiendo de la experiencia del operador."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué precaución se toma en mujeres Rh negativas antes de una amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar hierro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Profilaxis con inmunoglobulina anti-D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta líquida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo absoluto 48 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se administra inmunoglobulina anti-D para prevenir la sensibilización por paso de eritrocitos fetales a la madre."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo sugiere contaminación materna del líquido amniótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Color amarillo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de células escamosas y sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Color claro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de proteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de células epiteliales maternas o sangre sugiere contaminación durante la punción."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación infecciosa puede derivarse de la amniocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cistitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amnionitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salpingitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corioangioma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometriosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La amnionitis es una infección potencial del líquido amniótico y las membranas tras procedimientos invasivos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué uso tiene la amniocentesis en embarazos de tercer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detección de aneuploidías"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar madurez pulmonar fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnóstico de infecciones maternas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valoración de peso fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición del volumen placentario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el tercer trimestre se utiliza para evaluar la madurez pulmonar fetal mediante el índice lecitina/esfingomielina."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué marcador bioquímico se utiliza para evaluar madurez pulmonar fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta-HCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estriol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lecitina/esfingomielina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alfafetoproteína"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La relación lecitina/esfingomielina ≥ 2 indica madurez pulmonar fetal adecuada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal ventaja de la amniocentesis sobre la biopsia de vellosidades coriónicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor riesgo de pérdida fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diagnóstico más precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resultado más rápido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor dolor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Permite detectar defectos del tubo neural"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "A diferencia de la biopsia corial, la amniocentesis permite medir AFP y diagnosticar defectos del tubo neural."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo en líquido amniótico indica hemólisis fetal severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de glucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de bilirrubina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de meconio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Color claro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión elevada del líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de bilirrubina en el líquido amniótico indica hemólisis fetal, evaluable por espectrofotometría."
+    }
+  ]
+}

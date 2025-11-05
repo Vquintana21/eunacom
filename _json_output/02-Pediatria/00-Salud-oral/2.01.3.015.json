@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.015",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Salud oral",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la enfermedad bucal más prevalente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gingivitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caries dental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Halitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluorosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aftas recurrentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La caries dental es la enfermedad bucal más frecuente en niños y representa un importante problema de salud pública."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad se recomienda la primera visita odontológica según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A los 6 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 3 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antes del primer año de vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 2 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo cuando aparecen caries"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda realizar la primera visita odontológica antes del primer año de vida para instaurar hábitos preventivos."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal factor etiológico de la caries dental es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo frecuente de azúcares simples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de biberón con agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cepillado dental con agua sola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de flúor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El consumo habitual de azúcares simples favorece el crecimiento bacteriano y la desmineralización del esmalte."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué bacteria se asocia más comúnmente con la caries infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus mutans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactobacillus casei"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus mutans es el microorganismo más relacionado con el inicio y progresión de la caries dental."
+    },
+    {
+      "numero": "5",
+      "texto": "El uso de flúor en la infancia tiene como objetivo principal:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Blanquear los dientes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reforzar el esmalte dental y prevenir caries"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratar infecciones bucales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acelerar la erupción dental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la sensibilidad dental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flúor fortalece el esmalte y previene la formación de caries en etapas tempranas de la vida."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la causa principal de la caries de biberón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso prolongado del chupete"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo nocturno de líquidos azucarados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de mamaderas de silicona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de higiene interdental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso nocturno de mamaderas con líquidos azucarados genera un ambiente ácido que favorece la caries temprana."
+    },
+    {
+      "numero": "7",
+      "texto": "El cepillado dental debe comenzar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Con la erupción del primer diente"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 3 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después del destete"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo al completar la dentición temporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 2 años"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cepillado debe iniciarse con la erupción del primer diente, utilizando un cepillo adecuado a la edad."
+    },
+    {
+      "numero": "8",
+      "texto": "El flúor tópico se recomienda en concentraciones adecuadas para prevenir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Halitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caries dental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gingivitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluorosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candidiasis oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flúor aplicado tópicamente ayuda a remineralizar el esmalte y prevenir lesiones cariosas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hábito oral es más perjudicial durante la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso ocasional del chupete"
+        },
+        {
+          "opcion": "B",
+          "texto": "Succión digital prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de agua con flúor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respiración nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masticar alimentos duros"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La succión digital prolongada puede provocar maloclusiones y alteraciones del desarrollo maxilofacial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué beneficio tiene la lactancia materna sobre la salud oral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Favorece la respiración bucal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evita la fluorosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimula el desarrollo adecuado de los maxilares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causa maloclusión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta el riesgo de caries"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lactancia materna estimula el desarrollo armónico de los maxilares y reduce el riesgo de maloclusiones."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes alimentos tiene mayor potencial cariogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Manzana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pan integral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Galletas dulces"
+        },
+        {
+          "opcion": "D",
+          "texto": "Queso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zanahoria cruda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las galletas dulces son ricas en azúcares simples y se adhieren al esmalte, promoviendo la caries."
+    },
+    {
+      "numero": "12",
+      "texto": "La fluorosis dental se produce por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falta de calcio en la dieta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de flúor durante la formación dental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de pastas no fluoradas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Higiene oral deficiente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La exposición excesiva al flúor durante la formación dental produce manchas y alteraciones del esmalte."
+    },
+    {
+      "numero": "13",
+      "texto": "El control odontológico preventivo debe realizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada seis meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada dos años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo ante dolor dental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada cuatro años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo al completar la dentición permanente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los controles cada seis meses permiten la detección temprana de problemas y la educación preventiva."
+    },
+    {
+      "numero": "14",
+      "texto": "El uso de pastas dentales fluoradas se recomienda a partir de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La erupción del primer diente con cantidad mínima (granito de arroz)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Los 3 años con cantidad abundante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Los 2 años sin supervisión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuando el niño sepa enjuagarse solo"
+        },
+        {
+          "opcion": "E",
+          "texto": "A partir de los 6 años"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se recomienda usar pasta fluorada desde el primer diente, en cantidad mínima y bajo supervisión adulta."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué manifestación clínica es típica de la gingivitis infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retracción gingival severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Encías inflamadas con sangrado al cepillado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor intenso y movilidad dentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manchas blancas en el esmalte"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aftas múltiples"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La gingivitis se caracteriza por inflamación y sangrado gingival sin pérdida de inserción dentaria."
+    },
+    {
+      "numero": "16",
+      "texto": "La salud oral se considera parte de la salud general porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta solo la estética facial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Influye en la nutrición, el lenguaje y la autoestima"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depende solo del odontólogo"
+        },
+        {
+          "opcion": "D",
+          "texto": "No tiene impacto sistémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Es un problema exclusivamente dental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La salud oral afecta funciones básicas como la alimentación, la comunicación y el bienestar psicosocial."
+    },
+    {
+      "numero": "17",
+      "texto": "La caries de la primera infancia se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso prolongado de biberón con líquidos azucarados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso temprano de flúor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Erupción dental tardía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de agua potable fluorada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de cepillos eléctricos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso prolongado de biberones con líquidos azucarados, sobre todo nocturno, produce caries rampante."
+    },
+    {
+      "numero": "18",
+      "texto": "Una medida de promoción de salud oral en escuelas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Educación sobre cepillado y alimentación saludable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entrega de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de controles médicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Campañas solo para adolescentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de blanqueadores dentales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La educación sobre higiene y nutrición es fundamental en la promoción de salud oral infantil."
+    },
+    {
+      "numero": "19",
+      "texto": "Los sellantes de fosas y fisuras se aplican principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir caries en molares permanentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Blanquear los dientes temporales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la sensibilidad dental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corregir maloclusiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratar gingivitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los sellantes previenen la caries en las superficies masticatorias de molares recién erupcionados."
+    },
+    {
+      "numero": "20",
+      "texto": "El rol del médico general en salud oral pediátrica incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Identificar y derivar tempranamente alteraciones bucales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indicar tratamientos complejos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prescribir antibióticos por caries simples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sustituir al odontólogo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la educación sanitaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El médico general debe detectar y derivar problemas bucales, promoviendo hábitos saludables desde la infancia."
+    }
+  ]
+}

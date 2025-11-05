@@ -1,0 +1,572 @@
+{
+  "codigo": "1.06.1.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Gastroenterologia",
+  "subcategoria_id": "06",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo histológico más frecuente de cáncer gástrico según la clasificación de Lauren?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indiferenciado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escamoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tipo intestinal es el más frecuente y se asocia a gastritis crónica y metaplasia intestinal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo ambiental para el cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección por Helicobacter pylori"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcoholismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia perniciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Helicobacter pylori es el factor de riesgo más importante, responsable de la mayoría de los casos de cáncer gástrico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio más común de cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuerpo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fundus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cardias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Curvatura menor"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El antro gástrico es el sitio más frecuente de aparición del adenocarcinoma gástrico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué lesión premaligna se asocia al desarrollo de cáncer gástrico intestinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metaplasia intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperplasia foveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pólipo inflamatorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acalasia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlcera aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La metaplasia intestinal es una lesión precursora en la secuencia de Correa hacia el adenocarcinoma gástrico intestinal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué manifestación clínica es más frecuente en el cáncer gástrico avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida de peso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Melena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematemesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de peso progresiva es uno de los síntomas más frecuentes en etapas avanzadas del cáncer gástrico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué marcador tumoral se usa para el seguimiento del cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "B",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "C",
+          "texto": "CA 125"
+        },
+        {
+          "opcion": "D",
+          "texto": "CA 15-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcitonina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El antígeno carcinoembrionario (CEA) puede ser útil en el seguimiento postoperatorio para detectar recurrencia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué técnica diagnóstica es el estándar de oro para cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopía digestiva alta con biopsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía con bario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de abdomen"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET-CT"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endoscopía con biopsia permite visualizar la lesión y obtener confirmación histológica del cáncer gástrico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico corresponde al signo de Virchow?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenopatía supraclavicular izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulo umbilical metastásico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis maligna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esplenomegalia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Virchow consiste en una adenopatía supraclavicular izquierda secundaria a metástasis gástrica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué nódulo metastásico umbilical se asocia con cáncer gástrico avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo de Sister Mary Joseph"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulo de Virchow"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulo de Krukenberg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo de Courvoisier"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulo de Troisier"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El nódulo de Sister Mary Joseph corresponde a una metástasis umbilical de origen abdominal, común en cáncer gástrico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento potencialmente curativo del cáncer gástrico localizado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gastrectomía con linfadenectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quimioterapia exclusiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia paliativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia inmunológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resección endoscópica parcial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La gastrectomía con linfadenectomía regional es el tratamiento de elección en enfermedad localizada resecable."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo histológico de cáncer gástrico tiene peor pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Papilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tubular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tipo difuso se asocia con peor pronóstico por su diseminación infiltrante y rápida progresión."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo clínico corresponde al tumor de Krukenberg?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metástasis ovárica bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metástasis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metástasis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metástasis en colon"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metástasis cerebral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tumor de Krukenberg corresponde a una metástasis ovárica bilateral originada generalmente en cáncer gástrico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de anemia es frecuente en el cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia normocrómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia microangiopática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anemia ferropénica puede deberse a sangrado crónico oculto del tumor gástrico."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes no es un factor de riesgo para cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Helicobacter pylori"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta rica en sal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia perniciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso crónico de IBP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El uso prolongado de inhibidores de bomba de protones no se considera un factor de riesgo establecido."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué clasificación se usa para definir la localización del cáncer gástrico respecto a la unión esofagogástrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clasificación de Siewert"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clasificación de Lauren"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clasificación TNM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clasificación de Borrmann"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clasificación de Correa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La clasificación de Siewert define tumores de la unión esofagogástrica en tres tipos según su localización."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué clasificación describe el aspecto macroscópico del cáncer gástrico avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Borrmann"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lauren"
+        },
+        {
+          "opcion": "C",
+          "texto": "Siewert"
+        },
+        {
+          "opcion": "D",
+          "texto": "Correa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dukes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La clasificación de Borrmann describe el aspecto macroscópico de los cánceres gástricos avanzados."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo endoscópico sugiere cáncer gástrico temprano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión superficial irregular con bordes elevados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera profunda con bordes regulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Erosión antral simple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mucosa atrófica difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pólipo pediculado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cáncer gástrico temprano se manifiesta como una lesión superficial irregular o deprimida con bordes elevados."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tipo de diseminación es más frecuente en el cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritoneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Canalicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Venosa directa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diseminación linfática es la vía más común, seguida por la peritoneal y hematógena."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tratamiento complementario mejora la supervivencia tras gastrectomía en cáncer gástrico avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia adyuvante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioterapia sola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunoterapia exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia hormonal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La quimioterapia adyuvante o perioperatoria mejora la supervivencia en pacientes con cáncer gástrico avanzado resecado."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico indica posible invasión peritoneal en cáncer gástrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos persistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dispepsia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de ascitis sugiere diseminación peritoneal, típica de enfermedad avanzada no resecable."
+    }
+  ]
+}

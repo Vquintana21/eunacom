@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.003",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Aspiración cuerpo extraño",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la edad más frecuente para aspiración de cuerpo extraño en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 1 año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 1 y 3 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 5 y 10 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adolescentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recién nacidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aspiración de cuerpo extraño es más frecuente entre 1 y 3 años debido a la exploración oral y la inmadurez de los reflejos protectores."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el síntoma inicial más característico tras la aspiración de un cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos súbita y disnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estridor progresivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos súbita y disnea aparecen inmediatamente tras la aspiración y orientan al diagnóstico clínico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio anatómico más común donde se aloja un cuerpo extraño aspirado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tráquea media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquio principal derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquio principal izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringe"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquiolo terminal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bronquio derecho es más afectado por ser más vertical y de mayor calibre."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo radiológico es característico de una aspiración bronquial parcial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrapamiento aéreo unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperclaridad bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado perihiliar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El atrapamiento aéreo unilateral por válvula parcial es un signo clásico de aspiración bronquial."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el examen diagnóstico de elección ante sospecha de cuerpo extraño aspirado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoscopía rígida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía lateral de cuello"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía torácica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La broncoscopía rígida permite diagnóstico y tratamiento simultáneo mediante extracción del cuerpo extraño."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico orienta a cuerpo extraño en la vía aérea alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estridor inspiratorio y disfonía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias difusas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea espiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos productiva crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre y rinorrea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estridor y la disfonía indican obstrucción laríngea o traqueal alta."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué maniobra se recomienda en un niño consciente con obstrucción completa de vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresiones torácicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación boca a boca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Heimlich"
+        },
+        {
+          "opcion": "D",
+          "texto": "Masaje precordial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Golpes en la espalda en posición supina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La maniobra de Heimlich es el procedimiento indicado en obstrucción completa en mayores de 1 año."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué signo radiológico indirecto sugiere cuerpo extraño bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desviación mediastínica hacia el lado afectado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrapamiento aéreo unilateral con desplazamiento contralateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrado alveolar difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colapso pulmonar bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desplazamiento mediastínico contralateral y atrapamiento aéreo sugieren obstrucción bronquial parcial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes cuerpos extraños no es radiopaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Moneda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tornillo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maní"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aguja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clavo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuerpos orgánicos como el maní son radiolúcidos y pueden pasar inadvertidos en radiografía."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación puede derivarse de la aspiración de material orgánico como maní?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción inflamatoria intensa y neumonía lipoidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritonitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento cardíaco"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El material oleoso del maní provoca inflamación crónica y neumonía lipoidea si no se extrae."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el signo clínico clásico en aspiración de cuerpo extraño con obstrucción parcial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Silencio respiratorio unilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias localizadas persistentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estridor inspiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquipnea con tiraje"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis generalizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las sibilancias localizadas persistentes en el mismo sitio orientan a obstrucción bronquial parcial."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la conducta más adecuada si se sospecha aspiración sin evidencia radiológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta con observación domiciliaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos empíricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoscopía diagnóstica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía seriada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe realizarse broncoscopía diagnóstica incluso con radiografía normal si la sospecha clínica es alta."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la presentación más común en la radiografía de un cuerpo extraño radiolúcido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Imagen normal o atrapamiento aéreo indirecto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atelectasia homogénea bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax evidente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infiltrados múltiples difusos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquiectasias bilaterales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mayoría de los cuerpos extraños radiolúcidos no se visualizan, pero pueden generar atrapamiento aéreo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento definitivo para la aspiración de cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoscopía rígida con extracción del cuerpo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides inhalatorios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observación y fisioterapia respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intubación endotraqueal prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La broncoscopía rígida permite visualizar y extraer el cuerpo extraño de forma segura y efectiva."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes signos indica obstrucción laríngea por cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancias espiratorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estridor y dificultad para hablar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea espiratoria sin tos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silencio respiratorio unilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ruidos húmedos basales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estridor y la disfonía o afonía orientan a obstrucción laríngea alta."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo físico sugiere atrapamiento aéreo en aspiración bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Expansión simétrica del tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tórax hiperinflado con murmullo disminuido unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Matidez a la percusión bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de vibraciones vocales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crepitaciones difusas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tórax hiperinflado unilateral con disminución del murmullo vesicular indica atrapamiento aéreo por obstrucción bronquial."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el principal diagnóstico diferencial de aspiración de cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquiolitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis alérgica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El asma bronquial puede simular aspiración por sibilancias recurrentes, pero sin antecedente de episodio súbito."
+    },
+    {
+      "numero": "18",
+      "texto": "Ante un niño con tos súbita, disnea y cianosis, ¿cuál es la primera maniobra si está inconsciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoscopía inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresiones torácicas y apertura de vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspiración nasofaríngea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar oxígeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar signos respiratorios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si está inconsciente, se deben iniciar compresiones torácicas y apertura de la vía aérea para despejar el objeto."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación más grave de la aspiración no resuelta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía obstructiva recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fístula broncopleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia respiratoria aguda"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La obstrucción persistente puede causar insuficiencia respiratoria aguda y riesgo vital inmediato."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida preventiva es más importante para evitar aspiración en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Supervisión constante durante la alimentación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos preventivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar juegos activos después de comer"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar líquidos fríos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar el uso de chupete"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La supervisión durante la alimentación y evitar ofrecer alimentos pequeños o duros son las medidas más efectivas."
+    }
+  ]
+}

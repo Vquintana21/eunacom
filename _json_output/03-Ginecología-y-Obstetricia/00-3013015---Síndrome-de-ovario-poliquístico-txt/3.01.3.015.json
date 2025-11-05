@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.3.015",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.015 - Síndrome de ovario poliquístico .txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de los siguientes criterios se utiliza en el diagnóstico del síndrome de ovario poliquístico (SOP) según Rotterdam?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovarios aumentados de tamaño en ecografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperandrogenismo clínico o bioquímico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menarquia precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "IMC >30 kg/m²"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hirsutismo aislado sin alteraciones hormonales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los criterios de Rotterdam incluyen hiperandrogenismo, oligo/anovulación y morfología poliquística en ecografía."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo ecográfico es característico del SOP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quistes únicos de gran tamaño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ovario en collar de perlas con múltiples folículos periféricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistes dermoides bilaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de folículos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tumor sólido ovárico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El patrón en collar de perlas, con múltiples folículos periféricos, es típico en ecografía de SOP."
+    },
+    {
+      "numero": "3",
+      "texto": "En el SOP, la resistencia a la insulina se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la secreción de LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incremento en la producción ovárica de andrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la aromatización periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción del cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de SHBG"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia a la insulina estimula la producción ovárica de andrógenos, contribuyendo al hiperandrogenismo."
+    },
+    {
+      "numero": "4",
+      "texto": "El hiperandrogenismo clínico en SOP se manifiesta típicamente como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hirsutismo y acné"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sofocos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alopecia difusa sin patrón masculino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Galactorrea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los signos clínicos del hiperandrogenismo incluyen hirsutismo, acné y alopecia de patrón masculino."
+    },
+    {
+      "numero": "5",
+      "texto": "En mujeres con SOP, la relación LH/FSH típica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1:1"
+        },
+        {
+          "opcion": "B",
+          "texto": "2:1 o mayor"
+        },
+        {
+          "opcion": "C",
+          "texto": "0.5:1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variable sin patrón"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se altera en SOP"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SOP se caracteriza por elevación relativa de LH, con una relación LH/FSH ≥2:1 en muchos casos."
+    },
+    {
+      "numero": "6",
+      "texto": "La complicación metabólica más frecuente asociada al SOP es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia a la insulina predispone a desarrollar diabetes tipo 2 en mujeres con SOP."
+    },
+    {
+      "numero": "7",
+      "texto": "En pacientes con SOP, ¿qué fármaco mejora tanto la resistencia a la insulina como la regularidad menstrual?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clomifeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Letrozol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metformina mejora la resistencia a la insulina y puede regularizar los ciclos menstruales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la causa principal de infertilidad en el SOP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anovulación crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción tubárica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defecto de fase lútea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anovulación crónica es la principal causa de infertilidad en pacientes con SOP."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué terapia es la primera línea para inducir ovulación en SOP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progesterona micronizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Letrozol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gonadotropinas inyectables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metformina sola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticonceptivos orales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El letrozol es actualmente la primera línea para inducción de ovulación en SOP con infertilidad."
+    },
+    {
+      "numero": "10",
+      "texto": "Las mujeres con SOP tienen mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer de colon"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cáncer de ovario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El riesgo de cáncer endometrial aumenta por anovulación crónica y estimulación estrogénica sin oposición."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento de primera línea en adolescentes con SOP y síntomas de hiperandrogenismo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clomifeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticonceptivos orales combinados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Letrozol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metformina sola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía laparoscópica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticonceptivos orales combinados son primera línea para controlar hiperandrogenismo y regular ciclos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro metabólico debe controlarse en seguimiento de mujeres con SOP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil lipídico y glicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Función tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niveles de vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hormona antimülleriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ferritina sérica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe controlarse perfil lipídico y glicemia por el riesgo de síndrome metabólico y diabetes."
+    },
+    {
+      "numero": "13",
+      "texto": "La hormona antimülleriana (AMH) en SOP se encuentra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectable"
+        },
+        {
+          "opcion": "E",
+          "texto": "No relacionada con SOP"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La AMH suele estar elevada en SOP debido al aumento del número de folículos antrales."
+    },
+    {
+      "numero": "14",
+      "texto": "El diagnóstico diferencial del SOP debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperplasia suprarrenal congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todos los anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguno"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Antes de confirmar SOP deben descartarse hiperplasia suprarrenal, hipotiroidismo e hiperprolactinemia."
+    },
+    {
+      "numero": "15",
+      "texto": "En el SOP, la obesidad central contribuye a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción de la resistencia insulínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejoría de la ovulación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del hiperandrogenismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso de la AMH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejoría de la fertilidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad central empeora la resistencia a la insulina y favorece el hiperandrogenismo en SOP."
+    },
+    {
+      "numero": "16",
+      "texto": "El hirsutismo en SOP se evalúa con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Apgar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Ferriman-Gallwey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escala de Tanner"
+        },
+        {
+          "opcion": "D",
+          "texto": "Índice de Kupperman"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Glasgow"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La escala de Ferriman-Gallwey se utiliza para evaluar el grado de hirsutismo clínico."
+    },
+    {
+      "numero": "17",
+      "texto": "El riesgo cardiovascular en mujeres con SOP se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome metabólico asociado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoandrogenismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevada prolactina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome metabólico asociado al SOP aumenta el riesgo cardiovascular en estas mujeres."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué intervención no farmacológica es pilar en el tratamiento del SOP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta y ejercicio físico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirugía bariátrica en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del consumo de calcio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de peso mediante dieta y ejercicio es fundamental en el manejo integral del SOP."
+    },
+    {
+      "numero": "19",
+      "texto": "El SOP se asocia con mayor prevalencia de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Depresión y ansiedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esquizofrenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno bipolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parkinson"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El SOP se asocia a mayor prevalencia de depresión y ansiedad, además de alteraciones metabólicas."
+    }
+  ]
+}

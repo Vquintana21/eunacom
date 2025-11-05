@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la función principal de la albúmina plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transporte de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantenimiento de la presión oncótica y transporte de moléculas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Participación en la coagulación sanguínea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síntesis de hormonas esteroides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción de anticuerpos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La albúmina mantiene la presión oncótica plasmática y transporta ácidos grasos, hormonas y fármacos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Dónde se sintetiza principalmente la albúmina plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intestino delgado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Médula ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La albúmina es sintetizada exclusivamente por los hepatocitos en el hígado."
+    },
+    {
+      "numero": "3",
+      "texto": "En pacientes diabéticos, una disminución de albúmina plasmática puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglucemia transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefropatía diabética con pérdida renal de proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la masa muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de insulina aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor síntesis hepática de proteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microalbuminuria refleja daño glomerular en la nefropatía diabética y pérdida de albúmina por orina."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el rango normal de concentración plasmática de albúmina en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.0–2.0 g/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "2.0–3.0 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "3.5–5.0 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "5.5–6.5 g/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "6.5–8.0 g/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rango normal de albúmina plasmática es de 3.5 a 5.0 g/dL en adultos sanos."
+    },
+    {
+      "numero": "5",
+      "texto": "La hipoalbuminemia puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema por disminución de la presión oncótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la diuresis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasoconstricción periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la hemoglobina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción de la presión oncótica por baja albúmina favorece el paso de líquido al espacio intersticial."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué relación tiene la albúmina con el estado nutricional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Refleja el metabolismo de los carbohidratos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Es un marcador sensible de desnutrición proteica crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mide la absorción intestinal de grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evalúa el metabolismo del calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determina la función pancreática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La albúmina sérica disminuye en desnutrición proteica, siendo un marcador útil del estado nutricional crónico."
+    },
+    {
+      "numero": "7",
+      "texto": "La vida media de la albúmina plasmática es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 día"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "20 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "40 días"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La albúmina tiene una vida media de 20 días, lo que la convierte en un marcador de cambios nutricionales crónicos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué efecto tiene la inflamación sistémica sobre la albúmina plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta su síntesis hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye su concentración por efecto de fase aguda negativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementa su vida media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula su degradación pancreática"
+        },
+        {
+          "opcion": "E",
+          "texto": "No tiene efecto significativo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante inflamación, la albúmina actúa como reactante de fase aguda negativa y su concentración plasmática disminuye."
+    },
+    {
+      "numero": "9",
+      "texto": "La microalbuminuria se define como excreción urinaria de albúmina entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10–20 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "30–300 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "400–600 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "700–1000 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": ">1000 mg/día"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microalbuminuria corresponde a una excreción urinaria de albúmina entre 30 y 300 mg/día."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué mecanismo explica la pérdida de albúmina en la nefropatía diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión glomerular y daño de la barrera de filtración"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del flujo renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración tubular proximal exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción hepática insuficiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperfiltración medular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperglucemia crónica daña la membrana basal glomerular, aumentando su permeabilidad a la albúmina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el método de referencia para medir albúmina urinaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tira reactiva convencional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioinmunoensayo o inmunoturbidimetría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electroforesis en gel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Benedict"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espectrofotometría de absorción atómica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunoturbidimetría es el método más preciso para cuantificar albúmina en orina."
+    },
+    {
+      "numero": "12",
+      "texto": "En el contexto clínico, la albúmina también transporta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa y amonio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hormonas, ácidos grasos y fármacos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lípidos de alta densidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Creatinina y urea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catecolaminas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La albúmina transporta hormonas liposolubles, ácidos grasos y diversos fármacos en el plasma."
+    },
+    {
+      "numero": "13",
+      "texto": "En pacientes con diabetes mal controlada, la glucosilación de la albúmina produce:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de su función transportadora"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de su vida media y alteración funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor presión oncótica plasmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resistencia a la degradación hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inactivación de insulina circulante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glucosilación no enzimática altera la función y vida media de la albúmina, reflejando hiperglucemia sostenida."
+    },
+    {
+      "numero": "14",
+      "texto": "La relación albúmina/creatinina urinaria se utiliza para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar función hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar microalbuminuria en muestras aisladas de orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar filtración glomerular exacta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar desnutrición aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir el nivel de glucosa plasmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La relación albúmina/creatinina en muestra aislada permite estimar excreción diaria de albúmina sin recolectar orina de 24 h."
+    },
+    {
+      "numero": "15",
+      "texto": "En hipoalbuminemia grave, puede observarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la diuresis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema generalizado o ascitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial sostenida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis reactiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La baja presión oncótica por hipoalbuminemia causa fuga de líquido al intersticio, produciendo edema y ascitis."
+    },
+    {
+      "numero": "16",
+      "texto": "Una causa frecuente de hipoalbuminemia en pacientes hospitalizados es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación crónica o sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo elevado de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de estatinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipervitaminosis D"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inflamación crónica y la sepsis reducen la síntesis hepática de albúmina como parte de la respuesta de fase aguda."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué parámetro puede alterar falsamente la medición de albúmina plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingesta elevada de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobina baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deshidratación hemoconcentra el plasma, elevando artificialmente los niveles de albúmina."
+    },
+    {
+      "numero": "18",
+      "texto": "En pacientes críticos, los niveles bajos de albúmina se asocian con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mejor pronóstico y menor mortalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor morbilidad y peor pronóstico clínico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de cambios metabólicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de masa magra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de la permeabilidad capilar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoalbuminemia en pacientes críticos refleja inflamación sistémica y mal pronóstico clínico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué otro parámetro se utiliza junto con la albúmina para evaluar el estado proteico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transferrina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa plasmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcio sérico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La transferrina y la albúmina se usan conjuntamente para valorar el estado nutricional proteico del paciente."
+    },
+    {
+      "numero": "20",
+      "texto": "La albúmina plasmática tiene carga eléctrica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Positiva a pH fisiológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negativa a pH fisiológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neutra en cualquier pH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variable según la dieta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende de la temperatura corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "A pH fisiológico, la albúmina es una proteína aniónica, lo que contribuye a su función de transporte y unión."
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "codigo": "2.01.1.047",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome disentérico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica clínica principal del síndrome disentérico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deposiciones líquidas abundantes sin sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deposiciones con moco y sangre acompañadas de tenesmo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos sin diarrea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea acuosa sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal leve y autolimitado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome disentérico se caracteriza por diarrea con moco, sangre y tenesmo por inflamación colónica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa bacteriana más frecuente de disentería en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella spp."
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Campylobacter jejuni"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escherichia coli enterotoxigénica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Shigella es la causa bacteriana más frecuente de disentería en la infancia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico orienta a disentería por Shigella?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea acuosa sin fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deposiciones con sangre, fiebre alta y convulsiones febriles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distensión abdominal crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos aislados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Shigella produce diarrea con sangre, fiebre alta y en algunos casos convulsiones febriles."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico del síndrome disentérico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración en la absorción intestinal de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación e invasión de la mucosa del colon"
+        },
+        {
+          "opcion": "C",
+          "texto": "Producción de enterotoxinas sin invasión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteración en la motilidad intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la secreción de cloro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El daño inflamatorio por invasión bacteriana causa ulceraciones y sangre en las deposiciones."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes gérmenes causa disentería por toxina Shiga?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escherichia coli enterotoxigénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli enterohemorrágica (O157:H7)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Campylobacter jejuni"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Giardia lamblia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "E. coli enterohemorrágica produce la toxina Shiga responsable del daño vascular y colitis hemorrágica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo en el coprocultivo confirma un síndrome disentérico bacteriano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de leucocitos y hematíes fecales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de cristales de oxalato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de flora bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH fecal alcalino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasa fecal elevada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de leucocitos y hematíes en heces indica inflamación infecciosa del colon."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la complicación más temida del síndrome disentérico por E. coli O157:H7?",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "coli O157:H7?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome urémico hemolítico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia hepática aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peritonitis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "E. coli O157:H7 puede causar síndrome urémico hemolítico por acción de la toxina Shiga."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué signo clínico orienta a compromiso sistémico en disentería?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre leve y buen estado general"
+        },
+        {
+          "opcion": "B",
+          "texto": "Palidez y oliguria asociada a diarrea sanguinolenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Regurgitaciones postprandiales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heces pastosas sin sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La palidez y oliguria sugieren síndrome urémico hemolítico o deshidratación severa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué microorganismo produce disentería con posible absceso hepático secundario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Entamoeba histolytica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella sonnei"
+        },
+        {
+          "opcion": "C",
+          "texto": "E. coli enteroinvasiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Campylobacter jejuni"
+        },
+        {
+          "opcion": "E",
+          "texto": "Giardia lamblia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Entamoeba histolytica puede invadir el hígado y formar abscesos amebianos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento de elección para disentería amebiana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceftriaxona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metronidazol elimina Entamoeba histolytica en formas intestinales y hepáticas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo diferencia la disentería amebiana de la bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio brusco y fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces con sangre y sin leucocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea acuosa abundante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal cólico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tenesmo constante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la disentería amebiana hay sangre en heces pero escasos leucocitos al microscopio."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué medida es prioritaria en el manejo inicial de síndrome disentérico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos empíricos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rehidratación oral o intravenosa según grado de deshidratación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensión completa de alimentos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso inmediato de antiparasitarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de corticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La rehidratación es fundamental para prevenir complicaciones graves en diarrea disentérica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué agente causa disentería asociada a consumo de alimentos aviares contaminados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotavirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "E. coli enterotoxigénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vibrio parahaemolyticus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Salmonella enteritidis se transmite por alimentos contaminados de origen animal, causando colitis con sangre."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la indicación principal de antibióticos en disentería infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cualquier diarrea con fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disentería bacteriana severa confirmada o sospecha de Shigella"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea acuosa leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea viral con vómitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea con duración menor de 2 días"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En infecciones por Shigella se recomienda antibiótico para acortar la duración y evitar transmisión."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la prueba diagnóstica inicial en disentería pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coprocultivo y examen directo de heces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endoscopía digestiva baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de aliento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen de heces permite identificar leucocitos, hematíes y el agente causal mediante coprocultivo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica del dolor abdominal es típica en disentería?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor epigástrico sordo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor cólico hipogástrico asociado a tenesmo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor periumbilical constante sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor en hipocondrio derecho con ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor leve y difuso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor cólico hipogástrico con tenesmo es típico de inflamación colónica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes hallazgos sugiere etiología viral y no disentería bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sangre en heces"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitos fecales positivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Moco sin sangre y vómitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tenesmo intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre alta y convulsiones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El moco sin sangre y los vómitos frecuentes son más típicos de diarrea viral no disentérica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué antibiótico se recomienda de primera línea en disentería por Shigella en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metronidazol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Azitromicina es efectiva frente a Shigella y bien tolerada en pediatría."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué complicación hematológica puede aparecer en la disentería severa por E. coli O157:H7?",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "coli O157:H7?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica microangiopática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitosis con eosinofilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitosis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutropenia transitoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La toxina Shiga induce hemólisis y microangiopatía con anemia y trombocitopenia."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la medida preventiva más efectiva frente al síndrome disentérico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso rutinario de probióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavado de manos y adecuada higiene de alimentos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar consumo de fibra en niños pequeños"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso profiláctico de antibióticos en verano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación universal contra Shigella"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La higiene de manos y alimentos previene la transmisión fecal-oral de agentes disentéricos."
+    }
+  ]
+}

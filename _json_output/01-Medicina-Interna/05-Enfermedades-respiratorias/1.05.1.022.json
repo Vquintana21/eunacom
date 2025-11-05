@@ -1,0 +1,544 @@
+{
+  "codigo": "1.05.1.022",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente del resfriado común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Influenza A"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rinovirus es responsable de la mayoría de los casos de resfriado común en adultos y niños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa bacteriana más común de faringoamigdalitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes (grupo A)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moraxella catarrhalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus pyogenes es el principal agente bacteriano causante de faringoamigdalitis aguda."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes síntomas sugiere una etiología viral en la faringitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exudado purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenopatías cervicales dolorosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos y rinorrea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias en paladar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre alta sin tos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de tos y rinorrea sugiere una faringitis viral más que bacteriana."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué complicación se asocia clásicamente a la faringoamigdalitis estreptocócica no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquitis crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía intersticial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otitis serosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glomerulonefritis postestreptocócica puede presentarse semanas después de una faringitis por Streptococcus pyogenes."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento antibiótico de elección para la faringoamigdalitis estreptocócica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina con ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Penicilina benzatina o amoxicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciprofloxacino"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La penicilina o amoxicilina son el tratamiento de elección para la faringoamigdalitis estreptocócica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué virus es el principal causante de laringotraqueítis (crup) en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus parainfluenza tipo 1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus sincicial respiratorio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El virus parainfluenza tipo 1 es la causa más común del crup o laringotraqueítis viral."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes agentes causa la mononucleosis infecciosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Citomegalovirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus de Epstein-Barr"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes simple tipo 1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus Coxsackie"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El virus de Epstein-Barr es el agente etiológico clásico de la mononucleosis infecciosa."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo hematológico caracteriza la mononucleosis infecciosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfopenia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfocitos atípicos en sangre periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutrofilia con desviación a la izquierda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de linfocitos atípicos en sangre periférica es característica de la mononucleosis infecciosa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la principal complicación de la otitis media aguda no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mastoiditis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sinusitis crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquitis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Faringitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis alérgica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mastoiditis es una complicación frecuente y grave de la otitis media aguda no tratada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la causa más común de sinusitis bacteriana aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus ducreyi"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus pneumoniae es el principal agente causal de la sinusitis bacteriana aguda."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes síntomas es típico de sinusitis maxilar aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea occipital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor facial unilateral y rinorrea purulenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disfonía persistente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El dolor facial unilateral y la rinorrea purulenta son características de la sinusitis maxilar aguda."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué agente etiológico produce la difteria faríngea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus influenzae tipo B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neisseria meningitidis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La difteria es causada por Corynebacterium diphtheriae, que forma una pseudomembrana faríngea característica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la complicación sistémica más grave de la difteria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miocarditis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía intersticial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endocarditis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La miocarditis por toxina diftérica es una de las complicaciones sistémicas más graves de la enfermedad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal agente etiológico de la otitis externa bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus parainfluenzae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa es el agente más frecuente en la otitis externa bacteriana, especialmente en ambientes húmedos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué signo clínico sugiere epiglotitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos perruna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfonía leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sialorrea, estridor y posición en trípode"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinorrea acuosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sialorrea, el estridor y la posición en trípode son signos típicos de epiglotitis aguda, urgencia médica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el tratamiento inicial de elección en epiglotitis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos macrólidos y corticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona intravenosa y control de la vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amoxicilina oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aerosoles de adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilación no invasiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ceftriaxona y el control de la vía aérea son esenciales para tratar la epiglotitis bacteriana y evitar la obstrucción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué microorganismo causa la epiglotitis en la mayoría de los casos no vacunados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae tipo B"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Haemophilus influenzae tipo B es el agente causal clásico de la epiglotitis, especialmente en no vacunados."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tratamiento sintomático se recomienda en el resfriado común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antivirales orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antihistamínicos y analgésicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides inhalados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Expectorantes con codeína"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento del resfriado común es sintomático, con analgésicos, antipiréticos y antihistamínicos si hay rinorrea."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes factores favorece las infecciones de las vías respiratorias superiores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo activo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Altitud elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad física regular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en frutas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación completa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tabaquismo debilita la defensa mucociliar y favorece las infecciones respiratorias superiores recurrentes."
+    }
+  ]
+}

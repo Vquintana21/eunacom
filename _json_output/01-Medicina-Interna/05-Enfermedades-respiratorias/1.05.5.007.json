@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.5.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la indicación más común para realizar una intubación traqueal en urgencias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración del nivel de conciencia con riesgo de aspiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoespasmo leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis hipertensiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La intubación traqueal está indicada para proteger la vía aérea ante alteraciones de conciencia y riesgo de aspiración."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el tamaño de tubo endotraqueal recomendado para un adulto masculino promedio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6,0 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "6,5 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "7,0 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "7,5-8,0 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "8,5-9,0 mm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En adultos masculinos se recomienda un tubo de 7,5 a 8,0 mm de diámetro interno para asegurar ventilación eficaz."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué estructura anatómica se visualiza directamente durante la laringoscopia para guiar la intubación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epiglotis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tráquea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vocales falsas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cartílago cricoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuerdas vocales verdaderas"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Las cuerdas vocales verdaderas son el punto de referencia principal para el paso del tubo hacia la tráquea."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la posición adecuada del paciente para una intubación orotraqueal estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito lateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Posición de olfateo (sniffing position)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cabeza flexionada y cuello extendido al máximo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito prono"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cabeza en extensión total sin almohada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La posición de olfateo alinea los ejes oral, faríngeo y laríngeo, facilitando la visualización glótica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué método confirma de manera más confiable la correcta colocación del tubo endotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Condensación en el tubo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Auscultación torácica bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capnografía con forma de onda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Movimiento torácico simétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración rosada del paciente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La capnografía cuantitativa es el método más confiable para confirmar la colocación traqueal del tubo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué complicación inmediata puede presentarse si el tubo se introduce demasiado profundamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intubación esofágica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intubación endobronquial selectiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoespasmo reflejo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Laringoespasmo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si el tubo se introduce demasiado, suele ventilar solo un pulmón (usualmente el derecho), causando hipoxia unilateral."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el objetivo del inflado del neumotaponamiento (cuff) del tubo endotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fijar el tubo en la boca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar fugas aéreas y aspiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el flujo inspiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Facilitar la extubación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la presión de vía aérea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cuff evita fugas de aire y protege contra aspiración de secreciones al sellar la tráquea."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el rango de presión recomendado para el neumotaponamiento del tubo endotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5-10 cmH2O"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-15 cmH2O"
+        },
+        {
+          "opcion": "C",
+          "texto": "20-30 cmH2O"
+        },
+        {
+          "opcion": "D",
+          "texto": "35-45 cmH2O"
+        },
+        {
+          "opcion": "E",
+          "texto": "50-60 cmH2O"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una presión entre 20 y 30 cmH2O asegura el sellado sin comprometer la perfusión traqueal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué maniobra puede facilitar la visualización glótica en una intubación difícil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de Heimlich"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresión cricoidea (Sellick)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tracción mandibular anterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Flexión cervical extrema"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tracción mandibular anterior mejora la visualización al desplazar la lengua y epiglotis hacia adelante."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo clínico sugiere intubación esofágica inadvertida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Capnografía positiva sostenida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expansión torácica bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Saturación de oxígeno estable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de CO₂ espirado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sonidos respiratorios bilaterales"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ausencia de CO₂ exhalado indica colocación errónea del tubo en esófago o falla ventilatoria."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué medicación se administra frecuentemente antes de la intubación para reducir la respuesta hemodinámica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lidocaína intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epinefrina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Furosemida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lidocaína IV atenúa la respuesta simpática al laringoscopio y reduce la tos y la hipertensión transitoria."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la distancia promedio desde los incisivos hasta la carina en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "15 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "20-24 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "25-30 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "30-35 cm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La carina suele estar a 20-24 cm desde los incisivos; la profundidad del tubo debe ajustarse según este valor."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación puede aparecer a largo plazo tras intubación prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoespasmo transitorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Laringitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis subglótica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atelectasia basal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presión mantenida del cuff puede provocar daño mucoso y posterior estenosis subglótica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué estructura anatómica se evita lesionar al introducir el laringoscopio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lengua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dientes incisivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epiglotis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paladar blando"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úvula"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los incisivos superiores son vulnerables durante la inserción de la hoja del laringoscopio si se aplica demasiada fuerza."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hoja de laringoscopio se recomienda generalmente en adultos para intubación orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miller"
+        },
+        {
+          "opcion": "B",
+          "texto": "McCoy"
+        },
+        {
+          "opcion": "C",
+          "texto": "Wis-Hipple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macintosh"
+        },
+        {
+          "opcion": "E",
+          "texto": "Robertshaw"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hoja Macintosh curva es la más usada en adultos, permite levantar la epiglotis de forma indirecta."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué dispositivo permite ventilación temporal antes o durante una intubación difícil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máscara laríngea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cánula orofaríngea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tubo T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bolsa autoinflable sin válvula"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nebulizador"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La máscara laríngea permite ventilación eficaz temporal en casos de intubación complicada o fallida."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué maniobra se realiza para prevenir la regurgitación durante la intubación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de Sellick"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maniobra de Valsalva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Heimlich"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maniobra de Epley"
+        },
+        {
+          "opcion": "E",
+          "texto": "Maniobra de Jaw thrust"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La maniobra de Sellick consiste en comprimir el cartílago cricoides para ocluir el esófago y evitar regurgitación."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro se evalúa inmediatamente después de intubar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Saturación de oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Posición del tubo y ventilación bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frecuencia cardíaca"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se verifica la posición del tubo mediante auscultación y visualización de expansión torácica bilateral."
+    },
+    {
+      "numero": "19",
+      "texto": "Durante la intubación, ¿qué acción es incorrecta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alinear los ejes orales y laríngeos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar tracción hacia arriba y adelante del laringoscopio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotar el tubo para pasarlo por las cuerdas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar el laringoscopio como palanca sobre los dientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Comprobar el inflado del cuff antes de usarlo"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Nunca debe usarse el laringoscopio como palanca, ya que puede fracturar piezas dentales o lesionar tejidos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué acción debe realizarse antes de proceder a la intubación en un paciente consciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperventilarlo con oxígeno al 100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar un relajante muscular sin sedación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocarlo en posición lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retirar secreciones nasales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suministrar atropina sublingual"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La preoxigenación con O₂ al 100% previene la hipoxemia durante la apnea de la intubación."
+    }
+  ]
+}

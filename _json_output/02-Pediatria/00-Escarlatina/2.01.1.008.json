@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.008",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Escarlatina",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico responsable de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes del grupo A"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae tipo b"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La escarlatina es causada por Streptococcus pyogenes del grupo A productor de toxina eritrogénica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica clínica distingue la escarlatina de otras faringoamigdalitis estreptocócicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exantema micropapular difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Odinofagia intensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatía cervical dolorosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exantema característico tipo 'papel de lija' diferencia la escarlatina de otras faringitis estreptocócicas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el período de incubación habitual de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 a 12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 a 2 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 a 5 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "7 a 10 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 a 15 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El período de incubación suele ser de 2 a 5 días tras la exposición al estreptococo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cómo se describe el exantema típico de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas confluyentes con descamación fina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones vesiculares en tronco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema micropapular que acentúa pliegues"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones pustulosas con costras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Petequias generalizadas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exantema es eritematoso, micropapular y con acentuación en pliegues (líneas de Pastia)."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo lingual es característico en escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lengua blanca con saburra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lengua geográfica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lengua aframbuesada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lengua con fisuras profundas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lengua pálida y seca"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lengua aframbuesada aparece tras el desprendimiento de la saburra inicial blanca."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo cutáneo aparece al presionar el exantema de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de Nikolsky"
+        },
+        {
+          "opcion": "B",
+          "texto": "Blanqueamiento transitorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración violácea persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desprendimiento epidérmico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exantema escarlatiniforme se blanquea a la presión, característica de la erupción eritematosa difusa."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo clínico es típico en las líneas de Pastia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperpigmentación postinflamatoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exantema que respeta pliegues cutáneos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema más intenso en pliegues flexurales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias en extremidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vesículas en tronco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las líneas de Pastia son zonas de eritema más intenso en pliegues cutáneos, como axilas e ingles."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el tratamiento antibiótico de elección para la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Azitromicina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Penicilina benzatina o fenoximetilpenicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clindamicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La penicilina es el tratamiento de elección, efectiva contra Streptococcus pyogenes."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación no supurativa puede aparecer tras una escarlatina no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Absceso periamigdalino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sinusitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Celulitis facial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glomerulonefritis postestreptocócica es una complicación inmunológica tardía de la infección estreptocócica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la forma de transmisión de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto fecal-oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aerosoles de secreciones respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Picaduras de insectos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transmisión vertical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua contaminada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se transmite por gotas respiratorias procedentes de pacientes infectados o portadores."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué manifestación ocurre en la fase de descamación de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones hemorrágicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descamación fina iniciando en cara y cuello"
+        },
+        {
+          "opcion": "C",
+          "texto": "Costras gruesas purulentas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ampollas con contenido seroso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ulceraciones profundas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La descamación ocurre 1 a 2 semanas después del exantema, comenzando en cara y cuello."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué característica del exantema ayuda a diferenciarlo del sarampión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distribución centrípeta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afecta palmas y plantas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aparición temprana en cuello y tronco superior"
+        },
+        {
+          "opcion": "D",
+          "texto": "No presenta enantema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema pruriginoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En escarlatina, el exantema aparece primero en cuello y tronco superior, a diferencia del sarampión."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo en la orofaringe es característico de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amígdalas con exudado purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones ulceradas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Paladar blando eritematoso con líneas pálidas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paladar con petequias hemorrágicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vesículas palatinas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La faringoamigdalitis con exudado purulento es común en escarlatina estreptocócica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la edad más frecuente de presentación de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 1 año"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 a 3 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 a 15 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayores de 18 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adultos mayores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La escarlatina afecta principalmente a niños en edad escolar entre 5 y 15 años."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación puede aparecer por diseminación local del estreptococo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre reumática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glomerulonefritis postinfecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otitis media o absceso periamigdalino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artritis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema nodoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones locales pueden extenderse a oído medio o tejidos periamigdalinos generando abscesos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el principal diagnóstico diferencial de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mononucleosis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rubéola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sarampión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exantema súbito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Faringitis viral no estreptocócica"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Debe diferenciarse de faringitis virales, que carecen de exantema escarlatiniforme y lengua aframbuesada."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio confirma la etiología estreptocócica de la escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR para Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test rápido de antígeno estreptocócico o cultivo faríngeo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Serología ASO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de orina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El test rápido de antígeno o el cultivo faríngeo confirman la infección por Streptococcus pyogenes."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué complicación inmunológica tardía está relacionada con la escarlatina no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre reumática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis autoinmune"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia inmune"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalitis postinfecciosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fiebre reumática es una complicación inmunológica postestreptocócica prevenible con tratamiento antibiótico precoz."
+    },
+    {
+      "numero": "19",
+      "texto": "Tras iniciar antibióticos, ¿cuánto tiempo debe permanecer aislado el paciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "48 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "72 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Una semana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Después de 24 horas de antibióticos adecuados, el paciente deja de ser contagioso."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes signos puede aparecer en la fase inicial de escarlatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cara pálida con rubor peribucal (signo de Filatov)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritema nodoso en piernas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exantema petequial en palmas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis labial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Urticaria difusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Filatov es característico: palidez peribucal con rubor facial en escarlatina."
+    }
+  ]
+}

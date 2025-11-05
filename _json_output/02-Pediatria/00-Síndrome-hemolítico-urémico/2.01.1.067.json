@@ -1,0 +1,576 @@
+{
+  "codigo": "2.01.1.067",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome hemolítico urémico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la tríada clásica del síndrome hemolítico urémico típico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia, leucocitosis y trombocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia hemolítica, trombocitopenia y falla renal aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia microcítica, fiebre y hematuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteinuria, hematuria y edema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre, leucocitosis y esplenomegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada clásica incluye anemia hemolítica microangiopática, trombocitopenia y falla renal aguda."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente del síndrome hemolítico urémico típico en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella dysenteriae tipo 1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli productora de toxina Shiga (O157:H7)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Campylobacter jejuni"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SHU típico es causado por E. coli productora de toxina Shiga, especialmente la cepa O157:H7."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué antecedente clínico suele preceder al SHU típico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Faringoamigdalitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea sanguinolenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exantema viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SHU típico suele presentarse tras un cuadro de diarrea sanguinolenta por E. coli O157:H7."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes hallazgos de laboratorio es característico del SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coombs directo positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esquistocitos en frotis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia microcítica hipocrómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de protrombina prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los esquistocitos en el frotis son típicos de la hemólisis microangiopática del SHU."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo renal caracteriza al SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematuria aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteinuria leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla renal aguda oligoanúrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nefropatía intersticial crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomerulonefritis proliferativa difusa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SHU produce daño glomerular severo con falla renal aguda oligoanúrica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué examen permite confirmar la presencia de hemólisis intravascular en SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de bilirrubina directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de LDH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de haptoglobina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de LDH y descenso de haptoglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del recuento plaquetario"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hemólisis intravascular se asocia con LDH elevada y haptoglobina baja."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la principal causa de muerte en el SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia digestiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Encefalopatía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección secundaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La principal causa de muerte es la insuficiencia renal aguda severa."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tratamiento está contraindicado en SHU asociado a E. coli O157:H7?",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "coli O157:H7?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Diálisis peritoneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transfusión de glóbulos rojos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soporte hídrico controlado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de hemoderivados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antibióticos pueden aumentar la liberación de toxina Shiga y empeorar el cuadro."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué porcentaje de los casos de SHU son del tipo típico posdiarreico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20%"
+        },
+        {
+          "opcion": "B",
+          "texto": "40%"
+        },
+        {
+          "opcion": "C",
+          "texto": "60%"
+        },
+        {
+          "opcion": "D",
+          "texto": "90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Aproximadamente el 90% de los casos de SHU son del tipo típico asociado a diarrea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el agente causal del SHU atípico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toxina Shiga de E. coli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto en la regulación del complemento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre tifoidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis A"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SHU atípico se debe a defectos genéticos en la regulación del complemento."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes hallazgos no corresponde al SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica microangiopática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión crónica aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esquistocitos en frotis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hipertensión puede aparecer, pero no es característica ni aislada del SHU."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo hematológico es común en el SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia normocítica con esquistocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia microcítica ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Policitemia secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis con eosinofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anemia hemolítica microangiopática produce esquistocitos en el frotis."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el manejo inicial del SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposición hídrica y control de presión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticosteroides intravenosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plasmaféresis inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heparinización profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial es de soporte: reposición hídrica cuidadosa y control de la presión arterial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué manifestación neurológica puede observarse en SHU severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones y coma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parálisis flácida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mielitis transversa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neuritis óptica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ataxia cerebelosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El compromiso neurológico grave incluye convulsiones, somnolencia o coma."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la forma de prevención más eficaz del SHU típico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación universal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocción adecuada de alimentos y lavado de manos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Profilaxis antibiótica en brotes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hervir la leche cruda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de probióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control sanitario de alimentos y la higiene son las medidas más efectivas de prevención."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica diferencia el SHU atípico del típico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de diarrea sanguinolenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio tras infección respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recurrencia y mal pronóstico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respuesta a antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afectación hepática predominante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SHU atípico tiende a ser recurrente y de peor pronóstico por alteraciones del complemento."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo urinario se observa en el SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosuria aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piuria estéril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria y proteinuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cilindros grasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Urobilinógeno aumentado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lesión glomerular produce hematuria y proteinuria moderada a severa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tratamiento específico puede indicarse en SHU atípico por disfunción del complemento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eculizumab"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciclosporina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasma fresco congelado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Eculizumab, inhibidor del complemento C5, es el tratamiento de elección en SHU atípico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación renal a largo plazo del SHU?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nefritis intersticial aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrítico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión y enfermedad renal crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Litiasis renal recurrente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SHU puede dejar secuelas de hipertensión y enfermedad renal crónica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué alteración hematológica define la hemólisis microangiopática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anisocitosis sin reticulocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esquistocitos y aumento de reticulocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrocitosis y leucocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia normocrómica con neutrofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de células en lágrima"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los esquistocitos y el aumento de reticulocitos son signos de hemólisis microangiopática."
+    }
+  ]
+}

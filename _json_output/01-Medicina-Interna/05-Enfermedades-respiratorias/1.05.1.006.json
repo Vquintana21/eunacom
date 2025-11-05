@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define clínicamente la bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos con expectoración durante al menos 3 meses al año por 2 años consecutivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación bronquial de menos de 3 semanas de duración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción reversible de las vías respiratorias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca intermitente sin expectoración"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inflamación alveolar aguda por virus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La bronquitis crónica se define por tos productiva por al menos 3 meses al año durante 2 años consecutivos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa principal de bronquitis crónica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones bacterianas recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición prolongada al humo del tabaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminación por ozono"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergias respiratorias no tratadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de alfa-1 antitripsina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo es el principal factor etiológico de bronquitis crónica al inducir daño inflamatorio en la mucosa bronquial."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué caracteriza la fisiopatología de la bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción alveolar difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperplasia de glándulas mucosas y aumento de secreción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoconstricción reversible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis intersticial difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción del flujo sanguíneo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se produce hiperplasia de glándulas mucosas y aumento de la secreción, lo que estrecha la luz bronquial."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué células predominan en la inflamación bronquial crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfocitos T CD8 y neutrófilos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinófilos y mastocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrófagos alveolares exclusivamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfocitos B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células NK"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La inflamación crónica en bronquitis está mediada por neutrófilos y linfocitos T CD8, típicos de la EPOC."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo funcional es característico en la espirometría de bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Patrón restrictivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón obstructivo con FEV1/FVC disminuido"
+        },
+        {
+          "opcion": "C",
+          "texto": "FEV1 normal y FVC baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "FEV1 elevado con hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Capacidad vital normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquitis crónica muestra patrón obstructivo con disminución del cociente FEV1/FVC por obstrucción al flujo aéreo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo clínico es más característico del paciente con bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca matutina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos productiva crónica con esputo mucopurulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea súbita sin tos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis periférica sin tos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sibilancias únicamente nocturnas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos productiva persistente con esputo mucopurulento es la manifestación cardinal de la bronquitis crónica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es una complicación frecuente de la bronquitis crónica avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cor pulmonale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neoplasia pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis intersticial difusa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cor pulmonale es una complicación de la bronquitis crónica por hipertensión pulmonar secundaria a hipoxia crónica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo auscultatorio es típico en bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estertores crepitantes finos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Roncus y sibilancias difusas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Silencio respiratorio unilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo tubárico localizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frote pleural"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los roncus y sibilancias difusas son comunes por la presencia de secreciones y estrechamiento bronquial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué microorganismo se asocia con exacerbaciones frecuentes en bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydia trachomatis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Haemophilus influenzae coloniza las vías respiratorias y provoca exacerbaciones infecciosas en bronquitis crónica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medida terapéutica es fundamental para frenar la progresión de la bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso diario de antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspensión definitiva del tabaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides orales continuos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxigenoterapia transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nebulizaciones con mucolíticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cese del tabaquismo es la intervención más efectiva para detener la progresión de la bronquitis crónica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de esputo es característico en el paciente con bronquitis crónica estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seroso transparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mucoso o mucopurulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptoico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espumoso rosado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Purulento verdoso constante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esputo mucoso o mucopurulento refleja hipersecreción sin infección aguda activa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo radiológico puede observarse en la bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperinsuflación pulmonar y engrosamiento peribronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados alveolares focales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consolidación lobar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colapso segmentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulos pulmonares múltiples"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La radiografía muestra hiperinsuflación y engrosamiento peribronquial debido a inflamación y secreciones crónicas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué patrón gasométrico es típico en la bronquitis crónica avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia con hipercapnia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia con hipocapnia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normoxia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis metabólica aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis respiratoria compensada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la bronquitis crónica avanzada hay hipoxemia e hipercapnia por alteración del intercambio gaseoso."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo físico caracteriza al fenotipo de bronquitis crónica dentro de la EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes delgados con tórax en tonel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes cianóticos y obesos (“blue bloater”)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertransparencia pulmonar marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de sibilancias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperventilación compensadora"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El paciente con bronquitis crónica suele ser obeso y cianótico, conocido como “blue bloater”."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo de laboratorio puede acompañar la bronquitis crónica hipoxémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia normocítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Poliglobulia secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfopenia marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eosinofilia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxemia crónica estimula la eritropoyesis, generando poliglobulia compensatoria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el objetivo del tratamiento broncodilatador en la bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminar el moco bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejorar el flujo aéreo y reducir la disnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Curar la inflamación bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la producción de eritropoyetina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la sensibilidad al CO2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los broncodilatadores alivian la obstrucción al flujo aéreo, reducen la disnea y mejoran la tolerancia al ejercicio."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el tratamiento de elección en exacerbaciones infecciosas de bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos, broncodilatadores y fisioterapia respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides orales prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mucolíticos sin antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxígeno a altas dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antihistamínicos orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las exacerbaciones requieren antibióticos, broncodilatadores y fisioterapia para eliminar secreciones y controlar la infección."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué antibióticos se recomiendan con mayor frecuencia en exacerbaciones moderadas de bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macrólidos o aminopenicilinas con inhibidor de betalactamasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalosporinas de cuarta generación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tetraciclinas en monoterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbapenémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antivirales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Macrólidos y aminopenicilinas con inhibidor de betalactamasa cubren los principales patógenos respiratorios como H. influenzae."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué intervención reduce la mortalidad en pacientes con bronquitis crónica e hipoxemia crónica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenoterapia domiciliaria prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso diario de corticoides orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cese del ejercicio físico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatadores de acción corta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La oxigenoterapia domiciliaria prolongada mejora la supervivencia y reduce la hipertensión pulmonar en pacientes hipoxémicos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro clínico debe monitorizarse regularmente en pacientes con bronquitis crónica avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saturación de oxígeno y gasometría arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión arterial sistólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nivel de glucosa sérica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frecuencia cardiaca basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma diario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control de la oxigenación mediante oximetría y gasometría es esencial en bronquitis crónica avanzada para prevenir hipoxemia."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.086",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos del lenguaje",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por trastorno del lenguaje en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración transitoria de la pronunciación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso global del desarrollo psicomotor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración persistente en la adquisición y uso del lenguaje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno del espectro autista"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dificultad secundaria a déficit auditivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los trastornos del lenguaje son alteraciones persistentes en la comprensión o expresión del lenguaje sin causa sensorial o intelectual."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el tipo más frecuente de trastorno del lenguaje en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno fonológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno del lenguaje expresivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno receptivo-expresivo mixto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disartria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afasia adquirida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El trastorno fonológico, caracterizado por errores en la articulación de sonidos, es el más común en edad preescolar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué área cerebral está principalmente afectada en la afasia de Broca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulo temporal izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Área motora suplementaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lóbulo frontal inferior izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corteza occipital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tálamo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El área de Broca, en el lóbulo frontal inferior izquierdo, se asocia con la producción del lenguaje."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes corresponde a un trastorno del lenguaje expresivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Comprende órdenes pero no logra expresar ideas con claridad"
+        },
+        {
+          "opcion": "B",
+          "texto": "No comprende instrucciones simples"
+        },
+        {
+          "opcion": "C",
+          "texto": "No articula sonidos específicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "No responde al nombre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presenta ecolalia persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el trastorno del lenguaje expresivo, la comprensión es normal pero la expresión verbal está limitada o desorganizada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué trastorno del lenguaje se caracteriza por dificultad en comprender el significado de palabras y frases?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno expresivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno fonológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno receptivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislalia funcional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tartamudez"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trastorno receptivo implica alteraciones en la comprensión del lenguaje hablado o escrito."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué causa orgánica puede originar un trastorno del lenguaje secundario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno del desarrollo del habla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoacusia neurosensorial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno fonológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislalia evolutiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retraso del lenguaje simple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoacusia neurosensorial impide una adecuada percepción del lenguaje, generando un trastorno secundario."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué característica distingue la dislalia funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida del lenguaje previamente adquirido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dificultad para articular fonemas sin causa orgánica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso global del desarrollo intelectual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia completa de habla"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lenguaje excesivamente elaborado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dislalia funcional se debe a errores articulatorios sin lesiones neurológicas o auditivas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué factor ambiental se asocia con mayor riesgo de trastornos del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta estimulación temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición prolongada a pantallas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bilingüismo en casa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Educación inicial precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambiente comunicativo activo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La exposición excesiva a pantallas reduce la interacción comunicativa, afectando el desarrollo del lenguaje."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba se utiliza para evaluar lenguaje en niños pequeños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de Denver II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala WISC-V"
+        },
+        {
+          "opcion": "C",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Bender"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Conners"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El test de Denver II permite evaluar hitos del desarrollo, incluyendo la comunicación y lenguaje."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo es típico del trastorno fonológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje pobre con comprensión alterada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Omisión o sustitución sistemática de sonidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia total de habla"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rechazo a comunicarse verbalmente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lenguaje repetitivo estereotipado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trastorno fonológico se manifiesta por errores sistemáticos en la articulación de sonidos sin déficit intelectual."
+    },
+    {
+      "numero": "11",
+      "texto": "¿A qué edad debe esperarse que un niño forme frases simples de dos palabras?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "24 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "30 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "36 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "A los 24 meses los niños suelen combinar dos palabras formando frases simples con significado."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué diferencia al mutismo selectivo de otros trastornos del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Origen neurológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afecta comprensión y expresión global"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiene causa emocional o ansiosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se asocia con disartria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Impide toda forma de comunicación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El mutismo selectivo es un trastorno ansioso en que el niño habla en algunos contextos pero no en otros."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal herramienta terapéutica en los trastornos del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fármacos neuromoduladores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia fonoaudiológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Psicoterapia psicoanalítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Educación especial exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia conductual intensiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia fonoaudiológica es fundamental para estimular la articulación, comprensión y expresión del lenguaje."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo orienta a un trastorno del lenguaje receptivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dificultad para nombrar objetos conocidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "No responder a su nombre pese a audición normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Habla rápida y confusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tono de voz monótono"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lenguaje ecolálico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de respuesta al nombre indica alteración en la comprensión del lenguaje auditivo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué trastorno presenta interrupciones o bloqueos en el flujo del habla?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dislalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disartria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tartamudez"
+        },
+        {
+          "opcion": "D",
+          "texto": "Afasia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutismo selectivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tartamudez o disfemia se caracteriza por bloqueos o repeticiones que interrumpen la fluidez del habla."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué signo temprano alerta sobre un posible trastorno del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de balbuceo a los 9 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de pocas palabras a los 2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Habla nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dificultad para pronunciar la 'r'"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lenguaje gestual exagerado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ausencia de balbuceo antes del año sugiere alteración en el desarrollo temprano del lenguaje."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué trastorno del lenguaje se asocia a lesiones cerebrales adquiridas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dislalia evolutiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno fonológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Afasia infantil adquirida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mutismo selectivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tartamudez"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La afasia infantil adquirida aparece tras daño cerebral postnatal y afecta comprensión y expresión del lenguaje."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes factores se asocia a mejor pronóstico en trastornos del lenguaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio de intervención antes de los 3 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de tratamiento fonoaudiológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Comorbilidad con TDAH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit auditivo persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento social"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La detección e intervención precoz antes de los 3 años mejora significativamente el pronóstico lingüístico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué trastorno cursa con dificultad en la planificación motora del habla?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apraxia del habla infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dislalia funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mutismo selectivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno fonológico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La apraxia del habla infantil se caracteriza por dificultad para coordinar los movimientos necesarios para hablar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué comorbilidad es frecuente en los trastornos del lenguaje severos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno del espectro autista"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad infantil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit visual leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno del sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los trastornos severos del lenguaje suelen coexistir con el espectro autista por alteraciones en la comunicación social."
+    }
+  ]
+}

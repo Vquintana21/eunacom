@@ -1,0 +1,600 @@
+{
+  "codigo": "1.04.3.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la medida más efectiva para prevenir infecciones hospitalarias en general?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de guantes estériles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desinfección de superficies"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado de manos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento respiratorio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El lavado de manos es la medida más efectiva y universal para prevenir infecciones hospitalarias en todos los niveles de atención."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué microorganismo es una causa frecuente de infección asociada a catéter venoso central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus, especialmente el resistente a meticilina, es una causa común de infecciones relacionadas con catéteres."
+    },
+    {
+      "numero": "3",
+      "texto": "El uso prolongado de antibióticos de amplio espectro favorece la aparición de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección por Clostridioides difficile"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección fúngica cutánea leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso indiscriminado de antibióticos altera la flora intestinal y favorece la proliferación de Clostridioides difficile."
+    },
+    {
+      "numero": "4",
+      "texto": "La principal vía de transmisión de infecciones nosocomiales entre pacientes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aire acondicionado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agua de red"
+        },
+        {
+          "opcion": "C",
+          "texto": "Manos del personal sanitario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Instrumental quirúrgico estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transfusión de sangre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las manos del personal sanitario son el principal vehículo de transmisión cruzada en hospitales."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de las siguientes medidas previene la neumonía asociada a ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso rutinario de antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito supino prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Higiene bucal con clorhexidina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación continua profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de humidificadores abiertos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La higiene bucal con clorhexidina reduce la colonización orofaríngea y previene neumonía asociada a ventilación mecánica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de precaución se aplica a todos los pacientes hospitalizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precauciones por contacto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Precauciones estándar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Precauciones por gotas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento respiratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento protector"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las precauciones estándar se aplican a todos los pacientes, independientemente de su diagnóstico o estado infeccioso."
+    },
+    {
+      "numero": "7",
+      "texto": "En el manejo de un paciente con Clostridioides difficile, la medida de aislamiento adecuada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precauciones por gotas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento respiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Precauciones de contacto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Precauciones aéreas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento protector"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Clostridioides difficile se transmite por esporas resistentes; requiere precauciones de contacto y lavado de manos con agua y jabón."
+    },
+    {
+      "numero": "8",
+      "texto": "El uso de guantes debe acompañarse siempre de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambio de guantes entre pacientes y lavado de manos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de doble guante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desinfección con alcohol tras retirarlos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso continuo durante toda la jornada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lavado de manos solo al final del turno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los guantes no reemplazan la higiene de manos; deben cambiarse entre pacientes y realizar lavado posterior."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la medida más efectiva para prevenir infecciones urinarias asociadas a catéter vesical?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso prolongado del catéter"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio diario del catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocación solo cuando sea estrictamente necesario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lavado vesical rutinario"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Evitar la colocación innecesaria y retirar el catéter tan pronto como sea posible reduce las infecciones urinarias asociadas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes patógenos se asocia a infecciones hospitalarias multirresistentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli sensible"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acinetobacter baumannii"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neisseria meningitidis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Acinetobacter baumannii es una causa frecuente de infecciones nosocomiales multirresistentes en UCI."
+    },
+    {
+      "numero": "11",
+      "texto": "El uso de antibióticos profilácticos en cirugía debe limitarse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Todo tipo de cirugía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cirugías limpias menores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirugías con riesgo de contaminación o prótesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugías ambulatorias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugías de urgencia exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La profilaxis antibiótica se indica solo en cirugías con riesgo de contaminación o con material protésico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de aislamiento requiere un paciente con tuberculosis pulmonar activa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precauciones por contacto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Precauciones por gotas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Precauciones aéreas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento protector"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento mixto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis pulmonar se transmite por aerosoles, por lo que requiere precauciones de tipo aéreo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué elemento del equipo de protección personal se usa en precauciones aéreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mascarilla quirúrgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mascarilla N95 o FFP2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bata desechable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Guantes estériles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gorro quirúrgico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las precauciones aéreas requieren mascarillas N95 o equivalentes para filtrar partículas respiratorias pequeñas."
+    },
+    {
+      "numero": "14",
+      "texto": "Para prevenir infecciones quirúrgicas, la profilaxis antibiótica debe administrarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Después del cierre de la herida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una hora antes de la incisión quirúrgica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante la anestesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Al finalizar la cirugía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tres horas antes de la intervención"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La profilaxis antibiótica preoperatoria debe administrarse dentro de la hora previa a la incisión quirúrgica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué microorganismo se asocia típicamente a neumonía asociada a ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Legionella pneumophila"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Pseudomonas aeruginosa es un patógeno frecuente en neumonía asociada a ventilador en pacientes hospitalizados."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el objetivo principal de los comités de infecciones intrahospitalarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antibióticos a todos los pacientes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supervisar limpieza de habitaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vigilar, prevenir y controlar infecciones hospitalarias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reemplazar a los médicos tratantes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar calidad del instrumental médico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los comités de infecciones hospitalarias se encargan de vigilar y prevenir infecciones nosocomiales mediante políticas institucionales."
+    },
+    {
+      "numero": "17",
+      "texto": "El uso de soluciones alcohólicas para higiene de manos está indicado cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Las manos estén visiblemente sucias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre el contacto con distintos pacientes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante procedimientos quirúrgicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo al final del turno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de usar guantes estériles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las soluciones alcohólicas son efectivas entre contactos con pacientes si las manos no están visiblemente contaminadas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida previene infecciones asociadas a hemodiálisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de heparina profiláctica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desinfección de conexiones con clorhexidina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso prolongado de los filtros"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos sistémicos continuos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambio semanal del acceso vascular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desinfección con clorhexidina y la manipulación aséptica de conexiones previenen infecciones en hemodiálisis."
+    },
+    {
+      "numero": "19",
+      "texto": "En relación con las precauciones por gotas, la distancia mínima recomendada entre pacientes es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0,5 metros"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 metro"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 metros"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 metros"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 metros"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las precauciones por gotas requieren al menos 1 metro de distancia para evitar la transmisión de patógenos respiratorios."
+    },
+    {
+      "numero": "20",
+      "texto": "El uso adecuado de antibióticos en hospitales forma parte de la estrategia de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevención de resistencia bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de costos hospitalarios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control de infecciones virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminación de flora bacteriana normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aceleración del alta hospitalaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso racional de antibióticos previene la selección de cepas resistentes y la diseminación de infecciones nosocomiales."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué acción reduce el riesgo de infección en procedimientos quirúrgicos prolongados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar dosis de antibiótico cada 4 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reaplicación intraoperatoria de antibiótico si la cirugía dura más de 4 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cambio de guantes cada 2 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento del quirófano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reaplicación postoperatoria cada 12 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reaplicación de antibiótico durante cirugías prolongadas mantiene niveles séricos adecuados y previene infecciones del sitio quirúrgico."
+    }
+  ]
+}

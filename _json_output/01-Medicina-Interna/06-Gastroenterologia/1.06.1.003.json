@@ -1,0 +1,572 @@
+{
+  "codigo": "1.06.1.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Gastroenterologia",
+  "subcategoria_id": "06",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo histológico más frecuente del cáncer de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma escamoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinosarcoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma de células pequeñas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El adenocarcinoma representa más del 90% de los casos de cáncer de vesícula biliar."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo para cáncer de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colelitiasis crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colangitis esclerosante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en grasas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colelitiasis crónica está presente en más del 80% de los casos de cáncer vesicular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué lesión precursora se asocia al desarrollo de cáncer de vesícula?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pólipo vesicular >1 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste de colédoco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Divertículo duodenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenoma hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangitis piógena"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los pólipos vesiculares mayores de 1 cm se asocian con alto riesgo de malignización."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tipo histológico más frecuente del colangiocarcinoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma escamoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinosarcoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma adenoescamoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El colangiocarcinoma es típicamente un adenocarcinoma originado en el epitelio de los conductos biliares."
+    },
+    {
+      "numero": "5",
+      "texto": "¿En qué segmento del árbol biliar se localiza con mayor frecuencia el colangiocarcinoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hilio hepático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colédoco distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intrahepático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conducto cístico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ampolla de Vater"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El colangiocarcinoma perihiliar o tumor de Klatskin es el más frecuente."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico es característico del cáncer de vías biliares extrahepáticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia progresiva indolora"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor epigástrico irradiado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prurito sin ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematemesis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ictericia progresiva e indolora es el signo más frecuente por obstrucción biliar tumoral."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué marcador tumoral se utiliza en el seguimiento del colangiocarcinoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CA 19-9"
+        },
+        {
+          "opcion": "B",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "C",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "D",
+          "texto": "CA 125"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA 15-3"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El CA 19-9 se eleva en colangiocarcinoma y puede utilizarse para seguimiento y control de respuesta."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué estudio de imagen es más útil para estadificación de cáncer de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TAC con contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colangiorresonancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET-CT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía simple"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tomografía computarizada con contraste permite evaluar extensión local, regional y metastásica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué signo ecográfico sugiere carcinoma vesicular avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento difuso de pared"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa que reemplaza la vesícula"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de lodo biliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pólipo menor a 5 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenomiomatosis focal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una masa que sustituye la vesícula biliar indica enfermedad avanzada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué estructura suele invadir primero el cáncer de vesícula?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colédoco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duodeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colon transverso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hígado adyacente es el primer órgano invadido por contigüidad debido a su proximidad anatómica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué alteración anatómica congénita aumenta el riesgo de colangiocarcinoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quiste de colédoco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Divertículo duodenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Páncreas anular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vesícula doble"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ductos biliares aberrantes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los quistes de colédoco predisponen al desarrollo de colangiocarcinoma por estasis y displasia crónica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tratamiento es potencialmente curativo en cáncer de vesícula biliar temprano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colecistectomía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colecistectomía radical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quimioterapia adyuvante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolización hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colecistectomía radical, con resección hepática segmentaria y linfadenectomía, ofrece potencial curativo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué procedimiento paliativo se utiliza en colangiocarcinoma no resecable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocación de stent biliar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colecistectomía laparoscópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esplenectomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatectomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastrectomía parcial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La colocación de stent biliar alivia la ictericia y mejora la calidad de vida en casos no resecables."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué manifestación clínica puede sugerir cáncer de vesícula biliar avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia y pérdida de peso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dispepsia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flatulencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor postprandial ocasional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Náuseas intermitentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Ictericia y pérdida de peso indican invasión del árbol biliar o metástasis hepáticas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo histológico indica mejor pronóstico en cáncer vesicular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invasión mucosa limitada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afectación serosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltración hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compromiso linfático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perforación vesicular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad confinada a la mucosa tiene mejor pronóstico, con supervivencias cercanas al 90%."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de colangiocarcinoma tiene peor pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perihiliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intrahepático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quístico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papilar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El colangiocarcinoma intrahepático suele diagnosticarse en etapas avanzadas y tiene peor pronóstico global."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la vía de diseminación más común del cáncer de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritoneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Canalicular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diseminación linfática es la ruta más común, afectando ganglios hepáticos y císticos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué población presenta mayor incidencia de cáncer de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres chilenas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hombres japoneses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Europeos del norte"
+        },
+        {
+          "opcion": "D",
+          "texto": "Afroamericanos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Población escandinava"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Chile, especialmente mujeres del sur, tiene una de las incidencias más altas a nivel mundial."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué técnica de imagen es más útil para evaluar extensión biliar del colangiocarcinoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colangiorresonancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC simple"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangiografía percutánea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La colangiorresonancia permite definir con precisión la extensión del tumor en el árbol biliar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo histológico define carcinoma in situ de vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afectación de mucosa sin invasión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Invasión de muscular propia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compromiso seroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infiltración hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afectación linfática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El carcinoma in situ está limitado al epitelio mucoso sin invadir la muscular propia."
+    }
+  ]
+}

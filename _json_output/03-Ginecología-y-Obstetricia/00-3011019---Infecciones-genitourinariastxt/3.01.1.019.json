@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.019",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.019 - Infecciones genitourinarias.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente causal más frecuente de la cistitis aguda en mujeres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteus mirabilis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Escherichia coli es responsable de aproximadamente el 70-90% de los casos de cistitis aguda en mujeres."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma más característico de la cistitis aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor lumbar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Poliuria nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria macroscópica persistente"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La disuria es el síntoma cardinal de la cistitis, frecuentemente acompañada de urgencia y polaquiuria."
+    },
+    {
+      "numero": "3",
+      "texto": "El tratamiento empírico de elección para cistitis no complicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nitrofurantoína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amikacina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Claritromicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La nitrofurantoína es el tratamiento empírico recomendado en cistitis no complicada por su alta eficacia y baja resistencia."
+    },
+    {
+      "numero": "4",
+      "texto": "La bacteriuria asintomática debe tratarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres posmenopáusicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varones adultos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con diabetes sin síntomas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niños sanos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En embarazadas se debe tratar la bacteriuria asintomática porque aumenta el riesgo de pielonefritis y complicaciones obstétricas."
+    },
+    {
+      "numero": "5",
+      "texto": "El hallazgo clínico más sugestivo de pielonefritis aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Poliuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disuria leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta con dolor lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria microscópica aislada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fiebre con dolor en fosa lumbar y puño percusión positiva son característicos de pielonefritis aguda."
+    },
+    {
+      "numero": "6",
+      "texto": "En embarazo, el antibiótico de elección para ITU baja no complicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trimetoprim-sulfametoxazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nitrofurantoína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doxiciclina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La nitrofurantoína es segura en la mayoría del embarazo (excepto en el primer trimestre avanzado y cerca del parto)."
+    },
+    {
+      "numero": "7",
+      "texto": "El diagnóstico de vaginosis bacteriana se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlceras dolorosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitos abundantes en orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Criterios de Amsel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo de E. coli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Papanicolaou"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vaginosis bacteriana se diagnostica clínicamente con los criterios de Amsel o mediante puntuación de Nugent."
+    },
+    {
+      "numero": "8",
+      "texto": "El agente más común de vulvovaginitis candidiásica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspergillus fumigatus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trichomonas vaginalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de los casos de vulvovaginitis por hongos son producidos por Candida albicans."
+    },
+    {
+      "numero": "9",
+      "texto": "El flujo espumoso verde-amarillento y prurito intenso son típicos de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candidiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tricomoniasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vaginosis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes genital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sífilis secundaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tricomoniasis se manifiesta con flujo espumoso amarillo-verdoso, mal olor y prurito vaginal."
+    },
+    {
+      "numero": "10",
+      "texto": "En la cistitis recurrente, una medida profiláctica recomendada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso rutinario de antibióticos IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de ingesta de líquidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ducha vaginal frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar relaciones sexuales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de corticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de ingesta de líquidos reduce recurrencias de ITU al promover el aclaramiento bacteriano."
+    },
+    {
+      "numero": "11",
+      "texto": "La complicación más grave de la pielonefritis en el embarazo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cistitis hemorrágica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candidiasis vaginal recurrente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cálculos renales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pielonefritis en el embarazo aumenta el riesgo de parto pretérmino y bajo peso al nacer."
+    },
+    {
+      "numero": "12",
+      "texto": "El tratamiento de elección de vaginosis bacteriana sintomática en embarazadas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Claritromicina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metronidazol oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluconazol oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Penicilina benzatina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metronidazol oral es el tratamiento de elección en vaginosis bacteriana sintomática durante el embarazo."
+    },
+    {
+      "numero": "13",
+      "texto": "La disuria acompañada de flujo vaginal sugiere más:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cistitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vaginitis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pielonefritis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glomerulonefritis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Litiasis renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando la disuria se asocia a flujo, la causa suele ser vaginitis infecciosa más que ITU baja."
+    },
+    {
+      "numero": "14",
+      "texto": "La complicación más frecuente de vaginitis por Candida en el embarazo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Septicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transmisión vertical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endometritis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pielonefritis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Candida puede transmitirse al recién nacido durante el parto, produciendo candidiasis oral o cutánea."
+    },
+    {
+      "numero": "15",
+      "texto": "La bacteriuria asintomática se define por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Más de 10^3 UFC/ml en orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Más de 10^5 UFC/ml en dos muestras de orina consecutivas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de leucocitos en orina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síntomas urinarios sin bacteriuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bacteriuria asintomática se diagnostica con >10^5 UFC/ml en dos muestras consecutivas sin síntomas."
+    },
+    {
+      "numero": "16",
+      "texto": "En vaginitis por tricomonas, el tratamiento de elección es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doxiciclina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metronidazol oral es el tratamiento de elección para la tricomoniasis vaginal."
+    },
+    {
+      "numero": "17",
+      "texto": "El pH vaginal en vaginosis bacteriana es típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2.5-3.5"
+        },
+        {
+          "opcion": "B",
+          "texto": "3.5-4.5"
+        },
+        {
+          "opcion": "C",
+          "texto": ">4.5"
+        },
+        {
+          "opcion": "D",
+          "texto": "5.5-6.5"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En vaginosis bacteriana el pH vaginal es mayor de 4.5 debido a sobrecrecimiento bacteriano."
+    },
+    {
+      "numero": "18",
+      "texto": "La presencia de 'clue cells' en frotis vaginal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candidiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vaginosis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tricomoniasis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gonorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Herpes genital"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las clue cells son células epiteliales recubiertas de bacterias, típicas de la vaginosis bacteriana."
+    },
+    {
+      "numero": "19",
+      "texto": "En mujeres embarazadas, la vaginosis bacteriana se asocia a mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de cuello uterino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Preeclampsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abortos recurrentes por insuficiencia lútea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia posparto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vaginosis bacteriana aumenta el riesgo de parto pretérmino y ruptura prematura de membranas."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.032",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define un neumotórax pequeño en la práctica clínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colapso pulmonar menor al 15%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colapso pulmonar mayor al 50%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de aire libre con desviación mediastínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural asociado significativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colapso total del pulmón"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un neumotórax pequeño corresponde a un colapso pulmonar menor al 15% sin repercusión hemodinámica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál suele ser la causa más frecuente de neumotórax pequeño espontáneo primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traumatismo torácico cerrado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ruptura de bulla subpleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tuberculosis pulmonar activa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía torácica reciente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En jóvenes sanos, la ruptura de una bulla subpleural es la causa más común de neumotórax pequeño espontáneo primario."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma más frecuente en un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor torácico súbito leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis intensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis masiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor torácico súbito, generalmente leve o moderado, es el síntoma más común en un neumotórax pequeño."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo físico es característico de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperresonancia leve y murmullo vesicular conservado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Matidez a la percusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ruidos agregados húmedos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Egofonía marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Roncus difusos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el neumotórax pequeño puede existir hiperresonancia leve con murmullo vesicular parcialmente conservado."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estudio de imagen confirma el diagnóstico de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax en espiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía craneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasometría arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de tórax en espiración aumenta la sensibilidad para detectar neumotórax pequeños."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo radiológico indica un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Línea pleural delgada con mínima separación pulmonar del hemitórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consolidación lobar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia del lóbulo inferior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desplazamiento mediastínico contralateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un neumotórax pequeño se identifica por una línea pleural visible con mínima separación del pulmón hacia el mediastino."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el manejo inicial recomendado en un neumotórax pequeño asintomático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocación de tubo de drenaje pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación y control radiográfico seriado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilación mecánica inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toracotomía exploradora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo conservador con observación y control radiográfico es suficiente si el paciente está estable y asintomático."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué gas se utiliza para acelerar la reabsorción del aire pleural en neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxígeno al 100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dióxido de carbono"
+        },
+        {
+          "opcion": "C",
+          "texto": "Helio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Óxido nitroso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aire ambiental"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El oxígeno al 100% acelera la reabsorción del aire pleural al aumentar el gradiente de presión de nitrógeno."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuánto tarda aproximadamente en resolverse un neumotórax pequeño no complicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1–2 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7–10 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de un mes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los neumotórax pequeños suelen reabsorberse espontáneamente en un plazo de 7 a 10 días bajo control clínico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores predispone a un neumotórax espontáneo pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "EPOC avanzado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis pulmonar difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo aumenta el riesgo de ruptura de bullas subpleurales que pueden causar neumotórax espontáneo pequeño."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué signo clínico puede estar ausente en un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperresonancia localizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cianosis generalmente no se presenta en un neumotórax pequeño, ya que la oxigenación se mantiene adecuada."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué indica la estabilidad hemodinámica en el contexto de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial normal y saturación estable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia y diaforesis intensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión y taquipnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desviación traqueal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del trabajo respiratorio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La estabilidad hemodinámica con signos vitales normales permite manejo conservador y seguimiento radiológico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el objetivo principal del tratamiento de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reexpandir el pulmón y prevenir recurrencias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminar la infección pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la presión arterial pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corregir el pH arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevenir la fibrosis intersticial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento busca la reexpansión pulmonar y la prevención de futuros episodios de neumotórax."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué pacientes con neumotórax pequeño requieren drenaje pleural inmediato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asintomáticos sin antecedentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Con disnea progresiva o EPOC de base"
+        },
+        {
+          "opcion": "C",
+          "texto": "Jóvenes delgados sin comorbilidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Con tos seca intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin cambios en la radiografía de control"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pacientes con EPOC o disnea progresiva pueden descompensarse rápidamente y requieren drenaje pleural."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estudio es más sensible para detectar neumotórax pequeño en pacientes en decúbito?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía torácica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fluoroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía frontal estándar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espirometría"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ecografía torácica detecta neumotórax pequeños mediante la ausencia del signo de deslizamiento pleural."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes signos radiológicos indica resolución de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desaparición de la línea pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Persistencia del aire apical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desplazamiento mediastínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia del lóbulo medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado alveolar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La desaparición de la línea pleural en el control radiográfico indica que el pulmón se ha reexpandido completamente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué factor aumenta el riesgo de recurrencia en neumotórax pequeño espontáneo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Persistencia del hábito tabáquico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de oxígeno suplementario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tratamiento conservador inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidratación intravenosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tabaquismo aumenta el riesgo de ruptura de nuevas bullas y recurrencia del neumotórax espontáneo."
+    },
+    {
+      "numero": "18",
+      "texto": "¿En qué zona del pulmón suele localizarse el aire en un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Región apical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Región basal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hilios pulmonares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lóbulos medios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Región pericárdica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aire tiende a acumularse en la región apical debido a la menor presión pleural en esa zona."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué recomendación se debe dar al paciente tras la resolución de un neumotórax pequeño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar vuelos o buceo por 2 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar ejercicio intenso inmediatamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reanudar el tabaquismo controlado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar radiografías de control"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomar antibióticos preventivos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se debe evitar la exposición a cambios de presión como vuelos o buceo por al menos 2 semanas tras la resolución."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué intervención se considera si el neumotórax pequeño no se resuelve tras 48–72 horas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colocación de drenaje pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo absoluto en cama"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del consumo de líquidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Si no hay resolución espontánea tras observación, se indica drenaje pleural para facilitar la reexpansión pulmonar."
+    }
+  ]
+}

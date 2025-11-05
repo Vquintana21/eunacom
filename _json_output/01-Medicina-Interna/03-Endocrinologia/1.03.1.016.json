@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.016",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hiperprolactinemia patológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolactinoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de antidepresivos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El prolactinoma es el tumor hipofisario funcional más frecuente y la causa principal de hiperprolactinemia patológica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes fármacos puede causar hiperprolactinemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bromocriptina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haloperidol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prednisona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los antipsicóticos como haloperidol bloquean los receptores dopaminérgicos, inhibiendo el control inhibitorio sobre la secreción de prolactina."
+    },
+    {
+      "numero": "3",
+      "texto": "La dopamina regula la secreción de prolactina mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimulación del lactotropo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición del lactotropo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulación del hipotálamo lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la liberación de TRH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Activación del eje gonadal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dopamina actúa como inhibidor tónico de la secreción de prolactina al unirse a receptores D2 en los lactotropos hipofisarios."
+    },
+    {
+      "numero": "4",
+      "texto": "El síntoma más característico de la hiperprolactinemia en mujeres premenopáusicas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Galactorrea e infertilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hirsutismo y acné"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperpigmentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exoftalmos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prolactina elevada inhibe GnRH, causando anovulación, amenorrea y galactorrea."
+    },
+    {
+      "numero": "5",
+      "texto": "En el hombre, la hiperprolactinemia suele causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ginecomastia y galactorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de libido e impotencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del vello corporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de masa muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria y polidipsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperprolactinemia inhibe la secreción de GnRH, provocando hipogonadismo hipogonadotrópico y disfunción sexual."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el mecanismo por el cual el hipotiroidismo puede causar hiperprolactinemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de TRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de dopamina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de T3 libre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipotiroidismo, el aumento compensatorio de TRH estimula tanto la secreción de TSH como de prolactina."
+    },
+    {
+      "numero": "7",
+      "texto": "En la resonancia magnética, un microprolactinoma se define como un tumor de tamaño:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 2 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 1 y 2 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 1 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exactamente 1 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 3 mm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los microprolactinomas miden menos de 10 mm de diámetro, mientras que los macroprolactinomas son mayores a 1 cm."
+    },
+    {
+      "numero": "8",
+      "texto": "El tratamiento de primera línea del prolactinoma es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cirugía transesfenoidal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bromocriptina o cabergolina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los agonistas dopaminérgicos como cabergolina o bromocriptina reducen la secreción de prolactina y el tamaño tumoral."
+    },
+    {
+      "numero": "9",
+      "texto": "La hiperprolactinemia puede causar infertilidad por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de GnRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulación de FSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de testosterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación del eje adrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prolactina elevada inhibe la secreción pulsátil de GnRH, reduciendo LH y FSH, lo que impide la ovulación o espermatogénesis."
+    },
+    {
+      "numero": "10",
+      "texto": "En un paciente con macroprolactinoma, la complicación neurológica más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea y alteraciones visuales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ataxia cerebelosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de audición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parálisis facial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los macroprolactinomas pueden comprimir el quiasma óptico, generando cefalea y hemianopsia bitemporal."
+    },
+    {
+      "numero": "11",
+      "texto": "Una paciente con galactorrea y amenorrea presenta prolactina sérica de 200 ng/mL. El diagnóstico más probable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolactinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrés fisiológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Microadenoma no funcional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Niveles de prolactina mayores a 100 ng/mL suelen indicar un prolactinoma, especialmente con síntomas clínicos asociados."
+    },
+    {
+      "numero": "12",
+      "texto": "La macroprolactina puede causar resultados falsamente elevados por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemólisis de la muestra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Complejos inmunes de prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Interferencia del cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error de calibración del equipo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de estrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La macroprolactina son agregados de prolactina e inmunoglobulinas que no tienen actividad biológica, pero elevan el valor medido."
+    },
+    {
+      "numero": "13",
+      "texto": "En la evaluación de una hiperprolactinemia, siempre se debe descartar primero:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo primario y embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "C",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulinoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El embarazo y el hipotiroidismo son causas fisiológicas y secundarias comunes de elevación de prolactina."
+    },
+    {
+      "numero": "14",
+      "texto": "La galactorrea inducida por fármacos se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimulación de receptores D2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo de receptores D2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de serotonina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de GABA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de cortisol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los fármacos que bloquean los receptores D2, como los antipsicóticos, eliminan la inhibición dopaminérgica sobre la prolactina."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes hallazgos se espera en un paciente con hiperprolactinemia prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de densidad ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de libido y osteoporosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliuria y polidipsia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpigmentación cutánea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inhibición crónica de GnRH reduce los niveles de estrógenos o testosterona, lo que causa disminución de libido y pérdida ósea."
+    },
+    {
+      "numero": "16",
+      "texto": "La cabergolina se prefiere sobre la bromocriptina por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor seguridad en el embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Efecto más prolongado y mejor tolerancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor costo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acción estimulante sobre TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor efecto sobre FSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cabergolina tiene una vida media larga, mejor tolerancia y eficacia superior para normalizar prolactina y reducir tumores."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el valor normal aproximado de prolactina sérica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-5 ng/mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "5-20 ng/mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-80 ng/mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-150 ng/mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "150-200 ng/mL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los valores normales de prolactina son de 5 a 20 ng/mL en adultos, variando según el laboratorio y el sexo."
+    },
+    {
+      "numero": "18",
+      "texto": "En una hiperprolactinemia con masa hipofisaria visible, la confirmación diagnóstica se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TC cerebral sin contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética con gadolinio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transcraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angiografía cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resonancia magnética con gadolinio es la técnica más sensible para detectar micro y macroadenomas hipofisarios."
+    },
+    {
+      "numero": "19",
+      "texto": "La hiperprolactinemia inducida por estrés fisiológico se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles persistentemente >100 ng/mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación leve y transitoria de prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de macroadenoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia hipofisaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración visual bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estrés puede aumentar transitoriamente la prolactina por activación simpática, sin alcanzar niveles patológicos altos."
+    },
+    {
+      "numero": "20",
+      "texto": "El objetivo del tratamiento de la hiperprolactinemia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la secreción de TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restaurar la función gonadal y fertilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la secreción de ACTH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar completamente la hipófisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevenir hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento busca normalizar los niveles de prolactina, restaurar la función gonadal y mejorar la fertilidad."
+    }
+  ]
+}

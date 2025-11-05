@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.5.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del examen de fondo de ojo en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la presión intraocular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar la presencia de retinopatía diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la agudeza visual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar glaucoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar el nervio óptico exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fondo de ojo permite identificar lesiones vasculares características de la retinopatía diabética, una complicación microvascular de la diabetes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Con qué frecuencia se recomienda realizar el fondo de ojo en un paciente con diabetes tipo 2 recién diagnosticado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al momento del diagnóstico y luego cada 1-2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo si presenta síntomas visuales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de 5 años del diagnóstico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 6 meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En diabetes tipo 2, el fondo de ojo debe realizarse al diagnóstico y repetirse cada 1-2 años según evolución."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo caracteriza la retinopatía diabética no proliferativa leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neovasos en retina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragias vítreas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microaneurismas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desprendimiento de retina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exudados algodonosos extensos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los microaneurismas son las primeras lesiones visibles en el fondo de ojo de la retinopatía diabética temprana."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el hallazgo distintivo de la retinopatía diabética proliferativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microaneurismas aislados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudados duros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neovascularización retinal o papilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema macular leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragias en punto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La neovascularización indica retinopatía proliferativa, con alto riesgo de hemorragia vítrea y pérdida visual."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estructura ocular se examina directamente en el fondo de ojo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cristalino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Córnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iris"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculos ciliares"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El fondo de ojo permite la observación directa de la retina y sus vasos, así como de la papila óptica."
+    },
+    {
+      "numero": "6",
+      "texto": "El hallazgo de exudados algodonosos en el fondo de ojo indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microaneurismas recientes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Isquemia retinal localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desprendimiento de retina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema macular diabético"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neovascularización activa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los exudados algodonosos corresponden a infartos de la capa de fibras nerviosas por isquemia microvascular."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué instrumento se utiliza para realizar un examen directo del fondo de ojo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lámpara de hendidura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oftalmoscopio directo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tonómetro de aplanación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Queratómetro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retinoscopio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El oftalmoscopio directo permite visualizar la retina y estructuras del fondo ocular de forma sencilla y rápida."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la principal causa de pérdida visual en la retinopatía diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desprendimiento de retina seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema macular diabético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neovascularización periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragias en llama"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catarata senil asociada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema macular diabético afecta la zona central de la retina y compromete directamente la agudeza visual."
+    },
+    {
+      "numero": "9",
+      "texto": "En la retinopatía diabética proliferativa, los neovasos se forman como respuesta a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia retinal crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión intraocular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depósito lipídico macular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desbalance hormonal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Degeneración de bastones y conos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxia estimula la liberación de factores angiogénicos como el VEGF, promoviendo la neovascularización."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la diferencia clave entre la retinopatía no proliferativa y la proliferativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia o ausencia de edema macular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grado de afectación del nervio óptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Existencia de neovasos en la retina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de exudados duros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambios en la presión intraocular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aparición de neovasos marca el paso de una fase no proliferativa a una proliferativa en la retinopatía diabética."
+    },
+    {
+      "numero": "11",
+      "texto": "El hallazgo de microhemorragias en llama en el fondo de ojo se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragias vítreas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Isquemia de capa de fibras nerviosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Catarata diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de presión arterial ocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Degeneración macular senil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las hemorragias en llama se originan en la capa de fibras nerviosas por ruptura de capilares retinianos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el tratamiento más efectivo para prevenir la pérdida visual en retinopatía proliferativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control estricto de la glucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fotocoagulación panretiniana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirugía de cataratas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de lentes intraoculares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia con esteroides tópicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fotocoagulación panretiniana reduce la isquemia retinal y la neovascularización patológica."
+    },
+    {
+      "numero": "13",
+      "texto": "El edema macular diabético puede diagnosticarse mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campimetría computarizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía de coherencia óptica (OCT)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biomicroscopía con lámpara de hendidura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tonometría de aplanación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perimetría visual"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La OCT permite cuantificar el grosor macular y detectar la presencia de edema con alta sensibilidad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo ocular refleja daño microvascular en el fondo de ojo de un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasos dilatados y tortuosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neovascularización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exudados lipídicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todos los anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguno de los anteriores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Todos estos hallazgos indican daño microvascular típico de la retinopatía diabética."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo sugiere edema macular clínicamente significativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exudados duros cercanos al centro de la mácula"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microaneurismas periféricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragias en llama en retina superior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neovascularización papilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia del nervio óptico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de exudados duros cercanos o dentro del área macular indica edema clínicamente significativo."
+    },
+    {
+      "numero": "16",
+      "texto": "En el fondo de ojo diabético, la presencia de hemorragia vítrea indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retinopatía no proliferativa leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retinopatía proliferativa avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema macular leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isquemia localizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Microaneurismas antiguos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemorragia vítrea ocurre por ruptura de neovasos frágiles en la retinopatía proliferativa avanzada."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué técnica permite visualizar la perfusión retinal en retinopatía diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Angiografía con fluoresceína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tonometría de Goldmann"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía ocular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Queratometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biomicroscopía especular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La angiografía con fluoresceína muestra áreas de fuga vascular e isquemia retinal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el principal factor de riesgo modificable para la progresión de la retinopatía diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración de la diabetes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control glicémico deficiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sexo masculino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo ocasional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El mal control glicémico acelera el daño microvascular y la progresión de la retinopatía."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo indica retinopatía diabética no proliferativa moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de microaneurismas aislados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudados duros y hemorragias múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neovascularización papilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia vítrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Isquemia macular extensa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de múltiples microaneurismas, hemorragias y exudados caracteriza la etapa moderada de la retinopatía no proliferativa."
+    },
+    {
+      "numero": "20",
+      "texto": "En la valoración del fondo de ojo, ¿qué estructura se observa en el centro de la retina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mácula"
+        },
+        {
+          "opcion": "B",
+          "texto": "Papila óptica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuerpo ciliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cristalino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Córnea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mácula es el área central de la retina encargada de la visión fina y de detalle."
+    }
+  ]
+}

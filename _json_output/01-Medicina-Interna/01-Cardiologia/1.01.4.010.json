@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué utilidad tiene el hemograma en el contexto de una enfermedad cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar el tipo de arritmia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar anemia o infección asociada a síntomas cardíacos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la presión arterial indirectamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuantificar troponinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar función renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hemograma permite detectar anemia o infecciones que pueden agravar síntomas cardíacos como angina o insuficiencia cardíaca."
+    },
+    {
+      "numero": "2",
+      "texto": "Una anemia significativa puede causar o agravar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión postural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Isquemia miocárdica por aumento de demanda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis valvular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia disminuye la capacidad de transporte de oxígeno, aumentando la demanda cardíaca y precipitando isquemia."
+    },
+    {
+      "numero": "3",
+      "texto": "Un aumento de leucocitos con neutrofilia en un paciente con dolor torácico sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infarto antiguo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proceso infeccioso o inflamatorio agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neoplasia hematológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno metabólico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neutrofilia puede indicar inflamación o infección, y también acompañar la fase aguda del infarto."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué parámetro del hemograma se asocia a un peor pronóstico en insuficiencia cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoglobina elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucopenia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia se asocia a peor capacidad funcional y mayor mortalidad en insuficiencia cardíaca."
+    },
+    {
+      "numero": "5",
+      "texto": "En el contexto de endocarditis infecciosa, ¿qué hallazgo es común en el hemograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia normocítica normocrómica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutropenia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La endocarditis subaguda cursa con anemia normocítica y leucocitosis moderada como signo inflamatorio."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el principal uso de la velocidad de hemosedimentación (VHS) en cardiología?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnóstico de infarto agudo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar inflamación sistémica en enfermedades cardíacas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuantificar el colesterol total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar arritmias auriculares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir función ventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La VHS se utiliza para detectar inflamación sistémica asociada a enfermedades como endocarditis o pericarditis."
+    },
+    {
+      "numero": "7",
+      "texto": "Un valor elevado de VHS puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pericarditis y endocarditis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo de rama derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cardiopatía congénita cianótica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia sinusal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La VHS aumenta por inflamación en patologías como endocarditis o pericarditis infecciosa."
+    },
+    {
+      "numero": "8",
+      "texto": "La elevación persistente de VHS tras tratamiento antibiótico en endocarditis puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curación completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Persistencia de inflamación o infección activa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error en la toma de muestra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si la VHS permanece elevada, sugiere inflamación persistente o infección no resuelta."
+    },
+    {
+      "numero": "9",
+      "texto": "En un paciente con infarto agudo de miocardio, la leucocitosis suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Moderada y transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grave y prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acompañada de eosinofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicadora de sepsis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el infarto agudo de miocardio, suele haber leucocitosis moderada que dura 2–4 días."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores puede aumentar falsamente la VHS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia reduce la viscosidad sanguínea, facilitando la sedimentación de eritrocitos y aumentando la VHS."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la causa más probable de una VHS muy elevada (>100 mm/h) en un paciente con fiebre y soplo nuevo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infarto de miocardio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miocardiopatía hipertrófica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia sinusal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de fiebre, soplo y VHS elevada sugiere fuertemente endocarditis infecciosa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo del hemograma es frecuente en la pericarditis viral aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis con linfocitosis relativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neutrofilia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pericarditis viral cursa con leucocitosis leve y predominio de linfocitos."
+    },
+    {
+      "numero": "13",
+      "texto": "La VHS aumentada junto a anemia normocrómica y soplo cardíaco obliga a sospechar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiopatía isquémica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis aórtica calcificada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tríada de anemia, soplo y VHS elevada es clásica de endocarditis infecciosa subaguda."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué componente del hemograma puede correlacionarse con inflamación sistémica crónica en cardiopatías?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plaquetas elevadas (trombocitosis reactiva)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematocrito elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinófilos disminuidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfocitosis marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Basofilia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La trombocitosis reactiva puede acompañar procesos inflamatorios crónicos cardíacos o infecciosos."
+    },
+    {
+      "numero": "15",
+      "texto": "En un paciente con insuficiencia cardíaca avanzada, el hematocrito puede estar elevado por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemodilución"
+        },
+        {
+          "opcion": "B",
+          "texto": "Policitemia secundaria por hipoxia crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Destrucción eritrocitaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia digestiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia crónica estimula la eritropoyesis, elevando el hematocrito en insuficiencia cardíaca avanzada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué patrón hematológico puede observarse en la enfermedad reumática aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis con neutrofilia y VHS elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfocitosis con anemia microcítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neutropenia con plaquetopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eosinofilia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia macrocítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad reumática aguda cursa con leucocitosis y aumento notable de la VHS como reacción inflamatoria."
+    },
+    {
+      "numero": "17",
+      "texto": "En un síndrome coronario agudo, una anemia preexistente puede:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la demanda de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecer la estabilidad del trombo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la isquemia miocárdica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejorar la perfusión coronaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la frecuencia cardíaca"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia reduce la oxigenación tisular y aumenta el estrés cardíaco, agravando la isquemia."
+    },
+    {
+      "numero": "18",
+      "texto": "En una miocardiopatía infecciosa, la VHS elevada refleja:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respuesta inmunitaria inespecífica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipervolemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Daño isquémico localizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis intracavitaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La VHS elevada indica inflamación sistémica secundaria a una respuesta inmunitaria inespecífica en miocarditis."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué alteración del hemograma puede observarse en pacientes con valvulopatía mitral crónica e hipoxia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Policitemia secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neutropenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia crónica en valvulopatías mitrales puede inducir policitemia secundaria compensatoria."
+    },
+    {
+      "numero": "20",
+      "texto": "Una VHS normal en presencia de fiebre y soplo cardíaco hace menos probable el diagnóstico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pericarditis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía dilatada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia aórtica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una VHS normal no descarta totalmente endocarditis, pero hace menos probable la forma subaguda infecciosa."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es un absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una cavidad aérea causada por necrosis tisular infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una masa benigna del parénquima pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un derrame pleural purulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una fibrosis pulmonar localizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un quiste congénito pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El absceso pulmonar es una cavidad con pus causada por necrosis del parénquima pulmonar secundaria a infección bacteriana."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el microorganismo más frecuentemente implicado en abscesos pulmonares por aspiración?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacterias anaerobias orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Legionella pneumophila"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bacterias anaerobias de la flora orofaríngea son las causas más comunes en abscesos por aspiración."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué condición predispone con mayor frecuencia al desarrollo de un absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo crónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración de contenido orofaríngeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exposición a asbestos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquiectasias congénitas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso prolongado de oxigenoterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aspiración de material infectado, especialmente en pacientes con alteración del reflejo de deglución, es el factor principal."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo radiológico es característico del absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado intersticial difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cavidad con nivel hidroaéreo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo pulmonar sólido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vidrio esmerilado bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo típico es una cavidad con nivel hidroaéreo, visible en radiografía o tomografía de tórax."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué lóbulo se afecta con mayor frecuencia en los abscesos por aspiración en pacientes en decúbito supino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulo superior derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lóbulo medio derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lóbulo inferior derecho"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lóbulo superior izquierdo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lóbulo lingular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En decúbito supino, el lóbulo inferior derecho es el más afectado por la gravedad y anatomía bronquial."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el síntoma más característico del absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoptisis masiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expectoración fétida purulenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis súbita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ronquera persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos con expectoración purulenta y maloliente es un signo típico del absceso pulmonar anaerobio."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba diagnóstica es más útil para caracterizar un absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopia diagnóstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de tuberculina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía computarizada permite delimitar la cavidad, su contenido y descartar neoplasias asociadas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes agentes se asocia con absceso pulmonar en pacientes hospitalizados o con ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peptostreptococcus spp."
+        },
+        {
+          "opcion": "D",
+          "texto": "Fusobacterium nucleatum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevotella melaninogenica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En infecciones nosocomiales o posinfluenza, Staphylococcus aureus puede causar abscesos pulmonares."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes hallazgos clínicos sugiere ruptura de un absceso pulmonar hacia la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cese súbito de fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del murmullo vesicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos con gran cantidad de esputo purulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico pleurítico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la disnea sin expectoración"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La descarga brusca de pus en vía aérea causa tos con abundante esputo purulento y maloliente."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores predispone a un absceso pulmonar secundario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoaspiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neoplasia pulmonar obstructiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sinusitis crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alergia respiratoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una obstrucción tumoral facilita la infección distal, generando abscesos pulmonares secundarios."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento inicial de elección para un absceso pulmonar primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cirugía torácica inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos de amplio espectro con cobertura anaerobia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje quirúrgico abierto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopia con lavado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento inicial es antibiótico con cobertura anaerobia, habitualmente con beta-lactámico e inhibidor de betalactamasa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes antibióticos es más adecuado para cubrir anaerobios en absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gentamicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El metronidazol es efectivo contra anaerobios y se usa frecuentemente en combinación con otros agentes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal complicación del absceso pulmonar no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Empiema pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis pulmonar difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tromboembolismo pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar agudo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ruptura del absceso a la cavidad pleural puede producir empiema pleural, una complicación grave."
+    },
+    {
+      "numero": "14",
+      "texto": "En un absceso pulmonar persistente pese a tratamiento antibiótico, ¿qué procedimiento puede estar indicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toracocentesis simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resección pulmonar segmentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenoterapia hiperbárica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación no invasiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si no hay respuesta médica, puede requerirse resección quirúrgica o drenaje del absceso."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes hallazgos de laboratorio puede observarse en el absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucopenia marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitosis con desviación a la izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La leucocitosis con desviación izquierda refleja respuesta inflamatoria bacteriana aguda."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes síntomas orienta a absceso pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca y fiebre leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expectoración purulenta prolongada y pérdida de peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico agudo y hemoptisis masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea súbita con taquicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ronquera intermitente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cuadro crónico se caracteriza por tos persistente, expectoración purulenta y pérdida ponderal progresiva."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo distingue un absceso pulmonar de una cavitación tuberculosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel hidroaéreo visible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ubicación en lóbulos superiores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos con hemoptisis leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pared delgada y lisa en la imagen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de bacilos ácido-alcohol resistentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El absceso pulmonar suele mostrar un nivel hidroaéreo bien definido, ausente en cavitaciones tuberculosas iniciales."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida coadyuvante puede facilitar el drenaje del absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisioterapia respiratoria postural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de diuréticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de broncodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción hídrica severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fisioterapia respiratoria y el drenaje postural ayudan a evacuar el contenido purulento del absceso."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el pronóstico general del absceso pulmonar con tratamiento adecuado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta mortalidad por sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resolución completa en la mayoría de los casos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evolución inevitable a fibrosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transformación en neoplasia crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requiere siempre cirugía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con tratamiento antibiótico adecuado y drenaje postural, la mayoría de los casos evolucionan favorablemente."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué signo radiológico indica resolución de un absceso pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tamaño de la cavidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparición del nivel hidroaéreo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento pleural progresivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de bronquiectasias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consolidación bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desaparición del nivel hidroaéreo y reducción de la cavidad indican resolución del proceso infeccioso."
+    }
+  ]
+}

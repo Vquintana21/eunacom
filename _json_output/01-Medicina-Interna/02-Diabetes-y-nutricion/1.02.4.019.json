@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.019",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué rango de excreción de albúmina en orina define la microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10-20 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "20-200 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-300 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "50-500 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "100-1000 mg/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria se define por una excreción urinaria de albúmina entre 30 y 300 mg/día."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el método más recomendado para detectar microalbuminuria en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orina de 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relación albúmina/creatinina en muestra aislada de orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tira reactiva convencional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Benedict"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición sérica de albúmina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La relación albúmina/creatinina en una muestra aislada de orina es el método más práctico y confiable."
+    },
+    {
+      "numero": "3",
+      "texto": "La microalbuminuria es un marcador temprano de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefropatía diabética incipiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neuropatía diabética periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis diabética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria indica daño renal inicial asociado a nefropatía diabética."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes factores aumenta la excreción de albúmina en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio intenso reciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta baja en sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ayuno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio intenso puede causar elevación transitoria de la albúmina urinaria."
+    },
+    {
+      "numero": "5",
+      "texto": "La presencia persistente de microalbuminuria en un paciente con diabetes tipo 2 sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión renal establecida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inicio de nefropatía diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Errores en la recolección de orina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria persistente indica el inicio de la nefropatía diabética."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cada cuánto tiempo se recomienda evaluar la microalbuminuria en pacientes con diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anualmente desde el diagnóstico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada 2 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo si hay síntomas renales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En diabetes tipo 2, la microalbuminuria debe evaluarse anualmente desde el diagnóstico."
+    },
+    {
+      "numero": "7",
+      "texto": "Un valor de relación albúmina/creatinina de 250 mg/g corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normoalbuminuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microalbuminuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroalbuminuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteinuria leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Error de medición"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Valores mayores a 300 mg/g se consideran macroalbuminuria; 250 mg/g ya está dentro del rango avanzado."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué intervención farmacológica reduce la progresión de la microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IECA o ARA II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diurético tiazídico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueador beta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspirina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina basal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los IECA y ARA II reducen la presión intraglomerular y protegen la función renal."
+    },
+    {
+      "numero": "9",
+      "texto": "En la fisiopatología de la microalbuminuria, ¿qué proceso predomina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la filtración glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la permeabilidad glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción tubular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inflamación peritubular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El daño endotelial y el aumento de permeabilidad glomerular permiten el paso de albúmina al filtrado."
+    },
+    {
+      "numero": "10",
+      "texto": "La microalbuminuria se asocia también a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperhidratación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperuricemia leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La microalbuminuria es un marcador de daño endotelial sistémico y riesgo cardiovascular elevado."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el principal objetivo del control glucémico en presencia de microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir el filtrado glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la excreción de albúmina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementar la secreción de insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El control glucémico estricto reduce la progresión de la excreción de albúmina."
+    },
+    {
+      "numero": "12",
+      "texto": "Un paciente con microalbuminuria debe mantener la presión arterial bajo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "160/100 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "150/90 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "140/90 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "130/80 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "120/70 mmHg"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El control óptimo de presión arterial en nefropatía diabética debe ser menor de 130/80 mmHg."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué examen complementario es útil para evaluar daño renal en presencia de microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Creatinina sérica y TFG estimada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedimento urinario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia hepática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TFG y la creatinina sérica permiten cuantificar el grado de función renal residual."
+    },
+    {
+      "numero": "14",
+      "texto": "La microalbuminuria puede revertirse si:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se aumenta la ingesta proteica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se controla la glicemia y la presión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se administra diurético de asa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se suspende la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se evita el ejercicio físico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con un control óptimo metabólico y tensional, la microalbuminuria puede revertirse en fases iniciales."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el efecto de los ARA II sobre la microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan la filtración glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuyen la excreción de albúmina"
+        },
+        {
+          "opcion": "C",
+          "texto": "No tienen efecto significativo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementan la creatinina sérica de forma permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentan la proteinuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ARA II disminuyen la presión intraglomerular y reducen la excreción de albúmina urinaria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el mejor momento del día para tomar una muestra de orina para relación albúmina/creatinina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Durante el ejercicio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Después del desayuno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Primera orina de la mañana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antes de dormir"
+        },
+        {
+          "opcion": "E",
+          "texto": "En cualquier momento del día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La primera orina matutina reduce la variabilidad y evita falsos positivos por actividad física."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué nivel de TFG marca el paso de microalbuminuria a enfermedad renal crónica establecida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">120 ml/min/1.73m²"
+        },
+        {
+          "opcion": "B",
+          "texto": "90-120 ml/min/1.73m²"
+        },
+        {
+          "opcion": "C",
+          "texto": "60 ml/min/1.73m² o menos"
+        },
+        {
+          "opcion": "D",
+          "texto": "30 ml/min/1.73m² o menos"
+        },
+        {
+          "opcion": "E",
+          "texto": "15 ml/min/1.73m² o menos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una TFG menor a 60 ml/min/1.73m² define enfermedad renal crónica estadio 3 o superior."
+    },
+    {
+      "numero": "18",
+      "texto": "La microalbuminuria refleja daño en qué tipo de células principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células tubulares proximales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Podocitos y endotelio glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células mesangiales del túbulo distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células intersticiales renales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células yuxtaglomerulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El daño de podocitos y del endotelio glomerular aumenta la permeabilidad a proteínas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes hábitos contribuye a disminuir la microalbuminuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta ingesta de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control dietético de proteínas y sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo elevado de alcohol"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una dieta controlada en sodio y proteínas ayuda a reducir la excreción de albúmina."
+    },
+    {
+      "numero": "20",
+      "texto": "En un paciente diabético con microalbuminuria y creatinina sérica normal, el pronóstico mejora si:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se inicia tratamiento con IECA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se retrasa la terapia farmacológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se aumenta la ingesta proteica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se suspenden los antidiabéticos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se evitan controles de orina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El inicio precoz de IECA protege la función renal y puede revertir la microalbuminuria temprana."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.005",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Crisis bronquial obstructiva",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de crisis bronquial obstructiva en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma alérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección viral respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspiración de cuerpo extraño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición a alérgenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones virales, especialmente por virus sincicial respiratorio, son la principal causa de obstrucción bronquial en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué signo clínico indica obstrucción bronquial moderada en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea leve sin tiraje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiraje subcostal y sibilancias audibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradipnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de sibilancias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tiraje subcostal con sibilancias audibles indica una crisis moderada con obstrucción parcial de la vía aérea."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico en la crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoconstricción y edema de mucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrosis bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la presión pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Destrucción alveolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspiración masiva de secreciones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La broncoconstricción, edema e hipersecreción aumentan la resistencia al flujo aéreo, causando obstrucción."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué examen es prioritario para evaluar gravedad en una crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oximetría de pulso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La oximetría de pulso es esencial para valorar la oxigenación y la gravedad del cuadro obstructivo."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el medicamento de elección en el tratamiento inicial de una crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoide oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salbutamol nebulizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibiótico de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adrenalina intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Teofilina oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El salbutamol nebulizado es el broncodilatador de primera elección por su rápida acción sobre los receptores beta-2."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo clínico indica una crisis bronquial obstructiva grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancias leves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea al esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de músculos accesorios y cianosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquipnea leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de músculos accesorios y la cianosis reflejan obstrucción severa y compromiso respiratorio."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes hallazgos indica riesgo de paro respiratorio inminente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquipnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Silencio auscultatorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias difusas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del murmullo vesicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiraje leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El silencio auscultatorio indica obstrucción crítica del flujo aéreo y riesgo de fallo ventilatorio."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué corticoide sistémico se usa comúnmente en crisis moderadas a graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dexametasona oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prednisona oral o intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidrocortisona tópica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Beclometasona inhalada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluticasona nasal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prednisona o metilprednisolona son los corticoides sistémicos más utilizados para reducir la inflamación bronquial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué factor ambiental es más relevante en la recurrencia de crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición al humo del tabaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alimentación rica en fibra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Altitud elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La exposición al humo del tabaco es un factor de riesgo importante para recurrencias y mayor gravedad."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes medicamentos no tiene indicación en el manejo agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ipratropio bromuro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salbutamol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxígeno suplementario"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los antibióticos no se indican salvo sospecha clara de infección bacteriana secundaria."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué saturación de oxígeno indica hipoxemia significativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 95%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 93-94%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 92%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Igual a 98%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 85%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una saturación <92% refleja hipoxemia clínicamente relevante que requiere oxigenoterapia."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal diferencia clínica entre crisis bronquial obstructiva y bronquiolitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo de tos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respuesta al salbutamol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración del cuadro"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La bronquiolitis no responde al broncodilatador, mientras la crisis obstructiva mejora con salbutamol."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo radiológico es típico de una crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrados alveolares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsuflación pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Condensación segmentaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperinsuflación pulmonar refleja atrapamiento aéreo por obstrucción bronquial difusa."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la causa más frecuente de crisis bronquial obstructiva recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección bacteriana persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de alfa-1 antitripsina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiopatía congénita"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El asma es la principal causa de episodios recurrentes de obstrucción bronquial en pediatría."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué gasometría se espera en una crisis bronquial obstructiva grave con fatiga?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocapnia y alcalosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercapnia y acidosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia con pH normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocapnia compensada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En las crisis graves aparece hipercapnia con acidosis respiratoria por hipoventilación alveolar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué fármaco se agrega en crisis grave que no responde a salbutamol?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adrenalina subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ipratropio bromuro nebulizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Montelukast oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Teofilina oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azitromicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ipratropio bromuro potencia el efecto broncodilatador del salbutamol en crisis graves."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación puede aparecer si la crisis no se trata adecuadamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax por hiperinsuflación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pericárdico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El atrapamiento aéreo severo puede romper alvéolos y causar neumotórax espontáneo."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el objetivo de la oxigenoterapia en la crisis bronquial obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la frecuencia respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener saturación ≥94%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir el trabajo cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir el uso de broncodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normalizar el pH sanguíneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El oxígeno suplementario se administra para mantener saturaciones ≥94%, evitando hipoxemia tisular."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida educativa es clave para prevenir nuevas crisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender toda actividad física"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar exposición a humo, polvo y alérgenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar el consumo de lácteos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar corticoides diarios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La eliminación de factores desencadenantes ambientales reduce la recurrencia de crisis obstructivas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo auscultatorio indica mejoría tras broncodilatador?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de sibilancias y mejor murmullo vesicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparición total de ruidos respiratorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de tiraje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silencio respiratorio persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis generalizada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento transitorio de sibilancias refleja apertura bronquial y mejoría de la ventilación."
+    }
+  ]
+}

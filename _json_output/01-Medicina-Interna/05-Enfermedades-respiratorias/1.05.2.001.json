@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.2.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por asfixia por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstrucción mecánica de las vías aéreas por cuerpo extraño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asfixia causada por falta de oxígeno debido a la sumersión en un líquido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar de origen cardiogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía aspirativa secundaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia respiratoria por trauma torácico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La asfixia por inmersión ocurre cuando el intercambio gaseoso se interrumpe por sumersión en un medio líquido."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal en la asfixia por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia por aspiración de agua y colapso alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoconstricción refleja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipovolemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shock anafiláctico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia alveolar difusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aspiración de agua causa lavado del surfactante, colapso alveolar e hipoxia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la primera medida ante una víctima de inmersión rescatada del agua?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar el agua de los pulmones mediante compresión torácica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar respiración y pulso, iniciar RCP si es necesario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocar en posición lateral de seguridad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar oxígeno de inmediato sin evaluar signos vitales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prioridad es evaluar la respiración y el pulso; si no hay, iniciar RCP de inmediato."
+    },
+    {
+      "numero": "4",
+      "texto": "La diferencia fisiopatológica entre ahogamiento en agua dulce y salada radica principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El volumen aspirado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Las alteraciones electrolíticas y osmóticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "El tipo de reflejo vagal desencadenado"
+        },
+        {
+          "opcion": "D",
+          "texto": "El pH del agua"
+        },
+        {
+          "opcion": "E",
+          "texto": "El grado de hipotermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El agua dulce provoca hemodilución e hiponatremia, mientras que el agua salada genera hemoconcentración y edema alveolar osmótico."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué porcentaje de víctimas de inmersión no presenta agua en los pulmones por laringoespasmo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "50%"
+        },
+        {
+          "opcion": "D",
+          "texto": "70%"
+        },
+        {
+          "opcion": "E",
+          "texto": "90%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aproximadamente un 10-20% de los casos no aspira agua debido a un laringoespasmo reflejo."
+    },
+    {
+      "numero": "6",
+      "texto": "La principal causa de muerte en la asfixia por inmersión es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipovolemia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia e hipoxemia tisular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar cardiogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arritmia supraventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia severa y la hipoxemia tisular conducen a paro cardiorrespiratorio."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué manifestación clínica inicial puede sugerir asfixia por inmersión leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis profunda y paro respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos persistente, disnea y confusión leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre y esputo purulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor pleurítico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia con hipotensión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tos y disnea tras inmersión pueden indicar aspiración leve y requieren observación."
+    },
+    {
+      "numero": "8",
+      "texto": "En la gasometría arterial de una víctima de inmersión, es característico encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis respiratoria e hipoxemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica pura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valores normales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoventilación y aspiración causan acidosis respiratoria con hipoxemia marcada."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes factores empeora el pronóstico en asfixia por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad joven"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso en el inicio de la reanimación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sumersión menor a 2 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmersión en agua dulce"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pronóstico empeora significativamente con retrasos en el inicio de la reanimación."
+    },
+    {
+      "numero": "10",
+      "texto": "La hipotermia inducida por inmersión puede:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteger parcialmente el cerebro por reducción del metabolismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acelerar la hipoxia cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Generar hiperkalemia inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producir arritmias benignas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la acidosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipotermia reduce el metabolismo cerebral y puede prolongar la viabilidad neuronal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué complicación pulmonar puede presentarse tras la recuperación inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema pulmonar no cardiogénico (SDRA)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax hipertensivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía bacteriana inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "EPOC agudo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de dificultad respiratoria aguda (SDRA) es una complicación frecuente post-aspiración."
+    },
+    {
+      "numero": "12",
+      "texto": "En la reanimación de la víctima, ¿qué consideración es fundamental?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Priorizar maniobras para eliminar agua de los pulmones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar ventilación boca a boca incluso dentro del agua"
+        },
+        {
+          "opcion": "C",
+          "texto": "No retrasar RCP por intentos de drenaje de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar oxigenoterapia inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar líquidos hipotónicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "No se deben realizar maniobras de drenaje; la RCP debe iniciarse de inmediato."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la temperatura corporal límite que indica hipotermia severa por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "35 °C"
+        },
+        {
+          "opcion": "B",
+          "texto": "33 °C"
+        },
+        {
+          "opcion": "C",
+          "texto": "30 °C"
+        },
+        {
+          "opcion": "D",
+          "texto": "28 °C"
+        },
+        {
+          "opcion": "E",
+          "texto": "25 °C"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipotermia severa se define con temperatura corporal menor o igual a 30 °C."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué medida está contraindicada en el manejo inicial del ahogamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación con oxígeno al 100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje de agua mediante compresión abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación neurológica inicial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitorización cardiaca continua"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corrección de la hipotermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje de agua por compresión abdominal retrasa la reanimación y es ineficaz."
+    },
+    {
+      "numero": "15",
+      "texto": "En una víctima de inmersión resucitada, ¿cuándo debe indicarse hospitalización?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo si presenta paro cardíaco previo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Siempre, aunque esté asintomática al inicio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo si hay tos o disnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Únicamente si la radiografía de tórax es patológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Si hay hipotermia moderada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Toda víctima debe hospitalizarse para observación por posible edema pulmonar diferido."
+    },
+    {
+      "numero": "16",
+      "texto": "El término 'ahogamiento seco' se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspiración masiva de agua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muerte por laringoespasmo sin entrada de agua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoaspiración de contenido gástrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar cardiogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla cardíaca por hipotermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El 'ahogamiento seco' ocurre por laringoespasmo reflejo sin aspiración de agua."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse en la hipotermia por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas U prominentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas J (de Osborn)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevación difusa del ST"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las ondas J u ondas de Osborn son características de hipotermia moderada a severa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal causa de edema pulmonar en la asfixia por inmersión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la permeabilidad alveolocapilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sobrecarga hídrica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfunción ventricular izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoaspiración de contenido ácido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aspiración de agua daña el epitelio alveolar y aumenta la permeabilidad capilar, produciendo edema."
+    },
+    {
+      "numero": "19",
+      "texto": "La administración de antibióticos profilácticos en asfixia por inmersión está indicada:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En todos los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo si hubo aspiración en agua contaminada o aguas residuales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Siempre en ahogamiento en agua dulce"
+        },
+        {
+          "opcion": "D",
+          "texto": "En presencia de hipotermia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Como parte del manejo estándar inicial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antibióticos se reservan para casos con aspiración en aguas contaminadas o sospecha de infección."
+    },
+    {
+      "numero": "20",
+      "texto": "En la fisiopatología de la asfixia por inmersión, el lavado del surfactante alveolar causa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la distensibilidad pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colapso alveolar y disminución de la capacidad residual funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncodilatación refleja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de la presión intracraneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del espacio muerto fisiológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida de surfactante provoca colapso alveolar, hipoventilación y alteración del intercambio gaseoso."
+    }
+  ]
+}

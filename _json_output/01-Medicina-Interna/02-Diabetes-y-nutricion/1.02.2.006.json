@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.2.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el valor umbral de glucosa plasmática para definir hipoglicemia en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<40 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<50 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<54 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<70 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoglicemia clínicamente significativa se define como glucosa plasmática menor de 54 mg/dL según la ADA."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de hipoglicemia en pacientes con diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Defecto en la secreción de insulina endógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso excesivo de insulina exógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio intenso sin descompensación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla hepática crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La administración excesiva de insulina es la principal causa de hipoglicemia en pacientes insulinodependientes."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hormona contrarreguladora se libera primero ante una hipoglicemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucagón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Somatostatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "GH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El glucagón es la primera hormona que aumenta la glucemia estimulando la gluconeogénesis y glucogenólisis hepática."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes fármacos es causa frecuente de hipoglicemia en diabéticos tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pioglitazona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glibenclamida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Empagliflozina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acarbosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las sulfonilureas como glibenclamida estimulan la secreción de insulina independiente de la glucemia, causando hipoglicemia."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tríada define una hipoglicemia verdadera según Whipple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión, sudoración, glucosa <50 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síntomas, glucosa baja y mejoría al corregirla"
+        },
+        {
+          "opcion": "C",
+          "texto": "Somnolencia, glucosa <70 mg/dL y glucosuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea, temblor y hiperglucemia reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia, confusión y cetoacidosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada de Whipple incluye síntomas, glucosa baja comprobada y alivio al corregir la hipoglicemia."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el tratamiento inmediato en un paciente consciente con hipoglicemia leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar glucosa IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inyectar glucagón intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingerir 15 g de carbohidratos simples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar insulina rápida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar resolución espontánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento inicial en pacientes conscientes es administrar 15 g de glucosa oral, como jugo o azúcar."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la causa más común de hipoglicemia en personas no diabéticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inanición crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de alcohol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El alcohol inhibe la gluconeogénesis hepática, produciendo hipoglicemia, especialmente en ayuno."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué manifestaciones autonómicas son típicas de una hipoglicemia leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sudoración, temblor, palpitaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsiones y pérdida de conciencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Debilidad y hemiparesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia y miosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Letargia y coma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La activación adrenérgica produce síntomas autonómicos como sudoración, temblores y palpitaciones."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alteración se observa en la respuesta contrarreguladora durante hipoglicemias repetidas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipersecreción de glucagón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida de respuesta adrenérgica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del GH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de insulina endógena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las hipoglicemias recurrentes atenúan la respuesta adrenérgica, causando hipoglicemia inadvertida."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse en una hipoglicemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolongación del QT"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión del ST"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas T picudas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoglicemia puede prolongar el intervalo QT y predisponer a arritmias ventriculares."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué complicación neurológica puede presentarse tras una hipoglicemia prolongada no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema cerebral irreversible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Isquemia cortical transitoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones y daño neuronal permanente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Encefalopatía hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia subaracnoidea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoglicemia prolongada produce muerte neuronal irreversible por falta de sustrato energético cerebral."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué fármaco puede causar hipoglicemia prolongada especialmente en ancianos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glibenclamida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sitagliptina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Empagliflozina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pioglitazona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glibenclamida tiene vida media larga y riesgo elevado de hipoglicemias prolongadas en ancianos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la mejor forma de prevenir hipoglicemias nocturnas en pacientes diabéticos insulinodependientes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir dosis de insulina basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar ejercicio nocturno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender carbohidratos en la cena"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar insulina regular antes de dormir"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar glucagón diario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Reducir o ajustar la insulina basal previene descensos de glucosa durante la noche."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué característica define una hipoglicemia severa según la ADA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa <50 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síntomas autonómicos leves"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necesidad de ayuda de otra persona para corregirla"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de cetonas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración mayor a 30 minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoglicemia severa se define por requerir asistencia de otra persona para el tratamiento."
+    },
+    {
+      "numero": "15",
+      "texto": "En pacientes hospitalizados, ¿cuál es la causa más común de hipoglicemia iatrogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de insulina o sulfonilureas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ayuno prolongado con metformina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de glucagón exógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidratación con suero glucosado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La administración de insulina o sulfonilureas sin ajuste por ingesta o ayuno causa hipoglicemia hospitalaria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué mecanismo explica la hipoglicemia secundaria al consumo excesivo de alcohol?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de secreción de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la gluconeogénesis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del metabolismo de glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación de glucogenólisis hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la secreción de cortisol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El etanol bloquea la gluconeogénesis al aumentar NADH, disminuyendo la producción hepática de glucosa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el tratamiento de elección en una hipoglicemia grave con pérdida de conciencia fuera del hospital?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucagón intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina rápida IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sueroterapia isotónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alimentos con carbohidratos complejos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El glucagón IM es el tratamiento de elección cuando el paciente no puede ingerir glucosa por vía oral."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo de laboratorio ayuda a diferenciar una hipoglicemia exógena de una endógena?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles de cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niveles de insulina y péptido C"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niveles de GH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucemia capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetonemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En hipoglicemia exógena, la insulina está elevada pero el péptido C está suprimido."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal fuente de glucosa en ayunos prolongados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gluconeogénesis hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucogenólisis muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lipólisis adiposa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetonogénesis hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxidación de aminoácidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Durante el ayuno, la gluconeogénesis hepática mantiene la glucemia mediante lactato, glicerol y aminoácidos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué grupo de pacientes tiene mayor riesgo de hipoglicemia inadvertida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ancianos con diabetes tipo 2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Jóvenes obesos sin diabetes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños con obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mujeres embarazadas con DMG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los ancianos diabéticos presentan deterioro en la percepción de los síntomas autonómicos de hipoglicemia."
+    }
+  ]
+}

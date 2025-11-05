@@ -1,0 +1,572 @@
+{
+  "codigo": "1.06.1.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Gastroenterologia",
+  "subcategoria_id": "06",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de ascitis en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca congestiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirrosis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinomatosis peritoneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tuberculosis peritoneal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cirrosis hepática causa más del 80% de los casos de ascitis al aumentar la presión portal y retener sodio y agua."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué gradiente de albúmina suero-ascitis (GASA) indica hipertensión portal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<1.1 g/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥1.1 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 0.5 y 1 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.8 g/dL exacto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende de la causa subyacente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un GASA ≥1.1 g/dL indica hipertensión portal, útil para distinguir causas hepáticas de no hepáticas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes mecanismos contribuye principalmente a la formación de ascitis en la cirrosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la presión hidrostática portal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión oncótica plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasodilatación esplácnica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperfiltración renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoaldosteronismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vasodilatación esplácnica disminuye el volumen arterial efectivo, activando mecanismos que retienen sodio y agua."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué parámetro debe solicitarse siempre en un líquido ascítico recién obtenido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Albúmina"
+        },
+        {
+          "opcion": "E",
+          "texto": "ADA"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La albúmina es esencial para calcular el gradiente de albúmina suero-ascitis y orientar la etiología."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento de primera línea en la ascitis por cirrosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuréticos y restricción de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "TIPS inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paracentesis diagnóstica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de espironolactona y furosemida más restricción de sodio es el manejo inicial estándar."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué diurético se utiliza como base del tratamiento de la ascitis en cirrosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidroclorotiazida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amilorida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Torsemida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La espironolactona antagoniza la aldosterona, principal mediador de la retención de sodio en cirrosis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué complicación grave debe descartarse en toda ascitis descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome hepatorrenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peritonitis bacteriana espontánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis portal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatocarcinoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalopatía hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La peritonitis bacteriana espontánea es una complicación frecuente y potencialmente mortal que requiere exclusión sistemática."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el criterio diagnóstico de peritonitis bacteriana espontánea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">250 PMN/mm³ en líquido ascítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre y dolor abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de bacterias al Gram"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo positivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El recuento de PMN ≥250/mm³ en el líquido ascítico confirma la peritonitis bacteriana espontánea."
+    },
+    {
+      "numero": "9",
+      "texto": "En ascitis refractaria, ¿qué procedimiento está indicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incrementar dosis de diuréticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "TIPS"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción hídrica severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar manitol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TIPS reduce la presión portal y mejora la ascitis refractaria al tratamiento médico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de líquido ascítico se observa en carcinomatosis peritoneal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exudado con bajo GASA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trasudado con alto GASA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemático con alto GASA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiloso con bajo GASA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Purulento con alto GASA"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La carcinomatosis peritoneal produce un exudado con bajo GASA por aumento de la permeabilidad capilar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la medida inicial ante una ascitis a tensión con dificultad respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TIPS"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paracentesis evacuadora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar diuréticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infusión de albúmina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar midodrina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La paracentesis evacuadora inmediata alivia la presión intraabdominal y mejora la función respiratoria."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué volumen de albúmina se administra tras una paracentesis evacuadora de gran volumen?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 g/L de líquido retirado"
+        },
+        {
+          "opcion": "B",
+          "texto": "6-8 g/L de líquido retirado"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 g/kg de peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "2 g/L de líquido retirado"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se administra albúmina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda administrar 6-8 g de albúmina por litro extraído para prevenir disfunción circulatoria postparacentesis."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo en líquido ascítico sugiere tuberculosis peritoneal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alto GASA y bajo ADA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajo GASA y ADA elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH alcalino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tuberculosis peritoneal se asocia a bajo GASA y altos niveles de ADA (>40 U/L)."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el objetivo de la restricción de sodio en la ascitis cirrótica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión portal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir hiponatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la retención de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorecer diuresis y prevenir recurrencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar encefalopatía hepática"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Limitar el sodio a 2 g/día favorece la respuesta a diuréticos y reduce la recurrencia de ascitis."
+    },
+    {
+      "numero": "15",
+      "texto": "En ascitis quilosa, el líquido es característicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Verdoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lechoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amarillo claro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transparente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ascitis quilosa tiene aspecto lechoso por presencia de triglicéridos >200 mg/dL en el líquido."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes no es una causa de ascitis de bajo GASA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinomatosis peritoneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tuberculosis peritoneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peritonitis por hongos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome nefrótico produce ascitis con alto GASA por hipoalbuminemia sistémica, no por daño peritoneal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la relación esperada entre espironolactona y furosemida en el tratamiento combinado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1:1"
+        },
+        {
+          "opcion": "B",
+          "texto": "2:1"
+        },
+        {
+          "opcion": "C",
+          "texto": "5:2"
+        },
+        {
+          "opcion": "D",
+          "texto": "5:1"
+        },
+        {
+          "opcion": "E",
+          "texto": "10:4"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Se usa una relación 5:1 (espironolactona:furosemida) para mantener el equilibrio potásico y la eficacia diurética."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es un signo clínico típico de ascitis a la exploración física?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Matidez cambiante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Murmullo vesicular disminuido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatoesplenomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frote peritoneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Murphy positivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La matidez cambiante al decúbito es un signo clásico de líquido libre en cavidad abdominal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué estudio por imagen es más sensible para detectar ascitis mínima?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ultrasonido"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC sin contraste"
+        },
+        {
+          "opcion": "D",
+          "texto": "RMN"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exploración física"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ultrasonido puede detectar volúmenes de ascitis tan bajos como 100 mL, siendo el método más sensible."
+    },
+    {
+      "numero": "20",
+      "texto": "En pacientes con cirrosis y ascitis refractaria, la supervivencia media es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 año"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "3 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ascitis refractaria en cirróticos implica mal pronóstico con supervivencia media cercana a 1 año."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo de la alimentación saludable en pacientes con diabetes mellitus tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar totalmente los carbohidratos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Controlar la glucemia y prevenir complicaciones metabólicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar el consumo de proteínas animales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir el colesterol HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorecer la pérdida rápida de peso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo principal es mantener un adecuado control glucémico y prevenir complicaciones crónicas mediante una dieta equilibrada."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué porcentaje de las calorías totales diarias deben provenir de carbohidratos en un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10–20%"
+        },
+        {
+          "opcion": "B",
+          "texto": "25–35%"
+        },
+        {
+          "opcion": "C",
+          "texto": "45–60%"
+        },
+        {
+          "opcion": "D",
+          "texto": "60–75%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 80%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Entre 45% y 60% de las calorías deben provenir de carbohidratos complejos, preferentemente integrales."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la recomendación respecto al consumo de fibra dietética en personas con diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar la fibra soluble"
+        },
+        {
+          "opcion": "B",
+          "texto": "20–35 g diarios preferentemente de origen vegetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo 10 g diarios de fibra insoluble"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumir suplementos en lugar de alimentos naturales"
+        },
+        {
+          "opcion": "E",
+          "texto": "No hay recomendaciones específicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda una ingesta de 20–35 g/día de fibra, preferentemente soluble, para mejorar el control glucémico y lipídico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de grasa debe predominar en una dieta saludable para diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grasas trans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grasas mono y poliinsaturadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Grasas hidrogenadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasas de origen animal exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las grasas mono y poliinsaturadas (aceite de oliva, pescado, frutos secos) reducen el riesgo cardiovascular en diabéticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el límite recomendado de consumo de sodio diario según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 g"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 g"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 g"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 g"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 g"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La OMS recomienda limitar el consumo de sodio a menos de 2 g diarios (equivalente a 5 g de sal)."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué índice glucémico es más recomendable en la dieta de un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muy alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "No importa el índice glucémico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los alimentos con bajo índice glucémico evitan picos posprandiales de glucosa, favoreciendo el control metabólico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes alimentos tiene bajo índice glucémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pan blanco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arroz refinado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lentejas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Papas fritas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azúcar de mesa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las legumbres como las lentejas tienen bajo índice glucémico y alto contenido de fibra."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el rango ideal de proteínas en la dieta del paciente diabético sin nefropatía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5–10% de las calorías totales"
+        },
+        {
+          "opcion": "B",
+          "texto": "10–15%"
+        },
+        {
+          "opcion": "C",
+          "texto": "15–20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "25–30%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 35%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las proteínas deben aportar entre 15% y 20% del valor calórico total, priorizando fuentes magras."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de carbohidratos se deben priorizar en la alimentación saludable del diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Simples y refinados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Complejos con alto contenido de fibra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monosacáridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbohidratos líquidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azúcares añadidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se deben priorizar carbohidratos complejos con alto contenido de fibra, como cereales integrales y legumbres."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué recomendación se da respecto al consumo de alcohol en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se recomienda su uso diario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debe evitarse completamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo en ayunas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Con moderación y junto a alimentos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo destilados sin azúcar"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El alcohol puede causar hipoglucemia; se recomienda consumirlo con alimentos y con moderación."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la principal ventaja de la dieta mediterránea en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta el colesterol LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejora el control glucémico y cardiovascular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementa el consumo de carnes rojas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorece la cetosis nutricional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dieta mediterránea rica en frutas, verduras, pescado y aceite de oliva mejora el control metabólico y cardiovascular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué efecto tiene el consumo excesivo de azúcares añadidos en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la glucemia en ayuno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Provoca hipoglucemia reactiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eleva la glucemia y triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la inflamación sistémica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El exceso de azúcares simples eleva la glucemia posprandial y los triglicéridos, empeorando el control metabólico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el beneficio de fraccionar las comidas en el paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el apetito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar hipoglucemias y picos glucémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar la secreción de insulina endógena"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la termogénesis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorecer la hipoglucemia postprandial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Fraccionar las comidas ayuda a mantener niveles estables de glucosa y prevenir hipoglucemias."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de lácteos se recomienda en la dieta de un diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enteros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descremados o bajos en grasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Condensados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azucarados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fermentados con azúcar añadido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los lácteos descremados aportan proteínas y calcio sin exceso de grasas saturadas ni azúcares."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la recomendación respecto al consumo de frutas en diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar todas las frutas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumir frutas con bajo índice glucémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo frutas deshidratadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumir jugos naturales ilimitadamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo frutas en conserva sin azúcar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las frutas con bajo índice glucémico (manzana, pera) aportan fibra y micronutrientes sin elevar bruscamente la glucemia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de aceite es más recomendable para cocinar en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aceite de coco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aceite de oliva o canola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Manteca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aceite hidrogenado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aceite de palma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los aceites de oliva y canola son ricos en ácidos grasos monoinsaturados que reducen el riesgo cardiovascular."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes patrones alimentarios es más recomendable para el control de la diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta cetogénica estricta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta DASH o mediterránea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta alta en proteínas animales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ayuno prolongado intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta sin carbohidratos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta DASH o mediterránea promueve el control glucémico y la salud cardiovascular en diabéticos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el principal beneficio del consumo de legumbres en la dieta del paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan el colesterol LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tienen alto índice glucémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejoran la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducen la absorción de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementan la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las legumbres tienen bajo índice glucémico y alto contenido de fibra, lo que mejora la sensibilidad a la insulina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué práctica alimentaria ayuda a prevenir el síndrome metabólico en población general y diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Comer una sola vez al día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir azúcares y aumentar el consumo de vegetales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar las proteínas animales totalmente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar el consumo de grasas saturadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suplementar con vitaminas sin control"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Disminuir azúcares y aumentar verduras y frutas reduce la resistencia a la insulina y el riesgo de síndrome metabólico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué característica distingue a una alimentación saludable según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas y baja en fibra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Equilibrada, variada y basada en alimentos naturales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compuesta solo por suplementos nutricionales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Baja en frutas y verduras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin restricción de azúcares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una dieta saludable debe ser variada, equilibrada y priorizar alimentos frescos y mínimamente procesados."
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "codigo": "1.02.2.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica principal del síndrome hiperosmolar no cetósico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglucemia y acidosis metabólica con cetonemia marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia severa y osmolaridad elevada sin cetosis significativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia con hiponatremia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis láctica con hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia y acidosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome hiperosmolar no cetósico se caracteriza por hiperglucemia extrema y deshidratación sin acidosis significativa."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de pacientes presentan con mayor frecuencia este síndrome?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños con DM1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adultos jóvenes con DM1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ancianos con DM2"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazadas con DM gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome hiperosmolar afecta principalmente a adultos mayores con diabetes tipo 2 descompensada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el valor típico de glucosa plasmática en este cuadro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<200 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "200–400 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "400–600 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">600 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">1000 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los niveles de glucemia suelen superar los 600 mg/dL en el síndrome hiperosmolar no cetósico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué factor precipitante es más común en el síndrome hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traumatismos leves"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ayuno prolongado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones aumentan las hormonas contrarreguladoras y provocan resistencia a la insulina, desencadenando el cuadro."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué nivel de osmolaridad plasmática define el síndrome hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">280 mOsm/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": ">300 mOsm/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": ">320 mOsm/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": ">350 mOsm/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": ">400 mOsm/kg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una osmolaridad plasmática mayor a 320 mOsm/kg define la hiperosmolaridad significativa."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la diferencia fundamental con la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de cetonemia elevada en ambas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor acidosis en el síndrome hiperosmolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de acidosis y cetonemia significativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor hiperglucemia en el síndrome hiperosmolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Predominio en DM1"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome hiperosmolar se caracteriza por mínima o nula cetonemia y pH normal o levemente disminuido."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo gasométrico es característico en este síndrome?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH <7.0 y HCO3 <10 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH normal o >7.3 y HCO3 >18 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH <7.1 con lactato alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH 7.2 y anión gap aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En este cuadro, el pH y bicarbonato son normales o solo levemente alterados, sin acidosis significativa."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué mecanismo fisiopatológico causa la deshidratación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida gastrointestinal de líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sudoración excesiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuresis osmótica por hiperglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida renal de sodio por daño tubular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glucosa elevada genera diuresis osmótica con pérdida masiva de agua y electrolitos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué manifestaciones neurológicas son típicas del síndrome hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea leve y somnolencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confusión, convulsiones y coma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ataxia y rigidez muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parestesias y temblor fino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miosis y bradicardia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperosmolaridad produce alteración del sensorio, convulsiones y, en casos graves, coma."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la primera medida terapéutica en este cuadro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar insulina rápida IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposición de volumen con solución salina isotónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infusión de bicarbonato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de potasio intravenoso inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diuréticos para controlar la hiperglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La expansión con solución salina isotónica es la prioridad para restaurar la perfusión y disminuir la osmolaridad."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la principal diferencia en el uso de insulina respecto a la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se usa una dosis mayor en el síndrome hiperosmolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se retrasa la administración hasta corregir la hipovolemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "No se utiliza insulina en este cuadro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se inicia por vía subcutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Debe administrarse con glucosa desde el inicio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina se inicia solo tras la reposición inicial de volumen, para evitar colapso circulatorio."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué valor de sodio corregido se utiliza para calcular la osmolaridad efectiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sodio medido sin ajuste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sodio + (1.6 × cada 100 mg/dL de glucosa >100)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sodio – (2.0 × cada 100 mg/dL de glucosa >100)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio dividido por 2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sodio × 1.1"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia diluye el sodio; se corrige agregando 1.6 mEq/L por cada 100 mg/dL de glucosa sobre 100."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué alteración electrolítica se observa frecuentemente al iniciar el tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipokalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia dilucional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermagnesemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La administración de insulina y líquidos provoca desplazamiento intracelular de potasio y puede causar hipokalemia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la osmolaridad plasmática esperada en el síndrome hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "280–300 mOsm/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "300–320 mOsm/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "320–350 mOsm/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "350–400 mOsm/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": ">400 mOsm/kg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los valores de osmolaridad plasmática suelen encontrarse entre 320 y 350 mOsm/kg."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo clínico diferencia el síndrome hiperosmolar del coma hipoglucémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sudoración profusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piel seca y deshidratación marcada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones tónicas leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miosis bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el síndrome hiperosmolar se observa deshidratación intensa con mucosas secas y turgencia disminuida."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parámetro debe monitorizarse estrechamente durante el tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anión gap"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osmolaridad sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetonuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobina glicosilada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La osmolaridad sérica debe disminuir gradualmente para evitar edema cerebral durante la corrección."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación puede desarrollarse si la osmolaridad baja demasiado rápido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock hipovolémico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una reducción rápida de la osmolaridad puede provocar edema cerebral, especialmente en ancianos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué valor de pH suele encontrarse en el síndrome hiperosmolar no cetósico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<7.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "7.0–7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "7.25–7.30"
+        },
+        {
+          "opcion": "D",
+          "texto": ">7.30"
+        },
+        {
+          "opcion": "E",
+          "texto": ">7.45"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El pH suele ser superior a 7.30, ya que no existe acidosis metabólica significativa."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la mortalidad estimada del síndrome hiperosmolar no cetósico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "5–10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "10–20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "20–40%"
+        },
+        {
+          "opcion": "E",
+          "texto": ">50%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La mortalidad es alta (20–40%) por la edad avanzada y comorbilidades de los pacientes."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida debe adoptarse cuando la glucemia desciende a 250 mg/dL durante el tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agregar dextrosa al suero"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la dosis de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar bicarbonato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Al bajar la glucemia a 250 mg/dL, se añade dextrosa para prevenir hipoglucemia y descenso brusco de osmolaridad."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Cuál es el principal objetivo del tratamiento del síndrome hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corregir la acidosis metabólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir la cetosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restaurar la volemia y osmolaridad normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir el colesterol sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el anión gap"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo principal es restablecer el volumen intravascular y la osmolaridad normal mediante líquidos e insulina."
+    }
+  ]
+}

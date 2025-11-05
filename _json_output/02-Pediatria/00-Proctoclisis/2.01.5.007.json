@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.5.007",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Proctoclisis",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la proctoclisis en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La administración de líquidos por vía rectal"
+        },
+        {
+          "opcion": "B",
+          "texto": "La extracción de material fecal para análisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una técnica de rehidratación oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "La irrigación colónica en casos de constipación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Una forma de administración intravenosa lenta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La proctoclisis consiste en la administración de líquidos por vía rectal, usada cuando no se puede utilizar la vía oral o venosa."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal indicación de la proctoclisis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deshidratación leve o moderada sin acceso venoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertermia refractaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Convulsiones febriles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se indica en casos de deshidratación leve o moderada cuando no se logra vía oral ni venosa."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué solución es más adecuada para una proctoclisis segura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero fisiológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solución hipertónica de glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solución salina al 3%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ringer lactato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua destilada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El suero fisiológico isotónico es el más seguro, evita irritación rectal y alteraciones electrolíticas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué posición favorece la absorción durante la proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito prono"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito lateral izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Decúbito dorsal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fowler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El decúbito lateral izquierdo facilita el paso del líquido al colon descendente, mejorando la absorción."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el volumen máximo de líquido recomendable en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10 mL/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "15 mL/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "20 mL/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "30 mL/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": "40 mL/kg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El límite recomendado es 20 mL/kg para evitar distensión abdominal o molestias."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué complicación puede ocurrir si el líquido se administra con exceso de velocidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal y tenesmo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipernatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El flujo rápido causa distensión abdominal, tenesmo y expulsión prematura del líquido."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Por qué no se recomienda la proctoclisis en diarrea aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Por riesgo de hipernatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Por irritación de mucosa inflamada y mala absorción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por pérdida excesiva de líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por aumento de temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Por riesgo de perforación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En diarrea la mucosa rectal está inflamada, lo que dificulta la absorción y puede causar irritación."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué equipo se usa para aplicar una proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Equipo de venoclisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Jeringa hipodérmica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Equipo de irrigación con sonda rectal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bomba de infusión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sistema de succión"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se emplea un sistema de irrigación con una sonda rectal conectada a una bolsa de suero isotónico."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la temperatura ideal del líquido administrado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fría (20°C)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambiente (25°C)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tibia (37°C)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Caliente (40°C)"
+        },
+        {
+          "opcion": "E",
+          "texto": "No influye"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe administrarse a temperatura corporal para evitar espasmos o rechazo del líquido."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo indica que debe interrumpirse la administración?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sudoración leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Llanto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Distensión abdominal o dolor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso de temperatura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Dolor o distensión indican exceso de volumen o flujo rápido; debe detenerse la infusión."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Por qué mecanismo se absorbe el líquido administrado por proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Difusión simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osmosis a través de la mucosa rectal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transporte activo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocitosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Filtración por presión hidrostática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido se absorbe por osmosis, aprovechando la permeabilidad de la mucosa del recto."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué solución está contraindicada para uso rectal en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solución isotónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ringer lactato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosalina isotónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agua estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suero fisiológico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El agua destilada o estéril es hipotónica y puede irritar la mucosa o causar hiponatremia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué condición impide realizar una proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal dolorosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Constipación leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación moderada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shock compensado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cólico abdominal leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las lesiones anales dolorosas como fisuras o hemorroides impiden realizar el procedimiento sin riesgo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la frecuencia recomendada de goteo en la proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 gotas/minuto"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-20 gotas/minuto"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-40 gotas/minuto"
+        },
+        {
+          "opcion": "D",
+          "texto": "60 gotas/minuto"
+        },
+        {
+          "opcion": "E",
+          "texto": "100 gotas/minuto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe ser lenta y continua, entre 10 y 20 gotas por minuto para permitir una absorción adecuada."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación sistémica puede aparecer por exceso de volumen?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de volumen puede causar sobrecarga circulatoria y edema pulmonar, especialmente en lactantes."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida debe adoptarse si el niño expulsa el líquido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el flujo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender e iniciar más lentamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar presión abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambiar la solución"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agregar glucosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe suspenderse y reiniciar lentamente para evitar estimulación rectal excesiva o incomodidad."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de paciente puede beneficiarse de la proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niño con vómitos persistentes sin acceso venoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paciente con diarrea leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactante con fiebre sin foco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niño con tos seca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paciente con otitis media"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Es útil cuando no se logra hidratación oral o venosa, especialmente en casos de vómitos persistentes."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida de seguridad es fundamental durante la proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de sedación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monitoreo del volumen y la tolerancia clínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar líquidos fríos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener ayuno prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar anestesia local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe vigilarse el volumen y la respuesta clínica para evitar sobrecarga o irritación."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué debe verificarse antes de iniciar la proctoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Integridad de la mucosa rectal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tono muscular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe asegurarse que la mucosa rectal esté sana para evitar complicaciones o mala absorción."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué efecto adverso puede causar una solución hipertónica mal diluida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Irritación y daño de mucosa rectal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las soluciones hipertónicas pueden causar irritación o lesión de la mucosa rectal si no se diluyen adecuadamente."
+    }
+  ]
+}

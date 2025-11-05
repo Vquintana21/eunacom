@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de derrame pleural neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfoma no Hodgkin"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de pulmón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mesotelioma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cáncer de pulmón es la causa más frecuente de derrame pleural neoplásico, seguido por cáncer de mama y linfomas."
+    },
+    {
+      "numero": "2",
+      "texto": "El derrame pleural neoplásico se clasifica como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transudado por aumento de presión hidrostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado por alteración de la permeabilidad capilar o invasión pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quilotórax por obstrucción linfática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemotórax por rotura vascular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Empiema pleural secundario a infección tumoral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame neoplásico es un exudado, resultado de la invasión pleural o aumento de permeabilidad capilar tumoral."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo citológico es diagnóstico de derrame pleural neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de linfocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de células malignas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevada concentración de LDH"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH pleural bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa disminuida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La demostración de células malignas en el líquido pleural confirma el diagnóstico de derrame pleural neoplásico."
+    },
+    {
+      "numero": "4",
+      "texto": "El líquido pleural en el derrame neoplásico suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transparente y seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Purulento y con mal olor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serosanguinolento o hemático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiloso blanco lechoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verdoso espeso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El líquido pleural neoplásico suele ser serosanguinolento debido a la invasión vascular tumoral."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué método diagnóstico tiene mayor sensibilidad para detectar células malignas en líquido pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Citología del líquido pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia pleural cerrada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toracoscopía con biopsia dirigida"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía torácica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La toracoscopía con biopsia dirigida ofrece la mayor sensibilidad diagnóstica para identificar compromiso pleural maligno."
+    },
+    {
+      "numero": "6",
+      "texto": "Según los criterios de Light, el derrame neoplásico cumple con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas pleurales/basales < 0,5"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH pleural/basal < 0,6"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH pleural mayor al 60% del límite sérico normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteínas pleurales/basales < 0,3"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH pleural > 7,4"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los derrames exudativos, incluidos los neoplásicos, presentan LDH pleural elevada (>60% del valor sérico normal)."
+    },
+    {
+      "numero": "7",
+      "texto": "El pH del líquido pleural en derrame neoplásico avanzado suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 7,45"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 7,35 y 7,40"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 7,30"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exactamente 7,00"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un pH pleural bajo (<7,30) en derrame neoplásico indica invasión extensa y mal pronóstico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la medida terapéutica más eficaz para prevenir la recurrencia del derrame neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diuréticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toracocentesis repetida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pleurodesis química"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides sistémicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pleurodesis química con talco o agentes esclerosantes previene la reaparición del derrame neoplásico."
+    },
+    {
+      "numero": "9",
+      "texto": "El agente más usado para pleurodesis en derrame pleural neoplásico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bleomicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doxiciclina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talco estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitrato de plata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcohol etílico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El talco estéril es el agente de elección para pleurodesis por su alta eficacia y seguridad."
+    },
+    {
+      "numero": "10",
+      "texto": "El principal mecanismo fisiopatológico del derrame pleural neoplásico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de presión hidrostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de presión oncótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción linfática pleural y aumento de permeabilidad capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del gasto cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la presión intraalveolar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La invasión tumoral de los linfáticos pleurales y la permeabilidad vascular aumentada provocan acumulación de líquido."
+    },
+    {
+      "numero": "11",
+      "texto": "En un derrame pleural neoplásico unilateral, el mediastino suele estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desviado hacia el lado afectado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desviado hacia el lado opuesto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Centrado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin cambios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El gran volumen de líquido pleural desplaza las estructuras mediastínicas hacia el lado contralateral."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de cáncer tiene más probabilidad de causar un derrame pleural bilateral maligno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer de pulmón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de ovario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cáncer de mama metastásico puede afectar ambas pleuras, generando derrames bilaterales."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el síntoma más frecuente en pacientes con derrame pleural neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico punzante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos productiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disnea progresiva es el síntoma predominante debido a la compresión pulmonar por el líquido pleural."
+    },
+    {
+      "numero": "14",
+      "texto": "En la citología del líquido pleural neoplásico, la sensibilidad diagnóstica es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20-30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "40-50%"
+        },
+        {
+          "opcion": "C",
+          "texto": "60-70%"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La citología tiene una sensibilidad de 60-70%, mejorando con repetición o métodos guiados."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué marcador tumoral puede encontrarse elevado en el líquido pleural de origen neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina T"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "D",
+          "texto": "PSA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ferritina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El antígeno carcinoembrionario (CEA) puede encontrarse elevado en derrames pleurales de origen metastásico."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el objetivo principal del tratamiento del derrame pleural neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curar la neoplasia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evacuar el líquido y aliviar los síntomas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir el tamaño tumoral pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normalizar el pH pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restaurar la presión intrapleural negativa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento busca paliar la disnea mediante evacuación del líquido y pleurodesis si es necesario."
+    },
+    {
+      "numero": "17",
+      "texto": "En pacientes con derrame pleural neoplásico y atrapamiento pulmonar, la pleurodesis:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Está indicada como primera opción"
+        },
+        {
+          "opcion": "B",
+          "texto": "No está indicada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se realiza con antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debe repetirse semanalmente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Es de elección en cáncer de mama"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si el pulmón no reexpande, la pleurodesis no es efectiva y se prefiere drenaje permanente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico sugiere derrame pleural maligno masivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Matidez a la percusión y abolición del murmullo vesicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Roncus generalizados bilaterales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperresonancia con sibilancias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Egofonía y frémito aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respiración bronquial intensa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El líquido pleural masivo produce matidez y abolición del murmullo vesicular sobre la zona afectada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes tumores se asocia con derrame pleural hemorrágico persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mesotelioma pleural maligno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer colorrectal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer de próstata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El mesotelioma pleural maligno produce derrames hemorrágicos por invasión difusa de la pleura."
+    },
+    {
+      "numero": "20",
+      "texto": "El pronóstico del derrame pleural neoplásico generalmente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Excelente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reservado, con sobrevida media menor a un año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dependiente del tratamiento antibiótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorable con quimioterapia exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Curable con drenaje completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame neoplásico indica enfermedad avanzada y suele asociarse a una sobrevida media inferior a 12 meses."
+    }
+  ]
+}

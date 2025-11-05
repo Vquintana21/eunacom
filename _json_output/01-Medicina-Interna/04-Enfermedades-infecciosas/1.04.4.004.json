@@ -1,0 +1,576 @@
+{
+  "codigo": "1.04.4.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal agente detectado mediante el test de tinta china en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cryptococcus neoformans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspergillus fumigatus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histoplasma capsulatum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coccidioides immitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test de tinta china se usa para visualizar la cápsula característica de Cryptococcus neoformans en LCR."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica morfológica permite la identificación de Cryptococcus en el test de tinta china?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudohifas ramificadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esporas terminales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Halo claro alrededor de la levadura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hifas septadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración rojiza intracelular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cápsula polisacárida del Cryptococcus se observa como un halo transparente con la tinta china."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principio del test de detección de antígeno de Cryptococcus en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aglutinación por látex"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo selectivo en agar Sabouraud"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoblot de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El test de aglutinación por látex detecta el polisacárido capsular del Cryptococcus en LCR o suero."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de muestra se utiliza más frecuentemente para detectar antígeno criptocócico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sangre total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido cefalorraquídeo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esputo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tejido pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El LCR es la muestra principal en meningitis criptocócica para detectar antígeno capsular."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la sensibilidad aproximada del test de antígeno criptocócico en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40%"
+        },
+        {
+          "opcion": "B",
+          "texto": "60%"
+        },
+        {
+          "opcion": "C",
+          "texto": "80%"
+        },
+        {
+          "opcion": "D",
+          "texto": "95%"
+        },
+        {
+          "opcion": "E",
+          "texto": "99%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La sensibilidad del test de antígeno en LCR es superior al 95%, lo que lo hace altamente confiable."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué significa una tinción de tinta china negativa en un paciente con alta sospecha de criptococosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Descarta completamente la infección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sugiere una infección bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "No excluye criptococosis, requiere prueba de antígeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indica infección por Candida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Demuestra error en la muestra"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una tinta china negativa no excluye la infección; debe confirmarse con detección de antígeno o cultivo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué componente de Cryptococcus es detectado por el test de aglutinación de látex?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antígeno proteico de pared"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido nucleico ribosomal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polisacárido capsular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lípido de membrana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enzima catalasa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El antígeno detectado corresponde al polisacárido capsular glucuronoxilomanano del Cryptococcus."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué condición clínica está más asociada a la meningitis criptocócica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "B",
+          "texto": "VIH/SIDA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tuberculosis previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutropenia transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La criptococosis del SNC es frecuente en pacientes inmunodeprimidos, especialmente con VIH/SIDA avanzado."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué coloración alternativa puede usarse para identificar Cryptococcus cuando no se dispone de tinta china?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tinción de Ziehl-Neelsen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Giemsa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinción de PAS"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinción de plata metenamina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Cryptococcus puede verse como levaduras Grampositivas con halo claro en tinción de Gram."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el aspecto del LCR en una meningitis criptocócica típica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Turbio con polimorfonucleares predominantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Claro con presión elevada y linfocitosis leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Purulento con hipoglucorraquia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorrágico con proteínas normales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espeso con predominio eosinofílico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LCR suele ser claro, con presión elevada, linfocitosis leve e hipoglucorraquia moderada."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Por qué se prefiere la detección de antígeno criptocócico sobre la tinta china?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor rapidez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor sensibilidad y especificidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor costo"
+        },
+        {
+          "opcion": "D",
+          "texto": "No requiere muestra de LCR"
+        },
+        {
+          "opcion": "E",
+          "texto": "No necesita equipamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La detección de antígeno es más sensible y específica, especialmente en infecciones con baja carga fúngica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de reacción causa la aglutinación visible en el test de látex para Cryptococcus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción antígeno-anticuerpo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reacción enzimática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxidación de melanina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrolisis proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnaturalización térmica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La aglutinación ocurre por la unión de antígenos capsulares con anticuerpos específicos unidos al látex."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es una causa frecuente de falsos negativos en el test de antígeno criptocócico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemólisis del LCR"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenómeno de prozona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminación bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta concentración de proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de conservantes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fenómeno de prozona por exceso de antígeno puede interferir en la aglutinación y causar falsos negativos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué resultado de tinta china apoya el diagnóstico de criptococosis meníngea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de levaduras encapsuladas en el LCR"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de bacilos gramnegativos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio de neutrófilos en el LCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de células fúngicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células con inclusiones intracelulares"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La observación de levaduras encapsuladas en LCR es característica de Cryptococcus neoformans."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué acción se recomienda ante un test de antígeno criptocócico positivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar tratamiento antifúngico inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir la muestra a las 48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar cultivo bacteriano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender toda medicación previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar confirmación por PCR"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El resultado positivo requiere inicio inmediato de terapia antifúngica, generalmente con anfotericina B y flucitosina."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué cultivo puede confirmar el diagnóstico de meningitis criptocócica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar Sabouraud"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar EMB"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar chocolate"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cultivo en agar Sabouraud permite el crecimiento y confirmación de Cryptococcus neoformans."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué utilidad tiene el título del antígeno criptocócico en LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar el tipo de Cryptococcus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar la carga fúngica y pronóstico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar resistencia antifúngica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diferenciar entre cepas virulentas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la concentración proteica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El título del antígeno refleja la carga fúngica y se usa para monitorizar la respuesta terapéutica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el agente etiológico más frecuente de criptococosis en pacientes VIH positivos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cryptococcus neoformans var. grubii"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cryptococcus gattii"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histoplasma capsulatum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Blastomyces dermatitidis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Cryptococcus neoformans var. grubii es la forma más prevalente en pacientes inmunocomprometidos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo del test de tinta china es diagnóstico de Cryptococcus gattii?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Levaduras encapsuladas idénticas a C. neoformans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hifas septadas con esporangios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de cápsula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esporas terminales en cadena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pigmentación negra intracelular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "C. gattii presenta morfología similar a C. neoformans: levaduras encapsuladas visibles con tinta china."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes pruebas permite distinguir entre C. neoformans y C. gattii?",
+      "alternativas": [
+        {
+          "opcion": "C",
+          "texto": "neoformans y C. gattii?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Medio de canavanina-glicina-azul de bromotimol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aglutinación de látex"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de tinta china"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR del gen 18S rRNA"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El medio CGB diferencia C. gattii (color azul) de C. neoformans (sin cambio de color)."
+    }
+  ]
+}

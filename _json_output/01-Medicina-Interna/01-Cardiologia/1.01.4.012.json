@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la utilidad del perfil bioquímico en el contexto de enfermedades cardiovasculares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Valorar el estado metabólico y riesgo cardiovascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar el gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir la presión arterial indirectamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar la saturación de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El perfil bioquímico evalúa parámetros metabólicos y renales que ayudan a valorar el riesgo y pronóstico cardiovascular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes valores alterados aumenta el riesgo de aterosclerosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos bajos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LDL elevado es el principal marcador lipídico relacionado con la aterosclerosis y enfermedad coronaria."
+    },
+    {
+      "numero": "3",
+      "texto": "La hiperlipidemia se asocia principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del riesgo de enfermedad coronaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia microcítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La elevación de lípidos plasmáticos incrementa el riesgo de enfermedad coronaria y aterosclerosis."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué valor de colesterol LDL se considera óptimo en pacientes de alto riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<160 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<50 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En pacientes de alto riesgo cardiovascular, el LDL debe mantenerse por debajo de 70 mg/dL."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes electrolitos tiene mayor impacto en la excitabilidad cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fósforo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El potasio es fundamental para el potencial de acción cardíaco; su alteración causa arritmias graves."
+    },
+    {
+      "numero": "6",
+      "texto": "Una hipopotasemia severa puede provocar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquiarritmias ventriculares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión postural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asistolia inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipopotasemia altera la repolarización, predisponiendo a taquiarritmias ventriculares potencialmente fatales."
+    },
+    {
+      "numero": "7",
+      "texto": "La elevación de creatinina sérica en un paciente con insuficiencia cardíaca sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fallo renal asociado a hipoperfusión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatopatía congestiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En insuficiencia cardíaca, la hipoperfusión renal eleva la creatinina sérica como signo de disfunción renal asociada."
+    },
+    {
+      "numero": "8",
+      "texto": "El aumento de transaminasas (AST y ALT) en un paciente con insuficiencia cardíaca indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión hepática por congestión pasiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestasis biliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isquemia intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La congestión hepática secundaria a insuficiencia cardíaca produce elevación leve de AST y ALT."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué parámetro del perfil bioquímico ayuda a evaluar el estado metabólico del miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido úrico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bilirrubina total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de lactato refleja metabolismo anaerobio y perfusión tisular insuficiente, como ocurre en shock o isquemia cardíaca."
+    },
+    {
+      "numero": "10",
+      "texto": "Un nivel bajo de sodio en insuficiencia cardíaca crónica suele deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipersecreción de aldosterona y ADH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida renal de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta excesiva de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento con nitratos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La activación neurohormonal (ADH y aldosterona) en insuficiencia cardíaca causa retención de agua y dilución del sodio."
+    },
+    {
+      "numero": "11",
+      "texto": "La elevación del ácido úrico se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del flujo renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome metabólico y disfunción endotelial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipovolemia aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ácido úrico elevado se asocia a estrés oxidativo y disfunción endotelial, componentes del síndrome metabólico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro indica daño renal crónico en un paciente con hipertensión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urea baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina elevada y filtrado glomerular reducido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido úrico bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa disminuida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Albumina sérica elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de creatinina y la reducción del filtrado glomerular reflejan daño renal crónico secundario a hipertensión."
+    },
+    {
+      "numero": "13",
+      "texto": "El calcio sérico bajo puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolongación del intervalo QT"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acortamiento del QT"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inversión de onda T"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipocalcemia prolonga el intervalo QT, predisponiendo a arritmias ventriculares."
+    },
+    {
+      "numero": "14",
+      "texto": "La hiperglucemia crónica contribuye al daño cardiovascular por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incremento de catecolaminas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aceleración de la aterosclerosis y disfunción endotelial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición del sistema renina-angiotensina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del transporte de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia favorece la glicación de proteínas y daño endotelial, promoviendo aterosclerosis acelerada."
+    },
+    {
+      "numero": "15",
+      "texto": "El aumento de las enzimas hepáticas en un paciente con insuficiencia derecha refleja:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Congestión hepática por retorno venoso elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis hepatocelular viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción biliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isquemia mesentérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatopatía alcohólica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La congestión hepática secundaria a insuficiencia cardíaca derecha eleva las transaminasas por hipoxia hepatocelular."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué componente del perfil bioquímico se usa para evaluar el control del metabolismo lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Triglicéridos y colesterol HDL/LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa y creatinina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio y fósforo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido úrico y bilirrubina"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST y ALT"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El perfil lipídico forma parte del perfil bioquímico y se usa para evaluar riesgo cardiovascular."
+    },
+    {
+      "numero": "17",
+      "texto": "Una relación colesterol total/HDL mayor de 5 indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajo riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riesgo cardiovascular elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riesgo intermedio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipidemia aislada por HDL alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna significancia clínica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación colesterol total/HDL >5 refleja un aumento significativo del riesgo cardiovascular global."
+    },
+    {
+      "numero": "18",
+      "texto": "En el contexto del síndrome metabólico, el perfil bioquímico típicamente muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL bajo, triglicéridos altos y glucosa elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL bajo y HDL alto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia y anemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcio elevado y fosfato bajo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome metabólico combina dislipidemia aterogénica con hiperglucemia e insulinorresistencia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro del perfil bioquímico permite evaluar indirectamente la perfusión renal en shock cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bilirrubina total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio ionizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fósforo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido úrico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina sérica aumenta cuando hay disminución del flujo renal, como ocurre en shock cardiogénico."
+    },
+    {
+      "numero": "20",
+      "texto": "Un perfil bioquímico con glucosa, colesterol y triglicéridos elevados es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome metabólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia idiopática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de hiperglucemia y dislipidemia es típica del síndrome metabólico, un importante factor de riesgo cardiovascular."
+    }
+  ]
+}

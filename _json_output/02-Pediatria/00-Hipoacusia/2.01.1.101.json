@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.101",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hipoacusia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de hipoacusia conductiva en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media serosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trauma craneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Citomegalovirus congénito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ototoxicidad por aminoglucósidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La otitis media serosa es la causa más común de hipoacusia conductiva en niños por líquido en el oído medio."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de hipoacusia neurosensorial congénita?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rubéola congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citomegalovirus congénito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo congénito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El citomegalovirus congénito es la causa infecciosa más frecuente de hipoacusia neurosensorial en recién nacidos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de hipoacusia se asocia con otitis media con efusión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neurosensorial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conductiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La otitis media con efusión genera una hipoacusia conductiva reversible por líquido en el oído medio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el método de tamizaje auditivo más utilizado en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Audiometría tonal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Potenciales evocados auditivos automáticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Timpanometría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Audiometría verbal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Weber"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los potenciales evocados auditivos automáticos permiten detectar hipoacusia en el recién nacido con alta sensibilidad."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estructura del oído está afectada en la hipoacusia neurosensorial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Membrana timpánica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cadena osicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cóclea o nervio auditivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trompa de Eustaquio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculo del estribo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoacusia neurosensorial se origina por daño en la cóclea o el nervio auditivo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué fármaco puede causar hipoacusia neurosensorial irreversible?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gentamicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paracetamol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceftriaxona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los aminoglucósidos como la gentamicina son ototóxicos y pueden causar hipoacusia neurosensorial irreversible."
+    },
+    {
+      "numero": "7",
+      "texto": "¿A qué edad debe realizarse el tamizaje auditivo universal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de los 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antes del alta hospitalaria o al primer mes de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "A los 3 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "Al ingreso escolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 2 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamizaje auditivo universal debe realizarse antes del primer mes de vida para diagnóstico y tratamiento precoz."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes signos puede sugerir hipoacusia en un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Llanto intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "No responde a ruidos fuertes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irritabilidad al ruido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sonrisa social precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dificultad para dormir"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de respuesta a ruidos intensos o la ausencia de sobresalto sugiere déficit auditivo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué examen evalúa la función coclear en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Timpanometría"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otoemisiones acústicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de Rinne"
+        },
+        {
+          "opcion": "D",
+          "texto": "Audiometría de juego"
+        },
+        {
+          "opcion": "E",
+          "texto": "Potenciales evocados de tronco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las otoemisiones acústicas evalúan la función de las células ciliadas externas en la cóclea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la principal consecuencia de la hipoacusia no tratada en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tartamudez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso del lenguaje y aprendizaje"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrabismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislexia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotonía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoacusia no tratada interfiere con la adquisición del lenguaje y el desarrollo cognitivo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo en un niño con hipoacusia conductiva se espera en la prueba de Rinne?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinne positivo bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rinne negativo en oído afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinne falso positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinne bilateralmente negativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinne ausente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipoacusia conductiva, el Rinne es negativo porque la conducción ósea supera la aérea."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué factor perinatal se asocia a mayor riesgo de hipoacusia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parto vaginal eutócico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia grave con kernícterus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peso adecuado al nacer"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apgar alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cesárea programada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El kernícterus puede dañar el nervio auditivo y causar hipoacusia neurosensorial."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de hipoacusia se asocia a otosclerosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conductiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neurosensorial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Funcional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La otosclerosis fija el estribo en la ventana oval, produciendo hipoacusia conductiva."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento de elección para hipoacusia neurosensorial bilateral profunda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Audífonos retroauriculares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cirugía de cadena osicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Implante coclear"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides tópicos óticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos orales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El implante coclear permite estimular directamente el nervio auditivo en hipoacusia neurosensorial profunda."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué virus posnatal puede causar hipoacusia neurosensorial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Influenza A"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sarampión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sarampión puede causar hipoacusia neurosensorial permanente por daño coclear."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué resultado se espera en la prueba de Weber en una hipoacusia conductiva derecha?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lateraliza a la izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lateraliza a la derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "No lateraliza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lateraliza al oído con menor audición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resultado variable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipoacusia conductiva, el Weber lateraliza hacia el oído afectado."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de hipoacusia se produce por lesión del nervio coclear?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conductiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neurosensorial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retrocolear"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El daño en el nervio coclear causa hipoacusia neurosensorial por alteración en la transmisión nerviosa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes factores se considera de alto riesgo para hipoacusia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso normal al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de oxigenoterapia prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apgar alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alimentación materna exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto a término"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La oxigenoterapia prolongada se asocia a daño coclear y hipoacusia neurosensorial."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico puede sugerir hipoacusia unilateral en un escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lenguaje normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inatención y bajo rendimiento escolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otalgia recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epistaxis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nistagmo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoacusia unilateral puede manifestarse con distracción y bajo rendimiento académico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estudio se utiliza para confirmar hipoacusia en un niño mayor de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otoemisiones acústicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Potenciales evocados auditivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Audiometría tonal liminar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Timpanometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Rinne"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La audiometría tonal liminar permite cuantificar el umbral auditivo en niños colaboradores."
+    }
+  ]
+}

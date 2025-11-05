@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.2.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el signo más importante de compromiso hemodinámico en una arritmia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palidez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diaforesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipotensión refleja una caída en el gasto cardíaco y es el signo clave de compromiso hemodinámico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la conducta inicial ante una taquiarritmia con compromiso hemodinámico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar amiodarona IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar cardioversión eléctrica sincronizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dar oxígeno y esperar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar adenosina IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar masaje carotídeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión eléctrica sincronizada es el tratamiento de elección ante taquiarritmias con compromiso hemodinámico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tratamiento inmediato de una bradiarritmia sintomática con signos de shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atropina IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amiodarona IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta bloqueador IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenosina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verapamilo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La atropina es el fármaco de primera línea para tratar bradicardias con repercusión hemodinámica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué dosis inicial de atropina se recomienda en bradicardia con hipotensión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1 mg IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.5 mg IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 mg IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "2 mg IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 mg IV"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dosis inicial es de 0.5 mg IV, repitiendo cada 3-5 minutos hasta un máximo de 3 mg."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué intervención se realiza si la atropina no revierte una bradicardia sintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar lidocaína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar estimulación cardíaca transcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dar más líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar cardioversión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar betabloqueadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estimulación cardíaca transcutánea es la siguiente medida cuando la atropina no es efectiva."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes fármacos puede utilizarse en bradicardia refractaria a la atropina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Noradrenalina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Verapamilo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenosina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dopamina en infusión puede usarse en bradicardias refractarias con hipotensión para mantener el gasto cardíaco."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de taquicardia requiere desfibrilación inmediata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia por reentrada nodal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia auricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fibrilación ventricular es una arritmia sin pulso que requiere desfibrilación inmediata."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el signo clínico más evidente de taquiarritmia con bajo gasto cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquipnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Confusión y mareo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor pleurítico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoperfusión cerebral causa confusión, mareo o síncope en taquiarritmias descompensadas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida se realiza en taquicardia supraventricular con pulso y compromiso hemodinámico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desfibrilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardioversión sincronizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar amiodarona oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenosina en bolo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar masaje carotídeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión sincronizada es la medida indicada cuando hay pulso pero existe compromiso hemodinámico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la energía inicial recomendada para cardioversión sincronizada en taquiarritmia de QRS estrecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 J"
+        },
+        {
+          "opcion": "B",
+          "texto": "100 J"
+        },
+        {
+          "opcion": "C",
+          "texto": "150 J"
+        },
+        {
+          "opcion": "D",
+          "texto": "200 J"
+        },
+        {
+          "opcion": "E",
+          "texto": "300 J"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se recomienda iniciar con 50 a 100 J en taquicardias de QRS estrecho con pulso."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué arritmia puede producir bradicardia severa y síncope (síndrome de Stokes-Adams)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flutter auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Extrasístoles ventriculares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bloqueo AV completo puede producir pausas prolongadas que generan pérdida de conciencia súbita (síndrome de Stokes-Adams)."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro define compromiso hemodinámico severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FC mayor a 100"
+        },
+        {
+          "opcion": "B",
+          "texto": "PA sistólica <90 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "FR mayor a 20"
+        },
+        {
+          "opcion": "D",
+          "texto": "SatO₂ menor de 95%"
+        },
+        {
+          "opcion": "E",
+          "texto": "PVC elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una presión arterial sistólica menor a 90 mmHg indica hipoperfusión y compromiso hemodinámico severo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué intervención es prioritaria ante un paciente con taquicardia ventricular con pulso y signos de shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar lidocaína IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar cardioversión sincronizada inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar desfibrilación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dar adenosina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar dopamina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En taquicardia ventricular con pulso y compromiso hemodinámico se debe realizar cardioversión sincronizada inmediata."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el manejo farmacológico alternativo en bradicardia sintomática cuando no hay respuesta a atropina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adrenalina IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Noradrenalina IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dopamina IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dobutamina IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lidocaína IV"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dopamina en infusión puede utilizarse para mantener la perfusión cuando la atropina es inefectiva."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la causa más común de bradiarritmia con compromiso hemodinámico en adultos mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Isquemia del nodo sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipovolemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquiarritmia auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desbalance electrolítico leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La isquemia o degeneración del nodo sinusal es una causa frecuente de bradicardias sintomáticas en adultos mayores."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo indica necesidad de intervención urgente en bradicardia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FC de 55 lpm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor torácico"
+        },
+        {
+          "opcion": "C",
+          "texto": "PA 130/80"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paciente asintomático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saturación normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de dolor torácico sugiere hipoperfusión coronaria y requiere intervención inmediata."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica diferencia la desfibrilación de la cardioversión sincronizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de menos energía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sincronización con el complejo QRS"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicación en arritmias bradicárdicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducción de asistolia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso solo en fibrilación auricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión sincronizada descarga en el momento del QRS para evitar inducir fibrilación ventricular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué efecto fisiológico causa la bradiarritmia severa en la perfusión coronaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del flujo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del gasto cardíaco y perfusión coronaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasodilatación coronaria compensadora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estabilización hemodinámica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del consumo de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bradicardia severa reduce el gasto cardíaco, disminuyendo la perfusión coronaria y agravando la isquemia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la intervención de elección ante un paciente con fibrilación auricular rápida con hipotensión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar digoxina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardioversión eléctrica sincronizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dar verapamilo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar anticoagulación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar masaje carotídeo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión sincronizada es el manejo inmediato de la fibrilación auricular con compromiso hemodinámico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué fármaco se prefiere en taquiarritmias con QRS ancho y compromiso hemodinámico si no se dispone de cardioversión inmediata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiodarona IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenosina IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lidocaína oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Propranolol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La amiodarona IV es útil como alternativa temporal en taquicardias ventriculares con compromiso hemodinámico."
+    }
+  ]
+}

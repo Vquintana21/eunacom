@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.025",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Serología y técnicas de aislamiento viral y bacteriano",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué método permite identificar infecciones virales agudas mediante detección de antígenos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA de IgG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemaglutinación indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunofluorescencia directa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Western blot"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La inmunofluorescencia directa detecta antígenos virales en células o tejidos infectados, confirmando infección activa."
+    },
+    {
+      "numero": "2",
+      "texto": "Una serología con IgM positiva e IgG negativa indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección pasada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunidad vacunal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección reciente o aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reinfección"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción cruzada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La IgM aparece primero y sugiere una infección aguda o reciente."
+    },
+    {
+      "numero": "3",
+      "texto": "La técnica de ELISA se usa para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar crecimiento bacteriano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir anticuerpos o antígenos específicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar morfología bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar ADN viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislar virus en cultivo celular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "ELISA cuantifica antígenos o anticuerpos específicos usando una reacción enzimática colorimétrica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el método de elección para confirmar VIH en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunofluorescencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA IgG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Western blot o PCR viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemaglutinación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo viral estándar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La confirmación de VIH se realiza mediante Western blot o PCR de ADN viral."
+    },
+    {
+      "numero": "5",
+      "texto": "El aislamiento bacteriano en medios de cultivo permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir respuesta inmunitaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar especie bacteriana y sensibilidad antibiótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar antígenos virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuantificar carga viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar producción de anticuerpos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo bacteriano permite identificar el agente y realizar antibiograma para determinar sensibilidad."
+    },
+    {
+      "numero": "6",
+      "texto": "Una seroconversión se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de anticuerpos IgG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio de negatividad a positividad de anticuerpos específicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de antígenos detectables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de IgM transitorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conversión de ADN viral a ARN"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La seroconversión indica infección reciente cuando aparecen anticuerpos previamente ausentes."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba es más sensible para detectar infecciones virales respiratorias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cultivo en agar sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunodifusión doble"
+        },
+        {
+          "opcion": "E",
+          "texto": "Western blot"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PCR permite detectar pequeñas cantidades de material genético viral con alta sensibilidad."
+    },
+    {
+      "numero": "8",
+      "texto": "El aislamiento de Mycobacterium tuberculosis requiere el uso de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medio de MacConkey"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medio de Löwenstein-Jensen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medio de Sabouraud"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medio de agar chocolate"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medio de Thayer-Martin"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El medio de Löwenstein-Jensen es específico para el crecimiento de micobacterias."
+    },
+    {
+      "numero": "9",
+      "texto": "El test de Paul-Bunnell se utiliza para detectar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticuerpos heterófilos en mononucleosis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antígenos de estreptococo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticuerpos anti-HBs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos anti-EBV IgG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antígenos de influenza A"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Detecta anticuerpos heterófilos generados por infección por virus de Epstein-Barr."
+    },
+    {
+      "numero": "10",
+      "texto": "En un ELISA indirecto, el antígeno está localizado en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El suero del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "El conjugado enzimático"
+        },
+        {
+          "opcion": "C",
+          "texto": "El pocillo de la placa"
+        },
+        {
+          "opcion": "D",
+          "texto": "El control negativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "El diluyente de muestra"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En ELISA indirecto, el antígeno se fija a la placa para detectar anticuerpos específicos en el suero."
+    },
+    {
+      "numero": "11",
+      "texto": "La hemaglutinación directa se basa en la unión de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antígenos virales con eritrocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticuerpos con látex"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antígenos bacterianos solubles"
+        },
+        {
+          "opcion": "D",
+          "texto": "ARN viral con ADN celular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enzimas conjugadas con sustratos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Algunos virus, como influenza, aglutinan eritrocitos por interacción con sus hemaglutininas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué prueba permite diferenciar infecciones primarias de secundarias en dengue?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ELISA IgM/IgG"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo celular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemaglutinación inhibida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La relación IgM/IgG en ELISA ayuda a diferenciar entre infección primaria y secundaria por dengue."
+    },
+    {
+      "numero": "13",
+      "texto": "El cultivo de virus respiratorios requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medios selectivos con antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células vivas susceptibles como HEp-2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar sangre enriquecido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medio líquido sin antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar chocolate con CO₂"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los virus solo pueden crecer en cultivos celulares vivos, no en medios bacterianos sólidos."
+    },
+    {
+      "numero": "14",
+      "texto": "La detección de antígeno de superficie HBsAg indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección pasada por hepatitis B"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección activa por hepatitis B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunidad posvacunal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resolución completa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fase de ventana serológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El HBsAg positivo indica replicación viral y fase activa de infección por hepatitis B."
+    },
+    {
+      "numero": "15",
+      "texto": "La técnica de inmunofluorescencia indirecta permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Visualizar antígenos directamente unidos a un fluoróforo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar anticuerpos específicos usando un anticuerpo fluorescente secundario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la actividad enzimática viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar bacterias por tinción simple"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar antígenos solubles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunofluorescencia indirecta usa un anticuerpo secundario marcado para amplificar la señal de unión de anticuerpos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué método confirma una infección viral congénita en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgG positiva en suero neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR positiva en sangre o líquido amniótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgM negativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos heterófilos positivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo bacteriano positivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR positiva confirma infección viral congénita al detectar genoma viral directamente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el marcador serológico de inmunidad tras vacuna de hepatitis B?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HBsAg positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anti-HBc positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anti-HBs positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "HBeAg positivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anti-HBe positivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El anti-HBs positivo sin anti-HBc indica inmunidad adquirida por vacunación."
+    },
+    {
+      "numero": "18",
+      "texto": "En diagnóstico de faringoamigdalitis estreptocócica, la prueba rápida detecta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticuerpos antiestreptolisina O"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antígeno del estreptococo del grupo A"
+        },
+        {
+          "opcion": "C",
+          "texto": "ADN bacteriano por PCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células epiteliales infectadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxina eritrogénica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test rápido de estreptococo detecta el antígeno del grupo A mediante inmunocromatografía."
+    },
+    {
+      "numero": "19",
+      "texto": "El cultivo en agar chocolate se utiliza para aislar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis y Haemophilus influenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium tuberculosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El agar chocolate favorece el crecimiento de bacterias exigentes como Neisseria y Haemophilus."
+    },
+    {
+      "numero": "20",
+      "texto": "El Western blot se utiliza como prueba confirmatoria en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "B",
+          "texto": "VIH y enfermedad de Lyme"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Varicela-zóster"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Western blot se usa como confirmatorio para VIH y enfermedad de Lyme tras un tamizaje positivo."
+    }
+  ]
+}

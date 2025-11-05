@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.088",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Criptorquidia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la criptorquidia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia congénita de testículos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso en el descenso testicular al escroto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia testicular secundaria a torsión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de testículo accesorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fusión anómala de los conductos deferentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La criptorquidia es la falta de descenso del testículo al escroto, pudiendo quedar en el trayecto inguinal o abdomen."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad se considera anormal que no haya ocurrido el descenso testicular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "18 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si el testículo no ha descendido a los 6 meses, es poco probable que lo haga espontáneamente y requiere evaluación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio más frecuente del testículo no descendido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intraabdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Canal inguinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escroto alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retroperitoneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perineal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El canal inguinal es el sitio más común donde se localiza un testículo no descendido."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes condiciones se asocia con mayor frecuencia a criptorquidia bilateral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Klinefelter"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Prader-Willi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipogonadismo hipogonadotrópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernia diafragmática congénita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hipogonadismo hipogonadotrópico altera la producción hormonal necesaria para el descenso testicular bilateral."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal complicación a largo plazo de la criptorquidia no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Torsión testicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infertilidad y riesgo de cáncer testicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Varicocele"
+        },
+        {
+          "opcion": "D",
+          "texto": "Orquitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epididimitis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El testículo no descendido presenta mayor riesgo de infertilidad y desarrollo de tumor testicular germinal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estudio de imagen se utiliza de primera línea para localizar un testículo no palpable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de pelvis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía inguinoescrotal"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía testicular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía inguinoescrotal es el examen inicial para localizar un testículo no descendido o ectópico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué procedimiento es el tratamiento de elección en criptorquidia persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orquiectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orquidopexia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exploración laparoscópica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia testicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento hormonal prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La orquidopexia es el procedimiento quirúrgico que permite fijar el testículo dentro del escroto."
+    },
+    {
+      "numero": "8",
+      "texto": "¿A qué edad debe realizarse la orquidopexia idealmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de los 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 6 y 12 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "A los 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antes de los 3 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 5 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda realizar la orquidopexia entre los 6 y 12 meses para preservar la función testicular."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hormona se ha utilizado como tratamiento médico de la criptorquidia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testosterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "hCG"
+        },
+        {
+          "opcion": "E",
+          "texto": "GnRH"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hCG estimula la producción de testosterona, favoreciendo el descenso testicular en algunos casos seleccionados."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué diferencia a la criptorquidia del testículo retráctil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de hernia asociada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Posibilidad de palpar y descender el testículo al escroto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Localización intraabdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia testicular parcial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de reflejo cremastérico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El testículo retráctil puede descenderse manualmente al escroto, a diferencia del testículo verdaderamente no descendido."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué factor embriológico es clave en el descenso testicular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conducto de Müller"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ligamento suspensor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gubernáculo testicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seno urogenital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón espermático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El gubernáculo guía el descenso testicular desde el abdomen hacia el escroto durante el desarrollo fetal."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la prevalencia de criptorquidia en recién nacidos a término?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "1-2%"
+        },
+        {
+          "opcion": "C",
+          "texto": "3-5%"
+        },
+        {
+          "opcion": "D",
+          "texto": "8-10%"
+        },
+        {
+          "opcion": "E",
+          "texto": "10-15%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aproximadamente el 1-2% de los recién nacidos a término presenta criptorquidia persistente a los 6 meses."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal causa de infertilidad en criptorquidia bilateral no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atrofia por calor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Torsión testicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis intersticial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defecto cromosómico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El calor corporal intraabdominal deteriora las células germinales, afectando la espermatogénesis."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo histológico de cáncer testicular se asocia con criptorquidia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seminoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Teratoma maduro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coriocarcinoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma embrionario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tumor del saco vitelino"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El seminoma es el tipo de cáncer testicular más frecuente en pacientes con antecedente de criptorquidia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo físico puede acompañar a la criptorquidia unilateral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escroto hipoplásico ipsilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hernia umbilical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroescroto bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrocele contralateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Penis curvado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El escroto del lado afectado suele ser hipoplásico o vacío en la criptorquidia unilateral."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes diagnósticos diferenciales debe considerarse en criptorquidia no palpable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testículo ectópico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrofia testicular posnatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agenesia testicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La criptorquidia no palpable puede deberse a testículo ectópico, atrófico o ausente, por lo que requiere evaluación quirúrgica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué técnica se utiliza para explorar testículos no palpables en abdomen?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orquiectomía exploratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Laparoscopia diagnóstica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ultrasonido Doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia testicular abierta"
+        },
+        {
+          "opcion": "E",
+          "texto": "TAC de abdomen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La laparoscopia permite localizar testículos intraabdominales y definir el manejo quirúrgico adecuado."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué porcentaje de casos de criptorquidia son bilaterales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "30%"
+        },
+        {
+          "opcion": "E",
+          "texto": "50%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Aproximadamente un 20% de los casos de criptorquidia afectan ambos testículos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hormona estimula el descenso testicular durante el desarrollo fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La testosterona, producida por las células de Leydig, es esencial para el descenso testicular fetal."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué condición se asocia frecuentemente con criptorquidia y hernia inguinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Persistencia del conducto peritoneovaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrosis testicular congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Defecto de la túnica albugínea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipospadia distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis uretral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La persistencia del conducto peritoneovaginal predispone tanto a hernia inguinal como a criptorquidia."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.4.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Dónde se sintetiza la hormona estimulante de la tiroides (TSH)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotálamo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lóbulo posterior de la hipófisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenohipófisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corteza suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TSH se produce en la adenohipófisis y estimula la liberación de T3 y T4 por la glándula tiroides."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hormona hipotalámica regula la secreción de TSH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Somatostatina"
+        },
+        {
+          "opcion": "B",
+          "texto": "CRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "TRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "GnRH"
+        },
+        {
+          "opcion": "E",
+          "texto": "ACTH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hormona liberadora de tirotropina (TRH) estimula a la adenohipófisis para secretar TSH."
+    },
+    {
+      "numero": "3",
+      "texto": "La principal hormona secretada por la tiroides es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "T3 (triyodotironina)"
+        },
+        {
+          "opcion": "B",
+          "texto": "T4 (tiroxina)"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcitonina"
+        },
+        {
+          "opcion": "E",
+          "texto": "TRH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiroides secreta principalmente T4, que luego se convierte en T3, la forma metabólicamente activa."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la forma metabólicamente activa de las hormonas tiroideas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "T4"
+        },
+        {
+          "opcion": "B",
+          "texto": "T3"
+        },
+        {
+          "opcion": "C",
+          "texto": "rT3"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "TRH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La T3 es la forma activa que actúa sobre los receptores nucleares en los tejidos diana."
+    },
+    {
+      "numero": "5",
+      "texto": "¿En qué órgano ocurre principalmente la conversión periférica de T4 a T3?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Páncreas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hígado es uno de los principales órganos responsables de convertir T4 en T3 mediante desyodinasas."
+    },
+    {
+      "numero": "6",
+      "texto": "El aumento de T4 libre en sangre causa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de TSH por retroalimentación negativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de TSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de TRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de T3 inversa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de prolactina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de T4 inhibe la secreción de TSH y TRH por retroalimentación negativa."
+    },
+    {
+      "numero": "7",
+      "texto": "En el hipotiroidismo primario, se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH baja y T4 alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH alta y T4 baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH y T4 altas"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH baja y T4 normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH normal y T4 baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipotiroidismo primario la tiroides falla y la TSH aumenta compensatoriamente por falta de T4."
+    },
+    {
+      "numero": "8",
+      "texto": "En el hipertiroidismo primario, los niveles hormonales típicos son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH elevada, T4 baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH baja, T4 alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH y T4 bajas"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH alta, T4 normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH normal, T4 baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de T4 suprime la TSH por retroalimentación negativa, generando TSH baja y T4 alta."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes fármacos puede inhibir la conversión de T4 a T3?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Propranolol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Yoduro de potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Liotironina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metformina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El propranolol bloquea la conversión periférica de T4 en T3 además de controlar los síntomas adrenérgicos."
+    },
+    {
+      "numero": "10",
+      "texto": "La T4 se transporta principalmente en sangre unida a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Globulina fijadora de tiroxina (TBG)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albúmina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Globulina fijadora de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transtiretina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mayor parte de la T4 circula unida a la TBG, que regula su disponibilidad plasmática."
+    },
+    {
+      "numero": "11",
+      "texto": "En el hipotiroidismo secundario, los niveles esperados son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH alta y T4 baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH baja y T4 baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH alta y T4 alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH normal y T4 alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH baja y T4 normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipotiroidismo secundario, el defecto está en la hipófisis, por lo que TSH y T4 están bajas."
+    },
+    {
+      "numero": "12",
+      "texto": "La triyodotironina inversa (rT3) se forma principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conversión periférica de T4 en tejidos por desyodasa tipo 3"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síntesis directa en la tiroides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conversión hepática de T3"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conversión renal de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Actividad hipotalámica de TRH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La rT3 se genera por desyodación periférica de T4 y es una forma inactiva metabólicamente."
+    },
+    {
+      "numero": "13",
+      "texto": "En un paciente con enfermedad no tiroidea severa, es común encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "T3 baja, T4 normal, TSH normal o baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "T3 alta, T4 baja, TSH alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "T3 normal, T4 alta, TSH alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "T3 y T4 elevadas, TSH suprimida"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH alta y T4 baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el síndrome del eutiroideo enfermo se observa T3 baja con TSH y T4 normales o ligeramente alteradas."
+    },
+    {
+      "numero": "14",
+      "texto": "La T3 ejerce su efecto fisiológico mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Unión a receptores de membrana citoplasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Unión a receptores nucleares que modulan la transcripción génica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Activación de canales de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición de la síntesis proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo de receptores de glucocorticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La T3 se une a receptores nucleares y regula la expresión de genes que controlan el metabolismo celular."
+    },
+    {
+      "numero": "15",
+      "texto": "Un aumento de TBG puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de T4 libre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de T4 total con T4 libre normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de T4 total con T4 libre normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de T3 libre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento de TBG incrementa T4 total, pero la fracción libre permanece normal, sin hipertiroidismo verdadero."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el mejor parámetro para evaluar la función tiroidea global?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "T3 total"
+        },
+        {
+          "opcion": "B",
+          "texto": "T4 total"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH plasmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroglobulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcitonina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TSH es el marcador más sensible y específico para detectar alteraciones de la función tiroidea."
+    },
+    {
+      "numero": "17",
+      "texto": "En el hipertiroidismo central, los niveles hormonales son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH alta y T4 alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH baja y T4 baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH alta y T4 baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH baja y T4 normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH normal y T4 baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el hipertiroidismo central, el exceso de TSH por un adenoma hipofisario eleva T4 y T3 séricas."
+    },
+    {
+      "numero": "18",
+      "texto": "Una disminución de TSH con T4 libre normal se interpreta como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo subclínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo secundario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de eutiroideo enfermo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "TSH baja con T4 normal define hipertiroidismo subclínico, reflejando un exceso hormonal compensado."
+    },
+    {
+      "numero": "19",
+      "texto": "En pacientes embarazadas, los niveles de TBG se:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducen significativamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantienen estables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentan por acción de los estrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descienden por efecto de la hCG"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se alteran por cambios hormonales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante el embarazo, los estrógenos aumentan la síntesis hepática de TBG, elevando T4 total."
+    },
+    {
+      "numero": "20",
+      "texto": "Una TSH elevada con T4 y T3 normales sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo subclínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertiroidismo primario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo secundario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo severo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "TSH alta con T4 normal corresponde a hipotiroidismo subclínico, una etapa temprana de disfunción tiroidea."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.004",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Compromiso de conciencia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la escala más utilizada para evaluar el nivel de conciencia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Glasgow modificada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Apgar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escala de Silverman-Andersen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escala de Braden"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Aldrete"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La Escala de Glasgow modificada para niños permite evaluar apertura ocular, respuesta verbal y motora en distintas edades."
+    },
+    {
+      "numero": "2",
+      "texto": "En un niño con Glasgow 7, ¿cómo se clasifica el compromiso de conciencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moderado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mínimo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un Glasgow ≤8 se considera compromiso grave de conciencia y requiere manejo avanzado de la vía aérea."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa metabólica más frecuente de compromiso de conciencia en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperkalemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglicemia es una causa metabólica común y reversible de compromiso de conciencia en pediatría."
+    },
+    {
+      "numero": "4",
+      "texto": "En un paciente pediátrico con coma súbito, ¿cuál es la primera medida diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía de cerebro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinación de glicemia capilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de cráneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glicemia capilar es un examen rápido y esencial para descartar hipoglicemia como causa reversible."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo sugiere hipertensión endocraneana en un niño con compromiso de conciencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Midriasis bilateral reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradipnea y bradicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiraje subcostal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pupilas puntiformes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La triada de Cushing (bradicardia, hipertensión y respiración irregular) indica hipertensión endocraneana."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estructura cerebral se afecta directamente en el compromiso de conciencia profundo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corteza visual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistema reticular activador ascendente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotálamo lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tálamo ventral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerebelo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sistema reticular activador ascendente mantiene el estado de alerta; su lesión causa coma."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué patrón pupilar orienta a intoxicación por opioides en un niño somnoliento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Midriasis bilateral reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pupilas puntiformes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anisocoria sin respuesta a luz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Midriasis fija bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pupilas isocóricas no reactivas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pupilas puntiformes son típicas de intoxicación por opioides, acompañadas de depresión respiratoria."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el fármaco de elección ante sospecha de intoxicación por benzodiacepinas en un niño comatoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Naloxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flumazenil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fisostigmina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "E",
+          "texto": "N-acetilcisteína"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flumazenil es un antagonista específico de benzodiacepinas y revierte su efecto depresor."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el paso inicial en el manejo del niño con Glasgow menor a 8?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar anticonvulsivantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asegurar vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar TAC de cerebro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar reflejos pupilares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un Glasgow menor de 8 implica riesgo de pérdida del reflejo de protección de vía aérea y requiere intubación."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes hallazgos sugiere causa estructural del coma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio súbito sin focalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pupilas desiguales y respuesta motora asimétrica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Historia de ingesta tóxica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respuesta verbal conservada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefalea difusa sin focalidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La focalidad neurológica y las pupilas asimétricas orientan a lesión estructural cerebral."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico orienta a una causa metabólica de compromiso de conciencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anisocoria fija"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejos troncoencefálicos abolidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pupilas reactivas con ausencia de focalidad neurológica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desviación ocular conjugada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez de descerebración"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las causas metabólicas suelen presentar pupilas reactivas y ausencia de signos focales."
+    },
+    {
+      "numero": "12",
+      "texto": "En un niño con compromiso de conciencia, ¿qué reflejo debe evaluarse para valorar tronco encefálico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo plantar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo fotomotor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo de Moro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo de Babinski"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo cutáneo abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflejo fotomotor evalúa la integridad del mesencéfalo y del tronco encefálico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes patologías puede causar compromiso de conciencia por edema cerebral agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastroenteritis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El edema cerebral es una complicación grave de la cetoacidosis diabética pediátrica y puede causar coma."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué valor de glicemia define hipoglicemia significativa en un niño con compromiso de conciencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 80 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 70 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 60 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 50 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 100 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una glicemia menor de 50 mg/dL puede causar síntomas neurológicos severos y coma hipoglicémico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué patrón respiratorio indica lesión de tronco encefálico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respiración de Cheyne-Stokes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperventilación neurogénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Respiración apnéustica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respiración atáxica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respiración suspirosa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La respiración atáxica indica daño extenso en el tronco encefálico y es un signo ominoso."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la causa más frecuente de convulsión seguida de compromiso de conciencia en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsión febril simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Traumatismo craneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intoxicación por hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las convulsiones febriles simples son frecuentes y seguidas de un breve período de somnolencia postictal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué examen se debe realizar si se sospecha meningitis como causa del compromiso de conciencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía cerebral inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punción lumbar con estudio de LCR"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivos seriados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Mantoux"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La punción lumbar con análisis del líquido cefalorraquídeo confirma el diagnóstico de meningitis."
+    },
+    {
+      "numero": "18",
+      "texto": "En un niño con antecedente de trauma craneal y Glasgow 6, ¿qué debe priorizarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar manitol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar fondo de ojo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asegurar la vía aérea y ventilación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solicitar TAC diferida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar antibióticos empíricos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En trauma con Glasgow <8 se debe asegurar la vía aérea y prevenir hipoxia o hipercapnia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo sugiere compromiso de conciencia por intoxicación y no por lesión estructural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pupilas reactivas isocóricas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejos abolidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez de descerebración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anisocoria fija"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signos piramidales positivos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las intoxicaciones suelen cursar con pupilas reactivas y sin signos focales neurológicos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué reflejo debe estar ausente para definir muerte encefálica en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo corneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo plantar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo de Moro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo nauseoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo de succión"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ausencia del reflejo corneal, junto a otros reflejos troncoencefálicos, es criterio para muerte encefálica."
+    }
+  ]
+}

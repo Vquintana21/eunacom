@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.019",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la aspergilosis invasora?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspergillus niger"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspergillus fumigatus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspergillus flavus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mucor sp."
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aspergillus fumigatus es la especie más comúnmente implicada en la aspergilosis invasora en pacientes inmunocomprometidos."
+    },
+    {
+      "numero": "2",
+      "texto": "La principal vía de infección en la aspergilosis invasora es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingestión de alimentos contaminados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inoculación cutánea directa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhalación de conidias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contacto sexual"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las conidias de Aspergillus se inhalan desde el ambiente, depositándose en vías respiratorias y alveolos."
+    },
+    {
+      "numero": "3",
+      "texto": "El factor de riesgo más importante para aspergilosis invasora es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de corticoides prolongado o neutropenia profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad pulmonar obstructiva crónica leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neutropenia prolongada y el uso de corticoides son los principales factores predisponentes para aspergilosis invasora."
+    },
+    {
+      "numero": "4",
+      "texto": "En la tomografía de tórax, el signo del halo es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candidiasis diseminada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspergilosis invasora pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mucormicosis rinocerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histoplasmosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Blastomicosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo del halo (infiltrado con borde hemorrágico) es típico de la aspergilosis invasora pulmonar."
+    },
+    {
+      "numero": "5",
+      "texto": "El marcador serológico útil para el diagnóstico de aspergilosis invasora es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "β-D-glucano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antígeno galactomanano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de aglutinación en látex"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinción de Gram positiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocultivo positivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El antígeno galactomanano, componente de la pared de Aspergillus, se detecta en suero y lavado broncoalveolar."
+    },
+    {
+      "numero": "6",
+      "texto": "El antifúngico de elección en aspergilosis invasora es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Itraconazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Voriconazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amfotericina B liposomal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Caspofungina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Voriconazol es el tratamiento de primera elección para la aspergilosis invasora, con mejor eficacia y menor toxicidad que anfotericina B."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes hongos muestra hifas hialinas septadas con ramificación en ángulo agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspergillus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mucor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rhizopus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coccidioides"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Aspergillus se caracteriza por hifas septadas con ramificación dicotómica en ángulos agudos (~45°)."
+    },
+    {
+      "numero": "8",
+      "texto": "La candidiasis invasora se asocia más frecuentemente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de catéteres venosos y antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Picaduras de insectos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhalación de esporas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contacto sexual"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de catéteres, antibióticos de amplio espectro y nutrición parenteral favorecen la candidemia."
+    },
+    {
+      "numero": "9",
+      "texto": "El microorganismo más común en candidemia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida krusei"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida parapsilosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida tropicalis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Candida albicans es la especie más frecuente en candidemia, aunque especies no albicans aumentan en incidencia."
+    },
+    {
+      "numero": "10",
+      "texto": "El antifúngico de elección para la candidemia en pacientes críticos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anfotericina B convencional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Caspofungina o equinocandinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Itraconazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ketoconazol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las equinocandinas (como caspofungina) son el tratamiento de elección inicial en candidemia en pacientes graves."
+    },
+    {
+      "numero": "11",
+      "texto": "La mucormicosis se caracteriza por hifas:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Septadas con ramificación aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anchas, no septadas, con ramificación en ángulo recto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortas y con blastoconidias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pigmentadas y tabicadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Filamentosas con esporas terminales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los Mucorales presentan hifas anchas, no septadas, con ramificación en ángulos de 90°, característica histológica clave."
+    },
+    {
+      "numero": "12",
+      "texto": "El factor de riesgo clásico para mucormicosis rinocerebral es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutropenia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de penicilinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad renal crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cetoacidosis diabética crea un ambiente ácido y rico en hierro que favorece la invasión por Mucorales."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento de elección para la mucormicosis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Voriconazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amfotericina B liposomal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Caspofungina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Itraconazol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anfotericina B liposomal es el antifúngico de elección, junto con desbridamiento quirúrgico agresivo."
+    },
+    {
+      "numero": "14",
+      "texto": "La mucormicosis rinocerebral suele presentarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ulceraciones cutáneas en miembros inferiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis nasal y palatina con extensión orbitaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea sanguinolenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoptisis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis aséptica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La necrosis de paladar y mucosa nasal con compromiso orbitario es característica de la mucormicosis rinocerebral."
+    },
+    {
+      "numero": "15",
+      "texto": "El examen directo con KOH en micosis invasora muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilos intracelulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levaduras encapsuladas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hifas filamentosas con o sin tabiques"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esporas bacterianas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cristales de oxalato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El examen con KOH permite observar hifas filamentosas características de hongos filamentosos invasores."
+    },
+    {
+      "numero": "16",
+      "texto": "La profilaxis antifúngica con posaconazol está indicada en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes con infecciones bacterianas recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes neutropénicos o trasplantados de médula ósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con neumonía adquirida en la comunidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con diabetes tipo 2 controlada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes inmunocompetentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El posaconazol se usa en profilaxis antifúngica para pacientes neutropénicos o trasplantados con alto riesgo de micosis invasora."
+    },
+    {
+      "numero": "17",
+      "texto": "Una diferencia importante entre aspergilosis y mucormicosis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El tipo de ramificación y presencia de tabiques en las hifas"
+        },
+        {
+          "opcion": "B",
+          "texto": "El sitio anatómico afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "La sensibilidad a penicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "El modo de transmisión sexual"
+        },
+        {
+          "opcion": "E",
+          "texto": "La producción de cápsula polisacárida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Aspergillus tiene hifas septadas con ramificación aguda, mientras Mucor tiene hifas no septadas con ramificación en ángulo recto."
+    },
+    {
+      "numero": "18",
+      "texto": "La candidiasis hepatoesplénica ocurre típicamente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes con VIH sin tratamiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes postquimioterapia con neutropenia prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con fibrosis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazadas con bacteriuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con traumatismo abdominal cerrado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ocurre tras neutropenia prolongada postquimioterapia, cuando la inmunidad se recupera y se liberan microabscesos por Candida."
+    },
+    {
+      "numero": "19",
+      "texto": "Una característica de la aspergilosis broncopulmonar alérgica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta pacientes inmunocomprometidos exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ocurre en asmáticos o con fibrosis quística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Provoca fiebre tifoidea secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Produce meningitis criptocócica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se disemina a nivel óseo con frecuencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aspergilosis broncopulmonar alérgica ocurre en pacientes asmáticos o con fibrosis quística, mediada por hipersensibilidad a Aspergillus."
+    },
+    {
+      "numero": "20",
+      "texto": "El hallazgo de levaduras gemantes con pseudohifas en sangre sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Criptococosis diseminada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candidemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspergilosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mucormicosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histoplasmosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de levaduras gemantes con pseudohifas es característica de Candida en infecciones diseminadas o candidemia."
+    }
+  ]
+}

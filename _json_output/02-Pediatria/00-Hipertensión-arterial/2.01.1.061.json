@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.061",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hipertensión arterial",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿A partir de qué percentil de presión arterial se define hipertensión en niños y adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Percentil 85"
+        },
+        {
+          "opcion": "B",
+          "texto": "Percentil 90"
+        },
+        {
+          "opcion": "C",
+          "texto": "Percentil 95"
+        },
+        {
+          "opcion": "D",
+          "texto": "Percentil 97"
+        },
+        {
+          "opcion": "E",
+          "texto": "Percentil 99"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera hipertensión arterial cuando la presión arterial es igual o mayor al percentil 95 para edad, sexo y talla."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de hipertensión en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión esencial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad renal parenquimatosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia suprarrenal congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Feocromocitoma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En niños, la causa más frecuente es secundaria, siendo la enfermedad renal la principal etiología."
+    },
+    {
+      "numero": "3",
+      "texto": "¿A qué edad comienza a aumentar la frecuencia de hipertensión esencial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edad preescolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad escolar tardía y adolescencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adulto joven"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de los 30 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En escolares mayores y adolescentes, la hipertensión esencial se vuelve más prevalente que la secundaria."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué método es recomendado para confirmar el diagnóstico de hipertensión arterial en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toma aislada de presión en consulta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión arterial ambulatoria de 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición domiciliaria ocasional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Registro de tres tomas consecutivas en un día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de tensiómetro digital de muñeca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La monitorización ambulatoria de 24 horas permite confirmar el diagnóstico y detectar hipertensión de bata blanca."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de las siguientes condiciones se asocia con hipertensión arterial secundaria en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glomerulonefritis crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estrés escolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo alto de sodio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las enfermedades renales crónicas son una causa clásica de hipertensión secundaria en pediatría."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes es un signo clínico característico de coartación de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial igual en brazos y piernas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión en extremidades superiores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión en miembros superiores y pulsos femorales débiles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo sistólico en el cuello"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de cianosis central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La coartación de aorta se manifiesta con hipertensión en brazos y pulsos femorales disminuidos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué examen es fundamental en el estudio inicial de hipertensión en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TAC cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía renal y de vías urinarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electromiografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holter cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colonoscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía renal es útil para descartar causas renales estructurales de hipertensión secundaria."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes hallazgos sugiere hipertensión secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Historia familiar positiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inicio abrupto y severo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo elevado de sal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El inicio súbito o hipertensión severa en un niño orienta a una causa secundaria."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el objetivo terapéutico principal en el manejo de la hipertensión pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión al percentil 85"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir un 10% de la presión inicial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mantener presión bajo el percentil 90"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normalizar peso corporal únicamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar actividad física sin medicación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento busca mantener la presión arterial por debajo del percentil 90 para edad, sexo y talla."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué antihipertensivo es de primera elección en hipertensión pediátrica con proteinuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bloqueadores beta"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueadores de canales de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos tiazídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alfa bloqueadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA son útiles por su efecto antiproteinúrico y protección renal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo en fondo de ojo se asocia con hipertensión severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microaneurismas aislados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragias retinianas y exudados algodonosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papiledema leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia óptica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desprendimiento de retina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las hemorragias retinianas y exudados algodonosos indican hipertensión severa o maligna."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el mejor método para evaluar daño a órgano blanco en hipertensión pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia de encéfalo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ecocardiograma permite detectar hipertrofia ventricular izquierda como signo de daño por hipertensión."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la medida más eficaz para prevenir hipertensión esencial en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar sal y cafeína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio regular y control del peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del consumo de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar aspirina en bajas dosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio y el control del peso son las medidas más efectivas para prevenir hipertensión esencial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es un síntoma frecuente de hipertensión en niños pequeños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epistaxis recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palpitaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Visión borrosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En lactantes y niños pequeños, la hipertensión puede manifestarse con irritabilidad o convulsiones."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro se usa para ajustar las tablas de presión arterial en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla"
+        },
+        {
+          "opcion": "C",
+          "texto": "IMC"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perímetro abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las tablas de presión arterial infantil se ajustan por edad, sexo y talla."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes medicamentos debe evitarse en adolescentes hipertensos deportistas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueador beta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueador de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "ARA II"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diurético tiazídico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los beta bloqueadores reducen el rendimiento físico y deben evitarse en deportistas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo sugiere una crisis hipertensiva en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión en percentil 95"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones y alteración del sensorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epistaxis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La crisis hipertensiva cursa con síntomas neurológicos severos como convulsiones o alteración del sensorio."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué examen de laboratorio se recomienda en la evaluación inicial de hipertensión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma y orina completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de función tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electroforesis de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo de orina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estudio genético"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hemograma y la orina completa son parte del estudio básico inicial en hipertensión pediátrica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes es una causa endocrina de hipertensión en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes insípida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El feocromocitoma causa hipertensión por secreción excesiva de catecolaminas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes signos clínicos es más frecuente en hipertensión esencial en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad y antecedentes familiares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia y proteinuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis y soplos cardíacos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria recurrente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retraso en crecimiento"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obesidad y los antecedentes familiares son comunes en hipertensión esencial adolescente."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.024",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición clásica de síndrome febril prolongado (SFP)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre mayor de 38°C por más de 3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre mayor de 38°C por más de 2 semanas sin diagnóstico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre menor de 38°C por más de 1 semana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre recurrente con intervalos afebriles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre de origen hospitalario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SFP se define como fiebre mayor de 38°C de al menos 2 semanas de duración sin diagnóstico tras evaluación inicial."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de síndrome febril prolongado en países en desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neoplasias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Causas autoinmunes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fármacos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastornos hematológicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En países en desarrollo, las infecciones son la causa más común de síndrome febril prolongado."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes infecciones se asocia más frecuentemente con SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mononucleosis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tuberculosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rubeola"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis es una de las causas infecciosas más comunes de SFP, especialmente en áreas endémicas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de tuberculosis es más comúnmente responsable del síndrome febril prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulmonar primaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulmonar cavitada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miliar o extrapulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Latente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistente a fármacos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis miliar o extrapulmonar suele causar fiebre prolongada sin síntomas respiratorios evidentes."
+    },
+    {
+      "numero": "5",
+      "texto": "En el estudio inicial del SFP, ¿qué examen debe solicitarse de rutina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemocultivos seriados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia de médula ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electrocardiograma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los hemocultivos seriados son esenciales en el estudio inicial del SFP para descartar bacteriemias persistentes."
+    },
+    {
+      "numero": "6",
+      "texto": "En el contexto de SFP, ¿cuál de las siguientes es una causa no infecciosa frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre tifoidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Brucelosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leptospirosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Entre las causas no infecciosas de SFP, los linfomas son una de las principales etiologías."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la utilidad del examen de proteína C reactiva (PCR) en SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distinguir causas virales de bacterianas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diagnosticar neoplasias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar tuberculosis latente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Confirmar fiebre por fármacos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Descartar infecciones virales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una PCR elevada orienta a causas infecciosas o inflamatorias bacterianas más que virales."
+    },
+    {
+      "numero": "8",
+      "texto": "En un paciente con SFP y esplenomegalia, ¿qué diagnóstico debe considerarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leptospirosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis viral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La malaria puede producir fiebre prolongada y esplenomegalia, especialmente en viajeros a zonas endémicas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo es más sugerente de fiebre por fármacos en el contexto de SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis neutrofílica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia normocítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatoesplenomegalia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fiebre inducida por fármacos puede acompañarse de eosinofilia y ausencia de síntomas infecciosos claros."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes agentes zoonóticos puede causar SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corynebacterium diphtheriae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Brucella spp."
+        },
+        {
+          "opcion": "C",
+          "texto": "Bordetella pertussis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clostridium tetani"
+        },
+        {
+          "opcion": "E",
+          "texto": "Treponema pallidum"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La brucelosis es una zoonosis que frecuentemente causa síndrome febril prolongado con síntomas inespecíficos."
+    },
+    {
+      "numero": "11",
+      "texto": "En pacientes inmunocomprometidos, ¿cuál es una causa frecuente de SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección por CMV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rubéola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes simple tipo 1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parvovirus B19"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El citomegalovirus puede causar fiebre prolongada en inmunocomprometidos, especialmente trasplantes o VIH."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes estudios es útil para detectar fiebre de origen infeccioso oculta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PET/CT con FDG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "D",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El PET/CT con FDG ayuda a localizar focos infecciosos o inflamatorios ocultos responsables del SFP."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes es un ejemplo de causa autoinmune de SFP?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lupus eritematoso sistémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Brucelosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxoplasmosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El lupus eritematoso sistémico es una causa no infecciosa frecuente de SFP."
+    },
+    {
+      "numero": "14",
+      "texto": "En un paciente con SFP y hemocultivos negativos, ¿qué diagnóstico considerar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endocarditis por Coxiella burnetii"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre tifoidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leptospirosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma de Hodgkin"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endocarditis por Coxiella burnetii cursa con fiebre prolongada y hemocultivos negativos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la actitud adecuada ante un SFP sin causa identificada tras evaluación exhaustiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar antibióticos empíricos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Continuar observación y reevaluar periódicamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar esteroides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar cirugía diagnóstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dar el alta sin seguimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si no se identifica causa tras evaluación completa, se recomienda observación y reevaluación continua."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué estudio es más útil para diagnosticar fiebre de origen por abscesos profundos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ultrasonido abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoscopia digestiva alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angiografía coronaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ultrasonido abdominal permite identificar abscesos hepáticos o intraabdominales causantes de fiebre prolongada."
+    },
+    {
+      "numero": "17",
+      "texto": "En un paciente con SFP y pancitopenia, ¿cuál de las siguientes causas debe sospecharse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tuberculosis miliar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Brucelosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma de Hodgkin"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tifus exantemático"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tuberculosis miliar puede infiltrar médula ósea y causar pancitopenia junto con fiebre prolongada."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué característica diferencia el SFP de la fiebre de origen nosocomial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración menor a 48 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio tras hospitalización prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de exposición hospitalaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causa farmacológica predominante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociación a inmunosupresión"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SFP se distingue de la fiebre nosocomial porque ocurre fuera del ambiente hospitalario."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué enfermedad parasitaria puede cursar con síndrome febril prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amebiasis intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leishmaniasis visceral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tricomoniasis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterobiasis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La leishmaniasis visceral produce fiebre prolongada, hepatoesplenomegalia y pancitopenia."
+    },
+    {
+      "numero": "20",
+      "texto": "En un SFP sin diagnóstico, ¿qué prueba serológica puede ser útil en áreas endémicas rurales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de Widal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de Paul-Bunnell"
+        },
+        {
+          "opcion": "C",
+          "texto": "ELISA para VIH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Monospot"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR para influenza"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba de Widal ayuda a diagnosticar fiebre tifoidea en contextos rurales donde Salmonella typhi es endémica."
+    }
+  ]
+}

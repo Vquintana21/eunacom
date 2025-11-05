@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.3.016",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.016 - Vínculo y apego.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por vínculo materno-fetal durante el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Un proceso exclusivamente biológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una interacción emocional, cognitiva y conductual entre madre y feto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un evento social externo al embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un reflejo condicionado al parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un acto médico establecido en el control prenatal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vínculo materno-fetal es una relación emocional y psicológica que se establece entre la madre y el feto durante el embarazo."
+    },
+    {
+      "numero": "2",
+      "texto": "El apego seguro en la infancia se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Problemas de socialización"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor resiliencia y regulación emocional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conductas de dependencia excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de autoestima"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor incidencia de trastornos de ansiedad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El apego seguro favorece la resiliencia, la confianza y la adecuada regulación emocional en la infancia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la intervención más eficaz para promover el apego inmediato postparto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de sedación materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Separación temprana madre-hijo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contacto piel con piel precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alimentación artificial inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de profilaxis antibiótica neonatal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El contacto piel con piel precoz entre madre y recién nacido favorece el apego y la lactancia."
+    },
+    {
+      "numero": "4",
+      "texto": "Según la teoría del apego de Bowlby, ¿qué figura es central en el desarrollo del apego?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El pediatra"
+        },
+        {
+          "opcion": "B",
+          "texto": "La pareja de la madre"
+        },
+        {
+          "opcion": "C",
+          "texto": "La figura cuidadora principal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los abuelos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Los pares escolares"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El apego se desarrolla principalmente con la figura cuidadora principal, generalmente la madre."
+    },
+    {
+      "numero": "5",
+      "texto": "El apego inseguro-evitativo en la infancia se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ansiedad excesiva al separarse"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desinterés en la proximidad con el cuidador"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conductas agresivas permanentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de dependencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conducta exploratoria ausente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El apego evitativo se caracteriza por evitar la proximidad o el contacto con la figura de apego."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hormona está estrechamente relacionada con la facilitación del vínculo materno-infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxitocina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolactina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La oxitocina favorece el vínculo afectivo y el apego durante el embarazo, parto y lactancia."
+    },
+    {
+      "numero": "7",
+      "texto": "Un factor de riesgo para alteraciones en el vínculo madre-hijo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apoyo social adecuado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión postparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contacto piel con piel precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactancia materna exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto vaginal espontáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depresión postparto dificulta el establecimiento del vínculo y puede afectar el apego del recién nacido."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de apego se asocia a mayor riesgo de psicopatología en la adultez?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apego seguro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apego evitativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apego ansioso-ambivalente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apego desorganizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apego indiferenciado"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El apego desorganizado se asocia con mayor vulnerabilidad a trastornos emocionales y de conducta en la adultez."
+    },
+    {
+      "numero": "9",
+      "texto": "El rol del padre en la formación del vínculo con el recién nacido incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es irrelevante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo apoyo económico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proporcionar seguridad emocional y afecto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sustituir totalmente a la madre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la participación materna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El padre cumple un papel clave en la seguridad emocional y la formación de un apego seguro."
+    },
+    {
+      "numero": "10",
+      "texto": "En el recién nacido, el apego se evidencia por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falta de respuesta a estímulos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Preferencia por objetos inanimados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Búsqueda de proximidad con la figura cuidadora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rechazo persistente al contacto físico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conducta exploratoria excesiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El apego se manifiesta en el recién nacido con la búsqueda de proximidad y contacto con el cuidador."
+    },
+    {
+      "numero": "11",
+      "texto": "Un factor protector para un apego saludable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Separación temprana madre-hijo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apoyo emocional de la pareja y la familia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hospitalización neonatal prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depresión materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo materno de sustancias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El apoyo emocional de la pareja y la familia protege y favorece un apego seguro."
+    },
+    {
+      "numero": "12",
+      "texto": "El apego ambivalente se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Confianza plena en el cuidador"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ansiedad intensa y búsqueda constante de proximidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rechazo continuo del contacto físico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exploración independiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indiferencia ante la separación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El apego ambivalente se manifiesta con ansiedad y necesidad excesiva de proximidad al cuidador."
+    },
+    {
+      "numero": "13",
+      "texto": "El término 'bonding' en obstetricia se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Un procedimiento quirúrgico"
+        },
+        {
+          "opcion": "B",
+          "texto": "El proceso de unión afectiva temprana madre-hijo"
+        },
+        {
+          "opcion": "C",
+          "texto": "La lactancia artificial"
+        },
+        {
+          "opcion": "D",
+          "texto": "La profilaxis antibiótica neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "La administración de vacunas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bonding describe el proceso de unión afectiva inmediata entre madre y recién nacido."
+    },
+    {
+      "numero": "14",
+      "texto": "La teoría del apego postula que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El apego no influye en el desarrollo adulto"
+        },
+        {
+          "opcion": "B",
+          "texto": "El apego se forma en la adolescencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "El apego temprano influye en las relaciones futuras"
+        },
+        {
+          "opcion": "D",
+          "texto": "El apego depende solo de factores biológicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "El apego no es observable clínicamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El apego temprano condiciona la manera en que las personas establecen vínculos en la vida adulta."
+    },
+    {
+      "numero": "15",
+      "texto": "En el contexto hospitalario, ¿qué medida favorece el apego en prematuros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Separación estricta madre-hijo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Método canguro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alimentación por fórmula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento en incubadora prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedación neonatal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El método canguro promueve el contacto piel con piel y mejora el vínculo en prematuros."
+    },
+    {
+      "numero": "16",
+      "texto": "La falta de apego en la infancia puede manifestarse como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor rendimiento escolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conductas disruptivas y problemas de relación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor resiliencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejor regulación emocional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vínculos sociales saludables"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia de apego seguro puede generar problemas de conducta y dificultades en relaciones sociales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué práctica obstétrica puede dificultar el apego inmediato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto piel con piel precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Separación innecesaria madre-hijo postparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alojamiento conjunto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apoyo a la lactancia materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Método canguro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La separación temprana madre-hijo sin justificación clínica dificulta el apego inmediato."
+    },
+    {
+      "numero": "18",
+      "texto": "En la transición a la parentalidad, un elemento clave para favorecer el apego es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exclusión de la pareja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apoyo en el rol parental y participación activa de ambos padres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hospitalización prolongada del neonato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Separación temprana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control médico exclusivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El apoyo a ambos padres en la transición a la parentalidad favorece el apego con el hijo."
+    },
+    {
+      "numero": "19",
+      "texto": "El apego seguro en la infancia se traduce en la adultez como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor dificultad en relaciones interpersonales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit en la empatía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capacidad para establecer relaciones saludables y estables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor tendencia a la dependencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incapacidad de resolver conflictos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El apego seguro se asocia en la adultez a relaciones más estables, empáticas y saludables."
+    }
+  ]
+}

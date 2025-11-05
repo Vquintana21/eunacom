@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.1.002",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.002 - Anemia y embarazo.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de anemia en el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia aplásica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de hierro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talasemia mayor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de vitamina B12"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad renal crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anemia ferropénica es la forma más común durante el embarazo por aumento de requerimientos."
+    },
+    {
+      "numero": "2",
+      "texto": "Se define anemia en el embarazo como hemoglobina menor a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 g/dL en cualquier trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "11 g/dL en primer y tercer trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 g/dL en segundo trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "9 g/dL en cualquier trimestre"
+        },
+        {
+          "opcion": "E",
+          "texto": "10.5 g/dL en primer trimestre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera anemia si Hb <11 g/dL en primer y tercer trimestre o <10.5 g/dL en el segundo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué parámetro de laboratorio confirma anemia ferropénica en embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ferritina sérica baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Volumen corpuscular medio alto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reticulocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haptoglobina disminuida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hierro sérico elevado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ferritina baja es el marcador más sensible y específico de déficit de hierro."
+    },
+    {
+      "numero": "4",
+      "texto": "El principal riesgo materno de la anemia severa en embarazo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia postparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La anemia severa puede precipitar insuficiencia cardíaca en la gestante."
+    },
+    {
+      "numero": "5",
+      "texto": "El riesgo fetal más frecuente asociado a anemia materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción del crecimiento intrauterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglicemia neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defectos del tubo neural"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anemia se asocia a RCIU y parto pretérmino por hipoxia crónica."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento de primera línea de la anemia ferropénica en embarazo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hierro oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hierro endovenoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido fólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritropoyetina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hierro oral es la primera elección en anemia ferropénica leve-moderada."
+    },
+    {
+      "numero": "7",
+      "texto": "La profilaxis con hierro en el embarazo se recomienda desde:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Posparto inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en casos seleccionados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La OMS recomienda suplementación de hierro desde el primer trimestre."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la dosis habitual de hierro elemental indicada en embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "30–60 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "100 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "200 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "300 mg/día"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda entre 30 y 60 mg/día de hierro elemental como suplementación."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué vitamina favorece la absorción intestinal de hierro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina B6"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vitamina C mejora la absorción intestinal de hierro no hemo."
+    },
+    {
+      "numero": "10",
+      "texto": "La indicación de hierro endovenoso en embarazo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intolerancia a hierro oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Todos los embarazos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Primer trimestre sin anemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Feto con restricción de crecimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se usa hierro EV en casos de intolerancia, mala respuesta o anemia severa tardía."
+    },
+    {
+      "numero": "11",
+      "texto": "La suplementación con ácido fólico previene principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abortos espontáneos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defectos del tubo neural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción de crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eclampsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ácido fólico previene defectos del tubo neural en el feto."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el requerimiento diario de ácido fólico en embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100 mcg"
+        },
+        {
+          "opcion": "B",
+          "texto": "200 mcg"
+        },
+        {
+          "opcion": "C",
+          "texto": "400 mcg"
+        },
+        {
+          "opcion": "D",
+          "texto": "800 mcg"
+        },
+        {
+          "opcion": "E",
+          "texto": "1200 mcg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda 400 mcg diarios de ácido fólico en embarazo normal."
+    },
+    {
+      "numero": "13",
+      "texto": "En anemia megaloblástica por déficit de folato se observa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VCM bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "VCM alto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ferritina baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plaquetas bajas aisladas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reticulocitosis marcada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de folato causa anemia macrocítica con VCM elevado."
+    },
+    {
+      "numero": "14",
+      "texto": "El déficit de vitamina B12 en embarazo puede asociarse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neuropatía fetal y materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Policitemia neonatal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El déficit de B12 produce anemia megaloblástica y complicaciones neurológicas."
+    },
+    {
+      "numero": "15",
+      "texto": "En anemia ferropénica severa con Hb <7 g/dL y síntomas la indicación es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suplementación oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suplementación EV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esperar al parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Únicamente reposo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La transfusión está indicada en anemia severa sintomática para estabilizar a la madre."
+    },
+    {
+      "numero": "16",
+      "texto": "El hallazgo hematológico típico en anemia ferropénica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VCM alto, HCM alto"
+        },
+        {
+          "opcion": "B",
+          "texto": "VCM bajo, hipocromía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitosis con neutrofilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de reticulocitos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anemia ferropénica se caracteriza por microcitosis e hipocromía."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación obstétrica se asocia a anemia materna no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta acreta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes gestacional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anemia no tratada aumenta el riesgo de parto pretérmino y bajo peso."
+    },
+    {
+      "numero": "18",
+      "texto": "En anemia megaloblástica por folato en embarazo se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido fólico 1–5 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina C 1000 mg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hierro oral 60 mg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transfusión profiláctica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticoagulación profiláctica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento del déficit de folato requiere ácido fólico en dosis terapéuticas de 1–5 mg/día."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo de ferritina normal o alta en anemia microcítica sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de hierro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia de enfermedad crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Talasemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina C"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anemia de enfermedad crónica puede presentar microcitosis con ferritina normal o elevada."
+    },
+    {
+      "numero": "20",
+      "texto": "El examen de elección para evaluar talasemias en embarazada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electroforesis de hemoglobina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ferritina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia de médula ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Coombs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Kleihauer"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La electroforesis de hemoglobina permite diagnosticar hemoglobinopatías como talasemias."
+    }
+  ]
+}

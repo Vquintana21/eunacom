@@ -1,0 +1,516 @@
+{
+  "codigo": "1.01.3.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal consecuencia cardiovascular del sedentarismo prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del riesgo de enfermedad coronaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia ventricular aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sedentarismo aumenta el riesgo de aterosclerosis, hipertensión y enfermedad coronaria por alteraciones metabólicas y hemodinámicas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué beneficio cardiovascular se obtiene con actividad física regular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta presión arterial sistólica de reposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejora perfil lipídico y función endotelial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reduce contractilidad miocárdica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Genera hipertrofia patológica ventricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ejercicio regular mejora la función endotelial, aumenta HDL y reduce LDL y triglicéridos, disminuyendo riesgo cardiovascular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la recomendación mínima de actividad física moderada semanal para adultos sanos según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 minutos una vez a la semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "150 minutos distribuidos en al menos 3 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "300 minutos diarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 minutos al día"
+        },
+        {
+          "opcion": "E",
+          "texto": "60 minutos cada 2 semanas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda realizar 150 minutos semanales de actividad física moderada para reducir riesgo cardiovascular y metabólico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué efecto tiene la actividad física regular sobre la presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incremento sostenido de PA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de PA sistólica y diastólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "No altera PA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incremento solo de PA diastólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión severa transitoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio regular disminuye la presión arterial en reposo y mejora la regulación vascular, especialmente en hipertensos leves."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la relación entre sedentarismo y riesgo de insuficiencia cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No hay relación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo aumenta riesgo por hipertensión y obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedentarismo protege frente a insuficiencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo afecta arritmias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo afecta coronarias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sedentarismo favorece obesidad, hipertensión y disfunción endotelial, aumentando riesgo de insuficiencia cardíaca crónica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de hipertrofia ventricular se produce con ejercicio aeróbico regular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia concéntrica patológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia excéntrica fisiológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia ventricular derecha aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "No se produce hipertrofia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertrofia auricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio aeróbico genera hipertrofia excéntrica fisiológica con aumento de cavidades y mejor función contráctil."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué efecto metabólico tiene la actividad física sobre la glucosa plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta glucosa basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye glucosa y mejora sensibilidad a insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "No altera glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye solo en ayuno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta resistencia a insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio mejora captación de glucosa muscular y sensibilidad a insulina, reduciendo riesgo de diabetes y complicaciones cardiovasculares."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la consecuencia más frecuente de sedentarismo en relación a lípidos sanguíneos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de triglicéridos y LDL, disminución de HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "No altera perfil lipídico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de VLDL únicamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sedentarismo se asocia a dislipidemia aterogénica: aumento de LDL y triglicéridos y disminución de HDL."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué beneficio tiene el ejercicio sobre la función endotelial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reduce producción de óxido nítrico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejora vasodilatación y reduce estrés oxidativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Induce vasoconstricción crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "No tiene efecto endotelial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta rigidez arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La actividad física estimula óxido nítrico y reduce estrés oxidativo, mejorando función vascular y reduciendo riesgo aterosclerótico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el efecto del sedentarismo sobre la frecuencia cardíaca de reposo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye notablemente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta frecuencia cardíaca basal"
+        },
+        {
+          "opcion": "C",
+          "texto": "No cambia frecuencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Produce bradicardia patológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Genera arritmias ventriculares frecuentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sedentarismo se asocia a mayor frecuencia cardíaca en reposo y menor eficiencia cardíaca durante esfuerzo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué parámetro de salud cardiovascular mejora más con entrenamiento de resistencia aeróbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión venosa central"
+        },
+        {
+          "opcion": "B",
+          "texto": "VO2 máximo y capacidad funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia respiratoria basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoglobina plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina sérica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El entrenamiento aeróbico aumenta VO2 máximo, mejorando capacidad funcional y disminuyendo riesgo cardiovascular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué patrón de actividad física está asociado a menor mortalidad cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Actividad intensa diaria intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Actividad moderada regular acumulada semanalmente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio ocasional de alta intensidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo caminatas breves esporádicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo activo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Actividad moderada regular acumulada semanalmente se asocia a menor mortalidad cardiovascular y mejor control metabólico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué efecto tiene la actividad física sobre la rigidez arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La incrementa"
+        },
+        {
+          "opcion": "B",
+          "texto": "La disminuye mejorando elasticidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "No tiene efecto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Induce calcificación arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta solo en jóvenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio reduce rigidez arterial, mejora compliance y disminuye presión de pulso y carga ventricular."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes factores de riesgo cardiovascular se atenúa con actividad física regular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión, obesidad y dislipidemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arritmias congénitas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valvulopatías congénitas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueos AV completos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La actividad física reduce presión arterial, mejora perfil lipídico y ayuda al control de peso, disminuyendo riesgo cardiovascular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué riesgo cardiovascular aumenta específicamente con sedentarismo en adultos mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación auricular y enfermedad coronaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia benigna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiomiopatía restrictiva exclusiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sedentarismo en adultos mayores se asocia a mayor incidencia de fibrilación auricular, hipertensión y enfermedad coronaria."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes es un efecto protector de la actividad física sobre el miocardio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción del flujo coronario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejora perfusión, reduce remodelado y estrés oxidativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Induce fibrosis ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta demanda de oxígeno en reposo sin beneficio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Provoca hipertrofia patológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio mejora perfusión coronaria, reduce estrés oxidativo y remodelado patológico, protegiendo al miocardio."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la relación entre sedentarismo y perfil inflamatorio sistémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sedentarismo reduce inflamación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo aumenta marcadores inflamatorios como CRP y IL-6"
+        },
+        {
+          "opcion": "C",
+          "texto": "No afecta inflamación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo aumenta TNF-α en jóvenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye IL-6 y CRP"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inactividad física se asocia a aumento de citoquinas proinflamatorias y proteína C reactiva, elevando riesgo cardiovascular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué recomendación mínima diaria de pasos se asocia a reducción de riesgo cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2000 pasos"
+        },
+        {
+          "opcion": "B",
+          "texto": "5000 pasos"
+        },
+        {
+          "opcion": "C",
+          "texto": "7000–10,000 pasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "15,000 pasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo caminar fines de semana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Caminar 7,000–10,000 pasos diarios reduce riesgo de enfermedad coronaria y mortalidad por causas cardiovasculares."
+    }
+  ]
+}

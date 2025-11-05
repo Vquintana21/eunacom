@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.022",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Estridor",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es el estridor en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Un sonido respiratorio espiratorio producido en bronquios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un ruido inspiratorio o bifásico por obstrucción de la vía aérea superior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un soplo cardíaco transmitido a la tráquea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un sonido respiratorio normal en lactantes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un signo de asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estridor es un sonido áspero producido por obstrucción en la vía aérea superior, especialmente durante la inspiración."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de estridor agudo en niños menores de 3 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuerpo extraño laríngeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Laringitis viral (crup)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papilomatosis laríngea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La laringitis viral o crup es la causa más común de estridor agudo en la infancia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica distingue el estridor inspiratorio del espiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El inspiratorio se origina en bronquios"
+        },
+        {
+          "opcion": "B",
+          "texto": "El espiratorio es más agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "El inspiratorio indica obstrucción supraglótica o laríngea"
+        },
+        {
+          "opcion": "D",
+          "texto": "El espiratorio indica compromiso nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "El inspiratorio solo ocurre en el sueño"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El estridor inspiratorio indica obstrucción a nivel laríngeo o supraglótico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la causa congénita más frecuente de estridor en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis subglótica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quiste laríngeo congénito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemangioma subglótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parálisis de cuerdas vocales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La laringomalacia es la causa congénita más común de estridor en lactantes menores de 6 meses."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el síntoma acompañante típico del crup viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sialorrea y posición de trípode"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos perruna y disfonía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta súbita y disfagia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ronquera progresiva sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afonía completa y tos húmeda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El crup cursa con tos perruna, disfonía y estridor por edema laríngeo subglótico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo sugiere una epiglotitis más que un crup viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre moderada con estridor leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sialorrea y posición en trípode"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos perruna sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinorrea acuosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La epiglotitis se presenta con sialorrea, disfagia y posición en trípode, sin tos característica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la causa infecciosa más frecuente de epiglotitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenovirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Haemophilus influenzae tipo b es la principal causa clásica de epiglotitis en niños no vacunados."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué estudio es diagnóstico en casos de laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cuello"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Laringoscopía flexible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoscopía rígida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La laringoscopía flexible permite visualizar el colapso supraglótico característico de la laringomalacia."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué manejo está contraindicado en epiglotitis sospechada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Canalización venosa con monitoreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toma de radiografía lateral de cuello en urgencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación de vía aérea en pabellón bajo anestesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxigenoterapia controlada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hospitalización en UCI"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "No se debe realizar radiografía de cuello en urgencia porque puede precipitar obstrucción completa de la vía aérea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo radiográfico se observa típicamente en el crup viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo del dedo pulgar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo del pico de botella"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de la punta de lápiz (steeple sign)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de la vela del timo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo del anillo traqueal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo del steeple o punta de lápiz corresponde al estrechamiento subglótico típico del crup viral."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tratamiento está indicado en el crup moderado a severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nebulización con adrenalina y corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenoterapia con CPAP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncodilatadores inhalados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intubación profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adrenalina nebulizada y corticoides sistémicos reducen el edema subglótico y mejoran el flujo aéreo."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué causa debe sospecharse ante un estridor súbito en un niño previamente sano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crup viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuerpo extraño en vía aérea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Papilomatosis laríngea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquitis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El inicio súbito de estridor sugiere aspiración de cuerpo extraño hasta demostrar lo contrario."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de estridor se asocia a lesión subglótica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiratorio puro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiratorio puro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bifásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silencioso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intermitente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El estridor bifásico indica compromiso a nivel subglótico o traqueal proximal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el agente causal más frecuente del crup viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus de parainfluenza tipo 1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El virus de parainfluenza tipo 1 es el agente más común del crup viral clásico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo en epiglotitis es visible en radiografía lateral de cuello?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo del steeple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo del dedo pulgar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de la copa invertida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento peribronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desviación traqueal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo del dedo pulgar representa el aumento del volumen de la epiglotis inflamada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la medida inicial más importante ante un estridor severo con dificultad respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar antibióticos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sujetar al niño para exploración faringea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asegurar la vía aérea y administrar oxígeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dar líquidos por vía oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar radiografía urgente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prioridad ante estridor severo es mantener la vía aérea permeable y administrar oxígeno."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué patología se caracteriza por estridor crónico fluctuante en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Papilomatosis laríngea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crup espasmódico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuerpo extraño traqueal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis nasal congénita"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La papilomatosis laríngea produce estridor crónico por lesiones papilomatosas recurrentes en cuerdas vocales."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué cuadro clínico se asocia con estridor nocturno recurrente sin fiebre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crup espasmódico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Traqueítis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Papilomatosis laríngea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis subglótica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El crup espasmódico se caracteriza por episodios nocturnos de estridor sin fiebre y resolución espontánea."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el diagnóstico diferencial principal del crup viral con estridor progresivo y fiebre alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papilomatosis laríngea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis obstructiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La epiglotitis debe sospecharse cuando hay fiebre alta y disnea con estridor progresivo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tratamiento farmacológico está indicado en el crup leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dexametasona oral o intramuscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina nebulizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncodilatadores inhalados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides intravenosos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dexametasona oral o intramuscular reduce la inflamación subglótica y acorta la duración del cuadro."
+    }
+  ]
+}

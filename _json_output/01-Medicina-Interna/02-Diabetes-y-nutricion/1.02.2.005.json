@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.2.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué nivel de triglicéridos se considera hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">150 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": ">300 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">500 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">1000 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">2000 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera hipertrigliceridemia grave cuando los triglicéridos superan los 500 mg/dL, con riesgo de pancreatitis aguda."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la complicación más grave asociada a la hipertrigliceridemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los triglicéridos >1000 mg/dL aumentan significativamente el riesgo de pancreatitis aguda."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes condiciones puede precipitar una hipertrigliceridemia grave en un diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de metformina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción calórica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética favorece la lipólisis y aumenta la producción hepática de VLDL, elevando los triglicéridos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo físico es característico de la hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Xantelasmas palpebrales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Xantomas eruptivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acantosis nigricans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esclerodactilia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los xantomas eruptivos son pápulas amarillentas en tronco y glúteos, típicos de triglicéridos >1000 mg/dL."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal lipoproteína elevada en la hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "VLDL y quilomicrones"
+        },
+        {
+          "opcion": "D",
+          "texto": "IDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apo A1"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la hipertrigliceridemia severa predominan los quilomicrones y VLDL ricos en triglicéridos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la primera medida terapéutica en un paciente con triglicéridos >1000 mg/dL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar estatinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ayuno y reposición hídrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar insulina subcutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar fibratos de inmediato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ayuno reduce rápidamente los triglicéridos al suprimir la producción de quilomicrones."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué enzima es deficiente en la hipertrigliceridemia familiar tipo I?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lipoproteína lipasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "HMG-CoA reductasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol esterasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acil-CoA deshidrogenasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fosfolipasa A2"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de lipoproteína lipasa impide la degradación de quilomicrones, elevando los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué fármaco reduce principalmente los niveles de triglicéridos plasmáticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ezetimibe"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fenofibrato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colestiramina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alirocumab"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fibratos estimulan la oxidación de ácidos grasos y la actividad de la lipoproteína lipasa, reduciendo triglicéridos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la relación entre diabetes mal controlada e hipertrigliceridemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La insulina inhibe la lipólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "El déficit de insulina aumenta la lipólisis y la VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "La glucosa inhibe la lipogénesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "La hipoglucemia aumenta el catabolismo lipídico"
+        },
+        {
+          "opcion": "E",
+          "texto": "No existe relación fisiopatológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de insulina estimula la lipólisis y la síntesis hepática de VLDL, elevando los triglicéridos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué valor de triglicéridos se asocia a riesgo alto de pancreatitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">300 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": ">500 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">750 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">1000 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">1500 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El riesgo de pancreatitis aumenta significativamente cuando los triglicéridos superan los 1000 mg/dL."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué componente dietético debe restringirse en la hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carbohidratos simples y alcohol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteínas animales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grasas poliinsaturadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibras vegetales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sodio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los azúcares simples y el alcohol aumentan la síntesis hepática de triglicéridos y deben evitarse."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo de laboratorio sugiere hipertrigliceridemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero hemolizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suero lactescente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suero amarillento claro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de urea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El suero lactescente o turbio es característico de concentraciones muy elevadas de triglicéridos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tratamiento farmacológico puede utilizarse junto con fibratos para reducir triglicéridos en casos graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resinas secuestradoras de ácidos biliares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Omega-3 (ácidos grasos poliinsaturados)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estatinas en monoterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibidores de PCSK9"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niacina exclusiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ácidos grasos omega-3 disminuyen la síntesis hepática de VLDL y triglicéridos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes medicamentos puede inducir hipertrigliceridemia secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "AAS"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides estimulan la lipólisis y la síntesis de VLDL, provocando hipertrigliceridemia secundaria."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el mecanismo por el cual la insulina reduce los triglicéridos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibe la lipoproteína lipasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimula la lipólisis en tejido adiposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Activa la lipoproteína lipasa y reduce VLDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta la síntesis hepática de triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibe la captación muscular de glucosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La insulina activa la lipoproteína lipasa, promoviendo la degradación de VLDL y reducción de triglicéridos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de dieta se recomienda inicialmente en la hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas insaturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baja en carbohidratos simples y grasas totales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperproteica cetogénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rica en carbohidratos complejos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normocalórica con alta fibra soluble"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda una dieta baja en grasas y azúcares simples para reducir la síntesis hepática de triglicéridos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué fármaco debe evitarse en combinación con fibratos por riesgo de rabdomiólisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ezetimibe"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestiramina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Omega-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido nicotínico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de fibratos con estatinas como atorvastatina aumenta el riesgo de miopatía y rabdomiólisis."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el objetivo principal del tratamiento de la hipertrigliceridemia grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir el riesgo de enfermedad coronaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir la pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir el colesterol HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejorar la función renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo inicial es prevenir la pancreatitis aguda mediante la reducción rápida de los triglicéridos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué efecto tiene el consumo de alcohol sobre los triglicéridos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Los disminuye por inhibir la lipólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "No afecta los niveles lipídicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la síntesis hepática de triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Activa la oxidación de ácidos grasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la secreción de VLDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El alcohol incrementa la síntesis hepática de triglicéridos y VLDL, agravando la hipertrigliceridemia."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro de laboratorio debe monitorearse estrechamente durante el tratamiento con fibratos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transaminasas y función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucemia en ayunas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de protrombina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoglobina glicosilada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucocitos totales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los fibratos pueden elevar transaminasas y creatinina, por lo que deben controlarse las funciones hepática y renal."
+    }
+  ]
+}

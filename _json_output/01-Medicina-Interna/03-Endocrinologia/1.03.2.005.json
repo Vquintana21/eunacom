@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.2.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de tetania en la práctica clínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tetania ocurre principalmente por hipocalcemia, que aumenta la excitabilidad neuromuscular."
+    },
+    {
+      "numero": "2",
+      "texto": "La tetania se caracteriza fisiológicamente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la permeabilidad neuronal al sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la excitabilidad neuromuscular por descenso del calcio ionizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de magnesio extracelular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipersecreción de hormona paratiroidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo de los canales de potasio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El descenso del calcio ionizado reduce el umbral de excitación y aumenta la excitabilidad neuromuscular."
+    },
+    {
+      "numero": "3",
+      "texto": "El signo de Chvostek se explora mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresión del antebrazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Percusión sobre el nervio facial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flexión forzada del pie"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación eléctrica del nervio radial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión sobre la arteria braquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Chvostek se obtiene al percutir el nervio facial, provocando contracción facial por hipocalcemia."
+    },
+    {
+      "numero": "4",
+      "texto": "El signo de Trousseau es positivo cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se produce carpopedalismo tras inflar el manguito de presión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hay espasmo facial al tocar el nervio facial"
+        },
+        {
+          "opcion": "C",
+          "texto": "El paciente presenta parestesias peribucales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se detecta debilidad muscular generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se eleva la TSH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Trousseau consiste en espasmo carpopedal inducido por isquemia tras inflar el manguito."
+    },
+    {
+      "numero": "5",
+      "texto": "Una causa frecuente de tetania postquirúrgica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoparatiroidismo tras tiroidectomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperparatiroidismo secundario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tetania postquirúrgica suele deberse a hipoparatiroidismo tras extirpación accidental de las paratiroides."
+    },
+    {
+      "numero": "6",
+      "texto": "El calcio ionizado normal en plasma se encuentra aproximadamente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.6 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.0 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.2 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "2.0 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "2.6 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El calcio ionizado normal es de alrededor de 1.2 mmol/L, siendo la fracción fisiológicamente activa."
+    },
+    {
+      "numero": "7",
+      "texto": "En la tetania hipocalcémica, se observa típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiporreflexia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperreflexia y espasmos musculares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fasciculaciones y atrofia muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debilidad flácida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Abolición de reflejos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalcemia aumenta la excitabilidad neuromuscular, produciendo hiperreflexia y espasmos."
+    },
+    {
+      "numero": "8",
+      "texto": "Un factor que puede precipitar tetania en pacientes hipocalcémicos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoventilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La alcalosis aumenta la unión del calcio a proteínas plasmáticas, reduciendo el calcio ionizado y precipitando tetania."
+    },
+    {
+      "numero": "9",
+      "texto": "El tratamiento de elección en una tetania hipocalcémica aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio gluconato intravenoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcitonina subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Furosemida intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bicarbonato de sodio oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina D oral inmediata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El calcio gluconato IV corrige rápidamente la hipocalcemia y alivia los síntomas tetánicos."
+    },
+    {
+      "numero": "10",
+      "texto": "En la tetania, el calcio sérico total puede ser normal si existe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperparatiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoalbuminemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipomagnesemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalciuria"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En la alcalosis respiratoria aguda, el calcio ionizado disminuye pese a un calcio total normal, causando tetania."
+    },
+    {
+      "numero": "11",
+      "texto": "Un paciente con tetania presenta QT prolongado en el ECG. Esto sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipopotasemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipermagnesemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipernatremia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El QT prolongado es un signo electrocardiográfico típico de hipocalcemia."
+    },
+    {
+      "numero": "12",
+      "texto": "El magnesio sérico bajo puede causar tetania porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la secreción de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimula la secreción de PTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibe la liberación de PTH y causa hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta la absorción intestinal de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Activa los osteoclastos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipomagnesemia inhibe la secreción de PTH, causando hipocalcemia funcional y tetania."
+    },
+    {
+      "numero": "13",
+      "texto": "El espasmo carpopedal característico de la tetania se manifiesta con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flexión de muñeca y dedos, extensión de los dedos medios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperextensión de muñeca y flexión de los dedos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Abducción de los dedos con relajación de la muñeca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rigidez generalizada de la mano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temblor fino distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El espasmo carpopedal consiste en flexión de muñeca y metacarpofalángicas, con extensión de los dedos."
+    },
+    {
+      "numero": "14",
+      "texto": "Una causa metabólica no endocrina de tetania es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de hiperventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperventilación produce alcalosis respiratoria, que disminuye el calcio ionizado y causa tetania."
+    },
+    {
+      "numero": "15",
+      "texto": "El tratamiento a largo plazo de la tetania por hipoparatiroidismo incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidrocortisona oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcio y vitamina D activos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcitonina intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la ingesta proteica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento crónico del hipoparatiroidismo combina calcio y calcitriol para mantener normocalcemia."
+    },
+    {
+      "numero": "16",
+      "texto": "En la tetania por hipocalcemia crónica, puede observarse además:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alopecia y uñas quebradizas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del apetito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de reflejos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piel seca y caliente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipocalcemia crónica causa alteraciones tróficas como alopecia y fragilidad ungueal."
+    },
+    {
+      "numero": "17",
+      "texto": "El diagnóstico diferencial principal de la tetania incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis epiléptica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infarto agudo de miocardio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia perniciosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las convulsiones hipocalcémicas pueden confundirse con crisis epilépticas, por lo que deben diferenciarse."
+    },
+    {
+      "numero": "18",
+      "texto": "En un paciente con tetania, la PTH elevada sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoparatiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia por déficit de vitamina D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia por alcalosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipermagnesemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudohipoparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalcemia con PTH alta indica que las paratiroides responden adecuadamente, como en déficit de vitamina D."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo de fosfato sérico elevado con calcio bajo sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoparatiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperparatiroidismo primario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalciuria idiopática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hipoparatiroidismo disminuye la excreción renal de fosfato y causa hipocalcemia con hiperfosfatemia."
+    },
+    {
+      "numero": "20",
+      "texto": "Durante una tetania hipocalcémica, los niveles de potasio suelen estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajos o normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normales siempre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectables"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oscilantes sin patrón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipocalcemia puede acompañarse de hipokalemia leve por alcalosis respiratoria asociada."
+    }
+  ]
+}

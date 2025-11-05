@@ -1,0 +1,572 @@
+{
+  "codigo": "1.06.1.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Gastroenterologia",
+  "subcategoria_id": "06",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de cirrosis hepática a nivel mundial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis viral crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcoholismo crónico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado graso no alcohólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocromatosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangitis biliar primaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El consumo crónico y excesivo de alcohol es la causa más común de cirrosis a nivel mundial."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal de la hipertensión portal en la cirrosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del flujo hepático arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción sinusoidal intrahepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis de la vena porta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasoconstricción esplácnica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia cardiaca derecha"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrosis y los nódulos regenerativos producen obstrucción sinusoidal, elevando la presión portal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico es característico de la cirrosis descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Telangiectasias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fatiga"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ascitis es un signo cardinal de descompensación hepática en la cirrosis avanzada."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la complicación más grave de la hipertensión portal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esplenomegalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Várices esofágicas sangrantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gastropatía hipertensiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome hepatorrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las várices esofágicas sangrantes son una causa importante de mortalidad en pacientes cirróticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué parámetro se utiliza para clasificar la gravedad de la cirrosis según Child-Pugh?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amilasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La creatinina, junto con bilirrubina, albúmina, INR y ascitis, se utiliza en la escala de Child-Pugh."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué marcador de laboratorio indica mal pronóstico en cirrosis avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercolesterolemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiponatremia refleja alteración de la función renal y hemodinámica avanzada en cirrosis descompensada."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba es el estándar de oro para el diagnóstico de cirrosis hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elastografía hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC con contraste"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La biopsia hepática confirma el diagnóstico mediante evaluación histológica del parénquima hepático."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué valor del gradiente de presión venosa hepática define hipertensión portal clínicamente significativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">3 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥5 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥10 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥15 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥20 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un gradiente portal ≥10 mmHg define hipertensión portal clínicamente significativa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la causa más frecuente de muerte en pacientes con cirrosis hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia digestiva alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Encefalopatía hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome hepatorrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma hepatocelular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peritonitis bacteriana espontánea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia digestiva alta por ruptura de várices es la causa más frecuente de muerte en cirróticos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tratamiento se usa para prevenir el sangrado variceal en cirróticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta bloqueadores no selectivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuréticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibidores de bomba de protones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los betabloqueadores no selectivos (propranolol o nadolol) reducen el riesgo de sangrado variceal al disminuir la presión portal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la causa más frecuente de encefalopatía hepática en cirróticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia digestiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de benzodiacepinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia digestiva aumenta la producción de amonio intestinal, desencadenando encefalopatía hepática."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué fármaco se utiliza para prevenir la recurrencia de encefalopatía hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactulosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Omeprazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciprofloxacino"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La lactulosa reduce la absorción de amonio intestinal, previniendo recurrencias de encefalopatía hepática."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el tratamiento de elección para la ascitis refractaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar diuréticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "TIPS"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción hídrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Albumina intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paracentesis diagnóstica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TIPS disminuye la presión portal y mejora la ascitis refractaria al tratamiento médico."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el criterio diagnóstico de peritonitis bacteriana espontánea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">250 PMN/mm³ en líquido ascítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de fiebre y dolor abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de proteínas totales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un recuento de PMN ≥250/mm³ en líquido ascítico confirma la peritonitis bacteriana espontánea."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué score se utiliza para priorizar trasplante hepático en cirrosis avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "MELD"
+        },
+        {
+          "opcion": "B",
+          "texto": "Child-Pugh"
+        },
+        {
+          "opcion": "C",
+          "texto": "APACHE II"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOFA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glasgow"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El puntaje MELD (Model for End-stage Liver Disease) se usa para priorizar candidatos a trasplante hepático."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo ecográfico sugiere cirrosis hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bordes hepáticos irregulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la ecogenicidad pancreática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vesícula distendida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia homogénea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quistes múltiples"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los bordes irregulares y la textura heterogénea del parénquima son característicos en ecografía hepática cirrótica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida previene la progresión de cirrosis en hepatitis viral crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antivirales específicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementos vitamínicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidratación endovenosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento antiviral reduce la replicación viral y previene la progresión de la fibrosis hacia cirrosis."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué marcador indica mayor riesgo de carcinoma hepatocelular en cirróticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alfafetoproteína elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bilirrubina normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plaquetas normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Creatinina baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fosfatasa alcalina disminuida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La alfafetoproteína elevada es un marcador asociado al desarrollo de carcinoma hepatocelular en cirróticos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué alteración metabólica es característica de la cirrosis hepática avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia dilucional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperfosfatemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipokalemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiponatremia dilucional ocurre por retención de agua secundaria a activación del eje renina-angiotensina-ADH."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el tratamiento definitivo de la cirrosis hepática avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trasplante hepático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "TIPS"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suplementación vitamínica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El trasplante hepático es el único tratamiento curativo en pacientes con cirrosis hepática terminal."
+    }
+  ]
+}

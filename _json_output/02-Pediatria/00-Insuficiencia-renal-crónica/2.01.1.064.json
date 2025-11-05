@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.064",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Insuficiencia renal crónica",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de insuficiencia renal crónica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida rápida y reversible de la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución lenta y progresiva del filtrado glomerular por más de 3 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del flujo renal sin daño estructural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoperfusión renal aguda reversible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto urinario persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La IRC se define como una reducción progresiva y mantenida del filtrado glomerular por más de 3 meses."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia renal crónica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad poliquística renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malformaciones urológicas obstructivas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nefritis intersticial aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico idiopático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las malformaciones urológicas son la principal causa de IRC en la infancia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué marcador se utiliza para estimar la función renal en IRC pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina sérica aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tasa de filtrado glomerular estimada (TFGe)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Excreción fraccional de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osmolalidad urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clearance de urea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TFGe es el mejor indicador para evaluar la función renal crónica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el valor de filtrado glomerular que define enfermedad renal crónica avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<90 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "B",
+          "texto": "<60 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "C",
+          "texto": "<45 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "D",
+          "texto": "<30 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "E",
+          "texto": "<15 mL/min/1.73 m²"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Un filtrado menor de 15 mL/min/1.73 m² define enfermedad renal crónica terminal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es una manifestación clínica común de la IRC en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento acelerado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Poliuria y polidipsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia recurrente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La IRC produce poliuria y polidipsia por pérdida de la capacidad de concentración renal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes alteraciones ácido-base es típica de la IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis metabólica hiperclorémica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica hipoclorémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis metabólica es típica por acumulación de ácidos no volátiles y disminución del bicarbonato."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la causa más frecuente de anemia en la IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida crónica de sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemólisis autoinmune"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de eritropoyetina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de hierro dietario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inflamación crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anemia se produce principalmente por déficit de eritropoyetina sintetizada en el riñón."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de las siguientes alteraciones óseas se asocia a la IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteoporosis senil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Raquitismo renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encondromatosis múltiple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Displasia fibrosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El raquitismo renal es consecuencia del hiperparatiroidismo secundario y alteraciones del metabolismo del calcio-fósforo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de dieta se recomienda en pacientes pediátricos con IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en proteínas y sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoproteica y normocalórica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperproteica e hiposódica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normoproteica e hiperlipídica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Libre en sodio y potasio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta debe ser hipoproteica para reducir la carga de urea, pero suficiente en calorías."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué parámetro define el estadio 3 de la enfermedad renal crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TFG 90-120 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "B",
+          "texto": "TFG 60-89 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "C",
+          "texto": "TFG 30-59 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "D",
+          "texto": "TFG 15-29 mL/min/1.73 m²"
+        },
+        {
+          "opcion": "E",
+          "texto": "TFG <15 mL/min/1.73 m²"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El estadio 3 de la ERC corresponde a una TFG entre 30 y 59 mL/min/1.73 m²."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el trastorno electrolítico más frecuente en IRC avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipofosfatemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipomagnesemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperkalemia ocurre por la reducción en la excreción renal de potasio."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué examen es fundamental para evaluar el tamaño y ecogenicidad renal en IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TAC abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urografía excretora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistografía miccional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía renal permite valorar tamaño, ecogenicidad y simetría de los riñones."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hormona se encuentra elevada en la IRC y contribuye a la enfermedad ósea renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcitonina"
+        },
+        {
+          "opcion": "B",
+          "texto": "PTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucagón"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PTH aumenta como respuesta a la hipocalcemia y retención de fósforo, produciendo osteodistrofia renal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué fármaco se utiliza para tratar la anemia en pacientes con IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritropoyetina recombinante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido fólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hierro oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina B12"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La eritropoyetina recombinante corrige la anemia por déficit de producción endógena."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación cardiovascular es más frecuente en niños con IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tromboembolismo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión arterial es una de las complicaciones más frecuentes y graves en IRC pediátrica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la principal causa de muerte en pacientes pediátricos con IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia digestiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones urinarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Complicaciones cardiovasculares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crisis hipertensivas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnutrición severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las enfermedades cardiovasculares son la principal causa de mortalidad en la IRC."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué vitamina debe suplementarse en la IRC para favorecer la absorción de calcio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina D activa (calcitriol)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina E"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina K"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El calcitriol activa la absorción intestinal de calcio y suprime la PTH."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro de laboratorio indica progresión de la IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la diuresis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del potasio sérico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento progresivo de la creatinina sérica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso de la PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del calcio sérico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento sostenido de la creatinina indica progresión del daño renal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida terapéutica se indica en etapa terminal de IRC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta libre en proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia con eritropoyetina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diálisis o trasplante renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Furosemida oral crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del aporte hídrico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la etapa terminal, el tratamiento de elección es la terapia de reemplazo renal (diálisis o trasplante)."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué signo clínico puede orientar a desnutrición en la IRC pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de peso rápido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso pondoestatural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polifagia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El retraso pondoestatural es frecuente por la combinación de uremia, acidosis y restricción dietaria."
+    }
+  ]
+}

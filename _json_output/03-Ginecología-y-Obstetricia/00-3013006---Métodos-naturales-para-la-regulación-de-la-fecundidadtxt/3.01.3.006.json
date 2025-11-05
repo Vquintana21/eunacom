@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.3.006",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.006 - Métodos naturales para la regulación de la fecundidad.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué característica principal define a los métodos naturales de regulación de la fecundidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de hormonas sintéticas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación de signos y síntomas de fertilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dispositivo intrauterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Métodos de barrera"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esterilización quirúrgica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los métodos naturales se basan en la observación de signos biológicos como moco cervical o temperatura basal."
+    },
+    {
+      "numero": "2",
+      "texto": "El método del ritmo se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambios en el moco cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medición de temperatura basal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duración de los ciclos menstruales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Autoexploración vaginal diaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles de progesterona en saliva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método del ritmo o calendario se basa en la duración de los ciclos menstruales previos."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal signo observado en el método Billings es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambios en la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambios en el moco cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variación en la temperatura basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluctuaciones hormonales en orina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El método Billings se basa en la observación de los cambios en el moco cervical."
+    },
+    {
+      "numero": "4",
+      "texto": "El método de la temperatura basal identifica el periodo fértil porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La temperatura desciende en la ovulación"
+        },
+        {
+          "opcion": "B",
+          "texto": "La temperatura aumenta después de la ovulación"
+        },
+        {
+          "opcion": "C",
+          "texto": "La temperatura se mantiene constante"
+        },
+        {
+          "opcion": "D",
+          "texto": "La temperatura sube antes de la ovulación"
+        },
+        {
+          "opcion": "E",
+          "texto": "La temperatura es más alta durante la menstruación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tras la ovulación, la progesterona eleva la temperatura basal corporal de la mujer."
+    },
+    {
+      "numero": "5",
+      "texto": "Una limitación importante de los métodos naturales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor costo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Efectos secundarios severos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Requieren motivación y adherencia estricta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducen infertilidad permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necesitan prescripción médica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los métodos naturales requieren disciplina, adherencia y cooperación de la pareja para ser efectivos."
+    },
+    {
+      "numero": "6",
+      "texto": "El método sintotérmico combina:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de anticonceptivos orales y condón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Método Billings y coito interrumpido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Observación del moco cervical y temperatura basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "DIU y observación de flujo menstrual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inyección hormonal y método del ritmo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método sintotérmico combina observación del moco cervical, temperatura basal y otros signos secundarios."
+    },
+    {
+      "numero": "7",
+      "texto": "La eficacia de los métodos naturales en uso perfecto se acerca a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "50%"
+        },
+        {
+          "opcion": "C",
+          "texto": "75%"
+        },
+        {
+          "opcion": "D",
+          "texto": "95%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En uso perfecto los métodos naturales pueden alcanzar hasta 95% de eficacia, aunque en uso típico es menor."
+    },
+    {
+      "numero": "8",
+      "texto": "El método de la amenorrea de la lactancia (MELA) es efectivo durante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 semanas posparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 meses posparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses posparto con lactancia exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 meses posparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mientras dure la lactancia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El MELA es efectivo hasta los 6 meses posparto si la lactancia es exclusiva y no hay menstruación."
+    },
+    {
+      "numero": "9",
+      "texto": "La principal ventaja de los métodos naturales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta efectividad sin errores"
+        },
+        {
+          "opcion": "B",
+          "texto": "No tienen efectos secundarios hormonales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Protección contra ETS"
+        },
+        {
+          "opcion": "D",
+          "texto": "Requieren poca disciplina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducen infertilidad temporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "No exponen a la mujer a efectos hormonales ni procedimientos invasivos."
+    },
+    {
+      "numero": "10",
+      "texto": "Un factor que reduce la efectividad de los métodos naturales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciclos menstruales regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Variabilidad en los ciclos menstruales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inicio temprano de la menarquia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edad mayor de 40 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso previo de anticonceptivos hormonales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La variabilidad en la duración de los ciclos dificulta la predicción del periodo fértil."
+    },
+    {
+      "numero": "11",
+      "texto": "El método del coito interrumpido se considera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Un método hormonal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un método natural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un método quirúrgico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un método de barrera"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un método definitivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El coito interrumpido es considerado un método natural aunque con baja efectividad."
+    },
+    {
+      "numero": "12",
+      "texto": "El índice de Pearl en uso típico de los métodos naturales suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2"
+        },
+        {
+          "opcion": "B",
+          "texto": "5-25"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-40"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.5"
+        },
+        {
+          "opcion": "E",
+          "texto": "50"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El índice de Pearl en uso típico es entre 5 y 25 embarazos por 100 mujeres/año."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes métodos naturales requiere entrenamiento más formal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ritmo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Billings"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coito interrumpido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amenorrea de lactancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Autoexploración mamaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El método Billings requiere educación para reconocer los cambios en el moco cervical."
+    },
+    {
+      "numero": "14",
+      "texto": "Un signo secundario de ovulación usado en métodos naturales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor intermenstrual (Mittelschmerz)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipermenorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor temperatura basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Mittelschmerz es un dolor abdominal medio relacionado con la ovulación y usado como signo secundario."
+    },
+    {
+      "numero": "15",
+      "texto": "El método de la temperatura basal puede verse afectado por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sueño irregular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de alcohol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infecciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Sueño irregular, infecciones y otros factores pueden alterar la temperatura basal y confundir la interpretación."
+    },
+    {
+      "numero": "16",
+      "texto": "El método del ritmo es menos efectivo en mujeres con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciclos regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciclos muy irregulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad joven"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menarquia tardía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La irregularidad de los ciclos menstruales disminuye la efectividad del método del ritmo."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes NO es un método natural reconocido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Billings"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ritmo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sintotérmico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Método de Yuzpe"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El método de Yuzpe es anticoncepción de emergencia hormonal, no un método natural."
+    },
+    {
+      "numero": "18",
+      "texto": "Un beneficio adicional de los métodos naturales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Protección frente a ETS"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecen conocimiento del cuerpo femenino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Previenen cáncer de cuello uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducen amenorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuyen la libido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los métodos naturales favorecen el conocimiento de la fisiología femenina y la comunicación en la pareja."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.4.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal función de la hormona luteinizante (LH) en el hombre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimular la espermatogénesis en las células de Sertoli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimular la secreción de testosterona en las células de Leydig"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibir la liberación de FSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regular la secreción de prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Promover la conversión de testosterona a estradiol en el hígado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La LH estimula a las células de Leydig en los testículos para producir testosterona, fundamental para la función reproductiva masculina."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes estímulos aumenta la secreción de LH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "GnRH pulsátil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Testosterona libre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La secreción pulsátil de GnRH desde el hipotálamo estimula la liberación de LH por la hipófisis anterior."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Dónde actúa principalmente la testosterona para inducir el desarrollo de los caracteres sexuales secundarios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En el hipotálamo"
+        },
+        {
+          "opcion": "B",
+          "texto": "En los túbulos seminíferos"
+        },
+        {
+          "opcion": "C",
+          "texto": "En tejidos periféricos como músculo y piel"
+        },
+        {
+          "opcion": "D",
+          "texto": "En la hipófisis anterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "En las glándulas suprarrenales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La testosterona actúa en tejidos periféricos promoviendo el desarrollo de características sexuales secundarias masculinas."
+    },
+    {
+      "numero": "4",
+      "texto": "La conversión de testosterona a dihidrotestosterona (DHT) ocurre gracias a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aromatasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "5-alfa reductasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "17β-hidroxiesteroide deshidrogenasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desmolasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "11β-hidroxilasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La enzima 5-alfa reductasa convierte la testosterona en DHT, forma más potente en tejidos como próstata y piel."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el efecto de niveles elevados de testosterona sobre la secreción de LH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la secreción de LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la secreción de LH por retroalimentación negativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "No tiene efecto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula la secreción de GnRH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibe la secreción de FSH pero no de LH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La testosterona ejerce retroalimentación negativa sobre el eje hipotálamo-hipófisis, inhibiendo la secreción de LH."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hormona hipotalámica regula la liberación de LH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Somatostatina"
+        },
+        {
+          "opcion": "B",
+          "texto": "GHRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "GnRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "TRH"
+        },
+        {
+          "opcion": "E",
+          "texto": "CRH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La GnRH, secretada de forma pulsátil por el hipotálamo, estimula la liberación de LH por la hipófisis anterior."
+    },
+    {
+      "numero": "7",
+      "texto": "En el hombre adulto, la principal fuente de testosterona es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corteza suprarrenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células de Leydig"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células de Sertoli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células germinales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hígado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las células de Leydig en los testículos son las principales productoras de testosterona en el hombre adulto."
+    },
+    {
+      "numero": "8",
+      "texto": "La testosterona circula principalmente en sangre unida a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Albumina"
+        },
+        {
+          "opcion": "B",
+          "texto": "SHBG (globulina fijadora de hormonas sexuales)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Globulina fijadora de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transferrina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prealbúmina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayor parte de la testosterona circula unida a SHBG, lo que regula su biodisponibilidad en los tejidos."
+    },
+    {
+      "numero": "9",
+      "texto": "La deficiencia de LH en un hombre causará principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de estradiol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipogonadismo con baja testosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplasia prostática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ginecomastia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de libido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de LH reduce la estimulación de las células de Leydig, produciendo hipogonadismo hipogonadotrópico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué efecto tiene la testosterona sobre la eritropoyesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La inhibe"
+        },
+        {
+          "opcion": "B",
+          "texto": "No tiene efecto"
+        },
+        {
+          "opcion": "C",
+          "texto": "La estimula indirectamente al aumentar EPO"
+        },
+        {
+          "opcion": "D",
+          "texto": "La bloquea en médula ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la vida media de los eritrocitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La testosterona estimula la producción de eritropoyetina (EPO), lo que incrementa la eritropoyesis."
+    },
+    {
+      "numero": "11",
+      "texto": "El síndrome de Klinefelter se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LH baja y testosterona alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH alta y testosterona baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "LH y testosterona normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH baja y testosterona normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "LH alta y testosterona alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En Klinefelter hay daño testicular primario que genera baja testosterona con aumento compensatorio de LH."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal acción de la testosterona en el desarrollo fetal masculino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Formación del útero y trompas de Falopio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desarrollo de los conductos de Wolff"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cierre de las epífisis óseas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desarrollo del clítoris"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación de la lactancia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La testosterona fetal induce el desarrollo de los conductos de Wolff hacia estructuras internas masculinas."
+    },
+    {
+      "numero": "13",
+      "texto": "La testosterona se convierte a estradiol en tejidos periféricos mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5-alfa reductasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aromatasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desmolasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "17-alfa hidroxilasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "3-beta deshidrogenasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La aromatasa transforma testosterona en estradiol, especialmente en tejido adiposo y cerebral."
+    },
+    {
+      "numero": "14",
+      "texto": "Una característica del hipogonadismo hipogonadotrópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LH elevada y testosterona baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH baja y testosterona baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "LH elevada y testosterona normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH normal y testosterona alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "LH baja y testosterona alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipogonadismo hipogonadotrópico hay falla hipotalámica o hipofisaria, por lo que LH y testosterona están bajas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué evento desencadena la liberación de LH en el ciclo masculino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento sostenido de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción pulsátil de GnRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Descenso de prolactina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incremento de SHBG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Liberación de FSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La GnRH pulsátil del hipotálamo estimula la liberación de LH desde la hipófisis anterior."
+    },
+    {
+      "numero": "16",
+      "texto": "El exceso de testosterona exógena causa infertilidad por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de FSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibición del eje hipotálamo-hipófisis-gonadal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación directa de Sertoli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Daño a las células de Leydig"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La testosterona exógena suprime LH y FSH, reduciendo la espermatogénesis y causando infertilidad."
+    },
+    {
+      "numero": "17",
+      "texto": "La testosterona ejerce sus efectos genómicos al:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Activar receptores de membrana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Unirse a receptores citoplasmáticos de andrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Unirse a canales de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimular segundos mensajeros de AMP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloquear receptores de estrógeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La testosterona se une a receptores androgénicos citoplasmáticos que modulan la transcripción génica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes fármacos inhibe la conversión de testosterona a DHT?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anastrozol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Finasterida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clomifeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ketoconazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leuprolide"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La finasterida inhibe la 5-alfa reductasa, reduciendo la conversión de testosterona a DHT."
+    },
+    {
+      "numero": "19",
+      "texto": "En la pubertad masculina, el aumento de testosterona provoca:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la masa muscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento del vello púbico y aumento del volumen testicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibición de la espermatogénesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descenso de la libido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de la densidad ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El incremento de testosterona durante la pubertad induce el desarrollo de caracteres sexuales secundarios masculinos."
+    },
+    {
+      "numero": "20",
+      "texto": "En un paciente con tumor secretor de LH, se esperaría encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testosterona baja y FSH alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testosterona alta y FSH normal o baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Testosterona baja y FSH baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH baja y testosterona alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH y testosterona bajas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de LH estimula las células de Leydig, elevando la testosterona y suprimendo FSH por retroalimentación."
+    }
+  ]
+}

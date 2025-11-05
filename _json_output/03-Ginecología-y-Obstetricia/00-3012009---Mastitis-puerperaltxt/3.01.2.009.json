@@ -1,0 +1,320 @@
+{
+  "codigo": "3.01.2.009",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.009 - Mastitis puerperal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 11,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de mastitis puerperal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El principal agente causal de la mastitis puerperal es Staphylococcus aureus, transmitido habitualmente desde la piel o la orofaringe del lactante."
+    },
+    {
+      "numero": "2",
+      "texto": "El factor de riesgo más importante para desarrollar mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grietas en el pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactancia prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos en el embarazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las grietas en el pezón facilitan la entrada de bacterias, constituyendo el principal factor de riesgo para mastitis puerperal."
+    },
+    {
+      "numero": "3",
+      "texto": "La clínica inicial más característica de mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta sin dolor local"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor y enrojecimiento localizado en mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción purulenta por pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfadenopatía cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento difuso de volumen mamario indoloro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor mamario localizado asociado a eritema es el signo inicial más característico de mastitis puerperal."
+    },
+    {
+      "numero": "4",
+      "texto": "La conducta frente a una mastitis puerperal sin complicaciones es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender lactancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos y continuar lactancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje quirúrgico inmediato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reposo y analgésicos sin antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compresión mamaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento incluye antibióticos eficaces contra S. aureus y la continuación de la lactancia para vaciar la mama."
+    },
+    {
+      "numero": "5",
+      "texto": "La complicación más grave de una mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Absceso mamario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Galactorrea persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mastalgia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre puerperal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema nodoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El absceso mamario es la complicación más grave y ocurre si no se trata adecuadamente la mastitis."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento antibiótico de elección en mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalexina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azitromicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Cefalexina o dicloxacilina son antibióticos de elección, activos contra Staphylococcus aureus sensible."
+    },
+    {
+      "numero": "7",
+      "texto": "En caso de absceso mamario la conducta indicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender lactancia definitivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje quirúrgico + antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos orales solamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresión y reposo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vaciamiento manual sin antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso mamario requiere drenaje quirúrgico asociado a tratamiento antibiótico."
+    },
+    {
+      "numero": "8",
+      "texto": "El manejo de la lactancia en mastitis puerperal consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender lactancia en la mama afectada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Continuar lactancia en ambas mamas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender lactancia en ambas mamas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Extraer leche solo con bomba"
+        },
+        {
+          "opcion": "E",
+          "texto": "Destetar definitivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lactancia debe continuar en ambas mamas para prevenir estasis y favorecer la resolución."
+    },
+    {
+      "numero": "9",
+      "texto": "El hallazgo que diferencia mastitis de absceso mamario es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor mamario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluctuación a la palpación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calor local"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La presencia de fluctuación sugiere colección purulenta, propia de un absceso mamario."
+    },
+    {
+      "numero": "10",
+      "texto": "El momento de mayor incidencia de mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primera semana postparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre del embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Primeros tres meses de lactancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tercer trimestre del embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después del destete"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mastitis puerperal ocurre principalmente en los primeros tres meses de lactancia, cuando las grietas son más frecuentes."
+    },
+    {
+      "numero": "11",
+      "texto": "Un factor protector frente a mastitis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos en puerperio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vaciamiento completo y frecuente de la mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antecedente de mastitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad materna avanzada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vaciamiento frecuente de la mama durante la lactancia previene la estasis y la mastitis."
+    }
+  ]
+}

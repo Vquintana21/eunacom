@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica principal de la anorexia nerviosa según el DSM-5?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingesta compulsiva seguida de vómitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de la ingesta energética con peso corporal significativamente bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de laxantes para controlar el peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miedo a ganar peso con IMC normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Episodios de atracones recurrentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anorexia nerviosa se caracteriza por restricción calórica que lleva a un peso corporal significativamente bajo para la edad y el sexo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el criterio diagnóstico obligatorio en anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos autoinducidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miedo intenso a ganar peso o engordar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de diuréticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amenorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compulsión alimentaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El miedo intenso a ganar peso o engordar, incluso estando bajo peso, es un criterio esencial del trastorno."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes subtipos de anorexia nerviosa se caracteriza por episodios de atracones y purgas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restrictivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Purgativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compulsivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atracón/purgativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mixto"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El subtipo atracón/purgativo implica episodios de atracones seguidos de conductas compensatorias como vómitos o laxantes."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes signos físicos es típico en la anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia y lanugo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de masa muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema generalizado severo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bradicardia y la presencia de lanugo son manifestaciones clásicas del estado hipometabólico en anorexia."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la alteración endocrina más frecuente en pacientes con anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipogonadismo hipogonadotrópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes mellitus tipo 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La restricción calórica prolongada causa hipogonadismo hipogonadotrópico con amenorrea secundaria."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la complicación cardiovascular más común en anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia sinusal y hipotensión ortostática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arritmia supraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia cardíaca congestiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bradicardia y la hipotensión son consecuencia del estado hipometabólico y la desnutrición crónica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué alteración electrolítica puede aparecer por conductas purgativas en anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia e hipokalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperfosfatemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermagnesemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vómito y uso de laxantes producen hiponatremia e hipokalemia, aumentando el riesgo de arritmias."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo hematológico es característico de la anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia normocítica y leucopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eosinofilia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La desnutrición prolongada causa anemia normocítica y leucopenia por supresión medular reversible."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la complicación renal más frecuente en anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal aguda por deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefritis intersticial crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nefrocalcinosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deshidratación y el abuso de laxantes provocan insuficiencia renal prerrenal por hipovolemia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes alteraciones es común en la densidad ósea de las pacientes con anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperostosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteoporosis por hipogonadismo y déficit nutricional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esclerosis ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Condromalacia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia ósea cortical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia estrogénica y nutricional causa pérdida de masa ósea y osteoporosis prematura."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo bioquímico es frecuente en pacientes con anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperinsulinemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercolesterolemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglucemia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del cortisol plasmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipercolesterolemia es común por disminución del catabolismo hepático del colesterol."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación metabólica puede ocurrir durante la realimentación rápida de una paciente con anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de realimentación con hipofosfatemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermagnesemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de realimentación se caracteriza por hipofosfatemia, hipokalemia y retención hídrica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el tratamiento inicial más importante en la anorexia nerviosa grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antidepresivos ISRS"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realimentación controlada y monitoreo médico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia cognitivo-conductual únicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico supervisado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antipsicóticos atípicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La realimentación controlada bajo supervisión médica es prioritaria para evitar complicaciones metabólicas agudas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué manifestación gastrointestinal puede observarse en anorexia nerviosa prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estreñimiento y gastroparesia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematemesis masiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desnutrición y el bajo consumo provocan estreñimiento y enlentecimiento del vaciamiento gástrico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la mortalidad estimada asociada a la anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1–2%"
+        },
+        {
+          "opcion": "B",
+          "texto": "5–10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "10–20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "20–30%"
+        },
+        {
+          "opcion": "E",
+          "texto": ">30%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mortalidad alcanza entre 5% y 10%, siendo una de las enfermedades psiquiátricas más letales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué neurotransmisor está más implicado en la patogénesis de la anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "GABA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serotonina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acetilcolina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glutamato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disfunción del sistema serotoninérgico se asocia con alteraciones del apetito y del estado de ánimo."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué signo cutáneo puede observarse por desnutrición en anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Xantomas eruptivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperpigmentación difusa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Piel seca y aparición de lanugo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema nodoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La piel seca y el lanugo son adaptaciones del cuerpo a la pérdida de grasa subcutánea y calor."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro debe monitorizarse estrechamente durante la realimentación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucemia capilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fósforo sérico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido úrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetonas urinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos plasmáticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fósforo sérico debe controlarse para prevenir el síndrome de realimentación, potencialmente mortal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué intervención psicológica tiene mayor evidencia en el tratamiento de la anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia cognitivo-conductual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Psicoanálisis clásico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia de grupo sin estructura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia ocupacional aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipnoterapia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La terapia cognitivo-conductual es la más eficaz para modificar las distorsiones cognitivas y conductas alimentarias anómalas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el IMC que define bajo peso en el diagnóstico de anorexia nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<20 kg/m²"
+        },
+        {
+          "opcion": "B",
+          "texto": "<19 kg/m²"
+        },
+        {
+          "opcion": "C",
+          "texto": "<18.5 kg/m²"
+        },
+        {
+          "opcion": "D",
+          "texto": "<17 kg/m²"
+        },
+        {
+          "opcion": "E",
+          "texto": "<15 kg/m²"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El IMC menor de 18.5 kg/m² se considera bajo peso, y suele ser criterio diagnóstico clave en anorexia nerviosa."
+    }
+  ]
+}

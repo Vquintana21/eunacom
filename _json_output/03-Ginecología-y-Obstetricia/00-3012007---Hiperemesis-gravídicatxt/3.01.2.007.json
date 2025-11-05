@@ -1,0 +1,488 @@
+{
+  "codigo": "3.01.2.007",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.007 - Hiperemesis gravídica.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 17,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la hiperemesis gravídica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Náuseas leves en el primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos persistentes con pérdida de peso y deshidratación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión asociada al embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria recurrente en embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica en la gestación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperemesis gravídica es un cuadro severo de vómitos que produce pérdida de peso, deshidratación y alteraciones metabólicas."
+    },
+    {
+      "numero": "2",
+      "texto": "El principal criterio diagnóstico de hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de peso durante el primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos persistentes con pérdida >5% del peso corporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteinuria en orina de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial >140/90"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida mayor al 5% del peso corporal inicial junto con vómitos persistentes define el diagnóstico clínico."
+    },
+    {
+      "numero": "3",
+      "texto": "Un hallazgo frecuente en laboratorio en hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglicemia e hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipopotasemia y cetonuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipopotasemia y la cetonuria reflejan deshidratación y catabolismo en la hiperemesis gravídica."
+    },
+    {
+      "numero": "4",
+      "texto": "El diagnóstico diferencial de hiperemesis gravídica incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gastroenteritis y enfermedad trofoblástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de HELLP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe diferenciarse de causas gastrointestinales e incluso de enfermedad trofoblástica por niveles altos de hCG."
+    },
+    {
+      "numero": "5",
+      "texto": "El factor de riesgo más relacionado con hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primigesta y embarazo múltiple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna >35 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antecedente de cesárea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de ácido fólico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La primigestación y el embarazo múltiple se asocian con mayor riesgo de hiperemesis gravídica."
+    },
+    {
+      "numero": "6",
+      "texto": "La complicación más grave de la hiperemesis gravídica no tratada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición y encefalopatía de Wernicke"
+        },
+        {
+          "opcion": "C",
+          "texto": "Polihidroamnios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prematuridad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión gestacional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de tiamina por vómitos persistentes puede causar encefalopatía de Wernicke, complicación neurológica grave."
+    },
+    {
+      "numero": "7",
+      "texto": "El tratamiento inicial de la hiperemesis gravídica incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reposo y líquidos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidratación intravenosa, tiamina y antieméticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoterapia exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender toda alimentación por 7 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial incluye hidratación IV, administración de tiamina y antieméticos de primera línea."
+    },
+    {
+      "numero": "8",
+      "texto": "Un antiemético de primera línea en hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metoclopramida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondansetrón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clorpromazina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prometazina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos los anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Se pueden usar metoclopramida, ondansetrón, prometazina o clorpromazina, individualizando según respuesta y tolerancia."
+    },
+    {
+      "numero": "9",
+      "texto": "La hospitalización en hiperemesis gravídica está indicada cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hay vómitos leves sin pérdida de peso"
+        },
+        {
+          "opcion": "B",
+          "texto": "La paciente no tolera líquidos y presenta cetonuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "El embarazo es múltiple"
+        },
+        {
+          "opcion": "D",
+          "texto": "La paciente solicita reposo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Existen antecedentes de cesárea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se hospitaliza cuando no hay tolerancia oral, existe cetonuria o deshidratación significativa."
+    },
+    {
+      "numero": "10",
+      "texto": "Una alteración hidroelectrolítica común en hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipopotasemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipermagnesemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperfosfatemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los vómitos persistentes generan pérdidas de potasio, llevando a hipopotasemia."
+    },
+    {
+      "numero": "11",
+      "texto": "El examen complementario más útil en hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil lipídico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Función renal y electrolitos séricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La evaluación de la función renal y electrolitos permite monitorizar complicaciones metabólicas."
+    },
+    {
+      "numero": "12",
+      "texto": "Una condición que se asocia a hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embarazo molar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovario poliquístico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombofilia hereditaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad trofoblástica gestacional se asocia a hiperemesis por elevados niveles de hCG."
+    },
+    {
+      "numero": "13",
+      "texto": "La suplementación con tiamina en hiperemesis gravídica es importante porque previene:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalopatía de Wernicke"
+        },
+        {
+          "opcion": "D",
+          "texto": "RCIU"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corioamnionitis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La deficiencia de tiamina por vómitos severos puede causar encefalopatía de Wernicke."
+    },
+    {
+      "numero": "14",
+      "texto": "El nivel hormonal asociado a hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progesterona elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estrógenos bajos"
+        },
+        {
+          "opcion": "C",
+          "texto": "hCG elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina disminuida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol bajo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperemesis se relaciona con niveles elevados de hCG, como en embarazo múltiple o molar."
+    },
+    {
+      "numero": "15",
+      "texto": "Una complicación hepática poco frecuente de hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado graso agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevación leve de transaminasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangiocarcinoma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En casos graves puede observarse elevación leve de transaminasas, autolimitada tras la mejoría clínica."
+    },
+    {
+      "numero": "16",
+      "texto": "La vía preferida de hidratación en hiperemesis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oral con agua abundante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intravenosa con solución isotónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rectal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hidratación intravenosa con solución isotónica corrige rápidamente el déficit hídrico y electrolítico."
+    },
+    {
+      "numero": "17",
+      "texto": "En hiperemesis gravídica, el seguimiento fetal incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil biofísico inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía de control del crecimiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monitoreo diario cardiotocográfico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amniocentesis temprana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda control ecográfico de crecimiento para descartar restricción fetal en casos graves."
+    }
+  ]
+}

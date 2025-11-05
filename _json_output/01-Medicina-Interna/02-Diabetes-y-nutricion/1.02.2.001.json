@@ -1,0 +1,600 @@
+{
+  "codigo": "1.02.2.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de acidosis láctica en pacientes diabéticos tratados con metformina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobredosis aguda del fármaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metformina se elimina por vía renal; su acumulación por insuficiencia renal puede causar acidosis láctica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de acidosis metabólica se observa en la acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Con anión gap normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Con anión gap elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sin alteración del anión gap"
+        },
+        {
+          "opcion": "D",
+          "texto": "Con alcalosis respiratoria compensada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con hipocapnia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis láctica produce aumento del anión gap por acumulación de ácido láctico en plasma."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el valor normal del lactato plasmático en sangre venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<1 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "<2 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "<4 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "<6 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "<8 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los niveles normales de lactato en plasma son menores de 2 mmol/L; valores mayores indican hiperlactatemia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿A partir de qué valor de lactato se define una acidosis láctica significativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">2 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": ">4 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": ">6 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": ">8 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": ">10 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera acidosis láctica cuando el lactato plasmático supera 4 mmol/L asociado a pH bajo."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué condición fisiopatológica favorece la acumulación de ácido láctico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenación tisular adecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metabolismo aeróbico acelerado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia tisular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación compensatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoxia tisular induce metabolismo anaeróbico, aumentando la producción de ácido láctico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué órgano es el principal encargado de la depuración del lactato en condiciones normales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hígado metaboliza el lactato mediante gluconeogénesis y el ciclo de Cori."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos aumenta el riesgo de acidosis láctica en pacientes con insuficiencia renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina NPH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glibenclamida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Empagliflozina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pioglitazona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metformina puede acumularse en insuficiencia renal y disminuir la eliminación del lactato, causando acidosis láctica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo gasométrico caracteriza la acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH >7.45 y bicarbonato normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH <7.35 y bicarbonato bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH normal con CO₂ bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH elevado con lactato bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH normal con anión gap bajo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis láctica cursa con pH bajo, bicarbonato disminuido y anión gap elevado."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el principal síntoma clínico asociado a la acidosis láctica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea y taquipnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somnolencia leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disnea y taquipnea reflejan el intento de compensación respiratoria frente a la acidosis metabólica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de acidosis láctica se asocia con shock séptico o hipoperfusión tisular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tipo A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tipo C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tipo D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo E"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acidosis láctica tipo A se relaciona con hipoxia o hipoperfusión tisular secundaria a shock o sepsis."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de acidosis láctica se asocia con alteraciones metabólicas sin hipoxia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tipo A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tipo C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tipo D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo E"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis tipo B ocurre sin hipoxia, por causas metabólicas o medicamentos como la metformina."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el tratamiento inicial más importante en la acidosis láctica secundaria a hipoxia tisular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administración de bicarbonato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación mecánica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corrección de la causa subyacente y oxigenación adecuada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión inmediata de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de vasoconstrictores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento se centra en corregir la causa de la hipoxia y restaurar la perfusión tisular."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué valor de pH arterial define una acidosis metabólica grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<7.35"
+        },
+        {
+          "opcion": "B",
+          "texto": "<7.25"
+        },
+        {
+          "opcion": "C",
+          "texto": "<7.10"
+        },
+        {
+          "opcion": "D",
+          "texto": "<6.95"
+        },
+        {
+          "opcion": "E",
+          "texto": "<6.80"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un pH menor a 7.10 indica acidosis metabólica severa con riesgo de compromiso cardiovascular y respiratorio."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué alteración electrolítica suele acompañar a la acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipopotasemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipernatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoclorhidria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La acidosis metabólica genera desplazamiento de potasio al extracelular, causando hiperkalemia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué situación clínica puede precipitar una acidosis láctica tipo A?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso prolongado de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia severa con shock hipovolémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio moderado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperinsulinismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shock hipovolémico causa hipoperfusión tisular y metabolismo anaeróbico, generando acidosis láctica tipo A."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parámetro del equilibrio ácido-base está disminuido en la acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bicarbonato (HCO₃⁻)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anión gap"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcio iónico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bicarbonato disminuye al ser consumido por el exceso de ácidos metabólicos como el láctico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes signos clínicos puede observarse en acidosis láctica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respiración de Kussmaul"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La respiración de Kussmaul es una hiperventilación compensatoria característica de acidosis metabólica severa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué examen complementario confirma la presencia de acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasometría arterial y lactato plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Velocidad de sedimentación globular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La gasometría arterial confirma la acidosis metabólica y la medición de lactato determina su magnitud."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué efecto produce la acidosis láctica sobre el sistema cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión miocárdica y vasodilatación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasoconstricción sistémica intensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia con hipertensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la contractilidad cardíaca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acidosis severa deprime el miocardio y causa vasodilatación, reduciendo la presión arterial y perfusión tisular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida terapéutica debe implementarse en pacientes con acidosis láctica por metformina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la dosis del fármaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar bicarbonato intravenoso en todos los casos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender metformina y corregir la causa desencadenante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar glucocorticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener tratamiento y observar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe suspenderse la metformina y tratar la causa de hipoxia o insuficiencia renal subyacente."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué valor de anión gap se considera elevado en acidosis metabólica como la acidosis láctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">8 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": ">10 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": ">12 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": ">16 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": ">20 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un anión gap mayor de 12 mEq/L indica acidosis metabólica con acumulación de ácidos no medidos, como el láctico."
+    }
+  ]
+}

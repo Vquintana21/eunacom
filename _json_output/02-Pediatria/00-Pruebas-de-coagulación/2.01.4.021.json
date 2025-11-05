@@ -1,0 +1,516 @@
+{
+  "codigo": "2.01.4.021",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Pruebas de coagulación",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué evalúa el tiempo de protrombina (TP)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vía intrínseca y común"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vía extrínseca y común"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo vía intrínseca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo vía extrínseca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sistema fibrinolítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TP evalúa la vía extrínseca (factor VII) y la vía común de la coagulación."
+    },
+    {
+      "numero": "2",
+      "texto": "El tiempo de tromboplastina parcial activado (TTPa) evalúa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vía extrínseca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vía intrínseca y común"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo vía común"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrinólisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agregación plaquetaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El TTPa mide la función de los factores de la vía intrínseca y común."
+    },
+    {
+      "numero": "3",
+      "texto": "Un TP prolongado con TTPa normal sugiere defecto en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factor VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Factor IX"
+        },
+        {
+          "opcion": "C",
+          "texto": "Factor VII"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor XII"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrinógeno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un TP prolongado aislado indica alteración en la vía extrínseca, principalmente del factor VII."
+    },
+    {
+      "numero": "4",
+      "texto": "El INR se utiliza principalmente para monitorizar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heparina no fraccionada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido acetilsalicílico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heparina de bajo peso molecular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clopidogrel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El INR estandariza el TP y se usa para monitorizar el tratamiento con warfarina."
+    },
+    {
+      "numero": "5",
+      "texto": "Un TTPa prolongado que se corrige con plasma normal sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de anticoagulante lúpico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de factor de la coagulación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Error técnico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defecto fibrinolítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La corrección con plasma indica un déficit de factores de coagulación, no un inhibidor."
+    },
+    {
+      "numero": "6",
+      "texto": "En la enfermedad hepática, típicamente se observa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TP prolongado y TTPa normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP y TTPa prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo TTPa prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ambos normales"
+        },
+        {
+          "opcion": "E",
+          "texto": "INR disminuido"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El hígado produce la mayoría de los factores de coagulación; su disfunción prolonga TP y TTPa."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el objetivo terapéutico de INR en anticoagulación oral estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.8–1.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.5–2.0"
+        },
+        {
+          "opcion": "C",
+          "texto": "2.0–3.0"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.0–4.0"
+        },
+        {
+          "opcion": "E",
+          "texto": "4.0–5.0"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rango terapéutico de INR habitual es 2.0–3.0 para prevención de eventos tromboembólicos."
+    },
+    {
+      "numero": "8",
+      "texto": "La vitamina K participa en la síntesis de los factores:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "I, II, V y VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "II, VII, IX y X"
+        },
+        {
+          "opcion": "C",
+          "texto": "V, VIII, IX y XI"
+        },
+        {
+          "opcion": "D",
+          "texto": "VII, X, XI y XII"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo II y X"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vitamina K es esencial para los factores II, VII, IX y X dependientes de calcio."
+    },
+    {
+      "numero": "9",
+      "texto": "La prueba de tiempo de trombina evalúa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conversión de fibrinógeno en fibrina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Actividad del factor XIII"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vía extrínseca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Actividad plaquetaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fase de amplificación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tiempo de trombina mide la conversión final de fibrinógeno a fibrina por la trombina."
+    },
+    {
+      "numero": "10",
+      "texto": "Una prolongación simultánea de TP y TTPa con fibrinógeno bajo sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit aislado de factor VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coagulación intravascular diseminada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemofilia A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de anticoagulante lúpico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina K"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La CID cursa con consumo de factores y fibrinógeno, prolongando TP y TTPa."
+    },
+    {
+      "numero": "11",
+      "texto": "Un TTPa prolongado con TP normal indica alteración de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vía extrínseca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vía intrínseca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vía común"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrinólisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de sangría"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TTPa prolongado con TP normal sugiere alteración en la vía intrínseca (factores VIII, IX, XI, XII)."
+    },
+    {
+      "numero": "12",
+      "texto": "Un TTPa prolongado que no se corrige con mezcla de plasma normal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de factor VIII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibidor circulante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de fibrinógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error de laboratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina K"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La falta de corrección sugiere la presencia de un inhibidor como el anticoagulante lúpico."
+    },
+    {
+      "numero": "13",
+      "texto": "Una prolongación aislada del TTPa en un niño asintomático puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemofilia A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia del factor XII"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de vitamina K"
+        },
+        {
+          "opcion": "D",
+          "texto": "CID incipiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de aspirina"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La deficiencia de factor XII prolonga el TTPa pero no causa sangrado clínico."
+    },
+    {
+      "numero": "14",
+      "texto": "El TP está prolongado y el TTPa normal en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de factor VII"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de factor VIII"
+        },
+        {
+          "opcion": "C",
+          "texto": "CID"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatopatía crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de heparina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La alteración aislada del TP indica déficit en la vía extrínseca, como del factor VII."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de las siguientes pruebas se altera primero en déficit de vitamina K?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiempo de trombina"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP"
+        },
+        {
+          "opcion": "C",
+          "texto": "TTPa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuento plaquetario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de sangría"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TP se altera antes que el TTPa, pues el factor VII tiene vida media corta."
+    },
+    {
+      "numero": "16",
+      "texto": "En un recién nacido sano, el TP puede encontrarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ligeramente prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentado más del doble"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indetectable"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los recién nacidos pueden tener TP algo prolongado por inmadurez hepática y déficit relativo de vitamina K."
+    },
+    {
+      "numero": "17",
+      "texto": "En la hemofilia A se encuentra alterado principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TP prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "TTPa prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambos prolongados"
+        },
+        {
+          "opcion": "D",
+          "texto": "INR elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de sangría prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemofilia A altera el TTPa por déficit del factor VIII de la vía intrínseca."
+    },
+    {
+      "numero": "18",
+      "texto": "El test de mezcla 1:1 sirve para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar deficiencia de plaquetas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Distinguir deficiencia de factor vs inhibidor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar función hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar CID"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir fibrinógeno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El test de mezcla permite diferenciar déficit de factor (corrige) de presencia de inhibidor (no corrige)."
+    }
+  ]
+}

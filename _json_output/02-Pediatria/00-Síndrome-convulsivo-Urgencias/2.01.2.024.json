@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.2.024",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome convulsivo Urgencias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de convulsión en un niño previamente sano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia idiopática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traumatismo craneoencefálico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La fiebre alta, especialmente por infecciones virales, es la causa más frecuente de convulsión en niños sanos."
+    },
+    {
+      "numero": "2",
+      "texto": "Una convulsión febril simple se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración menor de 15 minutos, generalizada y sin recurrencia en 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración mayor de 30 minutos y focal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recurrente en menos de 12 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acompañada de déficit neurológico persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de signos meníngeos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las convulsiones febriles simples son breves, generalizadas y únicas durante un mismo episodio febril."
+    },
+    {
+      "numero": "3",
+      "texto": "El medicamento de elección para detener una crisis convulsiva en urgencias es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fenobarbital IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carbamazepina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido valproico oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Midazolam intranasal o diazepam IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lamotrigina IV"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Midazolam intranasal o diazepam IV son las benzodiacepinas recomendadas para abortar crisis activas."
+    },
+    {
+      "numero": "4",
+      "texto": "El estado epiléptico se define como una crisis que dura:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Más de 3 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Más de 5 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Más de 10 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 15 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 20 minutos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una crisis que dura más de 5 minutos o múltiples sin recuperación entre ellas es estado epiléptico."
+    },
+    {
+      "numero": "5",
+      "texto": "En un niño con primera convulsión afebril prolongada, el estudio inicial debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EEG inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electrolitos en orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC o RM cerebral y glicemia capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doppler transcraneal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Se deben buscar causas estructurales o metabólicas con TAC o RM cerebral y glicemia."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento inicial del estado epiléptico incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fenobarbital oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Valproato oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lamotrigina IM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Midazolam o diazepam, seguido de fenitoína IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido fólico IV"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Benzodiacepinas seguidas de fenitoína IV constituyen el manejo inicial del estado epiléptico."
+    },
+    {
+      "numero": "7",
+      "texto": "La convulsión febril compleja se define por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración menor de 10 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asociación a exantema viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Focalidad, duración >15 minutos o recurrencia en 24 h"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ocurrir en mayores de 10 años"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las convulsiones febriles complejas son prolongadas, focales o repetidas en un mismo episodio febril."
+    },
+    {
+      "numero": "8",
+      "texto": "La causa metabólica más frecuente de convulsión en lactantes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipomagnesemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipopotasemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hipoglucemia es la causa metabólica más frecuente de convulsión en lactantes."
+    },
+    {
+      "numero": "9",
+      "texto": "En un lactante con fiebre y convulsión, la punción lumbar está indicada cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiene antecedentes familiares de epilepsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Está bien recuperado postcrisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "La fiebre fue menor de 38°C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Existe sospecha de infección del SNC"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiene más de 6 años"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Debe realizarse punción lumbar ante signos o sospecha de infección del sistema nervioso central."
+    },
+    {
+      "numero": "10",
+      "texto": "La dosis de diazepam IV en crisis convulsiva es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1 mg/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.2 mg/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "0.3 mg/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.5 mg/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 mg/kg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dosis recomendada es de 0.2 mg/kg de diazepam IV, máximo 10 mg por dosis."
+    },
+    {
+      "numero": "11",
+      "texto": "El estudio electroencefalográfico está indicado en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toda convulsión febril"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis únicas simples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con infección respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones afebriles o febriles complejas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis asociadas a gastroenteritis viral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El EEG está indicado en convulsiones afebriles o febriles complejas para evaluar epilepsia."
+    },
+    {
+      "numero": "12",
+      "texto": "Una convulsión febril simple no requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Educación familiar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control de temperatura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vigilancia postcrisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación pediátrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hospitalización"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "No se requiere hospitalizar al paciente con convulsión febril simple, basta observación y educación."
+    },
+    {
+      "numero": "13",
+      "texto": "El tiempo máximo aceptable para iniciar tratamiento anticonvulsivo en estado epiléptico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 minuto"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "15 minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento debe iniciarse antes de los 5 minutos para prevenir daño neuronal permanente."
+    },
+    {
+      "numero": "14",
+      "texto": "El anticonvulsivante de segunda línea recomendado tras benzodiacepinas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lamotrigina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clobazam"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fenitoína IV o valproato IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Topiramato oral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Si las benzodiacepinas fallan, se debe usar fenitoína o valproato IV como segunda línea."
+    },
+    {
+      "numero": "15",
+      "texto": "La causa más frecuente de status epiléptico en niños con epilepsia conocida es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trauma craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión del tratamiento anticonvulsivante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección viral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La suspensión del tratamiento anticonvulsivante es la causa más frecuente de status epiléptico."
+    },
+    {
+      "numero": "16",
+      "texto": "Durante la crisis convulsiva se debe evitar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteger la cabeza del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocar en posición lateral de seguridad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar tiempo de duración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Introducir objetos en la boca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar respiración"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Nunca se deben introducir objetos en la boca durante una crisis convulsiva por riesgo de asfixia."
+    },
+    {
+      "numero": "17",
+      "texto": "El diagnóstico diferencial más importante del síndrome convulsivo en urgencias es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea del sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis asmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síncope"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastroenteritis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El síncope puede simular una crisis convulsiva y debe diferenciarse cuidadosamente en urgencias."
+    },
+    {
+      "numero": "18",
+      "texto": "Tras controlar una convulsión febril simple, el manejo incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hospitalización inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio de anticonvulsivante diario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar obligatoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control antipirético y educación familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "EEG en 24 horas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El manejo adecuado incluye antipiréticos, observación y educación familiar sin iniciar anticonvulsivantes."
+    },
+    {
+      "numero": "19",
+      "texto": "En el manejo inicial de una crisis convulsiva prolongada, la vía más recomendada para midazolam es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rectal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intranasal o bucal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Subcutánea"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las vías intranasal o bucal permiten una absorción rápida y segura del midazolam en niños."
+    }
+  ]
+}

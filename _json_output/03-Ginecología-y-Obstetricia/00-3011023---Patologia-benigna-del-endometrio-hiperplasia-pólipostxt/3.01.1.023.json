@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.023",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.023 - Patologia benigna del endometrio (hiperplasia, pólipos…).txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza a la hiperplasia endometrial sin atipia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riesgo alto de progresión a carcinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proliferación glandular irregular sin cambios nucleares significativos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia endometrial con sangrado posmenopáusico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pólipo endometrial con necrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento miometrial benigno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperplasia endometrial sin atipia muestra proliferación glandular irregular, con bajo riesgo de progresión maligna."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma más frecuente de los pólipos endometriales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amenorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metrorragia intermenstrual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor pélvico crónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucorrea persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pólipos endometriales suelen manifestarse con metrorragia intermenstrual o sangrado irregular."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal factor de riesgo para hiperplasia endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición crónica a estrógenos sin oposición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menopausia precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de DIU de cobre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio intenso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estímulo estrogénico sin oposición por progestágenos aumenta el riesgo de hiperplasia endometrial."
+    },
+    {
+      "numero": "4",
+      "texto": "El método diagnóstico de elección para pólipos endometriales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Histeroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "RMN pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA-125"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La histeroscopía permite diagnóstico y tratamiento simultáneo de pólipos endometriales."
+    },
+    {
+      "numero": "5",
+      "texto": "La hiperplasia endometrial con atipia se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajo riesgo de progresión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alto riesgo de carcinoma endometrial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Involución espontánea en la mayoría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de riesgo maligno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometritis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de atipia nuclear confiere un riesgo alto de progresión a carcinoma endometrial."
+    },
+    {
+      "numero": "6",
+      "texto": "En mujeres jóvenes con hiperplasia endometrial sin atipia, el tratamiento inicial recomendado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progestágenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ablación endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Legrado diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los progestágenos son el tratamiento de elección para revertir hiperplasia sin atipia y preservar fertilidad."
+    },
+    {
+      "numero": "7",
+      "texto": "El diagnóstico diferencial principal de pólipo endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenomiosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mioma submucoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometriosis ovárica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leiomioma intramural"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El mioma submucoso puede simular pólipo endometrial en clínica e imagen."
+    },
+    {
+      "numero": "8",
+      "texto": "La biopsia endometrial está indicada principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres menores de 30 años con ciclos regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sangrado uterino anormal en mayores de 45 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amenorrea hipotalámica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infertilidad sin sangrado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de ovario poliquístico asintomático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En mujeres mayores de 45 años con sangrado anormal, la biopsia endometrial es obligatoria para descartar neoplasia."
+    },
+    {
+      "numero": "9",
+      "texto": "El pólipo endometrial suele estar compuesto por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glándulas endometriales y estroma fibroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo tejido muscular liso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epitelio escamoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células atípicas malignas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tejido conectivo sin vascularización"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El pólipo endometrial es una proliferación benigna de glándulas endometriales y estroma fibroso."
+    },
+    {
+      "numero": "10",
+      "texto": "Un hallazgo típico de hiperplasia endometrial en ecografía transvaginal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio delgado <4 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento endometrial difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistes miometriales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión hipoecoica submucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrio atrófico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperplasia endometrial se caracteriza por un engrosamiento difuso del endometrio en ecografía."
+    },
+    {
+      "numero": "11",
+      "texto": "En mujeres posmenopáusicas, el grosor endometrial que indica biopsia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥2 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥3 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥4 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥6 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥8 mm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En posmenopáusicas, un grosor endometrial ≥4 mm con sangrado obliga a realizar biopsia."
+    },
+    {
+      "numero": "12",
+      "texto": "La complicación más importante de la hiperplasia endometrial con atipia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infertilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Progresión a carcinoma endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia endometrial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperplasia endometrial con atipia tiene alto riesgo de progresión a adenocarcinoma endometrial."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento definitivo para hiperplasia endometrial con atipia en mujeres sin deseo de fertilidad es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progestágenos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Legrado uterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "DIU de cobre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resección histeroscópica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La histerectomía es el tratamiento definitivo en hiperplasia con atipia sin deseo reproductivo."
+    },
+    {
+      "numero": "14",
+      "texto": "El pólipo endometrial sintomático debe manejarse mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratamiento expectante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resección histeroscópica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progestágenos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "AINEs"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento de elección para pólipos endometriales sintomáticos es la resección histeroscópica."
+    },
+    {
+      "numero": "15",
+      "texto": "Un factor de riesgo común tanto para pólipos como hiperplasia endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de DIU de cobre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de estrógenos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad incrementa los estrógenos periféricos, aumentando el riesgo de pólipos e hiperplasia endometrial."
+    },
+    {
+      "numero": "16",
+      "texto": "El diagnóstico histológico de hiperplasia endometrial requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Examen ginecológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcadores tumorales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico definitivo de hiperplasia endometrial siempre es histológico mediante biopsia."
+    },
+    {
+      "numero": "17",
+      "texto": "La recurrencia de pólipos endometriales tras resección se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad avanzada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de tamoxifeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paridad elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamoxifeno aumenta el riesgo de recurrencia y aparición de nuevos pólipos endometriales."
+    },
+    {
+      "numero": "18",
+      "texto": "Un hallazgo histológico de pólipo endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glándulas atípicas complejas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estroma fibroso y vasos gruesos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proliferación miometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrio atrófico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pólipos endometriales tienen estroma fibroso característico y vasos de pared gruesa."
+    },
+    {
+      "numero": "19",
+      "texto": "La herramienta más útil para descartar cáncer en hiperplasia endometrial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia endometrial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Histeroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "RMN pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcadores séricos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La biopsia endometrial es esencial para diferenciar hiperplasia benigna de carcinoma endometrial."
+    }
+  ]
+}

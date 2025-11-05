@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la evaluación nutricional en pacientes con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar obesidad mórbida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar riesgo cardiovascular exclusivamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar estado nutricional y control metabólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar deficiencia proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ajustar dosis de insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La evaluación nutricional busca valorar el estado nutricional, riesgo metabólico y orientar intervenciones para mejorar el control glucémico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes indicadores antropométricos es más utilizado para evaluar obesidad en diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Índice de masa corporal (IMC)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perímetro braquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pliegue tricipital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso seco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Índice cintura-cadera"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El IMC es el indicador estándar para estimar obesidad y riesgo metabólico en pacientes con diabetes tipo 2."
+    },
+    {
+      "numero": "3",
+      "texto": "Un IMC mayor a 30 kg/m² indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrepeso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normopeso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sarcopenia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un IMC ≥30 kg/m² se clasifica como obesidad según la OMS."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué valor de circunferencia de cintura en hombres indica riesgo cardiovascular elevado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">80 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": ">88 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": ">94 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": ">102 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": ">110 cm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una cintura >102 cm en hombres indica alto riesgo cardiovascular y metabólico."
+    },
+    {
+      "numero": "5",
+      "texto": "En mujeres, una circunferencia de cintura superior a 88 cm indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normopeso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riesgo metabólico aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desnutrición leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retención de líquidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bajo porcentaje graso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una cintura >88 cm en mujeres se asocia a mayor riesgo de síndrome metabólico y diabetes tipo 2."
+    },
+    {
+      "numero": "6",
+      "texto": "El pliegue tricipital se utiliza para estimar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa magra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grasa corporal subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agua corporal total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Masa ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metabolismo basal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pliegue tricipital mide la grasa subcutánea y ayuda a estimar el porcentaje graso corporal."
+    },
+    {
+      "numero": "7",
+      "texto": "El método de bioimpedancia eléctrica permite estimar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo peso corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa muscular y grasa corporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grasa visceral únicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agua extracelular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Densidad ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bioimpedancia estima la composición corporal, diferenciando masa grasa, magra y agua corporal."
+    },
+    {
+      "numero": "8",
+      "texto": "El requerimiento energético total se calcula considerando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad y peso únicamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tasa metabólica basal, actividad física y factor enfermedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo el gasto en reposo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de glucosa plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Porcentaje de grasa corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El gasto energético total incluye metabolismo basal, actividad física y condiciones clínicas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué herramienta se usa comúnmente para evaluar la ingesta alimentaria en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cuestionario de frecuencia alimentaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de depresión de Beck"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de esfuerzo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Montreal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perfil lipídico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cuestionario de frecuencia alimentaria identifica patrones de consumo y hábitos dietéticos relevantes."
+    },
+    {
+      "numero": "10",
+      "texto": "La hemoglobina glicosilada (HbA1c) se utiliza para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar ingesta calórica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir control glucémico promedio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimar masa magra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar función renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar déficit vitamínico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La HbA1c refleja el control glucémico promedio de los últimos 2-3 meses."
+    },
+    {
+      "numero": "11",
+      "texto": "En la evaluación nutricional del paciente diabético, la glucemia en ayunas permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar función pancreática exocrina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimar gasto energético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar hiperglucemia basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinar metabolismo lipídico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcular IMC"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glucemia en ayunas ayuda a identificar hiperglucemia basal y el control metabólico inicial."
+    },
+    {
+      "numero": "12",
+      "texto": "El consumo excesivo de carbohidratos simples se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del metabolismo basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglucemia posprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del HDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de carbohidratos simples eleva rápidamente la glucosa posprandial, dificultando el control glucémico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes indicadores es útil para estimar riesgo metabólico en pacientes con normopeso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IMC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Circunferencia de cintura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pliegue bicipital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso ideal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Relación talla/peso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La circunferencia de cintura detecta obesidad visceral incluso en pacientes con IMC normal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro bioquímico refleja mejor la reserva proteica corporal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Albúmina sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Creatinina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fósforo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La albúmina sérica refleja el estado proteico y la función sintética hepática, útil en la evaluación nutricional."
+    },
+    {
+      "numero": "15",
+      "texto": "Un déficit de masa muscular en diabetes puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición proteico-calórica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del metabolismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control glucémico óptimo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sobrecarga lipídica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistencia a la insulina leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de masa muscular refleja catabolismo proteico por deficiente control metabólico o desnutrición."
+    },
+    {
+      "numero": "16",
+      "texto": "En la anamnesis alimentaria del paciente diabético se debe enfatizar en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Consumo proteico diario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingesta de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia y tipo de carbohidratos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de suplementos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo de líquidos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tipo y frecuencia de consumo de carbohidratos influye directamente en el control glucémico."
+    },
+    {
+      "numero": "17",
+      "texto": "La evaluación de la composición corporal permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcular el gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar masa grasa y magra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la densidad ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar función renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimar masa eritrocitaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La composición corporal ayuda a distinguir entre masa grasa, magra y agua, claves en la terapia nutricional."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué componente dietético tiene mayor impacto en la respuesta glucémica posprandial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grasas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carbohidratos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibra insoluble"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitaminas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los carbohidratos determinan la magnitud de la elevación de glucosa posprandial."
+    },
+    {
+      "numero": "19",
+      "texto": "En la evaluación nutricional de un diabético, el control del peso corporal debe realizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Semanalmente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mensualmente"
+        },
+        {
+          "opcion": "C",
+          "texto": "En cada consulta médica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada seis meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo al diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El peso debe evaluarse en cada control para ajustar el plan nutricional y terapéutico."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué herramienta permite integrar variables clínicas, antropométricas y dietéticas en la evaluación nutricional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mini Nutritional Assessment (MNA)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Framingham"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de Montreal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clasificación NYHA"
+        },
+        {
+          "opcion": "E",
+          "texto": "EVA del dolor"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El MNA integra variables clínicas, antropométricas y dietéticas para valorar el riesgo nutricional global."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.023",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define la insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2 < 80 mmHg con PaCO2 normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO2 < 60 mmHg con o sin PaCO2 > 45 mmHg mantenida en el tiempo"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2 < 50 mmHg aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaCO2 < 35 mmHg mantenida"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO2 normal con hiperventilación compensada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia respiratoria crónica se caracteriza por hipoxemia persistente con o sin hipercapnia mantenida en el tiempo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "EPOC avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia pulmonar aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma leve persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax espontáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La EPOC avanzada es la principal causa de insuficiencia respiratoria crónica debido a la destrucción progresiva del parénquima pulmonar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué gasometría arterial es compatible con insuficiencia respiratoria crónica tipo II?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia sin hipercapnia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia con hipercapnia sostenida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normoxia con hipocapnia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoxemia aguda severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaCO2 < 30 mmHg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia respiratoria tipo II se caracteriza por hipoxemia con hipercapnia persistente debido a hipoventilación alveolar."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes condiciones puede conducir a insuficiencia respiratoria crónica restrictiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cifoescoliosis severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquiectasias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea del sueño leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cifoescoliosis severa limita la expansión torácica, generando hipoventilación y retención crónica de CO2."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico en la insuficiencia respiratoria crónica obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la distensibilidad pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la resistencia de la vía aérea y atrapamiento aéreo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la presión atmosférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipovolemia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la insuficiencia respiratoria crónica obstructiva, la obstrucción de la vía aérea causa atrapamiento aéreo y desequilibrio ventilación/perfusión."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo gasométrico es típico en la insuficiencia respiratoria crónica compensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH ácido con PaCO2 alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH normal con PaCO2 elevada y HCO3 aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH alcalino con PaCO2 baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH normal con PaCO2 baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH ácido con PaCO2 normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El riñón compensa la hipercapnia aumentando el bicarbonato, lo que normaliza el pH."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba es fundamental para evaluar la función pulmonar en insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría venosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La espirometría evalúa la capacidad vital, los volúmenes y la obstrucción o restricción pulmonar crónica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de hipoxemia predomina en la insuficiencia respiratoria crónica obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoventilación alveolar pura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desequilibrio ventilación/perfusión (V/Q)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shunt intrapulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Difusión limitada de O2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desequilibrio V/Q es el principal mecanismo de hipoxemia en EPOC e insuficiencia respiratoria crónica obstructiva."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es una causa neuromuscular de insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Guillain-Barré"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miastenia gravis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esclerosis lateral amiotrófica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Trastornos neuromusculares como ELA, Guillain-Barré y miastenia gravis pueden causar hipoventilación crónica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento fundamental en pacientes con insuficiencia respiratoria crónica hipoxémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenoterapia domiciliaria crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatadores inhalados únicamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La oxigenoterapia prolongada mejora la sobrevida en pacientes con hipoxemia crónica severa."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la indicación gasométrica clásica de oxigenoterapia domiciliaria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2 < 80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO2 ≤ 55 mmHg o SaO2 ≤ 88%"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2 > 70 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO2 < 65 mmHg transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO2 ≤ 50 mmHg con alcalosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se indica oxigenoterapia crónica cuando la PaO2 ≤ 55 mmHg o SaO2 ≤ 88% en reposo y estable."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación cardíaca es frecuente en la insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cor pulmonale crónico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmias ventriculares aisladas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cor pulmonale es una hipertrofia y dilatación del ventrículo derecho secundaria a hipertensión pulmonar crónica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes signos clínicos sugiere cor pulmonale crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatomegalia y edema periférico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias aisladas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis central leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquipnea con hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Auscultación pulmonar normal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cor pulmonale se manifiesta con hepatomegalia, ingurgitación yugular y edema en extremidades."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué alteración del sueño puede agravar la insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apnea obstructiva del sueño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Narcolepsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insomnio crónico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parasomnias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sonambulismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La apnea obstructiva del sueño puede provocar hipoventilación y desaturación nocturna, agravando la insuficiencia respiratoria crónica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro evalúa la capacidad de intercambio gaseoso en la insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DLCO (difusión de monóxido de carbono)"
+        },
+        {
+          "opcion": "B",
+          "texto": "FEV1"
+        },
+        {
+          "opcion": "C",
+          "texto": "FVC"
+        },
+        {
+          "opcion": "D",
+          "texto": "PEF"
+        },
+        {
+          "opcion": "E",
+          "texto": "TLC"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La DLCO mide la capacidad de difusión alveolocapilar y está disminuida en enfermedades pulmonares crónicas."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué manifestación neurológica puede presentarse en hipercapnia crónica descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Letargia, confusión y somnolencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parálisis facial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temblores finos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La retención crónica de CO2 causa narcosis hipercápnica, con somnolencia y alteración del sensorio."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de ventilación mecánica no invasiva se utiliza en insuficiencia respiratoria crónica con hipercapnia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CPAP"
+        },
+        {
+          "opcion": "B",
+          "texto": "BIPAP (presión positiva binivel)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilación de alta frecuencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación controlada por volumen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilación jet transtraqueal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La BIPAP mejora la eliminación de CO2 y reduce el trabajo respiratorio en pacientes hipercápnicos crónicos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo radiológico puede observarse en insuficiencia respiratoria crónica por EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulmones hiperinflados y diafragmas aplanados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón alveolar difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos miliares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural bilateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperinflación pulmonar y los diafragmas planos son hallazgos típicos de EPOC avanzado con insuficiencia respiratoria crónica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la meta de saturación de oxígeno en pacientes con insuficiencia respiratoria crónica hipercápnica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100%"
+        },
+        {
+          "opcion": "B",
+          "texto": ">95%"
+        },
+        {
+          "opcion": "C",
+          "texto": "88–92%"
+        },
+        {
+          "opcion": "D",
+          "texto": "85–87%"
+        },
+        {
+          "opcion": "E",
+          "texto": "70–80%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En pacientes con hipercapnia crónica, se busca mantener una SaO2 entre 88–92% para evitar la depresión del estímulo respiratorio."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el objetivo principal del tratamiento en la insuficiencia respiratoria crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curar la enfermedad de base"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corregir la hipoxemia y mantener una adecuada ventilación alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar el dióxido de carbono completamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir el gasto cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevenir la tos productiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento busca mantener una adecuada oxigenación y ventilación para mejorar la calidad de vida y supervivencia."
+    }
+  ]
+}

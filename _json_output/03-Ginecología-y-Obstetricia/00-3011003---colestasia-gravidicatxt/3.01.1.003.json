@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.1.003",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.003 - colestasia gravidica.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el síntoma cardinal de la colestasis gravídica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal en hipocondrio derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito palmoplantar nocturno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Náuseas persistentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos intensos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prurito palmoplantar nocturno es el síntoma más característico de colestasis gravídica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la alteración bioquímica más característica en colestasis gravídica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación de transaminasas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de ácidos biliares séricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de LDH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperuricemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de ácidos biliares séricos es el hallazgo más característico y específico."
+    },
+    {
+      "numero": "3",
+      "texto": "La colestasis gravídica se presenta con mayor frecuencia en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primer trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Puerperio inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "En cualquier momento sin patrón definido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La colestasis gravídica es más frecuente en el tercer trimestre."
+    },
+    {
+      "numero": "4",
+      "texto": "El diagnóstico de colestasis gravídica se confirma principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácidos biliares >10 µmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transaminasas elevadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangioresonancia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La elevación de ácidos biliares >10 µmol/L confirma el diagnóstico."
+    },
+    {
+      "numero": "5",
+      "texto": "El tratamiento de elección en colestasis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido ursodesoxicólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antihistamínicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido fólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina E"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ácido ursodesoxicólico mejora síntomas y disminuye los niveles de ácidos biliares."
+    },
+    {
+      "numero": "6",
+      "texto": "La principal complicación fetal de la colestasis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Malformaciones congénitas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de crecimiento intrauterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muerte fetal intrauterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polihidramnios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La colestasis gravídica se asocia a mayor riesgo de muerte fetal intrauterina."
+    },
+    {
+      "numero": "7",
+      "texto": "Un valor de ácidos biliares >40 µmol/L en colestasis gravídica se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riesgo bajo de complicaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor riesgo de parto pretérmino y muerte fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo prurito más intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ictericia sin complicaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución espontánea tras el parto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ácidos biliares >40 µmol/L aumentan significativamente el riesgo fetal."
+    },
+    {
+      "numero": "8",
+      "texto": "La resolución de la colestasis gravídica ocurre generalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Durante el segundo trimestre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al finalizar el embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dos semanas después del parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 6 meses postparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con la lactancia materna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colestasis gravídica remite tras el parto, desapareciendo síntomas y alteraciones."
+    },
+    {
+      "numero": "9",
+      "texto": "El principal hallazgo clínico materno en colestasis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prurito sin lesiones cutáneas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema generalizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor epigástrico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El prurito sin lesiones cutáneas es el signo más típico en la madre."
+    },
+    {
+      "numero": "10",
+      "texto": "La colestasis gravídica se asocia a mayor incidencia de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Preeclampsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se ha observado asociación entre colestasis gravídica y preeclampsia."
+    },
+    {
+      "numero": "11",
+      "texto": "La conducta obstétrica recomendada ante colestasis gravídica severa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inducción del parto entre 36-37 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea de urgencia al diagnóstico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esperar hasta 40 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de tocolíticos prolongados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control ecográfico mensual"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En casos severos se recomienda inducción entre las 36-37 semanas para reducir riesgo fetal."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo bioquímico suele acompañar a colestasis gravídica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bilirrubina levemente elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperuricemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Puede observarse leve elevación de bilirrubina y transaminasas en la colestasis gravídica."
+    },
+    {
+      "numero": "13",
+      "texto": "La recurrencia de colestasis gravídica en embarazos posteriores es de aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "45-70%"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Casi nula"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La recurrencia es alta, estimada entre 45 y 70% en embarazos posteriores."
+    },
+    {
+      "numero": "14",
+      "texto": "El mecanismo fisiopatológico principal de colestasis gravídica se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteración inmunológica materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de estrógenos y progesterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección viral hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción mecánica de la vía biliar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de hormonas gestacionales interfiere con la excreción de ácidos biliares."
+    },
+    {
+      "numero": "15",
+      "texto": "El ácido ursodesoxicólico en colestasis gravídica actúa principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuyendo transaminasas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduciendo ácidos biliares y el prurito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejorando la coagulación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitando la recurrencia futura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Previniendo eclampsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ácido ursodesoxicólico reduce ácidos biliares séricos y alivia el prurito."
+    },
+    {
+      "numero": "16",
+      "texto": "Un recién nacido de madre con colestasis gravídica tiene mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Defectos congénitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Policitemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los hijos de madres con colestasis gravídica presentan más riesgo de parto pretérmino."
+    },
+    {
+      "numero": "17",
+      "texto": "En el diagnóstico diferencial de prurito en embarazo se debe considerar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dermatitis atópica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Psoriasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pénfigo gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción a medicamentos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Debe diferenciarse de dermatosis propias del embarazo y reacciones cutáneas."
+    },
+    {
+      "numero": "18",
+      "texto": "El pronóstico materno en colestasis gravídica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desfavorable por falla hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Generalmente benigno tras el parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Severa evolución crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende de la paridad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Condicionado por cesárea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pronóstico materno es bueno, con resolución tras el parto."
+    },
+    {
+      "numero": "19",
+      "texto": "Una de las principales complicaciones neonatales asociadas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad hemolítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiopatías congénitas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Encefalopatía hipóxico-isquémica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de dificultad respiratoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El riesgo de asfixia perinatal es mayor en colestasis gravídica."
+    },
+    {
+      "numero": "20",
+      "texto": "El monitoreo fetal en colestasis gravídica debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Doppler mensual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monitoreo no estresante y ecografías seriadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amniocentesis rutinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de tolerancia a oxitocina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo ecografía morfológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda vigilancia fetal con monitoreo no estresante y ecografías seriadas."
+    }
+  ]
+}

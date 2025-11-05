@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del angioTAC de tórax y aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función ventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Visualizar la anatomía coronaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar disección o aneurisma aórtico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar el pericardio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir el flujo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El angioTAC de tórax y aorta se utiliza principalmente para diagnosticar disecciones, aneurismas o rupturas aórticas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de contraste se utiliza en un angioTAC de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sulfato de bario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contraste yodado intravenoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gadolinio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbono marcado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin contraste"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El contraste yodado intravenoso permite delinear la luz vascular y detectar defectos de llenado o rupturas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la principal indicación del angioTAC de aorta en urgencias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico de origen coronario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sospecha de disección aórtica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía dilatada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pericarditis constrictiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ante sospecha de disección aórtica, el angioTAC permite confirmar la presencia y extensión de la lesión."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal contraindicación para realizar un angioTAC con contraste yodado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alergia al yodo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma controlada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La alergia conocida al contraste yodado constituye una contraindicación relativa que requiere premedicación o alternativa diagnóstica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo es característico de una disección aórtica en angioTAC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento periaórtico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de colgajo intimal y doble lumen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombo mural calcificado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pericárdico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificación circunferencial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El colgajo intimal y la visualización de dos luces (verdadera y falsa) son diagnósticos de disección aórtica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué clasificación se utiliza comúnmente para describir la disección aórtica en el angioTAC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Killip"
+        },
+        {
+          "opcion": "B",
+          "texto": "Stanford"
+        },
+        {
+          "opcion": "C",
+          "texto": "NYHA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Wells"
+        },
+        {
+          "opcion": "E",
+          "texto": "Framingham"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación de Stanford divide las disecciones según afecten o no la aorta ascendente (tipo A o B)."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo indica un aneurisma aórtico en angioTAC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis segmentaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diámetro aórtico mayor de 3 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombo mural leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificación aórtica aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento periaórtico difuso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera aneurisma aórtico cuando el diámetro supera 3 cm en la aorta abdominal o 4 cm en la torácica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la principal ventaja del angioTAC sobre la ecocardiografía transesofágica en disección aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor sensibilidad para flap intimal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor invasividad y disponibilidad inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación simultánea del flujo coronario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor precisión hemodinámica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detección de trombos intracavitarios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El angioTAC es rápido, no invasivo y ampliamente disponible para diagnóstico inicial de disección aórtica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estructura anatómica debe incluirse siempre en un protocolo de angioTAC de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aorta ascendente y descendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulmones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esófago"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aurícula izquierda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estudio debe incluir desde la raíz aórtica hasta la bifurcación iliaca para valorar extensión de la lesión."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué fase del contraste se utiliza para visualizar óptimamente la luz aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fase arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fase venosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fase tardía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fase precontraste"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fase diastólica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fase arterial permite una opacificación óptima de la aorta y sus ramas principales."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo en angioTAC sugiere ruptura de aneurisma aórtico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcificación mural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematoma retroperitoneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento parietal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombo mural organizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Flujo turbulento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de hematoma retroperitoneal o mediastínico indica ruptura del aneurisma con extravasación de contraste."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación puede simular una disección aórtica en angioTAC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Artefacto de movimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcificación aórtica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombo mural crónico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma sacular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atelectasia pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El artefacto de movimiento puede generar imágenes falsas de colgajo intimal, sobre todo en la raíz aórtica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo diferencia un hematoma intramural de una disección aórtica clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de flap intimal visible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento parietal sin colgajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatación fusiforme de la aorta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombo mural calcificado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aneurisma sacular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hematoma intramural se caracteriza por engrosamiento parietal sin colgajo ni doble luz visible."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es una posible complicación del uso de contraste yodado en angioTAC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutropenia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefropatía inducida por contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El contraste yodado puede causar daño renal agudo especialmente en pacientes con insuficiencia renal previa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de las siguientes estructuras se evalúa adicionalmente en un angioTAC de tórax con sospecha de embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aorta descendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arterias pulmonares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vena cava superior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aurícula izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tronco celíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el mismo estudio pueden valorarse las arterias pulmonares para descartar tromboembolismo pulmonar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes pacientes requiere preparación especial antes del angioTAC de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alergia al contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo activo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma leve sin síntomas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los pacientes con alergia al contraste deben recibir premedicación con corticoides y antihistamínicos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo sugiere trombo mural crónico en angioTAC de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colgajo intimal móvil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zona hipodensa adherida a la pared"
+        },
+        {
+          "opcion": "C",
+          "texto": "Luz doble"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma sacular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento parietal homogéneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trombo mural aparece como una zona hipodensa no realzada que se adhiere a la pared de la aorta."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo en angioTAC define una disección tipo A según Stanford?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compromete solo la aorta descendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afecta la aorta ascendente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se limita al arco aórtico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Involucra arterias renales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afecta exclusivamente la aorta abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disección tipo A compromete la aorta ascendente y requiere manejo quirúrgico urgente."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué técnica complementaria puede utilizarse para planificar una reparación endovascular de aneurisma aórtico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética sin contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reconstrucción 3D del angioTAC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía simple de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electrocardiograma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las reconstrucciones 3D permiten medir con precisión el diámetro y longitud del segmento afectado para la endoprótesis."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo indica extravasación activa de contraste en un angioTAC de aorta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zona hipodensa sin contraste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Opacificación fuera de la luz vascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo lento intraluminal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento parietal homogéneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombo mural adherido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La extravasación activa de contraste fuera de la luz indica hemorragia activa o ruptura vascular."
+    }
+  ]
+}

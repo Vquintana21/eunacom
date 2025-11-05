@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.4.005",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.4.005 - Ecotomografía ginecológica.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la vía de elección para realizar una ecografía ginecológica en mujeres sexualmente activas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transabdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transvaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transrectal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Doppler color"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscópica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vía transvaginal ofrece mayor resolución y detalle anatómico en mujeres sexualmente activas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué estructura anatómica se visualiza mejor mediante ecografía transvaginal que transabdominal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vejiga"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometrio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasos ilíacos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cérvix"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía transvaginal permite una evaluación más detallada del grosor y ecogenicidad del endometrio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el aspecto ecográfico normal del endometrio en fase proliferativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperecogénico homogéneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trilaminar e hipoecogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anecoico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Irregular y heterogéneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la fase proliferativa, el endometrio adquiere un patrón trilaminar hipoecogénico característico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué grosor endometrial se considera normal en mujeres postmenopáusicas sin terapia hormonal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 4 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 8 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 10 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor de 12 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según el ciclo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En mujeres postmenopáusicas sin terapia hormonal, un endometrio menor de 4 mm se considera normal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo ecográfico es típico del síndrome de ovario poliquístico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovarios atróficos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ovarios con múltiples folículos periféricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ovario único aumentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de folículos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masa sólida hiperecogénica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SOP muestra múltiples folículos periféricos menores de 10 mm y aumento del volumen ovárico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estructura delimita superiormente el útero en ecografía transvaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cérvix"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fondo uterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vagina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vejiga"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fondo uterino constituye el límite superior del útero visible por ecografía transvaginal."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo ecográfico es más sugerente de mioma uterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión anecoica homogénea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulo sólido hiperecogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa hipoecogénica bien delimitada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste multilocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento difuso endometrial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los miomas suelen presentarse como masas hipoecogénicas bien delimitadas dentro del miometrio."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo ecográfico sugiere un pólipo endometrial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio irregular difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión focal hiperecogénica con flujo central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa hipoecogénica sin vascularización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento miometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un pólipo endometrial se visualiza como una lesión focal hiperecogénica con flujo vascular central en Doppler."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la localización más frecuente de los miomas uterinos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subserosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intramurales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Submucosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cervicales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pediculados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los miomas intramurales son los más comunes, localizados en la pared media del útero."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo ecográfico sugiere un endometrioma ovárico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quiste simple anecoico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste de paredes gruesas con ecos internos finos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa sólida vascularizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovario atrófico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Múltiples folículos periféricos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El endometrioma se presenta como quiste de paredes gruesas con ecos internos finos, tipo “vidrio esmerilado”."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo sugiere carcinoma de endometrio en ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio homogéneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endometrio delgado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento endometrial irregular con vascularización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cavidad uterina vacía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrio trilaminar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma endometrial suele manifestarse como engrosamiento irregular y vascularizado del endometrio."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo ecográfico es típico del quiste ovárico funcional folicular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa sólida vascularizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste anecoico delgado <3 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión compleja con septos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificaciones intralesionales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de ovario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El quiste folicular es una estructura anecoica, delgada y generalmente menor de 3 cm, que desaparece espontáneamente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el hallazgo ecográfico característico de un quiste hemorrágico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anecoico puro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecos internos finos tipo red"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa sólida irregular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paredes gruesas con septos gruesos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los quistes hemorrágicos muestran ecos finos internos en patrón reticular debido a la sangre coagulada."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo ecográfico puede sugerir enfermedad inflamatoria pélvica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Útero atrófico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ovarios pequeños"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colección anecoica con septos y dolor a la presión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste simple anecoico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de líquido pélvico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la EIP se observan colecciones complejas pélvicas con ecos internos y sensibilidad a la presión del transductor."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo ecográfico diferencia un mioma submucoso de un pólipo endometrial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vascularización central en el pólipo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vascularización periférica en el mioma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estructura anecoica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de flujo en ambos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ubicación cervical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El mioma submucoso presenta vascularización periférica, mientras el pólipo muestra flujo central en Doppler."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el hallazgo ecográfico más sugestivo de cáncer ovárico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quiste simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa compleja con componentes sólidos y septos gruesos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quiste anecoico fino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Múltiples folículos pequeños"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ovario normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las masas ováricas complejas con componentes sólidos, septos gruesos y vascularización irregular sugieren malignidad."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo ecográfico es característico del útero bicorne?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cavidad única"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dos cavidades endometriales separadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Útero hipoplásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de cérvix"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrio engrosado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El útero bicorne se caracteriza por dos cavidades endometriales separadas por un miometrio intermedio."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo ecográfico es típico de un dispositivo intrauterino (DIU) en posición normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Imagen lineal hiperecogénica en cavidad endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sombra acústica lateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa hipoecogénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de señal ecogénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión focal endometrial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El DIU se observa como una línea hiperecogénica dentro de la cavidad endometrial central."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo ecográfico sugiere adenomiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio fino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miometrio con quistes anecoicos y engrosamiento difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cavidad uterina distendida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioma pediculado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ovario atrófico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adenomiosis muestra engrosamiento miometrial difuso con pequeños quistes anecoicos intramiometriales."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué técnica complementaria mejora la visualización de la cavidad uterina en ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Doppler color"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histerosonografía con suero fisiológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "RM pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía pélvica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La histerosonografía infunde suero fisiológico en la cavidad uterina para delinear pólipos o miomas submucosos."
+    }
+  ]
+}

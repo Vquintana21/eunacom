@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.2.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección viral de las válvulas cardíacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación no infecciosa del endocardio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección microbiana del endocardio y las válvulas cardíacas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión traumática del miocardio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción alérgica endocárdica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La endocarditis bacteriana es una infección del endocardio, generalmente afectando válvulas cardíacas o dispositivos intracardíacos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el agente etiológico más común de la endocarditis bacteriana subaguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Staphylococcus epidermidis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus viridans, habitante oral, es el principal agente de la endocarditis subaguda en válvulas previamente dañadas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué agente se asocia con endocarditis aguda en usuarios de drogas intravenosas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus bovis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus parainfluenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coxiella burnetii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neisseria gonorrhoeae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus es el agente más frecuente en usuarios de drogas IV, afectando con frecuencia la válvula tricúspide."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la válvula cardíaca más afectada en la endocarditis bacteriana en no consumidores de drogas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tricúspide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mitral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aórtica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambas mitral y tricúspide"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En pacientes no usuarios de drogas IV, la válvula mitral es la más comúnmente afectada por endocarditis."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes NO forma parte del grupo HACEK?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus spp."
+        },
+        {
+          "opcion": "B",
+          "texto": "Aggregatibacter spp."
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiobacterium hominis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Kingella kingae"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "E. coli no pertenece al grupo HACEK, que incluye bacilos gramnegativos que causan endocarditis lenta."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes criterios pertenece a los criterios mayores de Duke modificados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre mayor a 38°C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematuria microscópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemocultivos positivos con microorganismos típicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones de Janeway"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esplenomegalia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Hemocultivos positivos para patógenos típicos constituyen un criterio mayor en la clasificación de Duke."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de las siguientes lesiones cutáneas es característica de endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritema marginado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones de Janeway"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urticaria generalizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias lineales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Púrpura palpable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las lesiones de Janeway son máculas eritematosas indoloras en palmas y plantas, asociadas a embolias sépticas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo ocular es característico de endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Manchas de Roth"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudados algodonosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragias retinianas lineales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Papiledema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neovascularización"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las manchas de Roth son hemorragias retinianas con centro claro, típicas de endocarditis infecciosa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación neurológica puede presentarse en la endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia subdural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Absceso cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Guillain-Barré"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mielitis transversa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso cerebral es una complicación por embolización séptica desde vegetaciones endocárdicas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el estudio de imagen más sensible para detectar vegetaciones valvulares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecocardiograma transtorácico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiograma transesofágico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía computarizada torácica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ecocardiograma transesofágico es más sensible que el transtorácico para identificar vegetaciones en válvulas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes hallazgos puede encontrarse en el examen de orina de un paciente con endocarditis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteinuria aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofiluria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria microscópica y cilindros hemáticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosuria marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piuria abundante con bacteriuria significativa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hematuria microscópica y los cilindros hemáticos reflejan glomerulonefritis inmunológica por complejos circulantes."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué antibiótico es de elección en endocarditis por Streptococcus viridans sensible a penicilina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Penicilina G o ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linezolid"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meropenem"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La penicilina G o ceftriaxona durante 4 semanas es el tratamiento estándar para S. viridans sensible."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué microorganismo produce con frecuencia endocarditis en válvulas protésicas tempranas (<60 días)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus epidermidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus epidermidis es el principal agente de endocarditis temprana en válvulas protésicas debido a su origen nosocomial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes signos clínicos se asocia a fenómenos embólicos periféricos en endocarditis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones de Osler"
+        },
+        {
+          "opcion": "B",
+          "texto": "Petequias conjuntivales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulos de Heberden"
+        },
+        {
+          "opcion": "D",
+          "texto": "Livedo reticularis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Artritis migratoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las lesiones de Osler son nódulos dolorosos en pulpejos digitales debidos a microembolias inmunológicas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo ecocardiográfico indica mal pronóstico en endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vegetaciones pequeñas <5 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia valvular moderada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Absceso perivalvular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia ventricular izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Válvulas engrosadas sin movilidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de absceso perivalvular se asocia a mayor riesgo de complicaciones y necesidad de cirugía."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el tratamiento empírico recomendado para endocarditis en válvula nativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vancomicina + ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ampicilina + gentamicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vancomicina + cefepime"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linezolid + meropenem"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefazolina + rifampicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El esquema empírico Vancomicina + Cefepime cubre cocos grampositivos y gramnegativos en endocarditis de válvula nativa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de las siguientes es una indicación quirúrgica en la endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre persistente por menos de 3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vegetaciones pequeñas sin complicaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cardíaca refractaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocarditis subaguda controlada con antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucocitosis aislada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cirugía está indicada en insuficiencia cardíaca refractaria, abscesos perivalvulares o vegetaciones grandes recurrentes."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué prueba de laboratorio apoya el diagnóstico de endocarditis bacteriana subaguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VSG y PCR elevadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa plasmática elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia microcítica hipocrómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "VSG y PCR elevadas reflejan inflamación sistémica persistente en la endocarditis subaguda."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué microorganismo se asocia con endocarditis y neoplasia colorrectal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus gallolyticus (bovis)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus parainfluenzae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus gallolyticus se asocia a endocarditis y cáncer colorrectal, por lo que debe investigarse este vínculo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el método diagnóstico inicial más útil ante sospecha de endocarditis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivos seriados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Mantoux"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aglutinación febril"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los hemocultivos seriados permiten aislar el agente etiológico y son esenciales para confirmar el diagnóstico."
+    }
+  ]
+}

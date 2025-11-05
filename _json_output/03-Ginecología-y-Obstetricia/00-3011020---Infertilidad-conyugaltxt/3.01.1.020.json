@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.020",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.020 - Infertilidad conyugal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define infertilidad conyugal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de embarazo tras 6 meses de relaciones sexuales regulares sin protección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de embarazo tras 12 meses de relaciones sexuales regulares sin protección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de embarazo tras 24 meses de relaciones sexuales regulares sin protección"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de embarazo en una pareja con anticoncepción irregular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de embarazo en mujeres mayores de 40 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La infertilidad se define como la ausencia de embarazo tras 12 meses de relaciones sexuales regulares sin protección."
+    },
+    {
+      "numero": "2",
+      "texto": "La causa más frecuente de infertilidad femenina es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteraciones tubarias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastornos ovulatorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Factor uterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Causas genéticas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los trastornos ovulatorios, como el síndrome de ovario poliquístico, son la causa más frecuente de infertilidad femenina."
+    },
+    {
+      "numero": "3",
+      "texto": "El factor masculino explica aproximadamente qué porcentaje de casos de infertilidad conyugal:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "30-40%"
+        },
+        {
+          "opcion": "D",
+          "texto": "50%"
+        },
+        {
+          "opcion": "E",
+          "texto": "70%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El factor masculino es responsable en alrededor del 30-40% de los casos de infertilidad conyugal."
+    },
+    {
+      "numero": "4",
+      "texto": "El primer estudio recomendado en la evaluación del factor masculino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia testicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen físico urológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espermiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dosaje hormonal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cariotipo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El espermiograma es el examen inicial para evaluar fertilidad masculina, valorando concentración, motilidad y morfología."
+    },
+    {
+      "numero": "5",
+      "texto": "En la mujer, la prueba más utilizada para valorar la reserva ovárica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles de prolactina"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH basal en día 3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estradiol basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona luteínica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La FSH basal en el día 3 del ciclo es un marcador indirecto de la reserva ovárica."
+    },
+    {
+      "numero": "6",
+      "texto": "La histerosalpingografía se utiliza principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnosticar insuficiencia lútea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar permeabilidad tubaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar endometriosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estudiar calidad cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir reserva ovárica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La histerosalpingografía es el examen más utilizado para evaluar la permeabilidad de las trompas uterinas."
+    },
+    {
+      "numero": "7",
+      "texto": "Una mujer con ciclos irregulares y oligoamenorrea debe estudiarse inicialmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética hipofisaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil hormonal incluyendo FSH, LH y prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cariotipo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba poscoital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia endometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En mujeres con ciclos irregulares se debe evaluar el perfil hormonal para descartar anovulación u otras causas endocrinas."
+    },
+    {
+      "numero": "8",
+      "texto": "La endometriosis produce infertilidad principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anovulación crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración en la implantación endometrial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción tubárica y adherencias pélvicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteraciones cromosómicas en ovocitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipersecreción de prolactina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La endometriosis dificulta la fertilidad por adherencias pélvicas y alteración de la anatomía tubárica."
+    },
+    {
+      "numero": "9",
+      "texto": "La prueba poscoital evalúa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La calidad del moco cervical y la interacción espermatozoides-moco"
+        },
+        {
+          "opcion": "B",
+          "texto": "La reserva ovárica"
+        },
+        {
+          "opcion": "C",
+          "texto": "La permeabilidad tubaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "La implantación embrionaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "La producción de estrógenos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba poscoital evalúa cómo los espermatozoides interactúan con el moco cervical tras el coito."
+    },
+    {
+      "numero": "10",
+      "texto": "En infertilidad por síndrome de ovario poliquístico, el tratamiento inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Citrato de clomifeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "FIV directamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legrado uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progesterona luteínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inseminación intrauterina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El citrato de clomifeno es la primera línea para inducir la ovulación en mujeres con SOP."
+    },
+    {
+      "numero": "11",
+      "texto": "En el estudio de infertilidad, la histerosonografía permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar permeabilidad tubárica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Valorar cavidad uterina y descartar pólipos o miomas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar endometriosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir niveles hormonales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Confirmar reserva ovárica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La histerosonografía es útil para evaluar la cavidad uterina y detectar alteraciones intracavitarias."
+    },
+    {
+      "numero": "12",
+      "texto": "En parejas con infertilidad inexplicada, una opción terapéutica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía diagnóstica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inseminación intrauterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia con antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticoncepción temporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación indefinida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inseminación intrauterina es una alternativa en casos de infertilidad inexplicada tras estudios normales."
+    },
+    {
+      "numero": "13",
+      "texto": "El tiempo recomendado antes de iniciar estudios de infertilidad en parejas menores de 35 años es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En mujeres menores de 35 años se recomienda iniciar estudios tras 12 meses de infertilidad."
+    },
+    {
+      "numero": "14",
+      "texto": "El factor uterino más frecuente en infertilidad es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoplasia uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miomas submucosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sinequias uterinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pólipos endometriales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malformaciones müllerianas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los miomas submucosos son la causa uterina más frecuente de infertilidad femenina."
+    },
+    {
+      "numero": "15",
+      "texto": "La causa endocrina más frecuente de infertilidad femenina es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia ovárica prematura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de ovario poliquístico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipogonadismo hipogonadotrópico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de ovario poliquístico es la causa endocrina más frecuente de infertilidad femenina."
+    },
+    {
+      "numero": "16",
+      "texto": "El tratamiento de elección en infertilidad tubárica bilateral es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inducción de la ovulación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inseminación intrauterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fertilización in vitro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resección de trompas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia hormonal combinada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La FIV es el tratamiento de elección en casos de infertilidad tubárica bilateral irreversible."
+    },
+    {
+      "numero": "17",
+      "texto": "Un hallazgo en espermiograma que sugiere factor masculino severo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oligozoospermia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Teratozoospermia aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azoospermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asthenozoospermia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normozoospermia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La azoospermia, ausencia de espermatozoides en el eyaculado, indica infertilidad masculina severa."
+    },
+    {
+      "numero": "18",
+      "texto": "La progesterona en fase lútea se mide para evaluar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovulación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permeabilidad tubárica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Implantación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calidad cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reserva ovárica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La progesterona elevada en fase lútea confirma que ha ocurrido ovulación."
+    },
+    {
+      "numero": "19",
+      "texto": "Una pareja de 40 años debe iniciar estudio de infertilidad tras:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 meses sin embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 meses sin embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "18 meses sin embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "24 meses sin embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En mujeres mayores de 35 años se recomienda iniciar estudios tras 6 meses de infertilidad."
+    }
+  ]
+}

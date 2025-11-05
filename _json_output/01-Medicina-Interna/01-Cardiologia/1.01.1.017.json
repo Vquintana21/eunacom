@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.017",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia aórtica en países desarrollados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre reumática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Degeneración valvular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sífilis terciaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disección aórtica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En países desarrollados, la degeneración valvular y las alteraciones congénitas son las causas más frecuentes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo auscultatorio caracteriza a la insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo sistólico eyectivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo holosistólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo diastólico decreciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo mesosistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo continuo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El soplo diastólico decreciente en foco aórtico accesorio es característico de la insuficiencia aórtica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué fenómeno hemodinámico se produce en la insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrecarga de presión del ventrículo izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sobrecarga de volumen del ventrículo izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de la precarga"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del retorno venoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La regurgitación retrógrada de sangre desde la aorta hacia el ventrículo izquierdo causa sobrecarga de volumen."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes signos periféricos se asocia a insuficiencia aórtica crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso filiforme"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso parvus et tardus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulso celer et altus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulso alternante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso bisferiens"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pulso celer et altus (rápido y de gran amplitud) es típico por el aumento de presión diferencial."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo ecocardiográfico confirma la insuficiencia aórtica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Regurgitación leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Válvula calcificada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo retrógrado diastólico en aorta descendente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento del tabique"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertrofia concéntrica leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El flujo retrógrado diastólico en aorta descendente es un signo ecocardiográfico de regurgitación severa."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la principal consecuencia a largo plazo de la insuficiencia aórtica crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia concéntrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia excéntrica y dilatación ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis endocárdica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia mitral secundaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento crónico de volumen produce hipertrofia excéntrica del ventrículo izquierdo y dilatación progresiva."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué condición puede causar insuficiencia aórtica aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre reumática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disección de aorta ascendente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aterosclerosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disección aórtica puede afectar la raíz aórtica y causar regurgitación aórtica aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué signo clínico corresponde a un soplo diastólico en el borde esternal izquierdo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo de Graham Steell"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo de Austin Flint"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo de Carey Coombs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo de Still"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo de Stills"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El soplo de Austin Flint es un soplo diastólico apical causado por flujo retrógrado que interfiere con la válvula mitral."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo caracteriza a la insuficiencia aórtica aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del pulso arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la presión diferencial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo holosistólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de congestión pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión diastólica elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la insuficiencia aórtica aguda la presión diferencial se reduce debido al colapso diastólico ventricular."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento definitivo para la insuficiencia aórtica grave sintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reemplazo valvular aórtico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticoagulación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reemplazo valvular aórtico es el tratamiento definitivo en pacientes sintomáticos o con disfunción ventricular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el signo de Corrigan en la insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso saltón carotídeo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo sistólico en cuello"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palidez facial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo mesodiastólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Corrigan es un pulso carotídeo de ascenso rápido y colapso brusco típico de esta patología."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo periférico consiste en pulsaciones capilares visibles en el lecho ungueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de Duroziez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de Quincke"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de Müller"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de Hill"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Mayne"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Quincke corresponde a pulsaciones capilares visibles, típicas de la presión diferencial aumentada."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué efecto tiene la insuficiencia aórtica crónica sobre el ventrículo izquierdo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta el grosor parietal sin dilatación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Causa dilatación y aumento del volumen telediastólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reduce la poscarga"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causa atrofia miocárdica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la precarga"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflujo diastólico persistente aumenta la precarga, produciendo dilatación y remodelado excéntrico."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de soplo se asocia a la insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo mesosistólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo holosistólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo diastólico precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo presistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo continuo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El soplo diastólico precoz, suave y decreciente es característico de la regurgitación aórtica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estudio es de elección para evaluar la severidad de la insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "ECG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiograma Doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cateterismo cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "RMN cerebral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ecocardiograma Doppler permite cuantificar la regurgitación y valorar la función ventricular."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué signo clínico corresponde a un soplo doble en el muslo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de Duroziez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de Quincke"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de Hill"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de Müller"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Corrigan"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Duroziez es un soplo sistólico y diastólico al auscultar la arteria femoral en insuficiencia aórtica severa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación puede producir la insuficiencia aórtica no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia cardíaca izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo AV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación ventricular primaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sobrecarga de volumen crónica lleva a dilatación y eventual insuficiencia cardíaca izquierda."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué característica tiene el soplo de Austin Flint en la insuficiencia aórtica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es diastólico apical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Es sistólico apical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Es holosistólico basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es continuo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Es mesosistólico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El soplo de Austin Flint es diastólico apical, secundario al flujo retrógrado que interfiere con la apertura mitral."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro indica necesidad de cirugía en insuficiencia aórtica asintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracción de eyección <55%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión diastólica >90 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo sistólico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia auricular derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso débil"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una fracción de eyección menor al 55% o dilatación ventricular progresiva indica necesidad de reemplazo valvular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué signo ecocardiográfico distingue insuficiencia aórtica aguda de la crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de dilatación ventricular izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento parietal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del volumen telesistólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regurgitación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de flujo continuo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la insuficiencia aórtica aguda el ventrículo izquierdo no tiene tiempo de dilatarse, generando congestión pulmonar aguda."
+    }
+  ]
+}

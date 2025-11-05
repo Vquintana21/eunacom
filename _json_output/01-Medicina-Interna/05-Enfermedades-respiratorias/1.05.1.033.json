@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.033",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica principal del síndrome de apnea obstructiva del sueño (SAOS)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apneas centrales sin esfuerzo respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colapso repetido de la vía aérea superior durante el sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperinsuflación pulmonar nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación sostenida durante el sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la presión arterial pulmonar diurna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SAOS se caracteriza por colapso parcial o total repetido de la vía aérea superior durante el sueño, causando apneas o hipopneas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el síntoma cardinal que orienta al diagnóstico de síndrome de apnea del sueño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquidos intensos con pausas respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico nocturno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sudoración profusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insomnio terminal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ronquidos intensos acompañados de pausas respiratorias observadas por terceros son el signo más característico del SAOS."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué prueba diagnóstica es el estándar de oro para confirmar SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oximetría nocturna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Polisomnografía completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espirometría basal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La polisomnografía es la prueba estándar para confirmar apneas, hipopneas y desaturaciones durante el sueño."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué índice se utiliza para cuantificar la severidad del SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Índice de masa corporal (IMC)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Índice de apnea-hipopnea (IAH)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Índice de saturación de oxígeno (ISO)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frecuencia respiratoria nocturna media"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Glasgow"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El índice de apnea-hipopnea (IAH) mide el número de eventos respiratorios por hora de sueño y clasifica la severidad del SAOS."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué valor de IAH define un SAOS grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥5 eventos/hora"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥15 eventos/hora"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥30 eventos/hora"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥45 eventos/hora"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥60 eventos/hora"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un índice de apnea-hipopnea igual o mayor a 30 eventos por hora define SAOS grave."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es un factor de riesgo importante para el SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo activo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad y circunferencia cervical aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedentarismo leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo compensado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo moderado de café"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obesidad, especialmente con aumento del perímetro cervical, favorece el colapso de la vía aérea superior durante el sueño."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la complicación cardiovascular más asociada al SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia sinusal crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial sistémica resistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tromboembolismo pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endocarditis infecciosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SAOS se asocia a hipertensión arterial resistente por activación simpática nocturna y disfunción endotelial."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes es un síntoma diurno típico del SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Somnolencia excesiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquipnea persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipo crónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre intermitente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La somnolencia diurna excesiva es consecuencia de la fragmentación del sueño por microdespertares repetidos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tratamiento no invasivo es el más efectivo en SAOS moderado a grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia con CPAP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxigenoterapia nocturna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico regular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoterapia oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antidepresivos sedantes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presión positiva continua en la vía aérea (CPAP) mantiene la vía aérea abierta durante el sueño, reduciendo apneas e hipopneas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué cambio anatómico favorece la aparición de SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nariz estrecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Micrognatia o retrognatia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroglosia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paladar duro elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desviación del tabique nasal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las alteraciones mandibulares como retrognatia reducen el diámetro faríngeo y predisponen al colapso durante el sueño."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué herramienta clínica se usa para evaluar la somnolencia diurna en SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Epworth"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Borg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escala de Glasgow"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escala de Richmond"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Karnofsky"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La escala de Epworth cuantifica la probabilidad de quedarse dormido en diferentes situaciones cotidianas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el efecto metabólico más frecuente del SAOS no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resistencia a la insulina y síndrome metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperlipidemia aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperuricemia asintomática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SAOS no tratado contribuye a resistencia a la insulina, obesidad central y síndrome metabólico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo en la polisomnografía confirma apnea obstructiva del sueño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de esfuerzo respiratorio con apnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea con esfuerzo respiratorio mantenido y obstrucción faríngea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperventilación nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea sin desaturación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sueño REM prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La apnea obstructiva se caracteriza por esfuerzo respiratorio persistente pese al colapso faríngeo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes tratamientos quirúrgicos puede ser útil en casos seleccionados de SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uvulopalatofaringoplastia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toracotomía derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pleurodesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lobectomía pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenoidectomía laparoscópica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La uvulopalatofaringoplastia amplía el espacio orofaríngeo, reduciendo obstrucciones en pacientes seleccionados."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de apnea se caracteriza por ausencia de esfuerzo respiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apnea obstructiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apnea central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apnea mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipopnea obstructiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea posicional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la apnea central, el control respiratorio falla y cesa el esfuerzo inspiratorio durante el sueño."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué efecto tiene el SAOS sobre la función cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del tono vagal nocturno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia ventricular derecha secundaria a hipoxemia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del gasto cardíaco basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión sistólica sostenida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las desaturaciones repetidas producen hipertensión pulmonar e hipertrofia ventricular derecha a largo plazo."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el efecto inmediato de una apnea obstructiva sobre la saturación de oxígeno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la saturación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaturación transitoria y microdespertares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento del CO2 y alcalosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación compensatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia prolongada sin hipoxia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cada episodio de apnea causa desaturación y microdespertares que fragmentan el sueño."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué grupo etario y de sexo presenta mayor prevalencia de SAOS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres jóvenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hombres adultos de mediana edad y obesos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños en edad escolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adolescentes deportistas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancianas delgadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SAOS es más frecuente en hombres de mediana edad con sobrepeso u obesidad central."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué consecuencia neurocognitiva se asocia con el SAOS no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Psicosis aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteraciones de la memoria y la concentración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones nocturnas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alucinaciones visuales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del sueño REM"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fragmentación del sueño y la hipoxemia intermitente generan déficit de atención y memoria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes medidas generales es útil en el manejo del SAOS leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perder peso y evitar alcohol y sedantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar el consumo de carbohidratos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dormir en posición supina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la ingesta de agua nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar oxígeno domiciliario sin control"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de peso y evitar alcohol o sedantes reducen el colapso de la vía aérea en SAOS leve."
+    }
+  ]
+}

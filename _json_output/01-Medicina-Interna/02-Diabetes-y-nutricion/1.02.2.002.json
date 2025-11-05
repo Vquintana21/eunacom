@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.2.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia absoluta o relativa de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del metabolismo de carbohidratos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del glucagón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de insulina aumenta la lipólisis y la producción hepática de cuerpos cetónicos, provocando acidosis metabólica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de alteración ácido-base se presenta en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis metabólica con anión gap normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis metabólica con anión gap elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis respiratoria con pCO₂ alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria compensada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica con anión gap bajo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acumulación de cuerpos cetónicos genera una acidosis metabólica con aumento del anión gap."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el cuerpo cetónico predominante en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acetona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetoacetato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hidroxibutirato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piruvato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El beta-hidroxibutirato es el principal cuerpo cetónico durante la cetoacidosis por reducción del acetoacetato."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el signo clínico característico de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respiración de Kussmaul"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema facial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pupilas puntiformes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La respiración de Kussmaul es una hiperventilación profunda y rápida compensatoria frente a la acidosis metabólica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué valor de glucemia suele observarse en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "100–180 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "180–250 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">250 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">600 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La cetoacidosis diabética se presenta típicamente con glucemia >250 mg/dL junto con acidosis y cetonemia."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la causa más frecuente de cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio excesivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia medicamentosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones precipitan la cetoacidosis por aumentar las hormonas contrarreguladoras y reducir la acción de la insulina."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo de laboratorio confirma la acidosis metabólica en cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH >7.45"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH <7.30"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bicarbonato normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "pCO₂ elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anión gap bajo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un pH menor a 7.30 confirma la acidosis metabólica característica de la cetoacidosis diabética."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la alteración electrolítica más común en la cetoacidosis diabética al ingreso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipokalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipomagnesemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Aunque hay pérdida total de potasio, la acidosis y la hiperosmolaridad causan hiperkalemia inicial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué cambio ocurre con el potasio durante el tratamiento de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta progresivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se mantiene estable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye por efecto de la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se normaliza de inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende solo de la glucemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La insulina y la corrección de la acidosis promueven el ingreso de potasio al interior celular, generando hipokalemia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo clínico puede sugerir deshidratación severa en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mucosas húmedas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Turgencia cutánea disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diaforesis intensa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La turgencia cutánea disminuida refleja deshidratación secundaria a diuresis osmótica por hiperglucemia."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento inicial más importante en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina rápida intravenosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bicarbonato intravenoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluidoterapia con solución salina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasopresores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La fluidoterapia con solución salina isotónica es la primera medida para restaurar el volumen circulante."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuándo debe iniciarse la administración de insulina en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de corregir el potasio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una vez corregida la hipokalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de normalizar el pH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Simultáneamente con antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Al completar la reposición de líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina debe iniciarse una vez que el potasio sérico sea ≥3.3 mEq/L para evitar arritmias por hipokalemia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el valor de bicarbonato esperado en cetoacidosis diabética moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">18 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "15–18 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "10–15 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "5–10 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "<5 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la cetoacidosis moderada, el bicarbonato se encuentra entre 10 y 15 mEq/L debido a la acidosis metabólica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro indica resolución de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucemia <200 mg/dL y bicarbonato >15 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH <7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactato elevado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosuria positiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La resolución se define con glucemia <200 mg/dL, bicarbonato >15 mEq/L y pH >7.3."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de insulina se recomienda en el tratamiento inicial de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina NPH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina glargina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina regular intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina lispro subcutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina detemir subcutánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La insulina regular intravenosa permite un control rápido y ajustable de la glucemia durante la crisis."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación grave puede presentarse en el tratamiento de la cetoacidosis, especialmente en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia ventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema cerebral es una complicación rara pero grave durante la corrección rápida de la cetoacidosis en niños."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el principal desencadenante de cetoacidosis diabética en adultos jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspensión de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucemia reactiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comidas ricas en grasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia hepática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La omisión o suspensión de insulina es la causa más frecuente de cetoacidosis en adultos jóvenes con DM1."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo urinario es típico en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteinuria selectiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetonuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cilindruria hialina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetonuria refleja la eliminación de cuerpos cetónicos (acetoacetato y acetona) por la orina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tipo de líquidos se utilizan para iniciar la reposición en cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dextrosa al 5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solución fisiológica 0.9%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solución salina hipertónica 3%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ringer lactato con glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua destilada estéril"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La solución fisiológica 0.9% es el fluido inicial de elección para restaurar el volumen intravascular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal diferencia entre cetoacidosis diabética y estado hiperosmolar hiperglucémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El estado hiperosmolar presenta cetonemia intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "La cetoacidosis tiene acidosis metabólica significativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambas tienen el mismo pH"
+        },
+        {
+          "opcion": "D",
+          "texto": "El estado hiperosmolar solo ocurre en DM1"
+        },
+        {
+          "opcion": "E",
+          "texto": "La cetoacidosis presenta osmolaridad elevada sin acidosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis cursa con acidosis metabólica importante y cuerpos cetónicos elevados, a diferencia del estado hiperosmolar."
+    }
+  ]
+}

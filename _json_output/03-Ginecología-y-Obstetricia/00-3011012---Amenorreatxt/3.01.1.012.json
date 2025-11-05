@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.012",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.012 - Amenorrea.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de amenorrea primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de menstruación por más de 3 meses en mujer previamente regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de menarquia a los 15 años con caracteres sexuales secundarios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de menarquia a los 12 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de menstruación en mujeres con ovariectomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de menstruación después de la lactancia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La amenorrea primaria se define como ausencia de menarquia a los 15 años con caracteres sexuales secundarios."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de amenorrea secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipogonadismo hipogonadotrófico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de ovario poliquístico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El embarazo es la primera causa a descartar en una mujer con amenorrea secundaria."
+    },
+    {
+      "numero": "3",
+      "texto": "El síndrome de Asherman se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amenorrea por fallo ovárico precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adherencias intrauterinas causantes de amenorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplasia endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperandrogenismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de estrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Asherman se debe a sinequias intrauterinas, generalmente tras legrados o infecciones."
+    },
+    {
+      "numero": "4",
+      "texto": "En el estudio inicial de la amenorrea, el primer examen a solicitar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía pélvica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La primera prueba siempre es descartar embarazo mediante test de hCG."
+    },
+    {
+      "numero": "5",
+      "texto": "Una causa genética de amenorrea primaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Kallmann"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de ovario poliquístico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoestrogenismo por anorexia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometritis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Kallmann es un hipogonadismo hipogonadotrófico congénito con anosmia."
+    },
+    {
+      "numero": "6",
+      "texto": "En la amenorrea hipotalámica funcional, un factor desencadenante común es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio excesivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tumor hipofisario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de anticonceptivos orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio excesivo y el estrés son causas clásicas de amenorrea hipotalámica funcional."
+    },
+    {
+      "numero": "7",
+      "texto": "El síndrome de ovario poliquístico puede causar amenorrea debido a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperestrogenismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anovulación crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoandrogenismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia ovárica precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anovulación crónica en el SOP conduce a ciclos irregulares o amenorrea."
+    },
+    {
+      "numero": "8",
+      "texto": "Un nivel elevado de FSH en una mujer con amenorrea sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipogonadismo hipogonadotrófico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia ovárica primaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Asherman"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La FSH elevada sugiere insuficiencia ovárica primaria o fallo ovárico precoz."
+    },
+    {
+      "numero": "9",
+      "texto": "El síndrome de Rokitansky-Küster-Hauser se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agenesia uterina y amenorrea primaria con caracteres sexuales secundarios normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo y retraso puberal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ovarios poliquísticos y obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipogonadismo hipogonadotrófico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adherencias intrauterinas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Este síndrome se caracteriza por agenesia mulleriana, con amenorrea primaria y genitales externos normales."
+    },
+    {
+      "numero": "10",
+      "texto": "Una causa iatrogénica frecuente de amenorrea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementación de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los anticonceptivos hormonales pueden causar amenorrea como efecto secundario."
+    },
+    {
+      "numero": "11",
+      "texto": "En la amenorrea por hiperprolactinemia es característico encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Galactorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alopecia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperprolactinemia puede acompañarse de galactorrea por estimulación de glándula mamaria."
+    },
+    {
+      "numero": "12",
+      "texto": "La prueba de progesterona en el estudio de amenorrea se utiliza para evaluar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Función hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción de estrógenos endógenos y permeabilidad endometrial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niveles de gonadotropinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de andrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de progesterona evalúa si hay estrógenos y endometrio funcional para descartar anovulación."
+    },
+    {
+      "numero": "13",
+      "texto": "El hipotiroidismo puede causar amenorrea debido a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de progesterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de TRH con hiperprolactinemia secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia adrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome metabólico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TRH elevada aumenta la prolactina, interfiriendo con el eje gonadotrópico y generando amenorrea."
+    },
+    {
+      "numero": "14",
+      "texto": "En el síndrome de Turner, la amenorrea es causada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperplasia endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia ovárica primaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anovulación crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperandrogenismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pacientes con síndrome de Turner tienen disgenesia gonadal con insuficiencia ovárica primaria."
+    },
+    {
+      "numero": "15",
+      "texto": "Un signo clínico que orienta a amenorrea hipotalámica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio extremo y bajo peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hirsutismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Galactorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bajo peso y el ejercicio extremo son causas comunes de amenorrea hipotalámica."
+    },
+    {
+      "numero": "16",
+      "texto": "Una adolescente con amenorrea primaria, talla baja y cuello alado debe hacer sospechar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Asherman"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de talla baja, cuello alado y amenorrea primaria es característica del síndrome de Turner."
+    },
+    {
+      "numero": "17",
+      "texto": "La prueba combinada de estrógeno-progesterona se realiza cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La prueba de progesterona es positiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "La prueba de progesterona es negativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hay sospecha de embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "La FSH es alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "La prolactina es normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se indica cuando la prueba de progesterona es negativa, para diferenciar hipoestrogenismo de daño endometrial."
+    },
+    {
+      "numero": "18",
+      "texto": "En la amenorrea hipogonadotrófica, se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "FSH baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH baja"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el hipogonadismo hipogonadotrófico la FSH y LH están bajas por falla hipotalámica o hipofisaria."
+    }
+  ]
+}

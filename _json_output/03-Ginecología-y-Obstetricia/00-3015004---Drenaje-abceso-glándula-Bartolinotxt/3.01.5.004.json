@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.5.004",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.004 - Drenaje abceso glándula Bartolino.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Dónde se localiza la glándula de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En la pared anterior de la vagina"
+        },
+        {
+          "opcion": "B",
+          "texto": "En el vestíbulo vaginal, a nivel del tercio inferior de los labios mayores"
+        },
+        {
+          "opcion": "C",
+          "texto": "En el cuello uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "En el clítoris"
+        },
+        {
+          "opcion": "E",
+          "texto": "En el periné posterior"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las glándulas de Bartolino se ubican en el vestíbulo vaginal, a nivel del tercio inferior de los labios mayores."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la función normal de la glándula de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lubricar el canal cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producir moco vaginal durante el coito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secretar líquido lubricante en el vestíbulo vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regular el pH vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteger contra infecciones urinarias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las glándulas de Bartolino secretan un fluido lubricante que facilita la relación sexual."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué microorganismo es el más frecuentemente implicado en el absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma genitalium"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los abscesos de Bartolino son polimicrobianos, con E. coli como germen más frecuente."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el síntoma principal del absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción vaginal purulenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor intenso unilateral vulvar y tumefacción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dispareunia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prurito vulvar generalizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado poscoital"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso produce dolor intenso unilateral, inflamación y dificultad para caminar o sentarse."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento de elección para un absceso agudo de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos orales solamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje quirúrgico e inserción de catéter de Word"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extirpación completa de la glándula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresas calientes y reposo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antiinflamatorios no esteroidales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje con colocación de un catéter de Word es el tratamiento estándar para el absceso agudo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué objetivo tiene el catéter de Word en el drenaje del absceso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permitir drenaje continuo y formar nuevo conducto excretor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar recidiva bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la irrigación local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorecer cicatrización rápida por cierre primario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloquear el flujo de secreción"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El catéter de Word mantiene el drenaje y permite la epitelización de un nuevo conducto excretor."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué anestesia se utiliza habitualmente para el drenaje de un absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "General"
+        },
+        {
+          "opcion": "B",
+          "texto": "Raquídea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo pudendo o infiltración local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epidural"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El drenaje se realiza generalmente con anestesia local o bloqueo pudendo, según el tamaño y dolor."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la complicación más frecuente después del drenaje del absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recurrencia del absceso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis tisular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cicatriz hipertrófica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La recurrencia del absceso ocurre en un porcentaje de casos si no se forma un nuevo conducto excretor adecuado."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué procedimiento se recomienda en casos recurrentes de absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Drenaje simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resección de la glándula"
+        },
+        {
+          "opcion": "C",
+          "texto": "Marsupialización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos prolongados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catéter de Foley permanente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La marsupialización crea un orificio permanente para evitar recurrencias del absceso."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo clínico diferencia un quiste de Bartolino de un absceso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ambos son dolorosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "El quiste es blando y no inflamatorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "El absceso es indoloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "El quiste presenta eritema marcado"
+        },
+        {
+          "opcion": "E",
+          "texto": "El absceso es fluctuante y móvil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El quiste de Bartolino es una masa blanda, no dolorosa ni inflamada, a diferencia del absceso."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué antibiótico empírico es apropiado en un absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doxiciclina sola"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Amoxicilina-ácido clavulánico cubre flora polimicrobiana típica del absceso de Bartolino."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué pacientes requieren evaluación adicional para descartar neoplasia de la glándula de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adolescentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gestantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mujeres mayores de 40 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con ITS"
+        },
+        {
+          "opcion": "E",
+          "texto": "Multíparas jóvenes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En mujeres mayores de 40 años, se debe descartar carcinoma de glándula de Bartolino ante masas persistentes o recurrentes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué maniobra diagnóstica permite confirmar la presencia de fluctuación en un absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palpación bimanual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inspección visual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transiluminación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tacto rectal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Palpación directa del vestíbulo vulvar"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La palpación directa del vestíbulo vulvar revela fluctuación dolorosa compatible con absceso de Bartolino."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué signo clínico sugiere absceso de Bartolino y no celulitis vulvar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor difuso bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa fluctuante localizada en labio mayor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema difuso sin masa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prurito vulvar intenso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El absceso se presenta como masa fluctuante unilateral y dolorosa en el labio mayor."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de incisión se recomienda para el drenaje del absceso de Bartolino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incisión transversal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incisión en cruz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incisión vertical en mucosa vestibular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incisión semicircular externa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incisión en línea media perineal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se realiza una incisión vertical en la mucosa vestibular sobre la zona más fluctuante para facilitar drenaje."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuánto tiempo debe mantenerse el catéter de Word después del drenaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7-14 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "2-3 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta 2 meses"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El catéter se mantiene por 2-3 semanas para permitir epitelización del nuevo conducto excretor."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación puede producirse si se realiza drenaje sin catéter ni marsupialización?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cicatrización más rápida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recidiva del absceso o formación de quiste"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor crónico vulvar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El drenaje simple tiende a cerrar prematuramente el orificio y favorece la recurrencia del absceso o formación de quiste."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la localización típica del orificio de drenaje tras marsupialización?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En el labio menor"
+        },
+        {
+          "opcion": "B",
+          "texto": "En el vestíbulo, medial al himen"
+        },
+        {
+          "opcion": "C",
+          "texto": "En la comisura posterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "En la vulva lateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "En la pared anterior vaginal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La marsupialización deja un nuevo orificio en el vestíbulo vaginal, medial al himen."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida complementaria es útil tras el drenaje para aliviar molestias locales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar compresas frías"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baños de asiento con agua tibia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colocar hielo directo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar duchas vaginales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar limpieza vulvar por 5 días"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los baños de asiento con agua tibia mejoran el confort y favorecen el drenaje residual tras el procedimiento."
+    }
+  ]
+}

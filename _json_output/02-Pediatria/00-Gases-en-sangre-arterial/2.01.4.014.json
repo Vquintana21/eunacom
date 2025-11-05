@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.014",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Gases en sangre arterial",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el valor normal del pH en gases arteriales pediátricos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6.8-7.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "7.0-7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "7.25-7.35"
+        },
+        {
+          "opcion": "D",
+          "texto": "7.35-7.45"
+        },
+        {
+          "opcion": "E",
+          "texto": "7.45-7.55"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El rango normal del pH arterial en niños es 7.35 a 7.45, indicando equilibrio ácido-base fisiológico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el valor normal de PaCO₂ en un niño sano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20-30 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "30-35 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "35-45 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "45-55 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "55-65 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El valor normal de PaCO₂ se encuentra entre 35 y 45 mmHg, reflejando la ventilación alveolar adecuada."
+    },
+    {
+      "numero": "3",
+      "texto": "La PaO₂ normal en un lactante sano respirando aire ambiente es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40-50 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "50-60 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "60-70 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-100 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "100-120 mmHg"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La PaO₂ normal en aire ambiente es de 80 a 100 mmHg, indicando buena oxigenación arterial."
+    },
+    {
+      "numero": "4",
+      "texto": "En una acidosis respiratoria, el valor de PaCO₂ se encuentra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indetectable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La acidosis respiratoria se caracteriza por un aumento de PaCO₂ por hipoventilación alveolar."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué parámetro refleja el componente metabólico en los gases arteriales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "SaO₂"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El bicarbonato (HCO₃⁻) representa el componente metabólico del equilibrio ácido-base."
+    },
+    {
+      "numero": "6",
+      "texto": "Una alcalosis metabólica se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del HCO₃⁻"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del HCO₃⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del PaO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del ácido láctico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La alcalosis metabólica ocurre por exceso de bicarbonato o pérdida de ácido, elevando el HCO₃⁻."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la causa más frecuente de acidosis metabólica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos persistentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cetoacidosis diabética es la causa más común de acidosis metabólica en niños."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué alteración produce una hiperventilación aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperventilación elimina CO₂ en exceso, produciendo alcalosis respiratoria."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de las siguientes condiciones produce acidosis respiratoria en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma severo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos persistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de diuréticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El asma grave causa hipoventilación y retención de CO₂, generando acidosis respiratoria."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué variable se utiliza para evaluar la oxigenación tisular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "SaO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "HCO₃⁻"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La saturación de oxígeno (SaO₂) refleja la fracción de hemoglobina unida al oxígeno."
+    },
+    {
+      "numero": "11",
+      "texto": "Un exceso de base negativo indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compensación completa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un exceso de base negativo indica déficit de bicarbonato, típico de acidosis metabólica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes valores sugiere acidosis metabólica compensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH bajo, PaCO₂ normal, HCO₃⁻ bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH normal, PaCO₂ bajo, HCO₃⁻ bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH alto, PaCO₂ bajo, HCO₃⁻ alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH bajo, PaCO₂ alto, HCO₃⁻ alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH normal, PaCO₂ alto, HCO₃⁻ alto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la compensación, el pH se normaliza por hiperventilación (baja PaCO₂) en acidosis metabólica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro aumenta en una alcalosis respiratoria no compensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de base"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO₂"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la alcalosis respiratoria inicial, el pH aumenta por disminución del CO₂ plasmático."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué valor normal de exceso de base se considera fisiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "+5 a +10 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "0 ± 2 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "-5 a +5 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "-10 a -5 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguno, siempre debe ser cero"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de base normal varía entre -2 y +2 mEq/L, indicando equilibrio metabólico."
+    },
+    {
+      "numero": "15",
+      "texto": "Un lactante con pH 7.30, PaCO₂ 60 mmHg y HCO₃⁻ 29 mEq/L presenta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis metabólica compensada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis respiratoria parcialmente compensada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis respiratoria compensada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estado normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El CO₂ alto con pH bajo y bicarbonato elevado indica acidosis respiratoria parcialmente compensada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes valores sugiere hipoxia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO₂ < 80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO₂ < 60 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO₂ < 50 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO₂ < 40 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO₂ < 30 mmHg"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una PaO₂ menor de 40 mmHg representa hipoxia tisular severa con riesgo vital."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué gas arterial cambia primero ante una alteración respiratoria aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de base"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactato"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La PaCO₂ cambia rápidamente en alteraciones respiratorias agudas antes de la compensación renal."
+    },
+    {
+      "numero": "18",
+      "texto": "Una alcalosis metabólica con hipocloremia puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperventilación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los vómitos eliminan ácido gástrico (HCl), elevando HCO₃⁻ y reduciendo cloro plasmático."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro se utiliza para diferenciar acidosis metabólica con anión gap aumentado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anión gap"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de base"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO₂"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El anión gap ayuda a distinguir acidosis por aumento de ácidos (como lactato o cetonas)."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes situaciones causa una acidosis metabólica con anión gap normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intoxicación por metanol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida de bicarbonato por diarrea genera acidosis metabólica con anión gap normal."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del estudio funcional hepático en pacientes con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar daño hepático asociado a esteatosis o fármacos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir niveles de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar pancreatitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar el metabolismo del calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la diabetes, el estudio hepático permite detectar esteatosis, esteatohepatitis o toxicidad medicamentosa temprana."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué enzima es más sensible para detectar daño hepatocelular inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "B",
+          "texto": "ALT (GPT)"
+        },
+        {
+          "opcion": "C",
+          "texto": "GGT"
+        },
+        {
+          "opcion": "D",
+          "texto": "AST (GOT)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bilirrubina total"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ALT (alanina aminotransferasa) es más específica del hígado y se eleva en daño hepatocelular."
+    },
+    {
+      "numero": "3",
+      "texto": "En un paciente con diabetes tipo 2 y obesidad, el aumento aislado de ALT sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cirrosis alcohólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado graso no alcohólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colestasis extrahepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia cardíaca"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento aislado de ALT en diabéticos obesos sugiere esteatosis hepática no alcohólica (NAFLD)."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué enzima se eleva preferentemente en cuadros colestásicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ALT"
+        },
+        {
+          "opcion": "B",
+          "texto": "AST"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "E",
+          "texto": "CK"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fosfatasa alcalina aumenta en colestasis intra o extrahepática, reflejando alteración en el flujo biliar."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué patrón enzimático caracteriza al daño hepatocelular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación predominante de ALT y AST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento aislado de fosfatasa alcalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de bilirrubina indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de albúmina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de GGT y colesterol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El daño hepatocelular se manifiesta con elevación predominante de ALT y AST."
+    },
+    {
+      "numero": "6",
+      "texto": "La relación AST/ALT mayor a 2 sugiere generalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatopatía alcohólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hígado graso no alcohólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirrosis biliar primaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación AST/ALT >2 es característica de hepatopatía alcohólica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes parámetros evalúa la función sintética del hígado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "AST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bilirrubina indirecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Albúmina"
+        },
+        {
+          "opcion": "D",
+          "texto": "GGT"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La albúmina sérica refleja la capacidad de síntesis hepática de proteínas plasmáticas."
+    },
+    {
+      "numero": "8",
+      "texto": "En un paciente diabético con enfermedad hepática avanzada, se espera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de albúmina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de protrombina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de albúmina y tiempo de protrombina prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de glucógeno hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de bilirrubina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la insuficiencia hepática, disminuye la albúmina y se prolonga el tiempo de protrombina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué enzima hepática puede elevarse en pacientes diabéticos tratados con estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ALT"
+        },
+        {
+          "opcion": "B",
+          "texto": "CK"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amilasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las estatinas pueden causar elevación leve y transitoria de ALT por su metabolismo hepático."
+    },
+    {
+      "numero": "10",
+      "texto": "La elevación de GGT junto con fosfatasa alcalina sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Daño hepatocelular puro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento conjunto de GGT y fosfatasa alcalina indica colestasis o infiltración hepática."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el metabolito hepático que se altera más tempranamente en la resistencia a la insulina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Triglicéridos hepáticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bilirrubina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos biliares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteínas totales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La acumulación de triglicéridos hepáticos precede al desarrollo de esteatohepatitis en resistencia a la insulina."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal función hepática alterada en la esteatohepatitis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Excreción de bilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síntesis de glucógeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxidación de ácidos grasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción de urea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síntesis de proteínas plasmáticas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La esteatohepatitis altera la oxidación de ácidos grasos, generando acumulación lipídica y estrés oxidativo."
+    },
+    {
+      "numero": "13",
+      "texto": "Una bilirrubina directa elevada indica principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colestasis o daño hepatocelular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de producción de biliverdina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperlipidemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bilirrubina conjugada (directa) aumenta en colestasis o daño hepatocelular que impide su excreción."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la función del hígado más comprometida en la insuficiencia hepática avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síntesis proteica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desintoxicación metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Almacenamiento de glucógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción de bilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conversión de amonio en urea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La síntesis de proteínas plasmáticas como albúmina y factores de coagulación es la más afectada."
+    },
+    {
+      "numero": "15",
+      "texto": "El hígado participa en el metabolismo glucídico a través de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La gluconeogénesis y glucogenólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "La lipogénesis exclusiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "El transporte de lactato"
+        },
+        {
+          "opcion": "D",
+          "texto": "La síntesis de cuerpos cetónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "El catabolismo proteico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hígado regula la glucemia mediante gluconeogénesis y glucogenólisis, procesos alterados en la diabetes."
+    },
+    {
+      "numero": "16",
+      "texto": "En pacientes con diabetes tipo 2, la esteatosis hepática se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de lipólisis y resistencia a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de insulina absoluta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de bilis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia a la insulina promueve la lipólisis y acumulación de triglicéridos en el hígado."
+    },
+    {
+      "numero": "17",
+      "texto": "Una disminución de albúmina y prolongación del TP indican:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Daño hepático leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfunción hepática significativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestasis leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis viral inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de metabolismo proteico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos parámetros reflejan alteración de la función sintética hepática, señal de daño significativo."
+    },
+    {
+      "numero": "18",
+      "texto": "La elevación de LDH en el contexto hepático indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Daño hepatocelular inespecífico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síntesis aumentada de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción de bilis excesiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de glucogenólisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La LDH es una enzima inespecífica que puede aumentar por necrosis hepatocelular o daño tisular generalizado."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué prueba evalúa mejor la capacidad de detoxificación hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiempo de protrombina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niveles de amonio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de aclaramiento de bromosulfaleína"
+        },
+        {
+          "opcion": "D",
+          "texto": "ALT sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "GGT plasmática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aclaramiento de bromosulfaleína mide la capacidad del hígado para metabolizar y excretar sustancias."
+    },
+    {
+      "numero": "20",
+      "texto": "En el síndrome metabólico, el hallazgo hepático más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colangitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado graso no alcohólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis autoinmune"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirrosis biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocromatosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hígado graso no alcohólico es una manifestación común del síndrome metabólico y la resistencia a la insulina."
+    }
+  ]
+}

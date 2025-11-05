@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.2.017",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.017 - Sufrimiento fetal agudo.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el signo cardiotocográfico más característico de sufrimiento fetal agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aceleraciones transitorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia fetal sostenida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia fetal prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variabilidad moderada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Silencio cardiaco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La bradicardia fetal prolongada es el signo más característico y preocupante de sufrimiento fetal agudo."
+    },
+    {
+      "numero": "2",
+      "texto": "El sufrimiento fetal agudo se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial materna crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración brusca del intercambio placentario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polihidroamnios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se debe a una alteración brusca del intercambio placentario, reduciendo oxigenación fetal."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo de líquido amniótico meconial espeso sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riesgo de infección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia fetal aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto pretérmino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de líquido amniótico meconial espeso se asocia a hipoxia y sufrimiento fetal agudo."
+    },
+    {
+      "numero": "4",
+      "texto": "Un patrón sinusoidal en la monitorización fetal es indicativo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bienestar fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresión de cordón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia fetal severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trabajo de parto normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimulación simpática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El patrón sinusoidal es característico de anemia fetal grave y sufrimiento fetal."
+    },
+    {
+      "numero": "5",
+      "texto": "La maniobra inmediata frente a bradicardia fetal sostenida durante el parto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Realizar cesárea urgente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambiar posición materna y administrar oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar uterotónicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducir el parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar monitorización invasiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial incluye medidas de resucitación intrauterina como posición materna lateral y oxígeno."
+    },
+    {
+      "numero": "6",
+      "texto": "El sufrimiento fetal agudo puede deberse a todas las siguientes, EXCEPTO:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolapso de cordón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desprendimiento prematuro de placenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliquistosis ovárica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertonía uterina"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La poliquistosis ovárica no es causa de sufrimiento fetal agudo, a diferencia de las demás opciones."
+    },
+    {
+      "numero": "7",
+      "texto": "La variabilidad de la frecuencia cardiaca fetal en sufrimiento fetal agudo suele estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuida o ausente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con aceleraciones frecuentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida de variabilidad basal en la frecuencia cardiaca fetal es un signo de hipoxia grave."
+    },
+    {
+      "numero": "8",
+      "texto": "El prolapso de cordón umbilical en trabajo de parto se manifiesta principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia variable recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sangrado vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de contracciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión materna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El prolapso de cordón provoca desaceleraciones variables recurrentes y bradicardia fetal."
+    },
+    {
+      "numero": "9",
+      "texto": "El pH fetal < 7.2 en muestra de cuero cabelludo indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bienestar fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis fetal y sufrimiento agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un pH < 7.2 en sangre fetal es criterio diagnóstico de acidosis y sufrimiento fetal agudo."
+    },
+    {
+      "numero": "10",
+      "texto": "La principal complicación neonatal asociada a sufrimiento fetal agudo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asfixia perinatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrosomía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La asfixia perinatal es la complicación más grave derivada del sufrimiento fetal agudo."
+    },
+    {
+      "numero": "11",
+      "texto": "El manejo definitivo del sufrimiento fetal agudo durante el parto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea urgente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inducción con oxitocina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo materno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de progesterona"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento definitivo del sufrimiento fetal agudo es la interrupción inmediata del embarazo, generalmente con cesárea."
+    },
+    {
+      "numero": "12",
+      "texto": "Un patrón de desaceleraciones tardías en la monitorización fetal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresión de cordón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia fetal secundaria a insuficiencia placentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Movimientos fetales activos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación simpática fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección materna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las desaceleraciones tardías son típicas de insuficiencia placentaria e hipoxia fetal."
+    },
+    {
+      "numero": "13",
+      "texto": "El test de Apgar bajo al minuto 1 y 5 se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sufrimiento fetal agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isoinmunización Rh"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo congénito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sufrimiento fetal agudo puede manifestarse como Apgar bajo al minuto 1 y 5 postparto."
+    },
+    {
+      "numero": "14",
+      "texto": "La causa más frecuente de sufrimiento fetal agudo intraparto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desprendimiento prematuro de placenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compresión de cordón umbilical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polihidroamnios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La compresión del cordón umbilical es la causa más frecuente de sufrimiento fetal intraparto."
+    },
+    {
+      "numero": "15",
+      "texto": "La frecuencia cardíaca fetal normal en monitorización oscila entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "90-110 lpm"
+        },
+        {
+          "opcion": "B",
+          "texto": "110-160 lpm"
+        },
+        {
+          "opcion": "C",
+          "texto": "160-190 lpm"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-100 lpm"
+        },
+        {
+          "opcion": "E",
+          "texto": "120-180 lpm"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El rango normal de frecuencia cardíaca fetal es de 110 a 160 latidos por minuto."
+    },
+    {
+      "numero": "16",
+      "texto": "La administración excesiva de oxitocina puede desencadenar sufrimiento fetal por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertonía uterina con disminución de flujo placentario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperestimulación uterina con oxitocina disminuye el flujo uteroplacentario y genera hipoxia fetal."
+    },
+    {
+      "numero": "17",
+      "texto": "La monitorización fetal interna se indica en sufrimiento fetal agudo cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La paciente tiene infección activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se requiere registro más preciso de la FCF"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se sospecha polihidroamnios"
+        },
+        {
+          "opcion": "D",
+          "texto": "El feto es pretérmino extremo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hay antecedente de cesárea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La monitorización interna ofrece un registro más preciso en situaciones de sufrimiento fetal."
+    },
+    {
+      "numero": "18",
+      "texto": "El Doppler de arteria umbilical patológico en sufrimiento fetal muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flujo diastólico ausente o reverso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aceleraciones frecuentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resistencia disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo continuo normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incremento de flujo venoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hallazgo de flujo diastólico ausente o reverso en Doppler es signo de sufrimiento fetal severo."
+    },
+    {
+      "numero": "19",
+      "texto": "El manejo inmediato del prolapso de cordón con feto vivo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esperar evolución"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevar la presentación y cesárea urgente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitorizar hasta parto espontáneo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe elevarse la presentación para descomprimir el cordón y realizar cesárea urgente."
+    }
+  ]
+}

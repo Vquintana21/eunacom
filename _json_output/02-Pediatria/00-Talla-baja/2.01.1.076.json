@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.076",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Talla baja",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición más aceptada de talla baja en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talla menor al percentil 10 para la edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla menor al percentil 5 para la edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla menor a -2 desviaciones estándar para la edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Talla menor al percentil 25 para la edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla menor al percentil 50 para la edad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se define talla baja como una estatura menor a -2 desviaciones estándar respecto al promedio para edad y sexo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de talla baja en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de hormona del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla baja familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raquitismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La talla baja familiar es la causa más común y se asocia a antecedentes familiares similares."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes características sugiere un trastorno endocrino como causa de talla baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso normal para la talla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Velocidad de crecimiento normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso en la edad ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Talla proporcional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inicio precoz del crecimiento lento"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El retraso de la edad ósea es característico de causas endocrinas de talla baja, como el déficit de GH o hipotiroidismo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué examen se utiliza para estimar la edad ósea en el estudio de talla baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de muñeca y mano izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de abdomen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía tiroidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Densitometría ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de mano y muñeca izquierda permite estimar la edad ósea según atlas de Greulich y Pyle."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo orienta a una talla baja constitucional del crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad ósea acorde a la cronológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edad ósea retrasada con crecimiento normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla desproporcionada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso bajo para la edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla muy inferior al rango familiar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el retraso constitucional, la edad ósea está retrasada pero la velocidad de crecimiento es normal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la principal causa patológica de talla baja proporcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de hormona del crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia esquelética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Noonan"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El déficit de hormona del crecimiento produce talla baja proporcional por afectación global del crecimiento."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo clínico es característico del síndrome de Turner?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macroglosia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuello alado y baja estatura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manos grandes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrocefalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Turner se asocia a talla baja, cuello alado y disgenesia gonadal en niñas 45,X."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la velocidad de crecimiento normal en la edad escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2-3 cm/año"
+        },
+        {
+          "opcion": "B",
+          "texto": "4-6 cm/año"
+        },
+        {
+          "opcion": "C",
+          "texto": "7-9 cm/año"
+        },
+        {
+          "opcion": "D",
+          "texto": "1-2 cm/año"
+        },
+        {
+          "opcion": "E",
+          "texto": "10-12 cm/año"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la edad escolar, la velocidad normal de crecimiento es de 4 a 6 cm por año."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué parámetro permite estimar la talla genética esperada de un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Índice de masa corporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla diana familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso al nacer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro cefálico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La talla diana familiar se calcula según las estaturas de los padres para estimar el potencial genético del niño."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes situaciones sugiere una causa sistémica de talla baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso conservado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición progresiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad ósea normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento estable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla acorde a los padres"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desnutrición o enfermedad crónica causa detención del crecimiento con pérdida ponderal previa."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el principal estudio inicial ante una talla baja sin causa evidente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de estimulación con ACTH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de mano izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinación de GH basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de tolerancia a la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición de T4 libre y TSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La edad ósea es el estudio inicial más útil para orientar el tipo de trastorno del crecimiento."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse ante una talla baja desproporcionada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Displasia ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de GH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla familiar baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las displasias óseas producen talla baja desproporcionada con tronco o extremidades anómalas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes fármacos puede causar talla baja iatrogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides crónicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somatotropina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso prolongado de corticoides inhibe el crecimiento lineal y puede causar talla baja secundaria."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la hormona que regula directamente el crecimiento longitudinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hormona del crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroxina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hormona del crecimiento estimula la producción de IGF-1, responsable del crecimiento óseo longitudinal."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué patrón de crecimiento es característico del déficit de hormona del crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talla baja con peso elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla y peso bajos proporcionados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla baja con velocidad de crecimiento normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Talla baja con maduración ósea acelerada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talla normal con macrocefalia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El déficit de GH causa talla baja con peso normal o elevado para la talla y retraso óseo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué prueba confirma el diagnóstico de déficit de hormona del crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición basal de GH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medición de IGF-1 y test de estimulación de GH"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de silla turca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dosificación de T4 y TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico se confirma con valores bajos de GH tras pruebas de estimulación y niveles reducidos de IGF-1."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo clínico distingue la talla baja familiar del retraso constitucional del crecimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad ósea retrasada en ambos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento normal en ambos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad ósea normal en talla baja familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maduración puberal tardía en ambos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso bajo en talla baja familiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la talla baja familiar la edad ósea es normal; en el retraso constitucional está retrasada."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué condición se asocia con talla baja y obesidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de GH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla baja familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Displasia esquelética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retraso constitucional"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El síndrome de Cushing combina talla baja por supresión del eje GH y aumento de peso por hipercortisolismo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el principal objetivo del tratamiento de la talla baja por déficit de GH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalizar el peso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimular el apetito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restablecer la velocidad de crecimiento y alcanzar talla genética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la edad ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la secreción de insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La terapia con GH busca normalizar la velocidad de crecimiento y alcanzar la talla genética esperada."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estudio se debe solicitar en una niña con talla baja y pubertad ausente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cariotipo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de GH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación de IGF-1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de cráneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cariotipo permite descartar síndrome de Turner en niñas con talla baja y amenorrea primaria."
+    }
+  ]
+}

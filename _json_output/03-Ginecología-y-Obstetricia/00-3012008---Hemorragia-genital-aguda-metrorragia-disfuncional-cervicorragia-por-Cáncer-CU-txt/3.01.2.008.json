@@ -1,0 +1,292 @@
+{
+  "codigo": "3.01.2.008",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.008 - Hemorragia genital aguda (metrorragia disfuncional-cervicorragia por Cáncer C.U.) .txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de hemorragia genital aguda en mujeres en edad reproductiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer cervicouterino avanzado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metrorragia disfuncional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trauma genital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección pélvica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metrorragia disfuncional, relacionada con alteraciones hormonales anovulatorias, es una causa frecuente en mujeres jóvenes."
+    },
+    {
+      "numero": "2",
+      "texto": "En una paciente posmenopáusica con hemorragia vaginal aguda se debe sospechar en primer lugar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atrofia endometrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer cervicouterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioma uterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno de coagulación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En mujeres posmenopáusicas, la hemorragia genital siempre obliga a descartar cáncer endometrial."
+    },
+    {
+      "numero": "3",
+      "texto": "El signo clínico clásico de cáncer cervicouterino avanzado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flujo fétido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor pélvico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia postcoital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucorrea persistente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemorragia postcoital es el signo más característico y de mayor alarma de cáncer cervicouterino."
+    },
+    {
+      "numero": "4",
+      "texto": "La causa más frecuente de metrorragia disfuncional es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciclos anovulatorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miomas submucosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliposis endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma endometrial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los ciclos anovulatorios generan hiperplasia endometrial irregular, predisponiendo a hemorragias disfuncionales."
+    },
+    {
+      "numero": "5",
+      "texto": "El examen de elección inicial en metrorragia disfuncional es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Papanicolaou"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colposcopia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Curetaje diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía transvaginal es la primera herramienta diagnóstica para evaluar grosor endometrial y descartar lesiones estructurales."
+    },
+    {
+      "numero": "6",
+      "texto": "La hemorragia en cáncer cervicouterino suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oscura y coagulada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intermitente postcoital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clara y escasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asociada solo a la menstruación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia puerperal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemorragia intermitente postcoital es típica del cáncer cervicouterino por friabilidad del tejido tumoral."
+    },
+    {
+      "numero": "7",
+      "texto": "En una paciente con metrorragia aguda y anemia severa, la primera medida es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar hierro oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hospitalización y reposición con fluidos y sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar histeroscopía inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar biopsia endometrial de urgencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derivar a psicología"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo inicial de la hemorragia aguda es estabilizar a la paciente con líquidos y transfusión si es necesario."
+    },
+    {
+      "numero": "8",
+      "texto": "Una opción terapéutica inmediata para metrorragia disfuncional es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progestágenos a altas dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tamoxifeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido tranexámico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antiinflamatorios no esteroidales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "En metrorragia aguda se usan progestágenos, antifibrinolíticos y AINEs para reducir el sangrado."
+    },
+    {
+      "numero": "9",
+      "texto": "El diagnóstico definitivo de cáncer cervicouterino se realiza mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Citología exfoliativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colposcopia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia dirigida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia pélvica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico definitivo se obtiene mediante biopsia dirigida del cuello uterino sospechoso."
+    },
+    {
+      "numero": "10",
+      "texto": "El principal factor de riesgo para cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección persistente por HPV de alto riesgo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menarquia precoz"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El factor de riesgo más importante es la infección persistente por HPV oncogénico, principalmente serotipos 16 y 18."
+    }
+  ]
+}

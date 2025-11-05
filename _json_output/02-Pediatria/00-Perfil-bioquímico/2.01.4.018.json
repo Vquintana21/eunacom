@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.018",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Perfil bioquímico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes enzimas se utiliza comúnmente para evaluar daño hepático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinquinasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alanina aminotransferasa (ALT)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactato deshidrogenasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipasa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ALT es una enzima hepatoespecífica útil para detectar daño hepatocelular."
+    },
+    {
+      "numero": "2",
+      "texto": "Un aumento aislado de fosfatasa alcalina en un niño sano suele deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento óseo activo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En niños, la fosfatasa alcalina puede elevarse fisiológicamente por crecimiento óseo."
+    },
+    {
+      "numero": "3",
+      "texto": "El aumento de bilirrubina indirecta se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemólisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia hepática terminal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemólisis aumenta la bilirrubina no conjugada al superar la capacidad hepática de conjugación."
+    },
+    {
+      "numero": "4",
+      "texto": "La hiponatremia leve en pediatría se define como sodio sérico menor de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "145 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "140 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "135 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "130 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "125 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera hiponatremia cuando el sodio sérico es menor de 135 mEq/L."
+    },
+    {
+      "numero": "5",
+      "texto": "Un aumento de creatinina plasmática en un niño con deshidratación indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del filtrado glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal aguda prerrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deshidratación reduce el flujo renal y eleva la creatinina por causa prerrenal."
+    },
+    {
+      "numero": "6",
+      "texto": "La relación AST/ALT mayor a 2 es sugestiva de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatopatía alcohólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestasis neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esteatosis hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación AST/ALT mayor a 2 se observa clásicamente en hepatopatía alcohólica."
+    },
+    {
+      "numero": "7",
+      "texto": "La elevación de amilasa y lipasa séricas orienta a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangitis esclerosante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ambas enzimas se elevan en la pancreatitis aguda, especialmente la lipasa."
+    },
+    {
+      "numero": "8",
+      "texto": "El aumento de urea con creatinina normal puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatopatía aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deshidratación leve eleva la urea sin afectar la creatinina sérica."
+    },
+    {
+      "numero": "9",
+      "texto": "La hiperpotasemia puede observarse en todas las siguientes condiciones, excepto:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lisis celular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemólisis de la muestra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de diuréticos tiazídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los diuréticos tiazídicos producen hipopotasemia, no hiperpotasemia."
+    },
+    {
+      "numero": "10",
+      "texto": "Una hipocalcemia verdadera se confirma midiendo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcio iónico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Magnesio sérico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fosfato sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Albúmina plasmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El calcio iónico es el parámetro que refleja la fracción biológicamente activa."
+    },
+    {
+      "numero": "11",
+      "texto": "La hiperbilirrubinemia directa es característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemólisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colestasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de G6PD"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Gilbert"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colestasis cursa con bilirrubina directa elevada por obstrucción del flujo biliar."
+    },
+    {
+      "numero": "12",
+      "texto": "La albúmina sérica disminuye principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición o hepatopatía crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección viral leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de corticoides"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoalbuminemia se asocia a insuficiencia hepática o desnutrición proteica."
+    },
+    {
+      "numero": "13",
+      "texto": "La elevación de lactato deshidrogenasa (LDH) se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Daño tisular inespecífico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colestasis aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis autoinmune"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La LDH aumenta en daño tisular inespecífico, hemólisis o necrosis celular."
+    },
+    {
+      "numero": "14",
+      "texto": "La hipoglicemia en un niño puede ser secundaria a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de betabloqueadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliglobulia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ayuno prolongado reduce la gluconeogénesis y causa hipoglicemia."
+    },
+    {
+      "numero": "15",
+      "texto": "El aumento del ácido úrico puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de lisis tumoral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia por déficit de hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis diabética"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La lisis tumoral libera purinas que aumentan los niveles séricos de ácido úrico."
+    },
+    {
+      "numero": "16",
+      "texto": "La elevación de gamma-glutamil transferasa (GGT) orienta principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis o inducción enzimática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis viral aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia pancreática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La GGT se eleva en colestasis y por fármacos inductores enzimáticos."
+    },
+    {
+      "numero": "17",
+      "texto": "La hiperkalemia puede causar en el electrocardiograma:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplanamiento de onda T"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolongación del QT"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ondas T picudas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las ondas T altas y picudas son el signo más precoz de hiperkalemia."
+    },
+    {
+      "numero": "18",
+      "texto": "La hipofosfatemia severa puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones y debilidad muscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertermia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fosfato es esencial para la función muscular y neurológica; su déficit causa debilidad y convulsiones."
+    },
+    {
+      "numero": "19",
+      "texto": "El aumento de transaminasas sin síntomas clínicos puede verse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis subclínica o miopatías"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatopatía aguda viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Transaminasas elevadas sin síntomas pueden deberse a daño muscular o infección leve."
+    },
+    {
+      "numero": "20",
+      "texto": "El aumento aislado de GGT con fosfatasa alcalina normal puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de anticonvulsivantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestasis neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis autoinmune"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina D"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los fármacos como anticonvulsivantes elevan GGT sin afectar otras enzimas hepáticas."
+    }
+  ]
+}

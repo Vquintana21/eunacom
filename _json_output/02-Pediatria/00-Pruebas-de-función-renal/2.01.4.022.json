@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.4.022",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Pruebas de función renal",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el marcador más utilizado para evaluar la función glomerular en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido úrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitrógeno ureico en sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistatina C"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina sérica es el marcador más usado para estimar la tasa de filtración glomerular (TFG)."
+    },
+    {
+      "numero": "2",
+      "texto": "En pediatría, la TFG se estima principalmente mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fórmula de Cockcroft-Gault"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fórmula de Schwartz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fórmula MDRD"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fórmula CKD-EPI"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depuración de urea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula de Schwartz es la más utilizada en población pediátrica para estimar la TFG."
+    },
+    {
+      "numero": "3",
+      "texto": "Un aumento del nitrógeno ureico en sangre puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipovolemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatopatía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperinsulinismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipovolemia causa disminución de la perfusión renal y aumento de urea plasmática."
+    },
+    {
+      "numero": "4",
+      "texto": "En un niño con insuficiencia renal aguda, se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia e hipocalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipernatremia e hipocalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperpotasemia y acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipopotasemia y alcalosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normocalemia y acidosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falla renal aguda cursa con retención de potasio e hidrogeniones, produciendo acidosis metabólica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes exámenes evalúa la función tubular renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Depuración de creatinina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de concentración urinaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "TFG estimada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Excreción fraccional de sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición de Cistatina C"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La excreción fraccional de sodio evalúa la capacidad tubular para reabsorber sodio."
+    },
+    {
+      "numero": "6",
+      "texto": "La Cistatina C es útil porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No depende de la masa muscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta con la edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se altera por la dieta proteica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende del volumen extracelular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye con infecciones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La Cistatina C es un marcador sensible de la TFG independiente de la masa muscular o dieta."
+    },
+    {
+      "numero": "7",
+      "texto": "En una acidosis metabólica por falla renal, el bicarbonato plasmático estará:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inalterado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según el pH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disminución del bicarbonato refleja la incapacidad renal para eliminar ácidos."
+    },
+    {
+      "numero": "8",
+      "texto": "Una densidad urinaria persistentemente baja indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes insípida o daño tubular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del flujo sanguíneo renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incapacidad de concentrar la orina puede deberse a daño tubular o diabetes insípida."
+    },
+    {
+      "numero": "9",
+      "texto": "La depuración de creatinina se calcula a partir de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina plasmática y volumen corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina plasmática y urinaria más volumen urinario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urea sérica y orina de 12 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitrógeno ureico y diuresis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteínas plasmáticas y pH urinario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depuración de creatinina combina creatinina plasmática y urinaria para estimar TFG."
+    },
+    {
+      "numero": "10",
+      "texto": "Una relación BUN/creatinina >20 sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falla renal intrínseca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falla renal prerrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla renal posrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatopatía crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnutrición proteica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación BUN/creatinina >20 sugiere una causa prerrenal como hipovolemia o shock."
+    },
+    {
+      "numero": "11",
+      "texto": "El aclaramiento de inulina se considera el estándar de oro para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir la función tubular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimar la TFG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar proteinuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir flujo plasmático renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinar volumen extracelular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inulina es filtrada pero no secretada ni reabsorbida, siendo el método más exacto para TFG."
+    },
+    {
+      "numero": "12",
+      "texto": "En la insuficiencia renal crónica pediátrica, los niveles de fósforo suelen estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectables"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuidos con calcio bajo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperfosfatemia ocurre por disminución de la excreción renal de fósforo."
+    },
+    {
+      "numero": "13",
+      "texto": "Un niño con proteinuria persistente requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluación con prueba de orina al azar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir muestra matutina y estudio de sedimento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento inmediato con diurético"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender toda ingesta proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La proteinuria persistente debe confirmarse con muestra matutina y estudio del sedimento urinario."
+    },
+    {
+      "numero": "14",
+      "texto": "En un paciente pediátrico, la excreción fraccional de sodio <1% indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Daño tubular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falla renal prerrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla posrenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falla hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una excreción fraccional de sodio <1% indica conservación renal en falla prerrenal."
+    },
+    {
+      "numero": "15",
+      "texto": "El potasio plasmático elevado en insuficiencia renal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de filtración glomerular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de filtración glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de reabsorción tubular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición de la bomba Na+/K+"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de secreción distal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acumulación de potasio refleja la pérdida de la función de filtrado y secreción renal."
+    },
+    {
+      "numero": "16",
+      "texto": "La osmolalidad urinaria ayuda a evaluar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Concentración y dilución renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flujo sanguíneo renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tasa de filtración glomerular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción hepática de urea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La osmolalidad urinaria evalúa la capacidad renal para concentrar o diluir la orina."
+    },
+    {
+      "numero": "17",
+      "texto": "En la deshidratación, se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urea y creatinina bajas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urea alta con creatinina normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambas elevadas por falla renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osmolalidad urinaria baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteinuria severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la deshidratación, la urea aumenta antes que la creatinina por hipoperfusión renal."
+    },
+    {
+      "numero": "18",
+      "texto": "El síndrome nefrótico se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematuria y oliguria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteinuria masiva, hipoalbuminemia y edema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalemia y acidosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia y poliuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Urea baja y anemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome nefrótico combina proteinuria significativa, hipoalbuminemia y edema generalizado."
+    },
+    {
+      "numero": "19",
+      "texto": "La medición de microalbuminuria es útil para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar daño renal temprano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confirmar insuficiencia renal crónica avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir TFG exacta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar infecciones urinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar deshidratación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La microalbuminuria permite detectar daño glomerular subclínico en etapas iniciales."
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.009",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.009 - Microsomia fetal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por microsomía fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso fetal estimado mayor al percentil 90"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso fetal estimado menor al percentil 10"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peso fetal mayor a 4500 g"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso fetal menor a 2500 g en cualquier edad gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Circunferencia abdominal mayor a percentil 95"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microsomía fetal se define como un peso estimado menor al percentil 10 para la edad gestacional."
+    },
+    {
+      "numero": "2",
+      "texto": "La microsomía fetal se clasifica como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Constitucional y patológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crónica y aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leve y grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Genética y adquirida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Precoz y tardía"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se clasifica en constitucional (feto sano pequeño) y patológica (asociada a restricción del crecimiento intrauterino)."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal factor materno asociado a microsomía fetal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes pregestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El tabaquismo materno es uno de los principales factores asociados a microsomía fetal."
+    },
+    {
+      "numero": "4",
+      "texto": "La técnica más confiable para diagnosticar microsomía fetal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altura uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Palpación abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía con biometría fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amniocentesis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitoreo fetal no estresante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía con biometría fetal permite estimar el peso fetal y confirmar microsomía."
+    },
+    {
+      "numero": "5",
+      "texto": "La circunferencia abdominal fetal disminuida sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción del crecimiento intrauterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oligohidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La circunferencia abdominal baja es un parámetro sensible para restricción de crecimiento fetal."
+    },
+    {
+      "numero": "6",
+      "texto": "Un Doppler de arteria umbilical alterado indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Buen crecimiento fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sufrimiento fetal agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia placentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Madurez pulmonar fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Doppler umbilical alterado es signo de insuficiencia placentaria y restricción de crecimiento."
+    },
+    {
+      "numero": "7",
+      "texto": "El mejor parámetro para seguimiento en microsomía fetal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso materno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Altura uterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Doppler de arteria umbilical y cerebral media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perfil biofísico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiotocografía basal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Doppler fetal es fundamental para seguimiento y decisiones de manejo en restricción del crecimiento."
+    },
+    {
+      "numero": "8",
+      "texto": "La restricción de crecimiento intrauterino precoz se relaciona más con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia placentaria severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desnutrición materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazo múltiple"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La RCIU precoz suele deberse a insuficiencia placentaria grave."
+    },
+    {
+      "numero": "9",
+      "texto": "La restricción de crecimiento intrauterino tardía se asocia más a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteraciones cromosómicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia placentaria leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones congénitas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Preeclampsia temprana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes mellitus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La RCIU tardía suele relacionarse con insuficiencia placentaria leve o progresiva."
+    },
+    {
+      "numero": "10",
+      "texto": "La principal complicación perinatal de la microsomía fetal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglicemia neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia broncopulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad hemolítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglicemia neonatal es una complicación frecuente en recién nacidos con restricción de crecimiento."
+    },
+    {
+      "numero": "11",
+      "texto": "El diagnóstico diferencial principal de microsomía fetal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Feto constitucionalmente pequeño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oligohidramnios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia fetal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe diferenciarse entre feto pequeño constitucional y restricción de crecimiento patológica."
+    },
+    {
+      "numero": "12",
+      "texto": "Un hallazgo clínico sospechoso de microsomía es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altura uterina menor a lo esperado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ganancia ponderal excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Útero irritable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia fetal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La altura uterina menor a lo esperado sugiere restricción de crecimiento fetal."
+    },
+    {
+      "numero": "13",
+      "texto": "La arteria cerebral media en Doppler alterada muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Redistribución fetal con vasodilatación cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de resistencia cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de flujo diastólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo reverso en sístole"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión intracraneal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vasodilatación cerebral refleja redistribución hemodinámica en fetos con RCIU."
+    },
+    {
+      "numero": "14",
+      "texto": "La conducta obstétrica en microsomía fetal depende de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso pregestacional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resultados de Doppler y edad gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sexo fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paridad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La decisión depende del estado fetal (Doppler) y de la edad gestacional alcanzada."
+    },
+    {
+      "numero": "15",
+      "texto": "En microsomía fetal con Doppler umbilical ausente/reverso, la conducta es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seguir expectante hasta 40 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inducir parto inmediato según viabilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de tocolíticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar hierro materno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar cerclaje"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia o reverso de flujo diastólico obliga a considerar interrupción inmediata según viabilidad fetal."
+    },
+    {
+      "numero": "16",
+      "texto": "Una causa infecciosa clásica de restricción de crecimiento intrauterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "B",
+          "texto": "Citomegalovirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "COVID-19"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Varicela"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El citomegalovirus es una infección congénita clásica asociada a RCIU."
+    },
+    {
+      "numero": "17",
+      "texto": "El riesgo a largo plazo en niños con microsomía incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor riesgo de enfermedades cardiovasculares y metabólicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de fertilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de talla final"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor riesgo de cáncer infantil"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor riesgo de enfermedad celíaca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La restricción de crecimiento se asocia a mayor riesgo de hipertensión, diabetes y enfermedades cardiovasculares en la adultez."
+    },
+    {
+      "numero": "18",
+      "texto": "En gestaciones múltiples, la microsomía fetal se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor riesgo de macrosomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor riesgo de restricción de crecimiento selectivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del riesgo de preeclampsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de parto pretérmino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En embarazos múltiples puede ocurrir restricción selectiva en uno de los fetos."
+    },
+    {
+      "numero": "19",
+      "texto": "El manejo nutricional en microsomía fetal incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar ganancia ponderal materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suplementos de hierro, ácido fólico y control dietético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inducir hiperalimentación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restringir calorías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo hidratación intravenosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La suplementación y dieta adecuada son parte del manejo integral de microsomía fetal."
+    }
+  ]
+}

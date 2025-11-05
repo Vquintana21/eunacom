@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.014",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.014 - Dolor pelviano y dismenorrea.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de dismenorrea primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miomas uterinos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de prostaglandinas endometriales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad inflamatoria pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenomiosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dismenorrea primaria se debe a un aumento de prostaglandinas endometriales que producen contracciones uterinas dolorosas."
+    },
+    {
+      "numero": "2",
+      "texto": "Un dolor pélvico cíclico asociado a menstruación dolorosa, dispareunia y subfertilidad sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miomatosis uterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Asherman"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quiste simple ovárico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tríada de dolor pélvico, dismenorrea y subfertilidad es altamente sugestiva de endometriosis."
+    },
+    {
+      "numero": "3",
+      "texto": "El tratamiento de primera línea para dismenorrea primaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progestágenos en altas dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "AINEs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía laparoscópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antidepresivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los AINEs inhiben la síntesis de prostaglandinas, disminuyendo el dolor en dismenorrea primaria."
+    },
+    {
+      "numero": "4",
+      "texto": "La adenomiosis suele manifestarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dismenorrea progresiva y menorragia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sangrado poscoital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea cíclica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oligomenorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La adenomiosis cursa con dismenorrea progresiva y menorragia por invasión del endometrio al miometrio."
+    },
+    {
+      "numero": "5",
+      "texto": "La dismenorrea secundaria se diferencia de la primaria porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicia en la adolescencia temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se relaciona a patología pélvica subyacente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se resuelve con AINEs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es causada solo por estrés"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre se asocia a sangrado abundante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dismenorrea secundaria se debe a una enfermedad pélvica subyacente como endometriosis o miomas."
+    },
+    {
+      "numero": "6",
+      "texto": "El examen de elección para evaluar dolor pélvico crónico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía pélvica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia nuclear magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colonoscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía transvaginal es el estudio inicial más útil para evaluar causas ginecológicas de dolor pélvico."
+    },
+    {
+      "numero": "7",
+      "texto": "Una mujer con dolor pélvico crónico y masa anexial debe evaluarse principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste ovárico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer de ovario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso tuboovárico"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Un dolor pélvico crónico con masa anexial puede corresponder a absceso tuboovárico, diagnóstico importante a descartar."
+    },
+    {
+      "numero": "8",
+      "texto": "El principal mecanismo fisiopatológico de la dismenorrea primaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de prostaglandinas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de estrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de andrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección pélvica crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de prostaglandinas uterinas causa contracciones dolorosas y disminución del flujo sanguíneo uterino."
+    },
+    {
+      "numero": "9",
+      "texto": "La primera causa a descartar en dolor pélvico agudo en mujer en edad fértil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazo ectópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioma uterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenomiosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El embarazo ectópico es una urgencia vital y debe descartarse primero en dolor pélvico agudo."
+    },
+    {
+      "numero": "10",
+      "texto": "Una característica típica de la dismenorrea secundaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio en adolescencia temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor que empeora con el tiempo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejoría espontánea con los años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asociación con ejercicio intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciclos menstruales irregulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dismenorrea secundaria suele ser progresiva y empeora con el tiempo, a diferencia de la primaria."
+    },
+    {
+      "numero": "11",
+      "texto": "El uso de anticonceptivos orales en dismenorrea actúa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reduciendo el tamaño uterino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibiendo la ovulación y disminuyendo prostaglandinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentando el flujo menstrual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuyendo el dolor neuropático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminando miomas uterinos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticonceptivos orales disminuyen prostaglandinas y reducen el dolor al inhibir la ovulación."
+    },
+    {
+      "numero": "12",
+      "texto": "La endometriosis profunda suele producir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor pelviano crónico severo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amenorrea primaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipomenorrea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metrorragia intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado poscoital"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endometriosis profunda infiltra estructuras pélvicas y es causa frecuente de dolor pelviano crónico."
+    },
+    {
+      "numero": "13",
+      "texto": "Una adolescente con dolor menstrual incapacitante y examen normal probablemente presenta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dismenorrea primaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miomatosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenomiosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En adolescentes, la dismenorrea primaria es la causa más frecuente de dolor menstrual severo con examen normal."
+    },
+    {
+      "numero": "14",
+      "texto": "El diagnóstico de certeza de endometriosis se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía pélvica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Examen ginecológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laparoscopía con biopsia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de CA-125"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El diagnóstico definitivo de endometriosis se confirma con laparoscopía y estudio histológico."
+    },
+    {
+      "numero": "15",
+      "texto": "Una causa frecuente de dismenorrea secundaria en mujeres mayores de 35 años es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miomatosis uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Rokitansky"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anovulación crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los miomas son una causa común de dismenorrea secundaria en mujeres mayores de 35 años."
+    },
+    {
+      "numero": "16",
+      "texto": "El dolor pélvico crónico se define como dolor persistente por más de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "9 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "1 año"
+        },
+        {
+          "opcion": "E",
+          "texto": "2 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor pélvico crónico se define como dolor persistente en la pelvis por más de 6 meses."
+    },
+    {
+      "numero": "17",
+      "texto": "La causa más frecuente de dolor pélvico agudo ginecológico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miomas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazo ectópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quiste ovárico roto"
+        },
+        {
+          "opcion": "D",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometriosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ruptura de quiste ovárico funcional es la causa más frecuente de dolor pélvico agudo ginecológico."
+    },
+    {
+      "numero": "18",
+      "texto": "La localización más común de endometriosis profunda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovarios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ligamentos uterosacros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometrio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miometrio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trompas de Falopio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La endometriosis profunda afecta con frecuencia los ligamentos uterosacros generando dolor pélvico intenso."
+    }
+  ]
+}

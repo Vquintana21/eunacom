@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.083",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome hipertónico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por síndrome hipertónico en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución generalizada del tono muscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento anormal y persistente del tono muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración transitoria del tono por fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debilidad muscular generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotonía con reflejos abolidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome hipertónico se caracteriza por un aumento persistente del tono muscular y resistencia al movimiento pasivo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de hipertonía en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traumatismo craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Encefalopatía hipóxico-isquémica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malformación de Chiari"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La encefalopatía hipóxico-isquémica es la causa más común de hipertonía en lactantes debido a lesión cortical o extrapiramidal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué reflejo se encuentra exagerado en un lactante con síndrome hipertónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo de prensión palmar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo plantar flexor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejos osteotendíneos profundos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo de Moro ausente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo de succión disminuido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperreflexia osteotendínea es un hallazgo característico de la hipertonía de origen central."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué patrón de hipertonía sugiere lesión piramidal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertonía plástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertonía elástica o espástica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez en rueda dentada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotonía global"
+        },
+        {
+          "opcion": "E",
+          "texto": "Areflexia generalizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertonía espástica o elástica es típica de lesiones del sistema piramidal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es una causa periférica de hipertonía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parálisis cerebral espástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de West"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tétanos neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningoencefalitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia intraventricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tétanos neonatal causa hipertonía por bloqueo de la inhibición presináptica a nivel medular."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué maniobra permite evaluar la hipertonía en extremidades del lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de Ortolani"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspensión vertical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flexo-extensión pasiva de extremidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo plantar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Moro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia al movimiento pasivo en flexo-extensión de extremidades indica hipertonía."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de tono presenta un niño con parálisis cerebral espástica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mixto con predominio hipotónico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertónico espástico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluctuante según posición"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La forma espástica de parálisis cerebral cursa con hipertonía de tipo elástica y reflejos aumentados."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo diferencia hipertonía extrapiramidal de la piramidal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertonía variable al movimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperreflexia profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clonus presente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de Babinski positivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejos tendíneos abolidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En las lesiones extrapiramidales la hipertonía es plástica y depende poco de la velocidad del movimiento."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué signo clínico sugiere lesión central en un lactante hipertónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos tendíneos normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Respuesta plantar flexora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de Babinski positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Movimientos simétricos normales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tono disminuido en tronco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo de Babinski positivo indica compromiso piramidal en el sistema nervioso central."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial en un lactante con hipertonía secundaria a encefalopatía hipóxico-isquémica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisioterapia precoz y estimulación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de benzodiacepinas diarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmovilización prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fisioterapia y estimulación precoz son fundamentales para prevenir contracturas y mejorar el desarrollo motor."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de hipertonía se asocia a lesiones del sistema extrapiramidal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plástica o en rueda dentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flácida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espasmos clónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable con la posición"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertonía plástica o en rueda dentada se observa en lesiones extrapiramidales como las del núcleo lenticular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo sugiere hipertonía de origen central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiporreflexia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Babinski positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fasciculaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Debilidad distal exclusiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Babinski positivo es característico de lesión central con hipertonía espástica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es una manifestación frecuente del síndrome hipertónico en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotonía generalizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cabeza caída y flacidez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resistencia a la manipulación y llanto ante el movimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Movimientos amplios y descoordinados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de reflejos primitivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El recién nacido hipertónico muestra rigidez y resistencia al movimiento pasivo, con llanto fácil al ser manipulado."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué estructura está comprometida en la hipertonía espástica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Médula espinal anterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vías corticoespinales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nervios periféricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cerebelo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tronco encefálico inferior"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lesión de las vías corticoespinales origina hipertonía espástica de origen central."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué prueba de imagen es más útil para evaluar hipertonía de origen central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resonancia magnética cerebral permite identificar lesiones estructurales del sistema nervioso central asociadas a hipertonía."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué reflejo primitivo suele persistir en niños con hipertonía central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo de prensión palmar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo de succión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo de Moro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo tónico cervical asimétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo de búsqueda"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El reflejo tónico cervical asimétrico suele persistir más allá de la edad esperada en lesiones del SNC con hipertonía."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué signo clínico diferencia rigidez extrapiramidal de la espástica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de clonus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dependencia de la velocidad del movimiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tono constante durante toda la amplitud de movimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiporreflexia profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Debilidad distal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la rigidez extrapiramidal el tono es constante y no depende de la velocidad del movimiento."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué músculo suele afectarse primero en hipertonía espástica de extremidades inferiores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tibial anterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gastrocnemio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuádriceps"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isquiotibiales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glúteo mayor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El gastrocnemio suele presentar espasticidad precoz, generando equinismo en la marcha espástica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el objetivo principal de la rehabilitación en el síndrome hipertónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalizar el EEG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir contracturas y favorecer el control postural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar el reflejo de Babinski"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la sensibilidad táctil"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar el dolor crónico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La rehabilitación busca prevenir deformidades articulares y mejorar el control postural y la movilidad funcional."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tratamiento farmacológico puede considerarse en casos severos de espasticidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Baclofeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sertralina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceftriaxona"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El baclofeno actúa como agonista GABA-B, reduciendo la espasticidad en lesiones centrales graves."
+    }
+  ]
+}

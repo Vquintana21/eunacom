@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.005",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.005 - Embarazo con edad gestacional dudosa.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La principal dificultad clínica en un embarazo con edad gestacional dudosa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar riesgo de preeclampsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar la edad gestacional real para manejo obstétrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prevenir macrosomía fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar malformaciones congénitas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El problema central es establecer la edad gestacional precisa para orientar decisiones clínicas."
+    },
+    {
+      "numero": "2",
+      "texto": "El método más preciso para estimar edad gestacional en primer trimestre es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altura uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perímetro abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía con longitud céfalo-nalga (CRL)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palpación bimanual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fecha de último sangrado irregular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La longitud céfalo-nalga (CRL) es la medida ecográfica más precisa en primer trimestre."
+    },
+    {
+      "numero": "3",
+      "texto": "La ecografía del segundo trimestre estima la edad gestacional con un error aproximado de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "±1 semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "±2 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "±3 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "±4 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "±5 semanas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía de segundo trimestre tiene un error estimado de ±2 semanas."
+    },
+    {
+      "numero": "4",
+      "texto": "En embarazos con FUR incierta, la recomendación es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Utilizar siempre la fecha estimada por la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar la edad gestacional con ecografía precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esperar a la tercera ecografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducir el parto antes de 40 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Utilizar exclusivamente la altura uterina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cuando la FUR es incierta, la ecografía temprana es la herramienta de elección."
+    },
+    {
+      "numero": "5",
+      "texto": "La principal utilidad de la ecografía del tercer trimestre en edad gestacional dudosa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precisar con exactitud la edad gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar crecimiento fetal y bienestar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar sexo fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar malformaciones tempranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Predecir macrosomía con certeza"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el tercer trimestre la ecografía sirve más para valorar crecimiento y bienestar fetal."
+    },
+    {
+      "numero": "6",
+      "texto": "La discrepancia entre FUR confiable y ecografía de primer trimestre mayor a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "14 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si la diferencia es mayor a 7 días, se ajusta la edad gestacional según ecografía."
+    },
+    {
+      "numero": "7",
+      "texto": "La altura uterina como parámetro de edad gestacional es confiable entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "8-12 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12-20 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "20-34 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "34-40 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "En cualquier momento"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La altura uterina se correlaciona mejor con edad gestacional entre 20 y 34 semanas."
+    },
+    {
+      "numero": "8",
+      "texto": "Un embarazo con edad gestacional dudosa implica mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Errores en diagnóstico de crecimiento fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Preeclampsia precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta acreta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oligohidramnios temprano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aborto recurrente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El principal riesgo es error en interpretación del crecimiento fetal y decisiones clínicas."
+    },
+    {
+      "numero": "9",
+      "texto": "En caso de edad gestacional dudosa y sospecha de postérmino, la conducta es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esperar hasta 43 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confirmar con ecografía y decidir inducción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Realizar cesárea de inmediato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender controles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar maduración pulmonar fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se confirma con ecografía y se decide inducción si hay riesgo de postérmino."
+    },
+    {
+      "numero": "10",
+      "texto": "Un marcador ecográfico de mayor precisión en segundo trimestre es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perímetro abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Longitud del fémur"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diámetro biparietal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Altura uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Liquido amniótico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diámetro biparietal y la longitud femoral son parámetros útiles en segundo trimestre."
+    },
+    {
+      "numero": "11",
+      "texto": "El control de bienestar fetal en embarazos con edad dudosa debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monitoreo no estresante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amniocentesis rutinaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de tolerancia a oxitocina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma mensual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cariotipo fetal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El monitoreo no estresante es útil para vigilancia fetal en edad gestacional dudosa."
+    },
+    {
+      "numero": "12",
+      "texto": "Un embarazo con edad gestacional incierta puede llevar a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Interrupciones innecesarias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Errores en indicación de corticoides prenatales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Errores en decisión de vía de parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La edad gestacional incierta puede generar múltiples errores clínicos y decisiones inapropiadas."
+    },
+    {
+      "numero": "13",
+      "texto": "En un embarazo con FUR incierta y ecografía tardía, se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Utilizar la fecha probable de parto calculada con ecografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Siempre usar FUR aunque sea incierta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Decidir según peso fetal estimado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducir parto a las 37 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "No establecer edad gestacional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En ausencia de FUR confiable, se utiliza la estimación ecográfica para establecer edad gestacional."
+    },
+    {
+      "numero": "14",
+      "texto": "La mejor estrategia para evitar embarazos de edad gestacional dudosa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Realizar ecografía precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir altura uterina desde el primer mes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar ecografía sólo en tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basarse en movimientos fetales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcular edad con peso materno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ecografía precoz es la mejor forma de establecer con certeza la edad gestacional."
+    },
+    {
+      "numero": "15",
+      "texto": "Si la diferencia entre ecografía de segundo trimestre y FUR es mayor de 10 días:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se mantiene la FUR"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se ajusta edad según ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se considera embarazo de alto riesgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se repite ecografía al mes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se solicita resonancia fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En discrepancias mayores a 10 días en segundo trimestre se ajusta edad gestacional según ecografía."
+    },
+    {
+      "numero": "16",
+      "texto": "En contextos de edad gestacional dudosa, el uso de corticoides prenatales debe basarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edad estimada con ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Número de gestaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Altura uterina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se deben administrar corticoides considerando la edad gestacional estimada ecográficamente."
+    },
+    {
+      "numero": "17",
+      "texto": "En embarazos postérmino con edad dudosa se indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monitoreo fetal y considerar inducción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta sin controles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de tocolíticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía morfológica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En sospecha de postérmino con edad dudosa se recomienda vigilancia intensiva y posible inducción."
+    },
+    {
+      "numero": "18",
+      "texto": "El error en la estimación de edad gestacional en tercer trimestre es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "±1 semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "±2 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "±3 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "±4 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "±5 semanas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ecografía en tercer trimestre tiene error amplio, alrededor de ±3-4 semanas."
+    },
+    {
+      "numero": "19",
+      "texto": "El control de embarazos con edad dudosa requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Monitoreo fetal más frecuente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea programada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de controles prenatales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar ecografías repetidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso exclusivo de palpación abdominal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se recomienda aumentar vigilancia fetal en embarazos con edad gestacional incierta."
+    }
+  ]
+}

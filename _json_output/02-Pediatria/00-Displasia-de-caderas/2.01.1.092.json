@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.092",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Displasia de caderas",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la displasia del desarrollo de la cadera (DDC)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desgaste articular en adolescentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Luxación congénita permanente de la cadera"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración del desarrollo anatómico de la cadera que abarca desde inestabilidad hasta luxación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión traumática del acetábulo neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secuela postinfecciosa de la cadera"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La DDC incluye un espectro de alteraciones del desarrollo que van desde la inestabilidad hasta la luxación completa."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes es un factor de riesgo conocido para DDC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sexo masculino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presentación podálica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea programada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrosomía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presentación podálica aumenta la incidencia de displasia de caderas por presión mecánica intrauterina."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué maniobra clínica se utiliza para detectar una cadera luxable en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de Ortolani"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de Galeazzi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Barlow"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Allis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Gowers"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La maniobra de Barlow detecta una cadera que puede luxarse con presión posterior del fémur."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué maniobra confirma la reducción de una cadera luxada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de Barlow"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de Trendelenburg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Ortolani"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Thomas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Allis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La maniobra de Ortolani confirma la reducción de una cadera previamente luxada mediante abducción y presión anterior."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el hallazgo clínico más característico en un lactante con DDC unilateral no diagnosticada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Limitación de la flexión de cadera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Limitación de la abducción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor intenso a la movilización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de rotación interna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de rotación externa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La limitación de la abducción es el signo más sensible en DDC unilateral después del período neonatal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué examen se recomienda para el diagnóstico de DDC en menores de 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de pelvis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía de caderas"
+        },
+        {
+          "opcion": "C",
+          "texto": "RMN de caderas"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de pelvis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Artrografía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía permite evaluar la morfología y estabilidad de la cadera en lactantes menores de 6 meses."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo radiográfico indica DDC en mayores de 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del ángulo acetabular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la densidad ósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la línea de Shenton"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alineación normal del fémur"
+        },
+        {
+          "opcion": "E",
+          "texto": "Luxación posterior del acetábulo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento del ángulo acetabular y la interrupción de la línea de Shenton sugieren displasia o luxación."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué sexo se afecta con mayor frecuencia en la displasia de caderas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masculino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Femenino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Igualmente en ambos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende del tipo de parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "No hay diferencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La DDC es seis veces más frecuente en niñas que en niños."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué dispositivo ortopédico se usa para el tratamiento inicial de la DDC en lactantes menores de 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Férula de Dennis Brown"
+        },
+        {
+          "opcion": "B",
+          "texto": "Yeso pelvipédico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arnés de Pavlik"
+        },
+        {
+          "opcion": "D",
+          "texto": "Faja pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ortesis de Milgram"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El arnés de Pavlik mantiene la cadera en flexión y abducción favoreciendo la reducción espontánea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación puede ocurrir con un uso incorrecto del arnés de Pavlik?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Luxación posterior de cadera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis avascular de la cabeza femoral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez articular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia del glúteo medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del arco de movilidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso inadecuado del arnés de Pavlik puede comprometer la irrigación femoral, causando necrosis avascular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico se observa en DDC bilateral no diagnosticada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cojera unilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de Galeazzi positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lordosis lumbar acentuada y marcha balanceante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asimetría de pliegues glúteos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Luxación posterior aislada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La displasia bilateral se manifiesta con hiperlordosis y marcha de pato por inestabilidad pélvica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué prueba clínica sugiere DDC cuando una rodilla parece más baja al flexionar ambas caderas y rodillas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ortolani"
+        },
+        {
+          "opcion": "B",
+          "texto": "Barlow"
+        },
+        {
+          "opcion": "C",
+          "texto": "Galeazzi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trendelenburg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Thomas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo de Galeazzi indica dismetría aparente por desplazamiento superior del fémur en la cadera luxada."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tratamiento se indica cuando el diagnóstico se realiza después de los 6 meses y el arnés fracasa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Yeso pelvipédico tras reducción cerrada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación clínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia física exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso prolongado del arnés de Pavlik"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía inmediata"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Entre 6 y 18 meses, la reducción cerrada y yeso pelvipédico son la terapia estándar si el arnés falla."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué signo clínico es menos específico de displasia de cadera?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asimetría de pliegues glúteos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Limitación de abducción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo de Galeazzi positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maniobra de Ortolani positiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cojera al iniciar la marcha"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La asimetría de pliegues glúteos es poco específica y puede observarse en lactantes sanos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué línea radiográfica se utiliza para evaluar la posición del núcleo femoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Línea de Perkins"
+        },
+        {
+          "opcion": "B",
+          "texto": "Línea de Shenton"
+        },
+        {
+          "opcion": "C",
+          "texto": "Línea de Hilgenreiner"
+        },
+        {
+          "opcion": "D",
+          "texto": "Línea de Calvé"
+        },
+        {
+          "opcion": "E",
+          "texto": "Línea de Hensinger"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La línea de Perkins, perpendicular a la de Hilgenreiner, ayuda a ubicar la cabeza femoral dentro del cuadrante acetabular."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo ecográfico sugiere una cadera displásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ángulo alfa mayor de 60°"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ángulo alfa menor de 60°"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cabeza femoral centrada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acetábulo profundo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cartílago bien cubierto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un ángulo alfa menor de 60° indica acetábulo poco profundo y riesgo de displasia."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la principal complicación de una DDC no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Necrosis femoral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coxa valga"
+        },
+        {
+          "opcion": "C",
+          "texto": "Artrosis precoz de cadera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Luxación contralateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección articular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La artrosis precoz es la principal consecuencia de una DDC no diagnosticada o tratada tardíamente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué método de pesquisa se recomienda en Chile para detectar DDC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía universal al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía universal de caderas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Examen físico sistemático y ecografía dirigida en grupos de riesgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo control radiográfico al año"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen físico a los 6 meses únicamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda pesquisa clínica en todos los recién nacidos y ecografía dirigida en casos de riesgo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué maniobra debe evitarse en el manejo de DDC para prevenir necrosis femoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abducción forzada de las caderas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flexión leve de cadera"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción cerrada bajo anestesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmovilización pelvipédica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitoreo ecográfico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La abducción forzada compromete la irrigación epifisaria y aumenta el riesgo de necrosis avascular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de DDC bilateral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sexo femenino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presentación cefálica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotonía neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antecedente familiar de DDC"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La DDC tiene un fuerte componente genético y el antecedente familiar eleva significativamente el riesgo bilateral."
+    }
+  ]
+}

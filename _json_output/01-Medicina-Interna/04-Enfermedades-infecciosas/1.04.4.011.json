@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del examen parasitológico de deposiciones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar bacterias patógenas intestinales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar huevos, larvas o formas parasitarias en heces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar el contenido lipídico fecal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar infecciones virales intestinales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar leucocitos fecales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen parasitológico busca detectar e identificar formas evolutivas de parásitos presentes en las deposiciones."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué método se utiliza comúnmente para la concentración de parásitos en deposiciones?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Técnica de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Método de Kato-Katz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Técnica de Ritchie o formol-éter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinción de Ziehl-Neelsen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Método de Lowenstein-Jensen"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La técnica de Ritchie permite concentrar huevos, larvas y quistes por sedimentación con formol y éter."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué forma parasitaria de Entamoeba histolytica se observa en deposiciones diarreicas frescas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quistes maduros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quistes inmaduros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trofozoítos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esporas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Larvas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En las heces diarreicas se observan trofozoítos móviles de Entamoeba histolytica, su forma activa patógena."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué técnica permite observar quistes y trofozoítos de protozoos en muestras frescas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Examen directo con solución salina y lugol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo en agar sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de ELISA fecal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunofluorescencia indirecta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El examen directo con solución salina y lugol permite visualizar quistes y trofozoítos en heces frescas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué muestra es ideal para el diagnóstico de Giardia lamblia por examen parasitológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sangre periférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido cefalorraquídeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heces frescas o recién emitidas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Orina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esputo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Giardia lamblia se diagnostica observando quistes o trofozoítos en heces recién emitidas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué colorante se utiliza en el lugol para resaltar estructuras internas de quistes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cristal violeta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Safranina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Verde malaquita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azul de metileno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El lugol contiene yodo, que tiñe estructuras internas de quistes, facilitando su identificación microscópica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuántas muestras de deposiciones se recomienda analizar para aumentar la sensibilidad diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una muestra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dos muestras consecutivas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tres muestras en días alternos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cinco muestras en una semana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siete muestras diarias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda analizar tres muestras en días alternos, debido a la eliminación intermitente de parásitos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de parásito se identifica mejor mediante la técnica de Kato-Katz?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Protozoos intestinales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Helmintos intestinales (huevos)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microsporidios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cryptosporidium spp."
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La técnica de Kato-Katz permite cuantificar huevos de helmintos como Ascaris, Trichuris y anquilostomas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué agente causal produce huevos con espículas laterales visibles en heces?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Schistosoma mansoni"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia saginata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Schistosoma mansoni produce huevos con una espina lateral característica observables en el examen parasitológico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué método se utiliza para detectar Strongyloides stercoralis en heces?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Técnica de Baermann"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen directo en lugol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Ziehl-Neelsen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Método de Graham"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo en agar chocolate"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La técnica de Baermann permite la detección de larvas móviles de Strongyloides stercoralis en heces frescas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estructura se busca en el diagnóstico de Enterobius vermicularis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quistes en heces"
+        },
+        {
+          "opcion": "B",
+          "texto": "Huevos en región perianal mediante método de Graham"
+        },
+        {
+          "opcion": "C",
+          "texto": "Larvas en orina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trofozoítos en saliva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Huevos en sangre periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Enterobius vermicularis se diagnostica buscando huevos en cinta adhesiva colocada en la región perianal (método de Graham)."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué helminto se caracteriza por huevos con tapones polares visibles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ancylostoma duodenale"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taenia solium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Strongyloides stercoralis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Trichuris trichiura presenta huevos con tapones en ambos polos, fácilmente identificables al microscopio."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de muestra se utiliza para diagnosticar Cryptosporidium spp.?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heces concentradas y teñidas con Ziehl-Neelsen modificada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orina centrifugada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sangre periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspirado gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hisopado faríngeo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Cryptosporidium spp. se detecta en heces mediante tinción ácido-alcohol resistente modificada (Ziehl-Neelsen)."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parásito produce proglótidos visibles a simple vista en las heces?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taenia saginata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancylostoma duodenale"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Taenia saginata elimina proglótidos móviles observables a simple vista en las heces o ropa interior."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué medida debe tomarse para conservar las muestras si no pueden analizarse de inmediato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mantenerlas a 4°C o usar fijadores como formol al 10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exponerlas al sol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diluir en agua corriente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secarlas a temperatura ambiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Congelarlas a -20°C"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las muestras deben conservarse refrigeradas o fijadas en formol para evitar la desintegración de los parásitos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué helminto produce huevos ovalados con cubierta delgada y contenido segmentado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ancylostoma duodenale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taenia solium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterobius vermicularis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ancylostoma duodenale produce huevos ovalados, delgados y con blastómeros segmentados visibles al microscopio."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica microscópica distingue los huevos de Taenia solium de Taenia saginata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No pueden diferenciarse morfológicamente al microscopio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solium presenta espinas en la cáscara"
+        },
+        {
+          "opcion": "C",
+          "texto": "Saginata es más pequeña"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solium tiene tapones polares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saginata tiene cápsula doble"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los huevos de Taenia solium y saginata son morfológicamente indistinguibles; se diferencian por los proglótidos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parásito intestinal se asocia con la eliminación intermitente de quistes, lo que requiere múltiples muestras?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entamoeba coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trichuris trichiura"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Giardia lamblia elimina quistes de forma intermitente, por lo que se recomienda analizar varias muestras seriadas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo microscópico permite diferenciar Entamoeba histolytica de Entamoeba coli?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Número de núcleos en quistes maduros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de espinas en la pared"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración con Gram"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamaño de los trofozoítos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Movimiento flagelado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Entamoeba histolytica presenta quistes con hasta cuatro núcleos, mientras E. coli puede tener hasta ocho."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué precaución debe tomarse al manipular muestras fecales en el laboratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar guantes, mascarilla y trabajar bajo campana biológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Manipularlas sin protección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agregar cloro directamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calentar antes del examen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Refrigerar sin tapa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las muestras fecales deben manipularse con guantes, mascarilla y protección para evitar infecciones por bioaerosoles."
+    }
+  ]
+}

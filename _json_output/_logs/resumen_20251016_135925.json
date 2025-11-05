@@ -1,0 +1,12 @@
+{
+  "timestamp": "20251016_135925",
+  "estadisticas": {
+    "archivos_procesados": 1286,
+    "archivos_error": 0,
+    "archivos_huerfanos": 0,
+    "temas_completados": 643
+  },
+  "errores": 0,
+  "advertencias": 0,
+  "exitosos": 643
+}

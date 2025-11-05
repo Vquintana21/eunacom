@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué lipoproteína se asocia más estrechamente con el riesgo de aterosclerosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quilomicrones"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoA-I"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las LDL transportan colesterol hacia los tejidos periféricos y su exceso favorece la formación de placas ateroscleróticas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal objetivo terapéutico en el tratamiento de las dislipidemias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar colesterol total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir VLDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Reducir las concentraciones de LDL es la meta principal ya que son las más relacionadas con enfermedad cardiovascular ateroesclerótica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el mecanismo de acción de las estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhiben la lipasa hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimulan la síntesis de HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhiben la HMG-CoA reductasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloquean la absorción intestinal de colesterol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhiben la apolipoproteína B"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las estatinas inhiben la HMG-CoA reductasa, enzima clave en la síntesis hepática de colesterol."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes condiciones causa dislipidemia secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artritis reumatoide"
+        },
+        {
+          "opcion": "E",
+          "texto": "Migraña"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hipotiroidismo reduce la depuración de LDL y eleva el colesterol total, siendo causa frecuente de dislipidemia secundaria."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué efecto tiene la niacina en el perfil lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta LDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta HDL y disminuye triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta VLDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye colesterol total pero no LDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La niacina aumenta el HDL y disminuye los triglicéridos y LDL, mejorando el perfil lipídico global."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el valor normal deseable de colesterol LDL en prevención primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<160 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<200 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En prevención primaria se considera deseable mantener el LDL por debajo de 130 mg/dL."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de dislipidemia se asocia con pancreatitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrigliceridemia severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoalfalipoproteinemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipidemia combinada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dislipidemia mixta leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los triglicéridos mayores a 1000 mg/dL pueden inducir pancreatitis aguda debido al daño endotelial y lipotoxicidad."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes fármacos inhibe la absorción intestinal de colesterol?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ezetimiba"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fenofibrato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niacina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colestiramina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ezetimiba bloquea la absorción intestinal de colesterol en el borde en cepillo del intestino delgado."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la lipoproteína protectora frente a enfermedad cardiovascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "IDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoB"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las HDL retiran el colesterol de los tejidos periféricos y lo llevan al hígado, ejerciendo efecto antiaterogénico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué mutación causa la hipercolesterolemia familiar clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mutación del receptor LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mutación de la ApoA-I"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de lipoproteína lipasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mutación del gen ABCA1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutación del receptor HDL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipercolesterolemia familiar se debe a mutaciones del gen del receptor LDL, con aumento de LDL plasmáticas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes parámetros NO forma parte del perfil lipídico básico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apolipoproteína CIII"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El perfil lipídico estándar incluye colesterol total, HDL, LDL y triglicéridos, pero no apolipoproteínas específicas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué efecto secundario importante puede presentar el uso de estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miopatía y aumento de CPK"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutropenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las estatinas pueden producir miopatía y elevación de CPK por alteración en la síntesis de coenzima Q10."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el mecanismo de acción de los fibratos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimulan la lipoproteína lipasa y reducen triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhiben la HMG-CoA reductasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuyen la absorción intestinal de grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentan la secreción de bilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhiben la oxidación de ácidos grasos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los fibratos activan PPAR-α, aumentando la actividad de lipoproteína lipasa y reduciendo triglicéridos plasmáticos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal efecto del ejercicio físico sobre el perfil lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta HDL y reduce triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta colesterol total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eleva VLDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ejercicio regular eleva el HDL y disminuye los triglicéridos, contribuyendo al control lipídico y cardiovascular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué marcador se asocia a riesgo cardiovascular residual pese a LDL normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ApoA-I elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lp(a) elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Triglicéridos bajos"
+        },
+        {
+          "opcion": "E",
+          "texto": "ApoB baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lipoproteína(a) elevada se asocia con mayor riesgo cardiovascular incluso con LDL normales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué valor de triglicéridos se considera hipertrigliceridemia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">200 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": ">300 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">500 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">700 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">1000 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertrigliceridemia severa se define con niveles de triglicéridos mayores de 500 mg/dL, con riesgo de pancreatitis."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la recomendación inicial no farmacológica en dislipidemia leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta rica en omega-3 y ejercicio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta cetogénica estricta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restricción hídrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento inicial incluye dieta hipograsa, rica en omega-3, y ejercicio regular antes de iniciar farmacoterapia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué fármaco se utiliza como alternativa en intolerancia a estatinas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ezetimiba"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenofibrato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colestiramina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niacina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gemfibrozilo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ezetimiba se usa en pacientes con intolerancia a estatinas o en combinación para mejorar el control del LDL."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes es una dislipidemia primaria monogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia familiar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperlipidemia combinada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoalfalipoproteinemia adquirida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislipidemia mixta secundaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertrigliceridemia alcohólica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipercolesterolemia familiar se hereda de forma autosómica dominante por mutaciones en el receptor de LDL."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el efecto de las resinas de intercambio iónico en el tratamiento de dislipidemias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuyen LDL al unirse a ácidos biliares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuyen triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhiben la absorción intestinal de lípidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloquean la síntesis de colesterol endógeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las resinas como colestiramina se unen a los ácidos biliares e impiden su reabsorción, reduciendo LDL plasmática."
+    }
+  ]
+}

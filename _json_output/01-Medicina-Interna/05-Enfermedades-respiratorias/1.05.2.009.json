@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.2.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué define a la insuficiencia respiratoria aguda que no requiere ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia leve que mejora con oxigenoterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercapnia severa con acidosis descompensada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apnea recurrente con bradicardia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colapso alveolar difuso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock respiratorio con hipoxia refractaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La insuficiencia respiratoria leve o moderada puede manejarse con oxigenoterapia y tratamiento de la causa sin necesidad de ventilación mecánica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el valor de PaO2 que indica insuficiencia respiratoria leve o moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2 > 100 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO2 entre 60 y 80 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2 < 40 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO2 > 90 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO2 < 30 mmHg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una PaO2 entre 60-80 mmHg refleja hipoxemia leve o moderada que puede responder a oxigenoterapia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal objetivo del tratamiento en la insuficiencia respiratoria sin ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mantener la PaO2 > 60 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la pCO2 a cero"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar el uso de oxígeno suplementario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducir hiperventilación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento busca mantener la oxigenación arterial adecuada (PaO2 > 60 mmHg) mediante oxigenoterapia y manejo etiológico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes es un signo clínico temprano de insuficiencia respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquipnea y uso de músculos accesorios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somnolencia profunda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La taquipnea y el uso de músculos accesorios son signos iniciales de dificultad respiratoria compensada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué medida inicial se recomienda en insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxigenoterapia controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intubación inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticoagulación sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La oxigenoterapia controlada es la primera medida en la insuficiencia respiratoria leve o moderada."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes causas puede generar insuficiencia respiratoria aguda sin requerir ventilación mecánica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis asmática leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paro cardiorrespiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trauma torácico penetrante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de distrés respiratorio severo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una crisis asmática leve puede producir hipoxemia reversible con broncodilatadores y oxígeno sin requerir ventilación asistida."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué modalidad de oxigenoterapia se utiliza habitualmente en insuficiencia respiratoria moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cánula nasal de bajo flujo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mascarilla Venturi o de alto flujo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bolsa autoinflable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tubo orotraqueal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traqueostomía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las mascarillas Venturi o de alto flujo permiten suministrar concentraciones controladas de oxígeno en hipoxemias moderadas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la saturación de oxígeno objetivo en pacientes con insuficiencia respiratoria crónica reagudizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "88-92%"
+        },
+        {
+          "opcion": "C",
+          "texto": "94-98%"
+        },
+        {
+          "opcion": "D",
+          "texto": "75-80%"
+        },
+        {
+          "opcion": "E",
+          "texto": "85-87%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En pacientes con EPOC o retención de CO2, la saturación objetivo es 88-92% para evitar depresión respiratoria."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué fármaco está indicado en una reagudización de EPOC con hipoxemia leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salbutamol inhalado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heparina intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amlodipino oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Furosemida intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Propofol intravenoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El salbutamol inhalado actúa como broncodilatador rápido y mejora la ventilación en la EPOC reagudizada leve."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tipo de insuficiencia respiratoria más frecuente en neumonía adquirida en la comunidad leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tipo I (hipoxémica)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo II (hipercápnica)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tipo III (postoperatoria)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo IV (por shock)"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La neumonía leve genera hipoxemia con ventilación conservada, característica de insuficiencia respiratoria tipo I."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo gasométrico es compatible con insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH 7.20, pCO2 80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH 7.40, pCO2 45 mmHg, PaO2 65 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH 7.10, pCO2 100 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH 7.60, pCO2 20 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH 7.25, pCO2 70 mmHg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una PaO2 de 65 mmHg indica hipoxemia leve con compensación adecuada del pH y pCO2 normales."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro clínico indica respuesta favorable al tratamiento en insuficiencia respiratoria aguda leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento progresivo de la disnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de la frecuencia respiratoria y mejoría de la SpO2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Somnolencia y bradipnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Persistencia de hipoxemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis progresiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución de la disnea y la mejoría de la saturación indican una respuesta adecuada al tratamiento inicial."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué fármaco está indicado en el edema agudo de pulmón con insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heparina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspirina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clonazepam"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La furosemida reduce la congestión pulmonar al disminuir la precarga y favorecer la diuresis."
+    },
+    {
+      "numero": "14",
+      "texto": "En insuficiencia respiratoria sin indicación de ventilación, la oxigenoterapia debe iniciarse cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SpO2 < 92%"
+        },
+        {
+          "opcion": "B",
+          "texto": "SpO2 > 97%"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2 > 80 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "SpO2 < 70%"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO2 > 100 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Cuando la saturación es menor de 92% se indica oxígeno suplementario para mantener adecuada oxigenación tisular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de las siguientes NO es causa de insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "EPOC leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de distrés respiratorio agudo severo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia con hipoxia tisular"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El SDRA severo cursa con hipoxemia refractaria que requiere ventilación mecánica, no manejo conservador."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la complicación más frecuente de la oxigenoterapia no controlada en EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercapnia y acidosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocapnia severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar agudo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En pacientes con hipercapnia crónica, el exceso de oxígeno puede deprimir el estímulo respiratorio y agravar la retención de CO2."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el tratamiento más importante en una crisis asmática leve con hipoxemia moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncodilatadores inhalados y oxigenoterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides sistémicos en bolo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Furosemida intravenosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los broncodilatadores y oxigenoterapia controlada son la base del tratamiento de la crisis asmática leve."
+    },
+    {
+      "numero": "18",
+      "texto": "En una insuficiencia respiratoria leve, el signo de hipoxia tisular más precoz es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración del sensorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La taquicardia es una respuesta inicial compensatoria para aumentar el transporte de oxígeno tisular."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué método se utiliza para evaluar la eficacia del tratamiento en insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasometría arterial seriada y saturación por oximetría"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "ECG cada hora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El seguimiento con gasometría y oximetría permite valorar la evolución de la oxigenación y ventilación."
+    },
+    {
+      "numero": "20",
+      "texto": "En la insuficiencia respiratoria crónica reagudizada, la causa más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición aguda a tóxicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección respiratoria o bronquitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trauma torácico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tromboembolismo pulmonar masivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colapso alveolar extenso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones respiratorias son la principal causa de reagudización en la insuficiencia respiratoria crónica."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué medida general debe acompañar el tratamiento de la insuficiencia respiratoria leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rehabilitación respiratoria y fisioterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ayuno absoluto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diálisis preventiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticoagulación empírica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fisioterapia respiratoria y rehabilitación mejoran la mecánica ventilatoria y la capacidad funcional del paciente."
+    }
+  ]
+}

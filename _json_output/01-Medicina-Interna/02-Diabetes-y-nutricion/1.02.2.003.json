@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.2.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica principal del coma hiperosmolar diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis metabólica grave con cetonemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia severa con osmolaridad plasmática elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia sintomática con pérdida de conciencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acumulación de cuerpos cetónicos en sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopotasemia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El coma hiperosmolar se caracteriza por hiperglucemia extrema y deshidratación sin acidosis significativa."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de pacientes presentan con mayor frecuencia coma hiperosmolar diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños con diabetes tipo 1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adultos jóvenes con DM1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ancianos con diabetes tipo 2"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con hipertiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazadas con DM gestacional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El coma hiperosmolar afecta principalmente a adultos mayores con diabetes tipo 2 mal controlada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el valor típico de glucemia en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<200 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "250–400 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "400–600 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">600 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se eleva la glucemia"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El coma hiperosmolar cursa con glucemias usualmente mayores de 600 mg/dL debido a déficit parcial de insulina."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el rango de osmolaridad plasmática que define el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">280 mOsm/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": ">300 mOsm/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": ">320 mOsm/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": ">350 mOsm/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": ">400 mOsm/kg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera hiperosmolaridad significativa cuando la osmolaridad plasmática supera los 320 mOsm/kg."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué factor precipitante es más común en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta hipocalórica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo de alcohol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones aumentan las hormonas contrarreguladoras, incrementando la resistencia a la insulina y la glucemia."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la diferencia fundamental entre el coma hiperosmolar y la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El coma hiperosmolar tiene cetonemia marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "La cetoacidosis presenta mayor osmolaridad"
+        },
+        {
+          "opcion": "C",
+          "texto": "El coma hiperosmolar no presenta acidosis significativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ambas tienen el mismo mecanismo fisiopatológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "El coma hiperosmolar afecta solo a niños"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El coma hiperosmolar se diferencia por la ausencia o leve cetonemia y acidosis metabólica mínima."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo gasométrico caracteriza el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH <7.0 y bicarbonato <10 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH >7.3 y bicarbonato >18 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH <7.1 con lactato elevado"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH normal con anión gap alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el coma hiperosmolar el pH y el bicarbonato se mantienen normales o levemente alterados."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el principal mecanismo de deshidratación en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuresis osmótica por hiperglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida gastrointestinal de líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sudoración profusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia produce diuresis osmótica con pérdida masiva de agua y electrolitos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué síntoma neurológico puede presentarse en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsiones y alteración del nivel de conciencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ataxia cerebelosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temblores finos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez muscular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperosmolaridad y la deshidratación cerebral pueden causar convulsiones y coma."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la prioridad terapéutica inicial en el manejo del coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar bicarbonato intravenoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar insulina de acción rápida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restaurar el volumen con solución salina isotónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dar líquidos hipotónicos de inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar potasio sin control previo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La reposición con solución salina isotónica corrige la deshidratación y mejora la perfusión tisular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué nivel de cetonas se espera encontrar en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevado en sangre y orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moderadamente aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausente o muy leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Extremadamente alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según el pH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El coma hiperosmolar cursa con cetonemia leve o ausente debido a la presencia de insulina suficiente para inhibir la lipólisis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué alteración electrolítica es común en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia por dilución"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipernatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipokalemia severa inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipomagnesemia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida de agua libre genera hipernatremia y deshidratación celular significativa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de insulina se usa durante el tratamiento del coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina NPH subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina glargina subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina regular intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina lispro subcutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina degludec oral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La insulina regular intravenosa permite reducir gradualmente la glucemia y evitar descensos bruscos de osmolaridad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué complicación puede producirse si la osmolaridad desciende demasiado rápido durante el tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión intracraneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colapso circulatorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La corrección rápida de la osmolaridad puede causar edema cerebral, especialmente en pacientes ancianos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la mortalidad aproximada asociada al coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<1%"
+        },
+        {
+          "opcion": "B",
+          "texto": "2–5%"
+        },
+        {
+          "opcion": "C",
+          "texto": "5–10%"
+        },
+        {
+          "opcion": "D",
+          "texto": "10–20%"
+        },
+        {
+          "opcion": "E",
+          "texto": ">20%"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La mortalidad supera el 20% debido a la edad avanzada y las comorbilidades de los pacientes afectados."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo clínico distingue al coma hiperosmolar del estado hipoglucémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de sudoración profusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión arterial elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación intensa con piel seca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia y miosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Convulsiones tónicas leves"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el coma hiperosmolar se observa deshidratación grave con mucosas secas y pérdida de turgencia cutánea."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué valor de pH se espera encontrar en el coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<7.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "7.0–7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "7.25–7.30"
+        },
+        {
+          "opcion": "D",
+          "texto": ">7.30"
+        },
+        {
+          "opcion": "E",
+          "texto": ">7.45"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El pH suele ser mayor de 7.30 ya que la acidosis metabólica significativa está ausente o es leve."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro clínico es fundamental para monitorizar la evolución del tratamiento del coma hiperosmolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH sanguíneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osmolaridad sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetonuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bicarbonato plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La osmolaridad sérica debe monitorizarse para evitar descensos rápidos que puedan causar edema cerebral."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo puede observarse en el ECG de un paciente con coma hiperosmolar y alteraciones electrolíticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas T picudas por hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segmento ST elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las alteraciones del potasio sérico, como hiperkalemia, pueden manifestarse con ondas T picudas en el ECG."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida debe adoptarse cuando la glucemia desciende a 250 mg/dL durante el tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agregar dextrosa a la solución intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la dosis de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar bicarbonato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Al bajar la glucemia a 250 mg/dL, se agrega dextrosa para evitar hipoglucemia y reducir la osmolaridad lentamente."
+    }
+  ]
+}

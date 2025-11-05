@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.003",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Ecotomografía abdominal",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal ventaja de la ecotomografía abdominal en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta radiación ionizante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baja resolución de tejidos blandos"
+        },
+        {
+          "opcion": "C",
+          "texto": "No utiliza radiación y permite evaluación dinámica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Requiere sedación en todos los casos"
+        },
+        {
+          "opcion": "E",
+          "texto": "No permite evaluar órganos sólidos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecotomografía es inocua, sin radiación y permite evaluar en tiempo real órganos abdominales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el estudio inicial ante una masa abdominal palpable en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de abdomen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecotomografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colon por enema"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía es el estudio inicial por su seguridad y capacidad para distinguir entre lesiones sólidas y quísticas."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo ecográfico de una masa sólida heterogénea suprarrenal en un lactante sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nefroblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neuroblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatoblastoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste mesentérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El neuroblastoma suele originarse en glándula suprarrenal y es heterogéneo, con posible calcificación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el signo ecográfico más característico de la apendicitis aguda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apendice compresible menor de 4 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apendice no compresible mayor de 6 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la ecogenicidad hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de gas en la luz apendicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de líquido libre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un apéndice no compresible mayor de 6 mm con líquido periapendicular indica apendicitis aguda."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo de la diana en ecografía abdominal es típico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstrucción intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ileo adinámico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peritonitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La invaginación muestra un patrón en capas concéntricas o signo de la diana en corte transversal."
+    },
+    {
+      "numero": "6",
+      "texto": "La presencia de líquido libre en cavidad abdominal al ultrasonido sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estado postprandial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo inespecífico de patología abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción intestinal alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estructura vascular normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apendicitis perforada o peritonitis"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El líquido libre es un hallazgo patológico que sugiere inflamación o perforación intestinal."
+    },
+    {
+      "numero": "7",
+      "texto": "En la ecografía, un quiste simple hepático se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contenido ecogénico heterogéneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pared gruesa e irregular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión anecoica con refuerzo posterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de gas interno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sombra acústica posterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los quistes simples son anecoicos, de paredes delgadas y muestran refuerzo acústico posterior."
+    },
+    {
+      "numero": "8",
+      "texto": "En un niño con ictericia, la ecografía muestra dilatación de vías biliares intrahepáticas. Esto sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Litiasis coledociana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia hepática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación de vías biliares sugiere obstrucción distal como litiasis coledociana o estenosis."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el método diagnóstico de elección en sospecha de invaginación intestinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecotomografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colon por enema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía es el método más sensible y específico para diagnosticar invaginación intestinal."
+    },
+    {
+      "numero": "10",
+      "texto": "La ecografía renal en el síndrome nefrótico muestra típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñones pequeños hiperecogénicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñones agrandados con ecogenicidad cortical aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistes múltiples bilaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificaciones medulares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de flujo renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome nefrótico se asocia a riñones aumentados de tamaño y aumento de ecogenicidad cortical."
+    },
+    {
+      "numero": "11",
+      "texto": "El hallazgo de múltiples imágenes anecoicas en el bazo sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematoma subcapsular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Abscesos esplénicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infarto esplénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quistes hidatídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperesplenismo"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las lesiones anecoicas múltiples en bazo pueden corresponder a quistes hidatídicos."
+    },
+    {
+      "numero": "12",
+      "texto": "En el trauma abdominal cerrado pediátrico, el examen de elección inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecotomografía abdominal (FAST)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de abdomen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Laparoscopía diagnóstica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía FAST permite detectar rápidamente líquido libre o lesiones viscerales sin irradiar al paciente."
+    },
+    {
+      "numero": "13",
+      "texto": "Un hallazgo de pelvis renal dilatada sin adelgazamiento parenquimatoso corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidronefrosis leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pielonefritis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción ureteral severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñón poliquístico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso renal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dilatación de la pelvis renal sin daño parenquimatoso es hidronefrosis leve, de causa obstructiva o funcional."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo ecográfico orienta a una apendicitis perforada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apendice compresible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apendice <6 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colección líquida periapendicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de líquido libre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento parietal gástrico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una colección líquida o absceso periapendicular sugiere perforación apendicular."
+    },
+    {
+      "numero": "15",
+      "texto": "El signo ecográfico de la pseudorrueda se observa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatoblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apendicitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absceso hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernia inguinal incarcerada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pseudorrueda es el aspecto longitudinal de la invaginación intestinal en ecografía."
+    },
+    {
+      "numero": "16",
+      "texto": "La presencia de un bazo homogéneo con cápsula íntegra en un traumatismo abdominal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ruptura esplénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión grado I o sin daño significativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematoma intraparenquimatoso severo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoperitoneo masivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necrosis isquémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conservación de la cápsula esplénica indica daño mínimo o trauma leve sin ruptura."
+    },
+    {
+      "numero": "17",
+      "texto": "En la ecografía abdominal, la vesícula biliar con pared engrosada y líquido perivesicular sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colelitiasis asintomática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colecistitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colangitis esclerosante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atresia biliar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El engrosamiento de la pared y líquido perivesicular son signos de inflamación vesicular aguda."
+    },
+    {
+      "numero": "18",
+      "texto": "El diagnóstico de quiste ovárico funcional en niñas se basa en ecografía que muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa sólida vascularizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión anecoica unilocular con pared fina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión ecogénica con calcificaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contenido mixto con gas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de líquido libre abundante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los quistes funcionales son anecoicos, delgados y de pared regular sin septos ni ecos internos."
+    },
+    {
+      "numero": "19",
+      "texto": "En un paciente pediátrico con fiebre y dolor en flanco, la ecografía muestra aumento difuso de ecogenicidad renal. Esto sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pielonefritis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Litiasis renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absceso renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidronefrosis leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pielonefritis aguda se asocia a riñón aumentado de tamaño y ecogenicidad cortical aumentada."
+    },
+    {
+      "numero": "20",
+      "texto": "El signo ecográfico de la estrella central es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatoblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefroblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Angiomiolipoma renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia nodular focal hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso hepático"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hiperplasia nodular focal muestra un patrón ecográfico con cicatriz central o ‘estrella’ hiperecogénica."
+    }
+  ]
+}

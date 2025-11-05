@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.2.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia cardíaca aguda descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis aórtica severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infarto agudo al miocardio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía restrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El infarto agudo al miocardio es la causa más común de insuficiencia cardíaca aguda por daño súbito del miocardio."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico de la insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrecarga de volumen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución abrupta del gasto cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la contractilidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasodilatación sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia cardíaca aguda ocurre por una caída súbita del gasto cardíaco que compromete la perfusión tisular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma más característico de la insuficiencia cardíaca aguda izquierda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ortopnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ortopnea y disnea paroxística nocturna son síntomas típicos de congestión pulmonar por falla del ventrículo izquierdo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el hallazgo físico más común en la insuficiencia cardíaca aguda izquierda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estertores basales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingurgitación yugular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulso paradójico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ruidos cardíacos apagados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los estertores basales indican congestión pulmonar por aumento de la presión capilar pulmonar izquierda."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el hallazgo radiográfico típico de la insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiomegalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Redistribución vascular y edema alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural masivo unilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La redistribución vascular y el edema alveolar en alas de mariposa son característicos de congestión pulmonar aguda."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué marcador sérico se utiliza para confirmar el diagnóstico de insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Troponina"
+        },
+        {
+          "opcion": "B",
+          "texto": "BNP o NT-proBNP"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK-MB"
+        },
+        {
+          "opcion": "D",
+          "texto": "D-dímero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Procalcitonina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los péptidos natriuréticos (BNP, NT-proBNP) se elevan por la distensión ventricular y son útiles para confirmar la insuficiencia cardíaca."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos es de elección en el tratamiento de edema agudo de pulmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atenolol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Losartán"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verapamilo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La furosemida reduce la congestión pulmonar al disminuir el volumen intravascular y la presión capilar pulmonar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tratamiento se indica de urgencia ante insuficiencia cardíaca aguda con hipotensión y bajo gasto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasodilatadores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inotrópicos como dobutamina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "E",
+          "texto": "IECA"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los inotrópicos como dobutamina aumentan la contractilidad y el gasto cardíaco en pacientes con hipotensión y bajo gasto."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la complicación inmediata más temida en la insuficiencia cardíaca aguda severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shock cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis aórtica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El shock cardiogénico es la forma más grave de insuficiencia cardíaca aguda, con hipoperfusión sistémica y alta mortalidad."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el principal objetivo terapéutico en la insuficiencia cardíaca aguda descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la precarga"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir la congestión y mejorar la perfusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la contractilidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la frecuencia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener la presión arterial elevada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo principal es aliviar la congestión y restaurar una adecuada perfusión tisular mediante diuréticos e inotrópicos si es necesario."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico orienta a congestión sistémica en la insuficiencia cardíaca aguda derecha?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingurgitación yugular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estertores basales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis peribucal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ingurgitación yugular refleja aumento de la presión venosa central por falla del ventrículo derecho."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo ecocardiográfico indica falla sistólica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracción de eyección < 30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del grosor septal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Movimiento normal de la pared"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia concéntrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Válvulas normales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una fracción de eyección menor al 30% indica compromiso severo de la función sistólica del ventrículo izquierdo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué medida inicial debe implementarse ante un edema agudo de pulmón severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Posición de Trendelenburg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Posición sentada con oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restricción de líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reanimación con fluidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La posición sentada mejora la ventilación y reduce el retorno venoso, ayudando a aliviar la congestión pulmonar."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo de laboratorio puede reflejar mal pronóstico en insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sodio normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoglobina alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucopenia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de creatinina indica deterioro renal secundario a hipoperfusión, asociado a peor pronóstico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué fármaco está contraindicado en insuficiencia cardíaca aguda con hipotensión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dobutamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nitroglicerina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los vasodilatadores como la nitroglicerina están contraindicados si existe hipotensión significativa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de insuficiencia cardíaca aguda se asocia a elevadas presiones de llenado y bajo gasto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caliente y húmeda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fría y seca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fría y húmeda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Caliente y seca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normodinámica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La forma fría y húmeda presenta hipoperfusión y congestión simultánea, con presiones de llenado altas y bajo gasto cardíaco."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué efecto tiene la dobutamina en el tratamiento de la insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la contractilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta el tono vagal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta el gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye la frecuencia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la poscarga"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dobutamina aumenta la contractilidad y el gasto cardíaco mediante estimulación beta-1 adrenérgica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué manifestación clínica sugiere edema agudo de pulmón cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esputo rosado espumoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ortopnea leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esputo rosado espumoso es típico del edema pulmonar cardiogénico por extravasación de líquido rico en proteínas y eritrocitos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes es un desencadenante frecuente de insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adherencia estricta al tratamiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta hiposódica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio moderado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación reciente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones, especialmente respiratorias, descompensan rápidamente a los pacientes con insuficiencia cardíaca previa."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la causa más frecuente de muerte en pacientes hospitalizados con insuficiencia cardíaca aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shock cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El shock cardiogénico es la principal causa de mortalidad hospitalaria en insuficiencia cardíaca aguda grave."
+    }
+  ]
+}

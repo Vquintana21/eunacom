@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.2.016",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Meningococcemia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico responsable de la meningococcemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae tipo b"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Listeria monocytogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La meningococcemia es causada por Neisseria meningitidis, un diplococo gram negativo encapsulado."
+    },
+    {
+      "numero": "2",
+      "texto": "El exantema característico de la meningococcemia se describe como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maculopapular pruriginoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesicular diseminado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Petequial o purpúrico no blanqueable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritematoso descamativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Urticarial migratorio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exantema petequial o purpúrico no blanqueable es típico de la meningococcemia."
+    },
+    {
+      "numero": "3",
+      "texto": "El cuadro clínico de meningococcemia fulminante se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea leve y fiebre persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shock séptico y coagulación intravascular diseminada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Faringitis autolimitada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exantema urticarial con fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatoesplenomegalia sin shock"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La forma fulminante causa shock séptico, CID y falla multiorgánica rápidamente progresiva."
+    },
+    {
+      "numero": "4",
+      "texto": "El síndrome de Waterhouse-Friderichsen se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia suprarrenal bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis tóxica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis cortical renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis mesentérica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Es una insuficiencia suprarrenal aguda causada por hemorragia bilateral secundaria a meningococcemia fulminante."
+    },
+    {
+      "numero": "5",
+      "texto": "El mecanismo de transmisión de Neisseria meningitidis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fecal-oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contacto dérmico directo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gotitas respiratorias"
+        },
+        {
+          "opcion": "D",
+          "texto": "A través de alimentos contaminados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vectores hematófagos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La transmisión ocurre por gotitas respiratorias en contacto estrecho y prolongado."
+    },
+    {
+      "numero": "6",
+      "texto": "El diagnóstico de meningococcemia se confirma mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cultivo de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemocultivo o PCR positiva para Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de tuberculina positiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de heces"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico se confirma por hemocultivo o PCR positiva para N. meningitidis."
+    },
+    {
+      "numero": "7",
+      "texto": "El hallazgo clínico más precoz en la meningococcemia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coma súbito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Petequias y fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rigidez de nuca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El inicio suele ser abrupto con fiebre alta y exantema petequial temprano."
+    },
+    {
+      "numero": "8",
+      "texto": "El antibiótico de elección en el tratamiento de meningococcemia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona o cefotaxima"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meropenem"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Ceftriaxona o cefotaxima son antibióticos de elección por su eficacia y rápida acción."
+    },
+    {
+      "numero": "9",
+      "texto": "El tratamiento antibiótico debe iniciarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmediatamente ante la sospecha clínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Después del resultado del hemocultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tras la confirmación por PCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Luego de realizar TAC de cráneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de la punción lumbar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El inicio inmediato del antibiótico ante sospecha clínica reduce la mortalidad significativamente."
+    },
+    {
+      "numero": "10",
+      "texto": "El reservorio natural de Neisseria meningitidis es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La nasofaringe del portador asintomático"
+        },
+        {
+          "opcion": "B",
+          "texto": "El agua dulce"
+        },
+        {
+          "opcion": "C",
+          "texto": "Los alimentos contaminados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los animales domésticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "El suelo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La nasofaringe humana actúa como reservorio principal de N. meningitidis."
+    },
+    {
+      "numero": "11",
+      "texto": "El signo cutáneo más característico de meningococcemia fulminante es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritema malar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Púrpura no blanqueable con shock"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exantema vesicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos subcutáneos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema palmoplantar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El púrpura no blanqueable asociado a shock indica meningococcemia fulminante."
+    },
+    {
+      "numero": "12",
+      "texto": "La profilaxis antibiótica para contactos cercanos se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rifampicina o ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Penicilina G"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Rifampicina o ceftriaxona eliminan el estado de portador nasofaríngeo."
+    },
+    {
+      "numero": "13",
+      "texto": "La complicación más temida de la meningococcemia fulminante es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia suprarrenal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Artritis séptica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis tóxica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia suprarrenal bilateral causa insuficiencia suprarrenal aguda y shock refractario."
+    },
+    {
+      "numero": "14",
+      "texto": "El laboratorio en meningococcemia muestra típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucopenia con linfocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia leve aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucocitosis con desviación a izquierda y trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutropenia moderada"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Suele haber leucocitosis con desviación a izquierda y trombocitopenia por consumo."
+    },
+    {
+      "numero": "15",
+      "texto": "El uso de corticoides en meningococcemia está indicado en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Casos leves sin fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Casos con meningitis asociada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Todos los pacientes pediátricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo en mayores de 12 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante la profilaxis antibiótica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides son útiles cuando existe meningitis asociada para reducir secuelas auditivas."
+    },
+    {
+      "numero": "16",
+      "texto": "El paciente con meningococcemia deja de ser contagioso:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tras negativizar el hemocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al desaparecer el exantema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una semana después de la fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de 24 horas de antibióticos adecuados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de completar la hospitalización"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El paciente deja de ser contagioso tras 24 horas de tratamiento antibiótico efectivo."
+    },
+    {
+      "numero": "17",
+      "texto": "La vacunación meningocócica conjugada se recomienda a partir de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescencia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna conjugada contra meningococo se administra desde los 12 meses de edad."
+    },
+    {
+      "numero": "18",
+      "texto": "El hallazgo de púrpura extensa con hipotensión indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción alérgica severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome urémico hemolítico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitopenia inmune"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sepsis meningocócica fulminante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasculitis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El púrpura con hipotensión es típico de la meningococcemia fulminante y requiere tratamiento inmediato."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo de necrosis cutánea periférica y gangrena en meningococcemia se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de corticoides prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasculitis inmunomediada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coagulación intravascular diseminada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción adversa al antibiótico"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La necrosis cutánea se relaciona con CID y daño vascular grave, reflejando compromiso microcirculatorio severo."
+    }
+  ]
+}

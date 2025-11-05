@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes diagnosticada antes del embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes tipo 1 detectada en la infancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intolerancia a la glucosa detectada por primera vez durante el embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia recurrente en el embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistencia insulínica posparto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diabetes gestacional es una intolerancia a la glucosa que aparece o se detecta por primera vez durante el embarazo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué semana del embarazo se recomienda realizar el test de tolerancia oral a la glucosa (TTOG)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6–10 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12–16 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "24–28 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "30–34 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de las 36 semanas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El test de tolerancia oral a la glucosa se realiza entre las semanas 24 y 28 para detectar diabetes gestacional."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico de la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción autoinmune de células beta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la secreción de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resistencia a la insulina inducida por hormonas placentarias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de glucagón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito materno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las hormonas placentarias como el lactógeno placentario generan resistencia a la insulina en la madre."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes es un factor de riesgo para diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad materna <20 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "IMC <18.5 kg/m²"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antecedente de macrosomía fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un antecedente de macrosomía fetal es un factor de riesgo importante para diabetes gestacional."
+    },
+    {
+      "numero": "5",
+      "texto": "Según la OMS, ¿cuál es el valor diagnóstico de glucosa plasmática a las 2 horas en el TTOG (75 g) para diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥120 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥126 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥140 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥153 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥200 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un valor ≥153 mg/dL a las 2 horas en el TTOG de 75 g es diagnóstico de diabetes gestacional."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la complicación fetal más frecuente de la diabetes gestacional mal controlada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de crecimiento intrauterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oligohidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo congénito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperglucemia materna aumenta la insulina fetal, promoviendo el crecimiento excesivo o macrosomía."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el tratamiento de primera línea en la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metformina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Modificación de dieta y ejercicio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glibenclamida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acarbosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La modificación del estilo de vida con dieta y ejercicio es el tratamiento inicial de elección."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el objetivo de glicemia en ayuno para mujeres con diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<90 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<95 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<110 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<130 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo de glicemia en ayuno es mantener valores por debajo de 95 mg/dL para reducir complicaciones."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hormona placentaria se asocia principalmente con la resistencia insulínica durante el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactógeno placentario humano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Relaxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gonadotropina coriónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El lactógeno placentario humano tiene efecto diabetogénico al inducir resistencia a la insulina materna."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué valor de glucosa en ayuno durante el embarazo se considera diagnóstico de diabetes gestacional según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥92 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥110 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥126 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥140 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un valor de glucosa en ayuno ≥92 mg/dL en el embarazo indica diabetes gestacional."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué complicación neonatal está asociada al exceso de insulina fetal por diabetes gestacional materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglucemia neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucemia neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperbilirrubinemia directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de insulina fetal causa hipoglucemia neonatal tras el parto al suprimirse la glucosa materna."
+    },
+    {
+      "numero": "12",
+      "texto": "Tras el parto, ¿cuál es la recomendación para el control glucémico en mujeres con diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender controles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir TTOG a las 6–12 semanas posparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar insulina de rutina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener dieta hipocalórica por 6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "Repetir TTOG a los 12 meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse una prueba de tolerancia oral a la glucosa entre las 6 y 12 semanas posparto para descartar diabetes persistente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el riesgo a largo plazo más importante para las mujeres con antecedente de diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteoporosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome metabólico sin hiperglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Hasta un 50% de las mujeres con diabetes gestacional desarrollan diabetes tipo 2 en los años posteriores."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tipo de dieta se recomienda en la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas y baja en carbohidratos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normocalórica con 40-50% de carbohidratos complejos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalórica para promover el crecimiento fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta en azúcares simples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restrictiva en proteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda una dieta equilibrada, con 40-50% de carbohidratos complejos, moderada en proteínas y baja en grasas saturadas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué método de monitoreo glucémico se recomienda durante la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoglobina glicosilada mensual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Auto-monitoreo de glucemia capilar diaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina completa diaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Curva de glucosa semanal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monitoreo continuo de glucosa en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El automonitoreo capilar diario permite un control cercano de la glicemia y ajuste del tratamiento."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo obstétrico puede sugerir diabetes gestacional no diagnosticada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oligohidramnios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta pequeña"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restricción de crecimiento fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desprendimiento prematuro de placenta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El polihidramnios se asocia a hiperglucemia materna y aumento de la diuresis fetal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de ejercicio físico se recomienda en mujeres con diabetes gestacional sin contraindicaciones obstétricas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio anaeróbico de alta intensidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Natación o caminatas moderadas diarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio en ayunas prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entrenamiento con pesas intensivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio con restricción de líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio aeróbico moderado como la natación o caminata diaria mejora la sensibilidad a la insulina sin riesgo para el feto."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la indicación principal de iniciar insulina en la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cuando la paciente presenta hambre excesiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuando la dieta no logra metas glucémicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuando hay glucosa urinaria leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuando hay anemia gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "En todos los casos de sobrepeso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina se inicia cuando las modificaciones dietéticas y el ejercicio no logran mantener la glicemia dentro de los valores recomendados."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la insulina más utilizada durante el embarazo por su seguridad comprobada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glargina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detemir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lispro"
+        },
+        {
+          "opcion": "D",
+          "texto": "NPH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspart"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La insulina NPH es la más utilizada por su perfil seguro y experiencia clínica en embarazo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la complicación metabólica aguda más temida durante la diabetes gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia posprandial leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperinsulinemia fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación hiperosmolar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cetoacidosis diabética, aunque poco frecuente, puede ser grave y comprometer la vida materno-fetal."
+    }
+  ]
+}

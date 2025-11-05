@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.2.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el primer paso ante un paciente en aparente paro cardiorespiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar compresiones torácicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Verificar pulso carotídeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Llamar por ayuda y activar el sistema de emergencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Abrir la vía aérea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El primer paso es activar el sistema de emergencias para asegurar apoyo inmediato mientras se evalúa al paciente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la frecuencia recomendada de compresiones torácicas durante RCP en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "60-80 por minuto"
+        },
+        {
+          "opcion": "B",
+          "texto": "80-100 por minuto"
+        },
+        {
+          "opcion": "C",
+          "texto": "100-120 por minuto"
+        },
+        {
+          "opcion": "D",
+          "texto": "130-150 por minuto"
+        },
+        {
+          "opcion": "E",
+          "texto": "150-180 por minuto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La frecuencia ideal es de 100 a 120 compresiones por minuto para mantener un flujo sanguíneo efectivo durante la RCP."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la profundidad recomendada de las compresiones torácicas en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "5-6 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "7 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 8 cm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La profundidad óptima es de 5 a 6 cm para generar una presión intratorácica adecuada sin causar daño excesivo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el ritmo cardíaco más frecuente en un paro cardiorespiratorio extrahospitalario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia ventricular sin pulso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Actividad eléctrica sin pulso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrilación ventricular es el ritmo inicial más común en paros súbitos de origen cardíaco."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué maniobra se realiza después de comprobar que el paciente no responde y no respira?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Buscar un desfibrilador"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomar la presión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palpar el pulso radial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar ventilaciones iniciales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar compresiones torácicas"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Si el paciente no responde ni respira, deben iniciarse compresiones torácicas inmediatamente mientras llega el desfibrilador."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuándo debe administrarse la primera dosis de adrenalina en un paro con ritmo no desfibrilable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmediatamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Después de la primera desfibrilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de 5 ciclos de RCP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tras confirmar el ritmo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de 10 minutos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En ritmos no desfibrilables (asistolia o AESP), la adrenalina debe administrarse lo antes posible."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la dosis de adrenalina recomendada durante la reanimación cardiopulmonar avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.5 mg IV cada 10 min"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mg IV cada 3-5 min"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 mg IV cada 2 min"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 mg IV cada 10 min"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 mg IV en bolo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dosis estándar es 1 mg IV cada 3-5 minutos durante el paro cardiorrespiratorio."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes ritmos requiere desfibrilación inmediata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "B",
+          "texto": "AESP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fibrilación ventricular es un ritmo desfibrilable y requiere descarga eléctrica inmediata para restablecer la perfusión."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la energía inicial recomendada para desfibrilación con desfibrilador bifásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100 J"
+        },
+        {
+          "opcion": "B",
+          "texto": "150-200 J"
+        },
+        {
+          "opcion": "C",
+          "texto": "250 J"
+        },
+        {
+          "opcion": "D",
+          "texto": "300 J"
+        },
+        {
+          "opcion": "E",
+          "texto": "360 J"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En desfibriladores bifásicos, se recomienda iniciar con 150 a 200 joules según el fabricante."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la proporción de compresiones y ventilaciones en RCP básica con un solo reanimador en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15:2"
+        },
+        {
+          "opcion": "B",
+          "texto": "20:2"
+        },
+        {
+          "opcion": "C",
+          "texto": "30:2"
+        },
+        {
+          "opcion": "D",
+          "texto": "50:5"
+        },
+        {
+          "opcion": "E",
+          "texto": "60:2"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En adultos, la relación es 30 compresiones por 2 ventilaciones independientemente del número de reanimadores."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la causa más frecuente de actividad eléctrica sin pulso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia y taponamiento cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia cerebral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Hipoxia, hipovolemia y taponamiento cardíaco son causas comunes de actividad eléctrica sin pulso (AESP)."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué procedimiento debe realizarse tan pronto esté disponible durante un paro con fibrilación ventricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intubación orotraqueal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desfibrilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Analizar gases arteriales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomar un ECG completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desfibrilación precoz es la intervención más efectiva para revertir la fibrilación ventricular."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué maniobra se recomienda para abrir la vía aérea en un paciente sin sospecha de trauma cervical?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tracción mandibular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación del mentón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmovilización cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compresión submandibular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Extensión lateral del cuello"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La maniobra frente-mentón es la más efectiva para abrir la vía aérea en ausencia de trauma cervical."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de las siguientes es una causa reversible de paro cardiorespiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipervolemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoalbuminemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las 4H y 4T incluyen causas reversibles; la hipotermia es una de ellas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el ritmo cardíaco más favorable para lograr retorno de circulación espontánea tras desfibrilación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "B",
+          "texto": "AESP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular fina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrilación ventricular gruesa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La fibrilación ventricular gruesa indica mayor probabilidad de éxito con desfibrilación."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medicamento se administra tras el tercer choque en un paro con fibrilación ventricular persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiodarona 300 mg IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lidocaína 50 mg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina 1 mg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atropina 1 mg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dopamina 10 mg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Amiodarona 300 mg IV se administra tras el tercer choque en FV o TV sin pulso persistente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuándo debe verificarse el ritmo durante la RCP avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 30 segundos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada 2 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 5 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de cada compresión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo al inicio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ritmo se evalúa cada 2 minutos o tras 5 ciclos de compresiones y ventilaciones."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el objetivo principal de la reanimación cardiopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Revertir la bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restaurar la circulación espontánea y perfusión cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Controlar la hiperventilación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar arritmias ventriculares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El propósito de la RCP es restaurar la perfusión cerebral y coronaria mediante circulación artificial eficaz."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué acción se debe realizar inmediatamente tras una desfibrilación exitosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar amiodarona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reanudar RCP durante 2 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esperar para comprobar pulso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomar ECG completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilar al paciente 5 veces"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Después del choque, se reanudan las compresiones inmediatamente sin verificar el pulso hasta pasados 2 minutos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la relación entre el tiempo sin RCP y la probabilidad de supervivencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta linealmente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye 10% por minuto sin RCP"
+        },
+        {
+          "opcion": "C",
+          "texto": "No varía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende solo del ritmo inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejora con ventilación pasiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La probabilidad de supervivencia disminuye aproximadamente un 10% por cada minuto sin RCP efectiva."
+    }
+  ]
+}

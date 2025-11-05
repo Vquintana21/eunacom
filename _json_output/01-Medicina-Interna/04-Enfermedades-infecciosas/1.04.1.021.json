@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.021",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la osteomielitis en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Staphylococcus aureus es el agente más común de osteomielitis en adultos por su alta capacidad de adherencia ósea."
+    },
+    {
+      "numero": "2",
+      "texto": "El sitio más común de osteomielitis hematógena en niños es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fémur y tibia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vértebras lumbares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pelvis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Húmero proximal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Costillas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En niños, la osteomielitis hematógena afecta principalmente los huesos largos, especialmente fémur y tibia."
+    },
+    {
+      "numero": "3",
+      "texto": "En pacientes con osteomielitis por úlceras crónicas en pie diabético, el patógeno más probable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Pseudomonas aeruginosa es común en infecciones crónicas del pie diabético por su crecimiento en ambientes húmedos."
+    },
+    {
+      "numero": "4",
+      "texto": "La osteomielitis vertebral en adultos se asocia frecuentemente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diseminación hematógena desde un foco urinario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inoculación directa por trauma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tuberculosis miliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de corticoides tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación reciente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En adultos, la osteomielitis vertebral suele deberse a diseminación hematógena desde un foco urinario o cutáneo."
+    },
+    {
+      "numero": "5",
+      "texto": "El agente etiológico más común de osteomielitis en usuarios de drogas intravenosas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella spp."
+        },
+        {
+          "opcion": "E",
+          "texto": "Clostridium perfringens"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En consumidores de drogas intravenosas, Pseudomonas aeruginosa es la causa más frecuente de osteomielitis."
+    },
+    {
+      "numero": "6",
+      "texto": "En pacientes con anemia drepanocítica, la osteomielitis se asocia típicamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella spp."
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus epidermidis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium kansasii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Salmonella spp. es la causa más frecuente de osteomielitis en pacientes con drepanocitosis debido a su tropismo por hueso infartado."
+    },
+    {
+      "numero": "7",
+      "texto": "El síntoma más frecuente en la osteomielitis aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre con dolor óseo localizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cianosis distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez articular difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de peso marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema cutáneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor óseo localizado con fiebre es el síntoma más característico en la osteomielitis aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "El método diagnóstico más sensible para detectar osteomielitis temprana es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gammagrafía ósea con Tc-99"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía ósea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resonancia magnética es el método más sensible para detectar inflamación y edema óseo temprano."
+    },
+    {
+      "numero": "9",
+      "texto": "El hallazgo radiológico más temprano en osteomielitis aguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secuestro óseo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Periostitis o elevación del periostio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Formación de absceso cortical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Destrucción ósea extensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificación perióstica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La elevación del periostio es un hallazgo radiológico temprano, visible a partir de la segunda semana."
+    },
+    {
+      "numero": "10",
+      "texto": "El diagnóstico definitivo de osteomielitis se confirma mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cultivo de sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo óseo obtenido por biopsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de control"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de PCR"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico definitivo requiere aislamiento del patógeno en cultivo de tejido óseo obtenido por biopsia estéril."
+    },
+    {
+      "numero": "11",
+      "texto": "La osteomielitis crónica se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta respuesta a antibióticos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de secuestros y fístulas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de inflamación local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor de corta duración"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión ósea reversible"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La osteomielitis crónica cursa con necrosis ósea, formación de secuestros y drenaje fistuloso recurrente."
+    },
+    {
+      "numero": "12",
+      "texto": "El tratamiento empírico inicial de la osteomielitis aguda debe incluir cobertura para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grampositivos, especialmente Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacterias anaerobias intestinales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Especies de Candida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus respiratorios"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tratamiento empírico debe cubrir Staphylococcus aureus, principal causante de la osteomielitis aguda."
+    },
+    {
+      "numero": "13",
+      "texto": "En osteomielitis postquirúrgica, los gérmenes más frecuentes son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae y H. influenzae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus y estafilococos coagulasa negativos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans y Aspergillus fumigatus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella typhi y Brucella spp."
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis y E. coli"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En infecciones postquirúrgicas o asociadas a material ortopédico predominan S. aureus y estafilococos coagulasa negativos."
+    },
+    {
+      "numero": "14",
+      "texto": "El tratamiento antibiótico de la osteomielitis debe mantenerse por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 a 7 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 a 4 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 a 6 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 12 semanas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El tratamiento debe mantenerse por al menos 4 a 6 semanas, según la respuesta clínica y microbiológica."
+    },
+    {
+      "numero": "15",
+      "texto": "En la osteomielitis crónica, el antibiótico debe iniciarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de obtener muestras para cultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Después de la toma de muestra para cultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Simultáneamente con el cultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo si hay fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nunca se administra antibiótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la osteomielitis crónica se recomienda obtener muestras para cultivo antes de iniciar antibióticos, para evitar falsos negativos."
+    },
+    {
+      "numero": "16",
+      "texto": "Una complicación grave de la osteomielitis crónica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiloidosis sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma epidermoide en fístula crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocarditis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis bacteriana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La transformación maligna de fístulas crónicas en carcinoma epidermoide es una complicación infrecuente pero grave."
+    },
+    {
+      "numero": "17",
+      "texto": "El principal signo clínico de osteomielitis vertebral es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor lumbar localizado persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deformidad visible de la columna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta y escalofríos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de sensibilidad distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incontinencia urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor lumbar persistente y localizado es el síntoma más frecuente en la osteomielitis vertebral."
+    },
+    {
+      "numero": "18",
+      "texto": "La osteomielitis tuberculosa se conoce como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad de Pott"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad de Hansen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Reiter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artritis de Lyme"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad de Still"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La afectación vertebral por Mycobacterium tuberculosis se denomina enfermedad de Pott y causa deformidad cifótica."
+    },
+    {
+      "numero": "19",
+      "texto": "El uso de desbridamiento quirúrgico en osteomielitis está indicado cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hay fiebre persistente sin foco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Existen secuestros óseos o abscesos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo hay edema óseo"
+        },
+        {
+          "opcion": "D",
+          "texto": "El cultivo es negativo"
+        },
+        {
+          "opcion": "E",
+          "texto": "El tratamiento antibiótico se ha iniciado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desbridamiento quirúrgico está indicado cuando hay necrosis, secuestros o abscesos que impiden la resolución con antibióticos."
+    },
+    {
+      "numero": "20",
+      "texto": "La osteomielitis por Candida suele presentarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacidos prematuros o pacientes inmunocomprometidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adultos jóvenes sanos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con artritis reumatoide leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niños con varicela reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mujeres embarazadas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La osteomielitis por Candida ocurre en pacientes inmunocomprometidos o recién nacidos con catéteres prolongados."
+    }
+  ]
+}

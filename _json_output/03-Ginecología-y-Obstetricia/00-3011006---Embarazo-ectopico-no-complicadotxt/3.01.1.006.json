@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.006",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.006 - Embarazo ectopico no complicado.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la localización más frecuente del embarazo ectópico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trompa de Falopio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ligamento ancho"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El 95% de los embarazos ectópicos ocurren en la trompa de Falopio."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma más común del embarazo ectópico no complicado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sangrado vaginal escaso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal difuso intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Náuseas persistentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sangrado vaginal escaso e irregular es uno de los síntomas más frecuentes."
+    },
+    {
+      "numero": "3",
+      "texto": "En embarazo ectópico no complicado, el nivel de beta-hCG suele:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ser indetectable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar de forma normal como en embarazo intrauterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar lentamente o estancarse"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir rápidamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantenerse siempre estable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La beta-hCG aumenta lentamente o se estanca, lo que sugiere embarazo ectópico."
+    },
+    {
+      "numero": "4",
+      "texto": "El diagnóstico inicial de embarazo ectópico no complicado se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Laparoscopía diagnóstica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen físico únicamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transvaginal y beta-hCG seriada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de abdomen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía transvaginal combinada con beta-hCG seriada es fundamental en el diagnóstico."
+    },
+    {
+      "numero": "5",
+      "texto": "La indicación de tratamiento médico con metotrexato incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embarazo intrauterino confirmado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Beta-hCG >10.000 UI/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Paciente estable y masa <3,5 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoperitoneo evidente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duda diagnóstica absoluta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El metotrexato se usa en pacientes estables, con masa pequeña y beta-hCG moderada."
+    },
+    {
+      "numero": "6",
+      "texto": "Una contraindicación absoluta para el uso de metotrexato es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia renal o hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna >40 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "IMC >30"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metotrexato está contraindicado en pacientes con insuficiencia hepática o renal."
+    },
+    {
+      "numero": "7",
+      "texto": "En la ecografía transvaginal de un embarazo ectópico se puede observar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional intrauterino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imagen en anillo en anexos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovario poliquístico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Liquido libre sin masa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La imagen en anillo anexial es característica en ecografía de embarazo ectópico."
+    },
+    {
+      "numero": "8",
+      "texto": "La conducta en embarazo ectópico no complicado con deseo de fertilidad es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salpingectomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salpingostomía conservadora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ligadura tubaria bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espera expectante siempre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La salpingostomía permite conservar la trompa y preservar la fertilidad."
+    },
+    {
+      "numero": "9",
+      "texto": "El seguimiento tras tratamiento médico de embarazo ectópico se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hCG seriada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se monitoriza con beta-hCG hasta negativización para confirmar resolución."
+    },
+    {
+      "numero": "10",
+      "texto": "Un signo clínico sugestivo pero no específico de embarazo ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metrorragia escasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal bajo unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa anexial palpable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amenorrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos los anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El cuadro típico combina amenorrea, dolor abdominal y metrorragia escasa."
+    },
+    {
+      "numero": "11",
+      "texto": "La localización menos frecuente de embarazo ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tubo ovárico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intersticial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tubárico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El embarazo cervical es una localización rara, menor al 1% de casos."
+    },
+    {
+      "numero": "12",
+      "texto": "El diagnóstico diferencial más importante de embarazo ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quiste ovárico roto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apendicitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aborto espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Torsión ovárica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El ectópico puede simular múltiples patologías abdominales y pélvicas agudas."
+    },
+    {
+      "numero": "13",
+      "texto": "El nivel de beta-hCG denominado 'discriminatorio' para visualizar saco intrauterino en ecografía transvaginal es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "500 UI/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "1000-1500 UI/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "2000-2500 UI/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "3000-3500 UI/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "5000 UI/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Sobre 2000 UI/L debería visualizarse un saco intrauterino; su ausencia orienta a ectópico."
+    },
+    {
+      "numero": "14",
+      "texto": "El embarazo ectópico no complicado se diferencia del complicado en que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presenta shock hipovolémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiene hemoperitoneo abundante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Paciente está estable hemodinámicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Siempre requiere cirugía inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asocia ruptura tubárica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el no complicado, la paciente se encuentra hemodinámicamente estable y sin ruptura."
+    },
+    {
+      "numero": "15",
+      "texto": "Una ventaja del tratamiento médico con metotrexato es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evita seguimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor riesgo de recurrencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conserva la trompa y es menos invasivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Actúa en cualquier edad gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "No presenta efectos secundarios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El metotrexato es menos invasivo y preserva la trompa, favoreciendo fertilidad futura."
+    },
+    {
+      "numero": "16",
+      "texto": "Un factor de riesgo importante para embarazo ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de DIU"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antecedente de enfermedad inflamatoria pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía tubárica previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos los anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Todos son factores que aumentan el riesgo de embarazo ectópico."
+    },
+    {
+      "numero": "17",
+      "texto": "En el manejo expectante de embarazo ectópico no complicado, se requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paciente estable y beta-hCG en descenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoperitoneo abundante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa anexial >5 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deseo de fertilidad nulo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de latido embrionario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El manejo expectante se considera si la paciente está estable y beta-hCG disminuye."
+    },
+    {
+      "numero": "18",
+      "texto": "La mortalidad materna por embarazo ectópico se relaciona principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia interna por ruptura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Complicaciones de metotrexato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reintervención quirúrgica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El principal riesgo vital es la hemorragia interna por ruptura tubárica."
+    },
+    {
+      "numero": "19",
+      "texto": "Tras un embarazo ectópico tratado, el riesgo de recurrencia es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "15%"
+        },
+        {
+          "opcion": "D",
+          "texto": "20%"
+        },
+        {
+          "opcion": "E",
+          "texto": "30%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El riesgo de recurrencia tras un ectópico es de aproximadamente 15%."
+    }
+  ]
+}

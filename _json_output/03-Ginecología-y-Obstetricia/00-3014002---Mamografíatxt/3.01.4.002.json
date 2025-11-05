@@ -1,0 +1,600 @@
+{
+  "codigo": "3.01.4.002",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.4.002 - Mamografía.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo de la mamografía de tamizaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnosticar masas palpables"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar secreción mamaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar cáncer de mama en etapas preclínicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Controlar tratamiento oncológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar mastitis crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mamografía de tamizaje busca detectar cáncer de mama en etapas iniciales, antes de que sea clínicamente evidente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad se recomienda iniciar el tamizaje mamográfico en mujeres sin factores de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A los 30 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 35 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "A los 40 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 45 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 50 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las guías internacionales recomiendan iniciar el tamizaje a partir de los 40 años en mujeres de riesgo promedio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cada cuánto tiempo debe realizarse la mamografía de tamizaje según la mayoría de las guías?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada 3 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 5 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tamizaje bienal reduce la mortalidad y mantiene un equilibrio entre beneficios y riesgos de radiación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de radiación utiliza la mamografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rayos gamma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ultrasonido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rayos X de baja energía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infrarrojo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Microondas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mamografía utiliza rayos X de baja energía para obtener imágenes detalladas del tejido mamario."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la proyección más común en la mamografía estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Axilar oblicua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Craneocaudal y mediolateral oblicua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lateral pura y tangencial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anteroposterior y oblicua"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inferosuperior y lateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las proyecciones craneocaudal y mediolateral oblicua son las vistas estándar en mamografía diagnóstica y de tamizaje."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo mamográfico es más sugestivo de malignidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microcalcificaciones pleomórficas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcificaciones redondeadas grandes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulo bien delimitado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Densidad homogénea difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento cutáneo simétrico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las microcalcificaciones pleomórficas agrupadas son un signo típico de carcinoma ductal in situ."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué sistema se utiliza para estandarizar los informes mamográficos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FIGO"
+        },
+        {
+          "opcion": "B",
+          "texto": "TNM"
+        },
+        {
+          "opcion": "C",
+          "texto": "BI-RADS"
+        },
+        {
+          "opcion": "D",
+          "texto": "ACR-QA"
+        },
+        {
+          "opcion": "E",
+          "texto": "AJCC"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema BI-RADS (Breast Imaging Reporting and Data System) clasifica hallazgos y orienta la conducta clínica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué categoría BI-RADS corresponde a una mamografía normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BI-RADS 0"
+        },
+        {
+          "opcion": "B",
+          "texto": "BI-RADS 1"
+        },
+        {
+          "opcion": "C",
+          "texto": "BI-RADS 2"
+        },
+        {
+          "opcion": "D",
+          "texto": "BI-RADS 3"
+        },
+        {
+          "opcion": "E",
+          "texto": "BI-RADS 4"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "BI-RADS 1 indica estudio negativo sin hallazgos anormales, lo que corresponde a una mamografía normal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué significa BI-RADS 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resultado negativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hallazgo benigno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Probablemente benigno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sospechoso de malignidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malignidad confirmada"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "BI-RADS 4 indica sospecha de malignidad y requiere biopsia para confirmación diagnóstica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores disminuye la sensibilidad de la mamografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad avanzada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia hormonal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mama densa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las mamas densas dificultan la detección de lesiones debido a la superposición del tejido fibroglandular."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo mamográfico sugiere carcinoma inflamatorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microcalcificaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retracción del pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento cutáneo difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo bien delimitado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión con halo graso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El engrosamiento cutáneo difuso y aumento de densidad son característicos del carcinoma inflamatorio mamario."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal limitación de la mamografía en mujeres jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor costo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alta dosis de radiación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dificultad por mamas densas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falta de sensibilidad para microcalcificaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "No detecta lesiones palpables"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tejido mamario denso en mujeres jóvenes reduce la sensibilidad de la mamografía para detectar lesiones."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de mamografía mejora la detección en mamas densas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convencional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Digital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Con contraste"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lateralizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecográfica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mamografía digital tiene mejor rendimiento diagnóstico en mujeres con tejido mamario denso."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo se considera benigno en la mamografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microcalcificaciones pleomórficas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión espiculada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificaciones gruesas redondeadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Masa irregular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distorsión arquitectural"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las calcificaciones grandes y redondeadas suelen corresponder a procesos benignos como fibroadenomas calcificados."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué significa un BI-RADS 0?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión benigna confirmada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estudio incompleto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malignidad confirmada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hallazgo probablemente benigno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión sospechosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "BI-RADS 0 indica estudio incompleto que requiere estudios complementarios como ecografía o proyecciones adicionales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la dosis promedio de radiación por una mamografía bilateral estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1 mSv"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.4 mSv"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 mSv"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 mSv"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 mSv"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una mamografía bilateral estándar expone a la paciente a una dosis promedio de 0.4 mSv, considerada baja."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué método complementa la mamografía en mujeres con mamas densas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía torácica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía mamaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET-CT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía mamaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía mamaria complementa la mamografía en mujeres con tejido mamario denso, mejorando la detección de lesiones."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo mamográfico es típico del carcinoma ductal invasor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo redondeado con bordes lisos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión espiculada con retracción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificaciones gruesas dispersas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Densidad homogénea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulo con halo radiolúcido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma ductal invasor suele presentarse como una masa espiculada con retracción del parénquima mamario."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida preventiva disminuye la tasa de falsos positivos en mamografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir el número de proyecciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Interpretación doble o lectura por pares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la dosis de radiación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar medios de contraste"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la compresión mamaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La doble lectura por radiólogos experimentados reduce la tasa de falsos positivos en mamografía de tamizaje."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes hallazgos BI-RADS requiere seguimiento a 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BI-RADS 1"
+        },
+        {
+          "opcion": "B",
+          "texto": "BI-RADS 2"
+        },
+        {
+          "opcion": "C",
+          "texto": "BI-RADS 3"
+        },
+        {
+          "opcion": "D",
+          "texto": "BI-RADS 4"
+        },
+        {
+          "opcion": "E",
+          "texto": "BI-RADS 5"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "BI-RADS 3 corresponde a hallazgos probablemente benignos, recomendando seguimiento a corto plazo."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué hallazgo mamográfico se asocia más a carcinoma lobulillar invasor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microcalcificaciones pleomórficas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión espiculada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asimetría focal o distorsión arquitectural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo con halo radiolúcido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificaciones gruesas redondeadas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma lobulillar invasor suele manifestarse como distorsión arquitectural o asimetría sin masa definida."
+    }
+  ]
+}

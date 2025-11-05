@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.110",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Infecciones micóticas de piel y fanéreos",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la tiña capitis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichophyton rubrum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microsporum canis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epidermophyton floccosum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malassezia furfur"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Microsporum canis es el principal agente de tiña capitis en niños, especialmente transmitido por animales domésticos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo clínico caracteriza la tiña corporis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones anulares con borde activo y centro claro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pápulas pruriginosas diseminadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Costras hemorrágicas en cuero cabelludo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema difuso sin descamación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ampollas tensas sobre piel sana"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiña corporis se presenta como lesiones anulares con borde activo y centro aclarado."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tratamiento de elección para la tiña capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ketoconazol tópico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Griseofulvina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clotrimazol tópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Itraconazol tópico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miconazol crema"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La griseofulvina oral es el tratamiento de elección porque alcanza concentraciones efectivas en el folículo piloso."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de hongo produce la tiña versicolor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dermatofito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levadura lipofílica del género Malassezia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hongo dimórfico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mohos saprófitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida tropicalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Malassezia spp. es una levadura lipofílica que causa la tiña versicolor o pitiriasis versicolor."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la localización más frecuente de la tiña pedis en niños mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palmas de las manos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plantas y espacios interdigitales de los pies"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cara anterior de piernas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Zona lumbar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuero cabelludo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiña pedis afecta comúnmente los espacios interdigitales y las plantas de los pies."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué método diagnóstico confirma la presencia de hongos dermatofitos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen directo con hidróxido de potasio (KOH)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia con PAS"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen con KOH revela hifas septadas típicas de los dermatofitos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo se observa en la lámpara de Wood en la tiña versicolor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluorescencia verdosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fluorescencia amarillo dorada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de fluorescencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluorescencia azul intensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluorescencia roja coral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la tiña versicolor se observa fluorescencia amarillo dorada bajo lámpara de Wood."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué agente es el más frecuente en la onicomicosis infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichophyton rubrum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microsporum gypseum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epidermophyton floccosum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspergillus niger"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Trichophyton rubrum es el dermatofito más frecuentemente implicado en onicomicosis pediátrica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué característica clínica define la tiña ungueal distal subungueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta el pliegue proximal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Destrucción total de la lámina ungueal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento y color amarillento del borde distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor con exudado purulento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia subungueal espontánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tiña ungueal distal se caracteriza por engrosamiento, onicolisis y color amarillento del borde distal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué agente causa con mayor frecuencia la tiña cruris?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microsporum canis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epidermophyton floccosum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichophyton tonsurans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida parapsilosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malassezia globosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Epidermophyton floccosum es el principal agente etiológico de tiña cruris en adolescentes y adultos jóvenes."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la manifestación más común de la candidiasis cutánea en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones papulosas en tronco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dermatitis del área del pañal con lesiones satélite"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placas eritematosas faciales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Costras en cuero cabelludo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema generalizado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La candidiasis del pañal se caracteriza por placas eritematosas con pústulas satélite en pliegues."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estructura invaden los dermatofitos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estrato basal de la epidermis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estrato córneo, pelo y uñas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glándulas sebáceas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dermis profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tejido subcutáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los dermatofitos invaden estructuras queratinizadas: estrato córneo, cabello y uñas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el tratamiento de elección para la tiña versicolor extensa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ketoconazol tópico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fluconazol oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Griseofulvina oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permetrina tópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides tópicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fluconazol oral es útil en casos extensos o recidivantes de tiña versicolor."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo microscópico es característico de la tiña versicolor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hifas delgadas y seudohifas sin esporas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hifas cortas y esporas redondeadas (espaguetis con albóndigas)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cadenas de esporas largas sin ramificación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hifas pigmentadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hifas hialinas largas sin esporas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la tiña versicolor se observan hifas cortas y esporas en racimos con aspecto de 'espaguetis con albóndigas'."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación puede presentarse en una tiña capitis inflamatoria tipo querion?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alopecia cicatricial permanente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candidemia secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Celulitis diseminada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Foliculitis bacteriana leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Psoriasis del cuero cabelludo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El querion puede dejar alopecia cicatricial debido a la inflamación profunda del folículo piloso."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes infecciones fúngicas es considerada superficial y no contagiosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiña corporis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiña versicolor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiña capitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiña cruris"
+        },
+        {
+          "opcion": "E",
+          "texto": "Onicomicosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiña versicolor es causada por Malassezia spp. y no se considera contagiosa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué antifúngico oral está indicado para onicomicosis severa en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terbinafina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nistatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Griseofulvina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miconazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clotrimazol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La terbinafina oral es eficaz en onicomicosis por dermatofitos, con buena penetración ungueal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué diferencia la tiña faciei de la dermatitis seborreica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones con borde activo y prurito intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones oleosas en surcos nasogenianos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placas descamativas amarillentas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema sin bordes definidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Costras melicéricas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiña faciei muestra lesiones anulares con borde activo y prurito, a diferencia de la dermatitis seborreica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué agente etiológico se asocia más frecuentemente con la tiña capitis en zonas urbanas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichophyton tonsurans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microsporum audouinii"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epidermophyton floccosum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malassezia furfur"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Trichophyton tonsurans es una causa frecuente de tiña capitis antropofílica en áreas urbanas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tipo de lesión cutánea produce la tiña imbricada (tokelau)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones concéntricas descamativas superpuestas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pápulas costrosas aisladas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vesículas agrupadas en racimo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos subcutáneos firmes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placas húmedas exudativas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiña imbricada se caracteriza por placas concéntricas descamativas causadas por Trichophyton concentricum."
+    }
+  ]
+}

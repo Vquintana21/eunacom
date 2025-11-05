@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.093",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Infecciones osteoarticulares",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de osteomielitis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Kingella kingae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella spp."
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Staphylococcus aureus es la causa más común de osteomielitis en la edad pediátrica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué microorganismo se asocia típicamente a osteomielitis en pacientes con anemia falciforme?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella spp."
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Salmonella spp. es la causa clásica de osteomielitis en pacientes con anemia de células falciformes."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio más frecuente de osteomielitis hematógena en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelvis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vértebras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metáfisis de huesos largos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Costillas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esternón"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La metáfisis de huesos largos, como el fémur y la tibia, son los sitios más afectados en osteomielitis infantil."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estudio de imagen es más útil para el diagnóstico precoz de osteomielitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gammagrafía ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resonancia magnética detecta cambios inflamatorios óseos antes que la radiografía convencional."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el agente etiológico más frecuente de artritis séptica en menores de 3 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Kingella kingae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escherichia coli"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Kingella kingae es una causa importante de artritis séptica en menores de 3 años."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo clínico es más característico de artritis séptica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor nocturno leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de volumen articular con impotencia funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez matinal sin fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor migratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema leve sin fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La artritis séptica se presenta con fiebre, dolor intenso, aumento de volumen y limitación del movimiento."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la articulación más afectada por artritis séptica en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rodilla"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cadera"
+        },
+        {
+          "opcion": "C",
+          "texto": "Codo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tobillo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muñeca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cadera es la articulación más afectada en lactantes y niños pequeños."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el hallazgo más temprano en la radiografía de osteomielitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secuestro óseo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Periostitis reactiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Destrucción cortical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rarefacción ósea difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del espacio articular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La elevación periostal es uno de los primeros hallazgos visibles en radiografía."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes exámenes de laboratorio es más sensible para detectar inflamación ósea aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR"
+        },
+        {
+          "opcion": "C",
+          "texto": "VHS"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrinógeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Procalcitonina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR es el marcador más sensible y útil para seguimiento de respuesta al tratamiento."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial empírico recomendado para osteomielitis aguda en niños previamente sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clindamicina o cefazolina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vancomicina más gentamicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciprofloxacino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Clindamicina o cefazolina cubren Staphylococcus aureus sensible en pacientes sin factores de riesgo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la vía de infección más frecuente en osteomielitis pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inoculación directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diseminación hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contigüidad de foco cutáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Postquirúrgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Por cuerpos extraños"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vía hematógena es la más frecuente en niños debido a la alta vascularización metafisaria."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué microorganismo se asocia a osteomielitis tras una punción plantar con calzado deportivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eikenella corrodens"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pseudomonas aeruginosa es típica en infecciones osteoarticulares tras punción plantar con calzado."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el principal diagnóstico diferencial de artritis séptica en un niño febril con cojera?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteomielitis metafisaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Artritis reactiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sinovitis transitoria de cadera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trauma articular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad de Legg-Calvé-Perthes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sinovitis transitoria es una causa frecuente de cojera febril y debe diferenciarse de artritis séptica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento quirúrgico indicado en artritis séptica de cadera?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Drenaje cerrado con antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración ecoguiada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Artrotomía con lavado quirúrgico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yeso pelvipédico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación clínica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La artrotomía permite el drenaje completo y evita necrosis femoral en artritis séptica de cadera."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo clínico orienta a osteomielitis más que a artritis séptica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor articular al movimiento pasivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta y leucocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor localizado en metáfisis con movilidad articular conservada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame articular evidente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Limitación de abducción"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En osteomielitis el dolor es óseo, con movimiento articular generalmente conservado al inicio."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué microorganismo se asocia a infecciones osteoarticulares neonatales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus agalactiae y E. coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus influenzae tipo B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Listeria monocytogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En neonatos predominan Streptococcus del grupo B y Escherichia coli como causas de infección ósea."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué signo clínico orienta a artritis séptica de cadera en lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Marcha anormal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor en la palpación de metáfisis tibial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actitud en flexión, abducción y rotación externa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Limitación de la rotación interna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor irradiado al muslo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La actitud típica en flexión y abducción se debe al aumento de presión intraarticular en la cadera."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el método de confirmación etiológica de una infección osteoarticular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía con líquido articular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo de material óseo o líquido sinovial"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética compatible"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico etiológico se confirma mediante cultivo del material óseo o líquido articular infectado."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación más grave de la osteomielitis aguda no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sinovitis persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fístula crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deformidad ósea y alteración del crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor residual leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Artrosis precoz"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infección crónica puede destruir la fisis y producir alteraciones permanentes del crecimiento óseo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro clínico indica buena respuesta al tratamiento antibiótico en osteomielitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalización de VHS"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descenso sostenido de PCR y mejoría del dolor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desaparición del edema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Negativización de hemocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de leucocitos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución progresiva de PCR junto con mejoría clínica indica respuesta adecuada al tratamiento."
+    }
+  ]
+}

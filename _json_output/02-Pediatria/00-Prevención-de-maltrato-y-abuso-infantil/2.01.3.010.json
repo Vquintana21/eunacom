@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.010",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Prevención de maltrato y abuso infantil",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal función del profesional de salud en la prevención del maltrato infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sustituir el rol parental"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar y notificar casos sospechosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Emitir sanciones legales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteger solo al menor hospitalizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar únicamente daños físicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El personal de salud debe identificar señales de alerta y notificar legalmente los casos sospechosos de maltrato o abuso."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes es una forma de maltrato infantil según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Negligencia, abuso físico, emocional o sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Accidentes domésticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Educación exigente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disciplina firme sin violencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diferencias culturales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La OMS clasifica el maltrato infantil en físico, emocional, sexual y negligencia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué legislación chilena establece la obligación de denunciar el maltrato infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ley 19.366 sobre drogas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ley 20.066 sobre violencia intrafamiliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ley 21.057 sobre entrevistas videograbadas y deber de denuncia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ley 19.779 sobre VIH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Código del Trabajo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La Ley 21.057 y el Código Penal establecen el deber de denuncia ante sospecha de maltrato o abuso infantil."
+    },
+    {
+      "numero": "4",
+      "texto": "Una señal física que debe hacer sospechar maltrato infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Moretones en zonas prominentes por caídas accidentales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones en distintas etapas de cicatrización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rasguños superficiales en extremidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pequeñas equimosis en rodillas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortes en dedos de forma lineal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Lesiones en diferentes fases de evolución sugieren episodios repetidos de violencia."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de maltrato se asocia con mayor daño psicológico a largo plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abuso sexual y emocional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negligencia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maltrato físico aislado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abandono temporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corrección verbal intensa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El abuso sexual y emocional generan secuelas psíquicas persistentes y alteraciones en el desarrollo socioemocional."
+    },
+    {
+      "numero": "6",
+      "texto": "Un indicador conductual de posible abuso sexual infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tendencia al aislamiento y conocimiento sexual inadecuado para la edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Buen rendimiento escolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apego seguro a sus cuidadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comportamiento alegre en presencia del examinador"
+        },
+        {
+          "opcion": "E",
+          "texto": "Juego simbólico normal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El conocimiento sexual inapropiado y el retraimiento son signos frecuentes en víctimas de abuso sexual."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué debe hacer el médico ante una sospecha fundada de maltrato infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esperar confirmación judicial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Informar inmediatamente al Ministerio Público o Carabineros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Comentar con otros colegas sin formalizar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derivar solo al psicólogo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hablar directamente con el agresor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El médico tiene la obligación legal de denunciar de inmediato ante la autoridad competente sin confirmación judicial previa."
+    },
+    {
+      "numero": "8",
+      "texto": "El síndrome del niño sacudido se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión medular aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragias retinianas y subdurales sin trauma externo evidente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fracturas de extremidades largas únicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trauma abdominal cerrado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contusión superficial facial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome del niño sacudido cursa con hemorragias intracraneales y retinianas por aceleración y desaceleración del cráneo."
+    },
+    {
+      "numero": "9",
+      "texto": "Una conducta preventiva clave del maltrato infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desarrollar programas de apoyo parental y educación emocional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incrementar la vigilancia policial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir controles pediátricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar castigos moderados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar hablar del tema en escuelas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La educación parental y el fortalecimiento de habilidades parentales previenen situaciones de violencia intrafamiliar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué conducta del niño puede sugerir negligencia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ropa limpia y adecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Buen desarrollo ponderal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desnutrición, mal aseo y falta de controles médicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Participación escolar activa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apego seguro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La negligencia se manifiesta por abandono del cuidado físico, alimentario y sanitario del menor."
+    },
+    {
+      "numero": "11",
+      "texto": "El maltrato emocional se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia temporal de los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rechazo, humillación o aislamiento reiterado del niño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prohibir actividades recreativas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exigir rendimiento escolar alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de recursos económicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El maltrato emocional incluye humillación, rechazo o indiferencia que deterioran la autoestima y el desarrollo psicológico."
+    },
+    {
+      "numero": "12",
+      "texto": "Una fractura metafisaria múltiple en lactante debe hacer sospechar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de vitamina D"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trauma accidental leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maltrato físico intencional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno hematológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteogénesis imperfecta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las fracturas metafisarias múltiples son altamente sospechosas de maltrato físico en lactantes no deambuladores."
+    },
+    {
+      "numero": "13",
+      "texto": "El abuso sexual infantil se sospecha cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El niño presenta eritema leve perianal sin síntomas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hay conducta sexual inapropiada y lesiones genitales o anales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiene infecciones respiratorias recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se muestra hiperactivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muestra interés por el cuerpo humano"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de lesiones genitales o anales junto con cambios conductuales orienta a posible abuso sexual."
+    },
+    {
+      "numero": "14",
+      "texto": "En caso de sospecha de abuso sexual, el examen físico debe realizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Por cualquier médico disponible sin registro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Por personal entrenado en contexto protegido y documentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "En presencia del presunto agresor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo si el niño lo solicita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin consentimiento ni confidencialidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe efectuarse por personal capacitado, resguardando integridad física y emocional, con documentación detallada."
+    },
+    {
+      "numero": "15",
+      "texto": "Un factor de riesgo familiar importante para el maltrato infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Red de apoyo comunitario sólida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Padres jóvenes con estrés y antecedentes de violencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Buena comunicación familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acceso a educación y salud"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta estabilidad laboral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estrés parental, la pobreza y los antecedentes de violencia aumentan el riesgo de maltrato infantil."
+    },
+    {
+      "numero": "16",
+      "texto": "La obligación de denunciar maltrato infantil en Chile recae sobre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo psicólogos y asistentes sociales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Todo funcionario público y personal de salud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo policías y fiscales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Únicamente jueces"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo directores de escuelas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Según la ley chilena, todo funcionario público o trabajador de salud debe denunciar el maltrato infantil sospechado."
+    },
+    {
+      "numero": "17",
+      "texto": "La prevención secundaria del maltrato infantil se centra en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar que ocurra el primer episodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar precozmente casos y evitar su progresión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rehabilitar a las víctimas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Promover la crianza respetuosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la vigilancia social"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prevención secundaria busca identificar casos tempranos para intervenir antes de daños mayores."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes es un signo emocional de abuso infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Expresión emocional estable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miedo excesivo a figuras adultas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Curiosidad normal por el entorno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sociabilidad adecuada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desarrollo afectivo acorde a la edad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El miedo intenso hacia adultos o cuidadores puede reflejar experiencias previas de abuso o violencia."
+    },
+    {
+      "numero": "19",
+      "texto": "El objetivo de la prevención terciaria del maltrato infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar la aparición de factores de riesgo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intervenir en casos de alto riesgo sin evidencia de daño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rehabilitar y evitar recurrencia en víctimas confirmadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Promover campañas de crianza positiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Capacitar a personal docente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prevención terciaria busca evitar la repetición y reducir secuelas en víctimas de maltrato ya confirmado."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estrategia educativa ayuda a prevenir el abuso sexual infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar hablar de sexualidad en la infancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educar sobre límites corporales y derecho a decir no"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar amenazas para disciplinar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enseñar obediencia absoluta a adultos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fomentar el silencio ante situaciones incómodas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Enseñar sobre el respeto a los límites corporales y el derecho a negarse protege a los niños del abuso sexual."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.5.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la indicación principal de una punción pleural diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evacuar aire del espacio pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confirmar la naturaleza de un derrame pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar antibióticos intrapleurales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar la presión intrapulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la presión alveolar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La punción pleural se realiza para obtener líquido pleural y determinar si es exudado o trasudado."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el sitio anatómico más seguro para realizar una punción pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En el borde superior de la costilla inferior"
+        },
+        {
+          "opcion": "B",
+          "texto": "En el borde inferior de la costilla superior"
+        },
+        {
+          "opcion": "C",
+          "texto": "En la línea escapular, segundo espacio intercostal"
+        },
+        {
+          "opcion": "D",
+          "texto": "En el vértice pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "En el borde esternal izquierdo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La punción se realiza sobre el borde superior de la costilla inferior para evitar lesionar el paquete vasculonervioso."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué complicación inmediata puede ocurrir tras una punción pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empiema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atelectasia laminar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El neumotórax es la complicación más frecuente debido a la posible lesión pulmonar durante la punción."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estructura debe evitarse durante la inserción de la aguja en una toracocentesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pleura parietal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arteria intercostal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diafragma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espacio pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculo pectoral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La arteria intercostal discurre por el borde inferior de la costilla y debe evitarse para prevenir hemotórax."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué posición se recomienda para realizar una punción pleural diagnóstica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito supino con inclinación dorsal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito lateral sobre el lado afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sentado, con los brazos apoyados hacia adelante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prono con inclinación craneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "De pie con inspiración forzada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El paciente sentado facilita el descenso del líquido y la localización segura del espacio pleural."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico sugiere la necesidad de una punción pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancias bilaterales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Matidez a la percusión y abolición del murmullo vesicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crepitaciones difusas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Roncus diseminados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperresonancia pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La matidez y abolición del murmullo vesicular indican derrame pleural y justifican la punción diagnóstica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el volumen máximo recomendado de extracción en una toracocentesis terapéutica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "300 ml"
+        },
+        {
+          "opcion": "B",
+          "texto": "500 ml"
+        },
+        {
+          "opcion": "C",
+          "texto": "1000 ml"
+        },
+        {
+          "opcion": "D",
+          "texto": "1500 ml"
+        },
+        {
+          "opcion": "E",
+          "texto": "3000 ml"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "No se recomienda extraer más de 1500 ml para evitar edema pulmonar por reexpansión."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de anestesia se utiliza habitualmente para la punción pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "General endotraqueal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo epidural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anestesia local con lidocaína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anestesia raquídea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se utiliza anestesia local infiltrando lidocaína desde la piel hasta la pleura parietal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué parámetro del líquido pleural permite diferenciar entre trasudado y exudado según los criterios de Light?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH del líquido pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relación proteínas pleural/séricas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento leucocitario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Color del líquido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión parcial de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación proteínas pleural/sérica >0.5 indica exudado según los criterios de Light."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación se asocia a la punción pleural en pacientes anticoagulados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empiema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fístula broncopleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pacientes anticoagulados tienen mayor riesgo de hemotórax por lesión vascular durante la punción."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué característica del líquido pleural sugiere un empiema?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transparente y seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lechoso y viscoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Purulento y espeso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amarillo claro y fluido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rojizo con coágulos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aspecto purulento y espeso del líquido pleural es característico del empiema pleural."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo ecográfico guía la elección del sitio de punción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de burbujas aéreas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Área de mayor líquido anecoico sin vísceras subyacentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espesor pleural aumentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de movimiento diafragmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de consolidación pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía localiza la mayor colección líquida y evita puncionar estructuras adyacentes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué prueba bioquímica en el líquido pleural orienta hacia un derrame paraneumónico complicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH <7,2"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH >7,4"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa >60 mg/dl"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteínas <2,5 g/dl"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un pH menor de 7,2 indica inflamación pleural severa y derrame paraneumónico complicado."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué debe hacerse inmediatamente después de una punción pleural terapéutica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar diuréticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar radiografía de tórax de control"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iniciar antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solicitar TAC torácico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar oxigenoterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de tórax permite detectar complicaciones como neumotórax o reexpansión pulmonar incompleta."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una contraindicación absoluta para realizar punción pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Derrame tabicado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coagulopatía no corregida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia renal crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfisema pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coagulopatía sin corregir aumenta el riesgo de sangrado grave durante el procedimiento."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué cantidad mínima de líquido pleural es necesaria para su detección radiográfica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 ml"
+        },
+        {
+          "opcion": "B",
+          "texto": "100 ml"
+        },
+        {
+          "opcion": "C",
+          "texto": "200 ml"
+        },
+        {
+          "opcion": "D",
+          "texto": "500 ml"
+        },
+        {
+          "opcion": "E",
+          "texto": "1000 ml"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En una radiografía de tórax, se requiere al menos 200 ml de líquido para observar el nivel pleural."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué parámetro del líquido pleural indica posible fuga de quilo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDH >1000 UI/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa <40 mg/dl"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos >110 mg/dl"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH <7,0"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de bilirrubina elevada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Triglicéridos mayores a 110 mg/dl sugieren quilotórax por daño o fuga del conducto torácico."
+    },
+    {
+      "numero": "18",
+      "texto": "Durante la toracocentesis, ¿qué indica tos repentina del paciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingreso a espacio extrapleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contacto de la aguja con el parénquima pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción vagal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del líquido pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alergia a la lidocaína"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos repentina puede indicar que la aguja ha alcanzado el pulmón y debe retirarse parcialmente."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la presión negativa aproximada del espacio pleural en reposo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "-1 cmH2O"
+        },
+        {
+          "opcion": "B",
+          "texto": "-2 cmH2O"
+        },
+        {
+          "opcion": "C",
+          "texto": "-5 cmH2O"
+        },
+        {
+          "opcion": "D",
+          "texto": "-10 cmH2O"
+        },
+        {
+          "opcion": "E",
+          "texto": "-20 cmH2O"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El espacio pleural tiene una presión de alrededor de -5 cmH2O, que mantiene expandido el pulmón."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué análisis citológico en el líquido pleural es más útil en el diagnóstico de cáncer pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recuento de eritrocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de células malignas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinción de Gram positiva"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La identificación de células malignas confirma el diagnóstico de derrame pleural neoplásico."
+    }
+  ]
+}

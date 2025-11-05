@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.1.013",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal del derrame pleural por tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diseminación hematógena del bacilo a la pleura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ruptura directa de una cavidad tuberculosa al espacio pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción de hipersensibilidad tipo IV en la pleura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección bacteriana secundaria de la pleura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración de la presión oncótica capilar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El derrame pleural tuberculoso se produce principalmente por una reacción de hipersensibilidad tipo IV frente a antígenos del bacilo en la pleura."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica del líquido pleural es típica del derrame por tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transudado con proteínas bajas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado linfocitario con ADA elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exudado neutrofílico con pH bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido purulento con bacterias visibles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quilo pleural con triglicéridos elevados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame tuberculoso es un exudado con predominio linfocitario y alta actividad de adenosina deaminasa (ADA)."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo citológico se observa frecuentemente en el líquido pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrofilia intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio de linfocitos T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células malignas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrófagos espumosos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El líquido pleural muestra predominio de linfocitos T, reflejando la respuesta inmunitaria a Mycobacterium tuberculosis."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué nivel de adenosina deaminasa (ADA) en líquido pleural sugiere tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 20 U/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 20 y 30 U/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 40 U/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 10 y 15 U/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor de 10 U/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un valor de ADA superior a 40 U/L es altamente sugestivo de derrame pleural tuberculoso."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la prueba más sensible para confirmar el diagnóstico de derrame pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Ziehl-Neelsen del líquido pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo de líquido pleural para Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia pleural con hallazgo de granulomas caseificantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de tuberculina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La biopsia pleural con granulomas caseificantes es el método diagnóstico más sensible y específico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de exudado presenta el derrame pleural por tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transudado seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado linfocitario serofibrinoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exudado purulento neutrofílico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quilotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemotórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame tuberculoso es un exudado serofibrinoso con predominio linfocitario y proteínas elevadas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el hallazgo histológico característico en la pleura afectada por tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células neoplásicas atípicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Granulomas con necrosis caseosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depósitos de fibrina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células gigantes sin necrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado neutrofílico difuso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hallazgo típico son granulomas con necrosis caseosa, reflejando inflamación granulomatosa tuberculosa."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el aspecto del líquido pleural en el derrame tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serofibrinoso amarillo pálido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lechoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transparente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El líquido suele ser serofibrinoso de color amarillo pálido y aspecto turbio."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba inmunológica apoya el diagnóstico de tuberculosis pleural en zonas endémicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de tuberculina (PPD)"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA para virus respiratorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR para neumococo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de procalcitonina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una prueba de tuberculina positiva apoya el diagnóstico, aunque no es específica de la pleuritis tuberculosa."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la localización más frecuente del derrame pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basal posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Suele afectar el lado derecho, aunque puede ser unilateral en cualquier localización pleural."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo radiográfico es común en la tuberculosis pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Derrame libre unilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Loculaciones múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pus visible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colapso pulmonar completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis apical bilateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la radiografía se observa derrame pleural unilateral libre, a menudo de moderado volumen."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué valor de ADA tiene mayor valor predictivo para tuberculosis pleural en adultos jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ADA > 20 U/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "ADA > 40 U/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "ADA > 70 U/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "ADA < 20 U/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "ADA < 10 U/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un valor de ADA superior a 40 U/L es fuertemente sugerente de tuberculosis pleural en adultos jóvenes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de células predominan en el líquido pleural en etapas tempranas del derrame tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrófilos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrófagos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células mesoteliales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En fases iniciales puede haber predominio neutrofílico antes de la conversión linfocitaria."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal complicación del derrame pleural tuberculoso no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empiema estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrotórax masivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quilotórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La organización fibrótica de la pleura puede llevar al desarrollo de un fibrotórax restrictivo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el tratamiento de elección para el derrame pleural por tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Drenaje pleural exclusivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento antituberculoso estándar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pleurodesis química"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos de amplio espectro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo requiere tratamiento antituberculoso completo con esquema estándar de 6 meses."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo sugiere evolución crónica del derrame pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Líquido seroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "ADA elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento pleural con calcificación"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resolución espontánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La calcificación y el engrosamiento pleural indican secuela fibrótica tras inflamación prolongada."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué resultado del cultivo pleural es más frecuente en tuberculosis pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Positivo en la mayoría de los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negativo por bajo número de bacilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminado con flora bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Positivo para hongos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indeterminado en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo suele ser negativo porque el líquido pleural contiene pocos bacilos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el patrón inmunológico del líquido pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Predominio de linfocitos CD4+"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio de linfocitos CD8+"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio neutrofílico persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de respuesta linfocitaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eosinofilia marcada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Predominan linfocitos CD4+ como expresión de una respuesta de hipersensibilidad tipo IV."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué valor de glucosa pleural es típico en el derrame tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 60 y 80 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 30 y 60 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menor de 30 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Igual al valor plasmático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glucosa pleural suele ser moderadamente baja, entre 30 y 60 mg/dL, por consumo celular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué marcador adicional puede apoyar el diagnóstico de tuberculosis pleural además del ADA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Interferón gamma"
+        },
+        {
+          "opcion": "B",
+          "texto": "PCR para Streptococcus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Procalcitonina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Beta-2 microglobulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "IL-6"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El interferón gamma es un marcador inmunológico útil con alta sensibilidad y especificidad para tuberculosis pleural."
+    },
+    {
+      "numero": "21",
+      "texto": "En un paciente con derrame pleural por tuberculosis, la evolución típica tras iniciar tratamiento es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rápida resolución en pocos días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resolución gradual en semanas a meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Persistencia crónica sin cambios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recurrencia frecuente con el mismo esquema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Empeoramiento progresivo pese al tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame pleural tuberculoso suele resolverse lentamente en semanas o meses con tratamiento antituberculoso."
+    }
+  ]
+}

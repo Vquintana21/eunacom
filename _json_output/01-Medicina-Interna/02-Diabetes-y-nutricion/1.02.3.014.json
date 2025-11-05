@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.014",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una enfermedad genética rara"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un conjunto de factores de riesgo cardiovascular y metabólico interrelacionados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una forma leve de diabetes tipo 1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un trastorno autoinmune del páncreas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un tipo específico de obesidad localizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome metabólico agrupa factores como obesidad central, dislipidemia, hipertensión y resistencia a la insulina, aumentando el riesgo cardiovascular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes criterios forma parte del diagnóstico del síndrome metabólico según ATP III?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IMC > 25 kg/m²"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucemia en ayunas ≥ 100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol HDL elevado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido úrico bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una glucemia en ayunas ≥100 mg/dL es uno de los criterios diagnósticos del síndrome metabólico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuántos criterios deben cumplirse para diagnosticar síndrome metabólico según ATP III?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al menos uno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tres o más"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuatro o más"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos los cinco criterios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico se establece con la presencia de tres o más criterios del síndrome metabólico."
+    },
+    {
+      "numero": "4",
+      "texto": "El síndrome metabólico se asocia principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del metabolismo basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resistencia a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resistencia a la insulina es el mecanismo fisiopatológico central del síndrome metabólico."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el punto de corte para la circunferencia abdominal en hombres según criterios ATP III?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "80 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "88 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "94 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "102 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "110 cm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En hombres, una circunferencia abdominal ≥102 cm indica obesidad abdominal y riesgo metabólico aumentado."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes parámetros caracteriza la dislipidemia del síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL bajo y triglicéridos elevados"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL alto y triglicéridos bajos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDL reducido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de lipoproteína(a) exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dislipidemia del síndrome metabólico se caracteriza por triglicéridos altos y HDL bajo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué mecanismo fisiopatológico explica la hipertensión en el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la reabsorción de sodio y activación del sistema renina-angiotensina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de potasio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasodilatación periférica crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la aldosterona"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia a la insulina activa el sistema renina-angiotensina y aumenta la reabsorción de sodio, elevando la presión arterial."
+    },
+    {
+      "numero": "8",
+      "texto": "El tejido adiposo visceral es especialmente importante en el síndrome metabólico porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Libera adipocinas proinflamatorias y ácidos grasos libres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reduce la producción de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorece la síntesis de HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la lipólisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tejido adiposo visceral libera citocinas inflamatorias y ácidos grasos que inducen resistencia a la insulina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué efecto tiene la dieta rica en azúcares simples sobre el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye los triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejora la sensibilidad insulínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la lipogénesis hepática y los triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eleva el HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la resistencia a la insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de azúcares simples promueve la lipogénesis hepática, elevando triglicéridos y empeorando la resistencia insulínica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes intervenciones es más efectiva para prevenir el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia farmacológica temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta equilibrada y ejercicio regular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementación con antioxidantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de insulina profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prevención del síndrome metabólico se logra principalmente mediante hábitos saludables como dieta balanceada y actividad física."
+    },
+    {
+      "numero": "11",
+      "texto": "En mujeres, el punto de corte para circunferencia abdominal según ATP III es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "70 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "80 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "88 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "95 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "100 cm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una circunferencia abdominal ≥88 cm en mujeres indica obesidad central y riesgo metabólico aumentado."
+    },
+    {
+      "numero": "12",
+      "texto": "El síndrome metabólico incrementa el riesgo de desarrollar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus tipo 2 y enfermedad cardiovascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artritis reumatoide"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal congénita"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome metabólico aumenta significativamente el riesgo de diabetes tipo 2 y enfermedad cardiovascular aterosclerótica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el valor de triglicéridos considerado anormal en el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥150 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥200 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥250 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥300 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un nivel de triglicéridos ≥150 mg/dL se considera criterio diagnóstico para síndrome metabólico."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué componente del síndrome metabólico se beneficia más de la pérdida de peso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resistencia a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de peso mejora significativamente la sensibilidad a la insulina y reduce la inflamación sistémica."
+    },
+    {
+      "numero": "15",
+      "texto": "El aumento de la proteína C reactiva en el síndrome metabólico indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación crónica de bajo grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de masa muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción alérgica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PCR elevada refleja un estado inflamatorio crónico característico del síndrome metabólico."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes valores de presión arterial cumple criterio para síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "110/70 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "120/80 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥130/85 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "140/60 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "150/100 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una presión arterial ≥130/85 mmHg se considera criterio diagnóstico de síndrome metabólico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta rica en fibra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio aeróbico regular"
+        },
+        {
+          "opcion": "D",
+          "texto": "IMC < 25 kg/m²"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sueño adecuado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sedentarismo favorece la resistencia a la insulina, la obesidad abdominal y el desarrollo del síndrome metabólico."
+    },
+    {
+      "numero": "18",
+      "texto": "En el manejo del síndrome metabólico, la dieta DASH es efectiva porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reduce el sodio y mejora la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la grasa saturada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye la ingesta de potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elimina los carbohidratos complejos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementa el consumo de carnes rojas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dieta DASH, rica en frutas, verduras y baja en sodio, mejora la presión arterial y el perfil metabólico."
+    },
+    {
+      "numero": "19",
+      "texto": "La adiponectina en el síndrome metabólico se encuentra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevada y antiinflamatoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuida, favoreciendo la resistencia a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sin cambios significativos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentada en obesidad abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "En valores normales pero inactiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los niveles bajos de adiponectina reducen la sensibilidad a la insulina y aumentan la inflamación metabólica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué papel tiene el ejercicio físico en el tratamiento del síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la resistencia a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la sensibilidad a la glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejora la sensibilidad insulínica y reduce el riesgo cardiovascular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eleva los triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementa la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ejercicio regular mejora la sensibilidad a la insulina, reduce grasa visceral y disminuye el riesgo cardiovascular global."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.014",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Salud infantil en Chile y el mundo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de mortalidad infantil a nivel mundial según la OMS?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedades respiratorias agudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Complicaciones neonatales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desnutrición aguda severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traumatismos accidentales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las complicaciones del período neonatal, especialmente las relacionadas con partos prematuros e infecciones, son la principal causa de mortalidad infantil global."
+    },
+    {
+      "numero": "2",
+      "texto": "En Chile, el indicador más usado para evaluar el bienestar infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tasa de mortalidad infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esperanza de vida al nacer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Índice de masa corporal promedio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tasa de natalidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Porcentaje de vacunación escolar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tasa de mortalidad infantil refleja las condiciones de salud, nutrición y acceso a atención médica en la infancia."
+    },
+    {
+      "numero": "3",
+      "texto": "Según UNICEF, uno de los mayores desafíos actuales en salud infantil global es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El bajo acceso a internet"
+        },
+        {
+          "opcion": "B",
+          "texto": "La malnutrición y obesidad infantil"
+        },
+        {
+          "opcion": "C",
+          "texto": "El exceso de vacunación"
+        },
+        {
+          "opcion": "D",
+          "texto": "La sobreoferta de alimentos saludables"
+        },
+        {
+          "opcion": "E",
+          "texto": "La disminución de la natalidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coexistencia de desnutrición y obesidad infantil constituye un desafío doble para la salud pública mundial."
+    },
+    {
+      "numero": "4",
+      "texto": "El Programa Chile Crece Contigo tiene como objetivo principal:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir la obesidad infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acompañar el desarrollo integral desde la gestación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fomentar la actividad física escolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Implementar controles médicos trimestrales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la vacunación selectiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Chile Crece Contigo apoya el desarrollo biopsicosocial desde la gestación hasta la primera infancia."
+    },
+    {
+      "numero": "5",
+      "texto": "Una causa frecuente de mortalidad infantil en países de bajos ingresos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedades diarreicas e infecciones respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastornos metabólicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Accidentes domésticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedades cardiovasculares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones respiratorias y diarreicas siguen siendo causas predominantes de muerte infantil en regiones vulnerables."
+    },
+    {
+      "numero": "6",
+      "texto": "En Chile, el control de niño sano busca principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar precozmente alteraciones del crecimiento y desarrollo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fomentar la vacunación de adultos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la natalidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tratar enfermedades crónicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Promover la atención secundaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control de niño sano permite prevenir, detectar y tratar tempranamente problemas de salud infantil."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué indicador refleja mejor las inequidades en salud infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cobertura de vacunas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tasa de mortalidad infantil por nivel socioeconómico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Promedio de peso al nacer"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tasa global de fecundidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proporción de partos institucionales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las diferencias en mortalidad infantil entre grupos sociales son un indicador sensible de desigualdad sanitaria."
+    },
+    {
+      "numero": "8",
+      "texto": "El principal avance en salud infantil en Chile durante las últimas décadas se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso extendido de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Implementación de programas de inmunización y control del niño sano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la natalidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor atención en hospitales privados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del parto domiciliario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las políticas públicas como el PAI y los controles preventivos han reducido significativamente la mortalidad infantil."
+    },
+    {
+      "numero": "9",
+      "texto": "Según la OMS, la desnutrición infantil contribuye aproximadamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10% de las muertes infantiles"
+        },
+        {
+          "opcion": "B",
+          "texto": "25% de las muertes infantiles"
+        },
+        {
+          "opcion": "C",
+          "texto": "45% de las muertes infantiles"
+        },
+        {
+          "opcion": "D",
+          "texto": "60% de las muertes infantiles"
+        },
+        {
+          "opcion": "E",
+          "texto": "80% de las muertes infantiles"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Casi la mitad de las muertes infantiles en el mundo están relacionadas con la desnutrición."
+    },
+    {
+      "numero": "10",
+      "texto": "Una estrategia global clave de la OMS para mejorar la salud infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estrategia AIEPI (Atención Integrada a las Enfermedades Prevalentes de la Infancia)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expansión del uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacunación selectiva por riesgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hospitalización sistemática de recién nacidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control de peso mensual obligatorio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La estrategia AIEPI busca reducir la mortalidad infantil mediante intervenciones integradas en el primer nivel de atención."
+    },
+    {
+      "numero": "11",
+      "texto": "En Chile, la principal causa de hospitalización infantil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones respiratorias agudas bajas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traumatismos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apendicitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obesidad severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropriva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones respiratorias agudas, especialmente bronquiolitis, son la principal causa de hospitalización pediátrica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué programa de salud chileno asegura la cobertura en enfermedades prioritarias de la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PAI"
+        },
+        {
+          "opcion": "B",
+          "texto": "GES (Garantías Explícitas en Salud)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Chile Crece Contigo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Programa Nacional de Alimentación Complementaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plan Auge Infantil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El GES garantiza atención oportuna, acceso y calidad en condiciones de salud prioritarias, incluyendo pediátricas."
+    },
+    {
+      "numero": "13",
+      "texto": "Una amenaza creciente para la salud infantil mundial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambio climático y desplazamientos poblacionales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de nacimientos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de partos institucionales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor acceso a la educación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor cobertura sanitaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cambio climático incrementa enfermedades infecciosas, inseguridad alimentaria y migraciones que afectan la salud infantil."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué grupo etario presenta mayor riesgo de mortalidad en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 a 4 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 a 9 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recién nacidos en el primer mes de vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niños escolares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescentes tempranos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El período neonatal concentra la mayor vulnerabilidad por causas perinatales y complicaciones del parto."
+    },
+    {
+      "numero": "15",
+      "texto": "El acceso al agua potable y saneamiento reduce significativamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El riesgo de obesidad infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Las infecciones respiratorias altas"
+        },
+        {
+          "opcion": "C",
+          "texto": "La incidencia de enfermedades diarreicas y parasitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los trastornos del sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "La prevalencia de alergias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El agua segura y saneamiento son determinantes sociales clave en la reducción de enfermedades infecciosas intestinales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué indicador refleja mejor el desarrollo infantil temprano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cobertura de vacunas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asistencia a educación parvularia y controles de salud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tasa de cesáreas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de dispositivos electrónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tamaño promedio familiar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La educación temprana y controles regulares son factores protectores del desarrollo infantil integral."
+    },
+    {
+      "numero": "17",
+      "texto": "La obesidad infantil en Chile se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factores genéticos aislados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedentarismo y alimentación poco saludable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitaminas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Altitud geográfica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los patrones de alimentación hipercalórica y la falta de actividad física son determinantes de la obesidad infantil."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué país latinoamericano presenta históricamente los mejores indicadores de salud infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "México"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chile"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bolivia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paraguay"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perú"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Chile lidera en la región con bajas tasas de mortalidad infantil y alta cobertura en salud y educación."
+    },
+    {
+      "numero": "19",
+      "texto": "Una meta de los Objetivos de Desarrollo Sostenible relacionada con la infancia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la mortalidad infantil por debajo de 25 por mil nacidos vivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminar completamente la desnutrición global"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duplicar la tasa de natalidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Garantizar acceso gratuito a educación universitaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la natalidad adolescente al 50%"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los ODS buscan reducir la mortalidad infantil a menos de 25 por mil para 2030 mediante intervenciones integrales."
+    },
+    {
+      "numero": "20",
+      "texto": "El mayor desafío futuro para la salud infantil en Chile es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad por enfermedades infecciosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Malnutrición por exceso y salud mental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falta de vacunación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta fecundidad adolescente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sobrepeso y los trastornos emocionales emergen como los principales desafíos de salud infantil en el siglo XXI."
+    }
+  ]
+}

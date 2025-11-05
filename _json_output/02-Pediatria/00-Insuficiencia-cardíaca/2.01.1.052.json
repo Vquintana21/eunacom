@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.052",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Insuficiencia cardíaca",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia cardíaca en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiopatía congénita con shunt izquierda-derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia supraventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las cardiopatías congénitas con shunt izquierda-derecha son la principal causa de insuficiencia cardíaca en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el síntoma más característico de la insuficiencia cardíaca en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea de esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ortopnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sudoración con la alimentación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema periférico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Palpitaciones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sudoración con la alimentación refleja dificultad respiratoria y gasto energético aumentado en el lactante."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo físico es más específico de insuficiencia cardíaca en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquipnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palidez cutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hepatomegalia refleja congestión venosa sistémica y es un signo sensible y específico de insuficiencia cardíaca."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes fármacos mejora la contractilidad en insuficiencia cardíaca pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enalapril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carvedilol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La digoxina es un inotrópico positivo que aumenta la contractilidad miocárdica en pacientes pediátricos seleccionados."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo radiológico es típico de la insuficiencia cardíaca en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiomegalia y redistribución pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón en zapato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arco aórtico derecho"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperclaridad pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corazón en huevo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cardiomegalia con congestión venosa pulmonar es el hallazgo radiológico más frecuente."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes signos indica congestión pulmonar en un niño con insuficiencia cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquipnea y retracciones intercostales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulso paradójico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desdoblamiento fijo del segundo ruido"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La taquipnea y las retracciones son manifestaciones clínicas de congestión pulmonar por sobrecarga izquierda."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué mecanismo fisiopatológico explica la insuficiencia cardíaca en cardiopatías con shunt izquierda-derecha?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto sistémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sobrecarga de volumen en cavidades izquierdas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del retorno venoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión sistémica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Isquemia miocárdica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cortocircuito izquierda-derecha genera sobrecarga de volumen e incremento del flujo pulmonar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué marcador de laboratorio se eleva en la insuficiencia cardíaca pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BNP o NT-proBNP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Troponina T"
+        },
+        {
+          "opcion": "C",
+          "texto": "CK total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactato deshidrogenasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "AST"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El péptido natriurético tipo B (BNP) se eleva por la distensión del ventrículo en insuficiencia cardíaca."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la principal causa de insuficiencia cardíaca en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiopatía congénita crítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia supraventricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las cardiopatías congénitas ductus-dependientes son la causa más frecuente en el periodo neonatal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué fármaco está contraindicado en insuficiencia cardíaca descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Captopril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carvedilol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dobutamina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los betabloqueadores como carvedilol deben suspenderse durante la descompensación aguda."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse en la insuficiencia cardíaca crónica pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia ventricular izquierda o derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo auriculoventricular completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "QT corto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas U prominentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La sobrecarga de presión o volumen puede causar hipertrofia ventricular detectable en el ECG."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué medida dietética es esencial en el manejo de la insuficiencia cardíaca infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de sodio en la dieta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de líquidos y sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aporte proteico alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de grasas saturadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción calórica severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La restricción de sodio y líquidos reduce la congestión y el trabajo cardíaco."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué manifestación clínica indica insuficiencia cardíaca derecha en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea y crepitaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia y edemas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ortopnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso filiforme"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia derecha produce congestión sistémica con hepatomegalia y edemas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el objetivo principal del uso de IECA en la insuficiencia cardíaca pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la postcarga y mejorar el gasto cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la retención de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prevenir arritmias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la contractilidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA reducen la postcarga, favoreciendo el gasto cardíaco y mejorando los síntomas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué signo clínico distingue la insuficiencia cardíaca de otras causas de disnea en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sudoración con la alimentación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiraje intercostal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estertores aislados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sudoración con la alimentación es un signo clásico por el esfuerzo respiratorio y metabólico."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación es más frecuente en la insuficiencia cardíaca no tratada en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición y retraso del crecimiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis constrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia supraventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desnutrición y el retraso ponderal son comunes debido al aumento del gasto metabólico y pobre ingesta."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué parámetro ecocardiográfico evalúa la función sistólica en insuficiencia cardíaca pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracción de eyección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tamaño del septum interventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diámetro auricular izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gradiente mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión pulmonar estimada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fracción de eyección permite cuantificar la función sistólica ventricular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico sugiere insuficiencia cardíaca avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea de esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ortopnea y disnea paroxística nocturna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis periférica leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ortopnea y disnea nocturna reflejan aumento de la presión venosa pulmonar en etapas avanzadas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el diurético de elección en la insuficiencia cardíaca aguda pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidroclorotiazida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Torsemida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amilorida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La furosemida es el diurético más usado por su potencia y efecto rápido en la congestión aguda."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué manifestación indica respuesta inadecuada al tratamiento en un niño con insuficiencia cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del peso corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Persistencia de hepatomegalia y taquipnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normalización del ritmo cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del apetito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción del edema"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La persistencia de signos congestivos como hepatomegalia o taquipnea indica respuesta insuficiente."
+    }
+  ]
+}

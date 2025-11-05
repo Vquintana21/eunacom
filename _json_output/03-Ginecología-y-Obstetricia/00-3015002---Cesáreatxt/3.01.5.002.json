@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.5.002",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.002 - Cesárea.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es una cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parto vaginal asistido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Extracción del feto a través de una incisión en el abdomen y útero"
+        },
+        {
+          "opcion": "C",
+          "texto": "Procedimiento para inducir el trabajo de parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maniobra obstétrica para rotación fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Técnica de revisión del útero postparto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cesárea es un procedimiento quirúrgico que consiste en extraer al feto mediante incisiones en el abdomen y útero."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la incisión uterina más utilizada en la cesárea moderna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vertical corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transversa baja segmentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Longitudinal alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oblicua lateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "En T invertida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incisión transversa baja segmentaria es la más común por menor sangrado y mejor cicatrización."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes es una indicación absoluta de cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sufrimiento fetal agudo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pelvis estrecha absoluta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presentación podálica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa oclusiva total"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La placenta previa oclusiva total impide el parto vaginal y requiere cesárea obligatoria."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la complicación materna más frecuente asociada a la cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección de la herida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotura uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infección de la herida operatoria es la complicación más común tras una cesárea."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué anestesia se utiliza con mayor frecuencia en cesáreas programadas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anestesia general"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo caudal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anestesia espinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo paracervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anestesia local"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anestesia espinal es preferida en cesáreas electivas por su eficacia y seguridad materna y fetal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes NO es una indicación de cesárea de emergencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desprendimiento prematuro de placenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolapso de cordón umbilical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sufrimiento fetal agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea previa con cicatriz baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ruptura uterina inminente"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una cesárea previa con cicatriz baja no requiere necesariamente cesárea de emergencia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de incisión cutánea se utiliza habitualmente en una cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vertical media infraumbilical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transversa de Pfannenstiel"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oblicua derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Subcostal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vertical supraumbilical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incisión transversa de Pfannenstiel ofrece mejor resultado estético y menor riesgo de hernia."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es una contraindicación relativa para parto vaginal después de cesárea (PVDC)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incisión uterina corporal previa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incisión transversa baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto previo vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea por sufrimiento fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intervalo intergenésico >2 años"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La incisión corporal previa tiene alto riesgo de ruptura uterina, contraindicado el PVDC."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el riesgo principal de una cesárea repetida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta previa o acretismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ruptura prematura de membranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retardo del crecimiento fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las cesáreas repetidas aumentan el riesgo de placenta previa y acretismo por cicatrices uterinas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el momento óptimo para realizar una cesárea electiva en embarazo normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de las 37 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 37 y 38 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "A las 39 semanas o más"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de las 41 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "En cualquier momento del tercer trimestre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las cesáreas electivas se recomiendan a partir de las 39 semanas para evitar problemas respiratorios neonatales."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la complicación fetal más frecuente tras cesárea electiva temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trauma craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depresión respiratoria neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia intracraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asfixia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sepsis neonatal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La depresión respiratoria transitoria es común en cesáreas electivas realizadas antes de las 39 semanas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué fármaco se utiliza como profilaxis antibiótica en la cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefazolina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cefazolina administrada antes de la incisión reduce el riesgo de infección posoperatoria."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación inmediata puede ocurrir durante la extracción fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embolia amniótica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión vesical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fractura de clavícula fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso de cordón"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Durante la extracción, pueden ocurrir lesiones fetales como fractura de clavícula o laceraciones cutáneas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué estructura debe evitarse lesionar durante la incisión uterina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trompa de Falopio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vejiga urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ligamento redondo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vejiga se encuentra inmediatamente anterior al segmento uterino inferior y debe protegerse antes de la incisión."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de sutura se prefiere para el cierre uterino en cesárea segmentaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sutura continua simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sutura interrumpida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sutura doble continua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sutura en X"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sutura en colchonero"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cierre uterino en dos planos con sutura continua asegura hemostasia y buena cicatrización."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IMC bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Primigesta mayor de 35 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antecedente de parto vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Altura materna alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embarazo único a término"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las primigestas mayores de 35 años tienen mayor riesgo de cesárea por distocia o sufrimiento fetal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué maniobra se utiliza para facilitar la extracción fetal durante la cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de Ritgen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maniobra de Kristeller"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión suprapúbica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tracción de Bracht"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compresión uterina inferior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presión suprapúbica externa ayuda a liberar la cabeza fetal durante la extracción en cesárea."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué complicación a largo plazo se asocia con cesárea repetida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incompetencia cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endometriosis de cicatriz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ruptura uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto pretérmino recurrente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La implantación de tejido endometrial en la cicatriz quirúrgica puede causar endometriosis de cicatriz."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida profiláctica reduce el riesgo de trombosis en cesárea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de medias compresivas y movilización precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de líquidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos por 10 días"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La movilización precoz y las medias compresivas disminuyen la incidencia de trombosis venosa posoperatoria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué signo clínico sugiere ruptura uterina en una mujer con cesárea previa en trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor lumbar leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematuria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cese de las contracciones y pérdida de la presentación fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de tono uterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertermia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cese de las contracciones, dolor súbito y pérdida de la presentación indican posible ruptura uterina."
+    }
+  ]
+}

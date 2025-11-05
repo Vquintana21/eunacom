@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal cuerpo cetónico medido en sangre durante la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acetona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetoacetato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hidroxibutirato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piruvato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El beta-hidroxibutirato es el cuerpo cetónico predominante en sangre durante la cetoacidosis diabética."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué relación beta-hidroxibutirato/acetoacetato se observa habitualmente en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1:1"
+        },
+        {
+          "opcion": "B",
+          "texto": "2:1"
+        },
+        {
+          "opcion": "C",
+          "texto": "3:1"
+        },
+        {
+          "opcion": "D",
+          "texto": "5:1"
+        },
+        {
+          "opcion": "E",
+          "texto": "10:1"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Durante la cetoacidosis diabética, la relación beta-hidroxibutirato/acetoacetato puede alcanzar 5:1 por el estado más reducido del NADH."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes órganos no puede utilizar cuerpos cetónicos como fuente de energía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hígado produce cuerpos cetónicos pero no los utiliza, ya que carece de la enzima 3-cetoacil-CoA transferasa."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué sustrato da origen a los cuerpos cetónicos en el hígado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aminoácidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácidos grasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glicerol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuerpos cetónicos derivan de la beta-oxidación de ácidos grasos en el hígado."
+    },
+    {
+      "numero": "5",
+      "texto": "La acumulación de cuerpos cetónicos en sangre provoca principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuerpos cetónicos son ácidos orgánicos, cuya acumulación genera acidosis metabólica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué enzima convierte el acetoacetato en beta-hidroxibutirato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta-hidroxibutirato deshidrogenasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetoacetil-CoA tiolasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "HMG-CoA sintasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "HMG-CoA liasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acetil-CoA carboxilasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La beta-hidroxibutirato deshidrogenasa interconvierte acetoacetato y beta-hidroxibutirato según el estado redox celular."
+    },
+    {
+      "numero": "7",
+      "texto": "En un paciente diabético, la elevación de cuerpos cetónicos en sangre indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del metabolismo anaerobio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperhidratación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La falta de insulina favorece la lipólisis y la producción de cuerpos cetónicos en el hígado."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes cuerpos cetónicos se exhala principalmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acetona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetoacetato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hidroxibutirato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido láctico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido pirúvico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acetona es volátil y se elimina principalmente por la respiración, dando el olor característico a frutas."
+    },
+    {
+      "numero": "9",
+      "texto": "Durante la cetoacidosis diabética, ¿qué ocurre con el cociente NADH/NAD⁺ en el hígado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permanece igual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluctúa según el pH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende del cortisol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cociente NADH/NAD⁺ aumenta por la alta tasa de beta-oxidación, promoviendo la formación de beta-hidroxibutirato."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué método es más preciso para medir cuerpos cetónicos en sangre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiras reactivas de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colorimetría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición en aire espirado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación en sangre capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Benedict"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La medición en sangre capilar detecta directamente beta-hidroxibutirato, ofreciendo mayor precisión diagnóstica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el rango normal de cuerpos cetónicos en sangre en ayuno fisiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<0,1 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "0,5-1 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "1-3 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "3-5 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": ">5 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En condiciones normales, la concentración de cuerpos cetónicos es menor a 0,1 mmol/L."
+    },
+    {
+      "numero": "12",
+      "texto": "La producción de cuerpos cetónicos se estimula por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta concentración de insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibición de la lipólisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de glucagón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación de malonil-CoA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Activación de la glucólisis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El glucagón estimula la beta-oxidación y la cetogénesis al disminuir el nivel de malonil-CoA."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué alteración electrolítica acompaña frecuentemente la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipermagnesemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocloremia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acidosis provoca salida de potasio de las células, generando hiperkalemia relativa."
+    },
+    {
+      "numero": "14",
+      "texto": "El aumento de cuerpos cetónicos en sangre se asocia a qué tipo de respiración característica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cheyne-Stokes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biot"
+        },
+        {
+          "opcion": "C",
+          "texto": "Kussmaul"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpnea cíclica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La respiración de Kussmaul es una respuesta compensatoria a la acidosis metabólica por cetonas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hormona inhibe directamente la cetogénesis hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucagón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "GH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina suprime la lipólisis y la formación de acetil-CoA, reduciendo la cetogénesis."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el umbral aproximado para considerar cetonemia significativa en sangre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">0,3 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": ">0,5 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": ">1,0 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": ">1,5 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": ">3,0 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Una concentración superior a 3,0 mmol/L se considera cetonemia significativa o compatible con cetoacidosis."
+    },
+    {
+      "numero": "17",
+      "texto": "Durante el ayuno prolongado, los cuerpos cetónicos:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan en sangre y su uso cerebral disminuye"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentan y son usados por el cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuyen progresivamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se eliminan solo por orina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentan por efecto de la insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante el ayuno, los cuerpos cetónicos aumentan y se convierten en fuente energética importante para el cerebro."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el producto inicial de la condensación de dos moléculas de acetil-CoA en la vía cetogénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HMG-CoA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetoacetil-CoA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hidroxibutirato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malonil-CoA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Citrato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Dos moléculas de acetil-CoA se condensan para formar acetoacetil-CoA, paso inicial de la cetogénesis."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la principal consecuencia metabólica del exceso de cuerpos cetónicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de cuerpos cetónicos genera acidosis metabólica, una complicación grave en la diabetes no controlada."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué intervención inicial es fundamental para corregir la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar bicarbonato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dar insulina y fluidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restringir líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar glucagón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la ingesta lipídica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia con insulina y fluidos restaura el equilibrio metabólico y detiene la cetogénesis."
+    }
+  ]
+}

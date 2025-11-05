@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.019",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por hemoptisis leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminación de más de 600 mL en 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminación menor de 100 mL en 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminación entre 100 y 300 mL en 24 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangrado con compromiso hemodinámico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis asociada a shock"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis leve se define como la expectoración de menos de 100 mL de sangre en 24 horas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué volumen de sangre caracteriza una hemoptisis moderada o mediana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 50 mL en 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 100 y 600 mL en 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Más de 600 mL en 24 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 1000 mL en 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exactamente 50 mL en 24 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis mediana se refiere a la expulsión de entre 100 y 600 mL de sangre en 24 horas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más frecuente de hemoptisis leve o mediana en países con baja prevalencia de tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquiectasias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma broncogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquitis crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía bacteriana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En regiones con baja incidencia de tuberculosis, la bronquitis crónica es la causa más frecuente de hemoptisis leve o moderada."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes síntomas suele acompañar a la hemoptisis leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta y escalofríos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expectoración sanguinolenta sin dificultad respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea intensa y cianosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor torácico opresivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hemoptisis leve el paciente suele presentar esputo con vetas de sangre sin alteraciones hemodinámicas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes agentes infecciosos se asocia con hemoptisis moderada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rhinovirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Influenza tipo B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coronavirus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Mycobacterium tuberculosis puede causar destrucción tisular cavitada y hemoptisis de magnitud variable."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estudio inicial se recomienda ante una hemoptisis leve persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoscopía rígida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de alta resolución"
+        },
+        {
+          "opcion": "D",
+          "texto": "Angiografía pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de tórax es la primera herramienta diagnóstica para evaluar la causa de hemoptisis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué característica diferencia a la hemoptisis de la hematemesis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de sangre oscura y coagulada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sangre roja brillante y espumosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asociación con náuseas y vómitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de melena"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH ácido del material expulsado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis se caracteriza por sangre roja brillante, espumosa y de origen respiratorio."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de las siguientes enfermedades crónicas puede cursar con hemoptisis leve recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquiectasias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "EPOC leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax espontáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bronquiectasias predisponen a infecciones recurrentes y erosión vascular que provocan hemoptisis leve o mediana."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal de la hemoptisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rotura de vasos bronquiales inflamados o erosionados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del retorno venoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de la presión capilar pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración del transporte mucociliar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis ocurre por rotura de vasos bronquiales inflamados o erosionados por infecciones o tumores."
+    },
+    {
+      "numero": "10",
+      "texto": "En la evaluación de una hemoptisis leve, ¿cuál es el objetivo inicial del manejo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Controlar la tos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar la causa y localización del sangrado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender anticoagulantes inmediatamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar transfusión sanguínea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo inicial es identificar la fuente y causa del sangrado mediante estudios de imagen y evaluación clínica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes medicamentos puede predisponer a hemoptisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amlodipino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Omeprazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Loratadina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticoagulantes como la warfarina pueden facilitar la aparición o agravamiento de hemoptisis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo broncoscópico es típico en hemoptisis leve de origen inflamatorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa obstructiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mucosa eritematosa con sangrado difuso leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coágulos adherentes extensos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis bronquial extensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquios colapsados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En procesos inflamatorios leves, la mucosa bronquial se observa enrojecida con sangrado superficial difuso."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes es una causa cardiovascular de hemoptisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial sistémica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía dilatada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endocarditis tricuspídea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La estenosis mitral puede generar hipertensión pulmonar y ruptura de capilares alveolares con hemoptisis."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué maniobra está indicada si la hemoptisis mediana empeora durante la atención inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intubación con tubo de doble luz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración gástrica continua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilación no invasiva inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nebulización con adrenalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rehidratación intravenosa exclusiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La intubación con tubo de doble luz permite aislar el pulmón sangrante y mantener la ventilación del lado sano."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el aspecto típico de la sangre expectorada en la hemoptisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oscura, con restos alimentarios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espumosa, roja brillante y alcalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Negra, con coágulos duros"
+        },
+        {
+          "opcion": "D",
+          "texto": "Marrón, con olor a bilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espesa, con moco verdoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sangre expectorada en hemoptisis es espumosa, de color rojo brillante y tiene pH alcalino."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes diagnósticos diferenciales debe considerarse en hemoptisis leve recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epistaxis posterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma de aorta torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La epistaxis posterior puede simular hemoptisis por paso de sangre hacia la orofaringe durante el sueño."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué examen es útil para localizar el sitio del sangrado cuando la radiografía es normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoscopía flexible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía sin contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La broncoscopía flexible permite identificar el origen del sangrado incluso cuando las imágenes son normales."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la medida terapéutica inicial más importante en hemoptisis mediana sin compromiso hemodinámico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reposo y observación hospitalaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de heparina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fisioterapia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia de alto impacto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En hemoptisis moderada se recomienda reposo, control del sangrado y observación hospitalaria hasta identificar la causa."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico sugiere sangrado de origen bronquial y no alveolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esputo espumoso difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis con tos intensa y sangre fresca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis sin tos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoxemia profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangre oscura mezclada con esputo escaso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sangrado bronquial suele acompañarse de tos y expectoración de sangre roja fresca."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la complicación más temida de la hemoptisis moderada no controlada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asfixia por inundación alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquitis secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La asfixia por inundación de los alveolos con sangre es la principal causa de muerte en hemoptisis significativa."
+    }
+  ]
+}

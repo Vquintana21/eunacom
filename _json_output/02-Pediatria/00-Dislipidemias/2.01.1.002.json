@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.002",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Dislipidemias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la dislipidemia más frecuente en la edad pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia familiar homocigota"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercolesterolemia familiar heterocigota"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrigliceridemia familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dislipidemia combinada familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoalfalipoproteinemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipercolesterolemia familiar heterocigota es la forma más frecuente en la infancia."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal componente lipídico elevado en la hipercolesterolemia familiar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDL-colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL-colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "VLDL-colesterol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quilomicrones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipercolesterolemia familiar se caracteriza por aumento aislado de LDL-colesterol."
+    },
+    {
+      "numero": "3",
+      "texto": "¿A qué edad se recomienda iniciar el tamizaje de dislipidemia en niños sin factores de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A los 2 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre los 5 y 6 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre los 9 y 11 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 13 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 18 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tamizaje universal se recomienda entre los 9 y 11 años según guías AAP y NHLBI."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes valores se considera diagnóstico de hipercolesterolemia en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total > 150 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL > 110 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL > 130 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "HDL < 60 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos > 200 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "LDL ≥130 mg/dL confirma hipercolesterolemia según los criterios pediátricos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo físico puede sugerir una dislipidemia genética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Xantomas tendinosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritema malar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Petequias palpebrales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatoesplenomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlceras orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los xantomas tendinosos y tuberosos son característicos de dislipidemias familiares severas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes condiciones NO es un factor secundario de dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio regular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de corticoides"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El ejercicio regular mejora el perfil lipídico, no lo empeora."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué medida inicial se recomienda ante una dislipidemia leve sin factores de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar estatinas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Modificar dieta y aumentar actividad física"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender lácteos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar fibratos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicar omega 3 farmacológico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La primera medida es cambiar hábitos alimentarios y promover ejercicio regular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el patrón lipídico típico en la dislipidemia combinada familiar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de LDL y triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de HDL y triglicéridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL bajo y HDL alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Triglicéridos aislados elevados"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDL aislado elevado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dislipidemia combinada cursa con elevación simultánea de LDL y triglicéridos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué dieta se recomienda para un niño con hipercolesterolemia familiar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en proteínas animales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baja en grasas saturadas y colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta en carbohidratos simples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Restrictiva en calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetogénica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se aconseja dieta baja en grasas saturadas y colesterol, rica en frutas y fibra."
+    },
+    {
+      "numero": "10",
+      "texto": "¿A qué edad puede considerarse el uso de estatinas en niños con hipercolesterolemia familiar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de los 5 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre los 6 y 8 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de los 10 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de los 15 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en adultos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las guías recomiendan iniciar estatinas a partir de los 10 años si persiste LDL alto."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué fármaco es de elección en la hipercolesterolemia familiar pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibratos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ezetimiba"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estatinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niacina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resinas de intercambio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las estatinas son el tratamiento de primera línea para disminuir LDL en niños."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el valor objetivo de LDL en un niño con riesgo cardiovascular alto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<160 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<110 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<70 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El objetivo es LDL <100 mg/dL en niños con alto riesgo cardiovascular."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el perfil lipídico característico del síndrome metabólico pediátrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL bajo y triglicéridos altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL alto y HDL alto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos bajos y HDL alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDL y HDL elevados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome metabólico se caracteriza por HDL bajo y triglicéridos elevados."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué condición endocrina se asocia frecuentemente a dislipidemia secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pubertad precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes insípida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperparatiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo causa aumento de colesterol y LDL por menor metabolismo lipídico."
+    },
+    {
+      "numero": "15",
+      "texto": "En un niño con triglicéridos >500 mg/dL, ¿cuál es la principal complicación a prevenir?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aterosclerosis precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Triglicéridos muy altos predisponen a pancreatitis aguda por lipotoxicidad pancreática."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes valores es considerado HDL bajo en población pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<50 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<45 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<40 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<30 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "HDL <40 mg/dL se considera bajo en niños y aumenta el riesgo cardiovascular."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué prueba debe realizarse antes de iniciar estatinas en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil hepático y CPK"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "ECG basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perfil tiroideo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe evaluarse función hepática y CPK antes y durante el tratamiento con estatinas."
+    },
+    {
+      "numero": "18",
+      "texto": "En un niño obeso con dislipidemia, ¿cuál es la intervención más efectiva a largo plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta hipograsa estricta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio y reducción de peso sostenida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento farmacológico precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ayuno intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia con omega 3"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reducción de peso y actividad física son las intervenciones más efectivas a largo plazo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué componente del perfil lipídico se ve más afectado por la obesidad infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL bajo y triglicéridos altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colesterol total bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos bajos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obesidad infantil se asocia a HDL bajo y triglicéridos elevados."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué examen es el estándar para diagnosticar dislipidemia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil lipídico en ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol total no ayuno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición de lipoproteína(a)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Índice aterogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía hepática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El perfil lipídico en ayuno permite determinar colesterol, HDL, LDL y triglicéridos."
+    }
+  ]
+}

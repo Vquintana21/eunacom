@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.017",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Supervisión de salud- escolar",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la supervisión de salud escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar enfermedades transmisibles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promover el bienestar físico, mental y social del escolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar el peso y la talla únicamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar vacunas pendientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Emitir certificados médicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La supervisión escolar busca promover el bienestar integral del niño, no solo detectar enfermedades."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué aspecto se evalúa en la supervisión del escolar para detectar dificultades de aprendizaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Visión y audición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nutrición"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desarrollo psicomotor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salud bucal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estado vacunal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La evaluación de visión y audición permite identificar causas orgánicas de bajo rendimiento escolar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Con qué frecuencia deben realizarse los controles de salud escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anualmente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo ante síntomas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 3 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda un control de salud integral una vez al año en edad escolar."
+    },
+    {
+      "numero": "4",
+      "texto": "Durante la etapa escolar, el crecimiento se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento acelerado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estabilidad y crecimiento lento pero sostenido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cese del crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del apetito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento súbito de grasa corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la edad escolar el crecimiento es estable y sostenido, preparatorio para la pubertad."
+    },
+    {
+      "numero": "5",
+      "texto": "Una función importante del control escolar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratar enfermedades infecciosas agudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar factores de riesgo y promover estilos de vida saludables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar medicamentos preventivos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar discapacidad mental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar evaluaciones cognitivas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Permite identificar factores de riesgo y fomentar conductas saludables en los escolares."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué indicador antropométrico se utiliza para evaluar el estado nutricional en escolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso para la edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla para la edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "IMC para la edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perímetro cefálico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasa corporal total"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El índice de masa corporal para la edad es el mejor indicador nutricional en edad escolar."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué examen físico no debe faltar en la supervisión del escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palpación abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exploración neurológica completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación visual y auditiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tacto rectal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen ginecológico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El control visual y auditivo permite detectar problemas que interfieren con el aprendizaje."
+    },
+    {
+      "numero": "8",
+      "texto": "El examen bucal en la supervisión escolar busca principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar maloclusiones y caries"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar la fonación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar trastornos del gusto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinar dieta adecuada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observar erupción dental"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Detectar caries y maloclusiones permite derivar oportunamente al odontólogo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué componente psicosocial es relevante en la supervisión del escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Relación con profesores y pares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Capacidad auditiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Memoria a corto plazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estado vacunal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Actividad motora gruesa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las relaciones interpersonales influyen en el bienestar emocional y el desempeño académico."
+    },
+    {
+      "numero": "10",
+      "texto": "Una medida preventiva clave en la edad escolar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control del colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educación sobre higiene y alimentación saludable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementación universal con hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia psicológica rutinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Educar en higiene y alimentación contribuye a la prevención de enfermedades crónicas y caries."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué vacuna se administra habitualmente en edad escolar en Chile?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rotavirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "DTPa y Polio refuerzo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis B neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Influenza"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "A los 4 y 10 años se administra refuerzo DTPa y Polio dentro del esquema PAI."
+    },
+    {
+      "numero": "12",
+      "texto": "La obesidad infantil se asocia más frecuentemente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición prenatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajo peso al nacer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedentarismo y dieta hipercalórica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia por déficit de hierro"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El sedentarismo y el exceso calórico son las principales causas de obesidad escolar."
+    },
+    {
+      "numero": "13",
+      "texto": "El examen de salud escolar debe incluir la detección de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastornos visuales, auditivos y posturales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial en todos los niños"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastornos del sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Caries exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los problemas visuales, auditivos y posturales impactan directamente en el rendimiento escolar."
+    },
+    {
+      "numero": "14",
+      "texto": "En el control de salud escolar, la anamnesis debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo antecedentes perinatales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antecedentes familiares, escolares y sociales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedades infecciosas actuales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo historia vacunal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hábitos alimentarios del lactante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La historia debe incluir antecedentes personales, familiares y escolares para una evaluación integral."
+    },
+    {
+      "numero": "15",
+      "texto": "El médico escolar debe coordinar acciones con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ministerio de Educación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Profesor jefe y familia del niño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consultor odontológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nutricionista exclusivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Servicios de urgencia"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La coordinación entre salud, educación y familia optimiza el bienestar del estudiante."
+    },
+    {
+      "numero": "16",
+      "texto": "El control de salud escolar es idealmente realizado por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Profesor jefe"
+        },
+        {
+          "opcion": "B",
+          "texto": "Médico general o pediatra con equipo multidisciplinario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Psicólogo escolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trabajador social"
+        },
+        {
+          "opcion": "E",
+          "texto": "Kinesiólogo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse por un equipo de salud con enfoque integral, liderado por pediatra o médico general."
+    },
+    {
+      "numero": "17",
+      "texto": "Una dificultad escolar que puede tener origen médico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pereza académica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miopía no diagnosticada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Problemas familiares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desinterés escolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiedad por exámenes"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Las dificultades visuales o auditivas pueden confundirse con desinterés o bajo rendimiento escolar."
+    },
+    {
+      "numero": "18",
+      "texto": "Un componente esencial de la supervisión escolar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación anual obligatoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluación del desarrollo psicosocial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma de rutina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma anual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El desarrollo psicosocial debe ser evaluado para detectar conflictos o trastornos de conducta."
+    },
+    {
+      "numero": "19",
+      "texto": "El médico debe educar en el entorno escolar sobre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Higiene personal y prevención de accidentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Farmacología básica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Técnicas de estudio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nutrición en adultos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedades crónicas geriátricas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La educación sobre higiene, nutrición y seguridad previene enfermedades y lesiones escolares."
+    },
+    {
+      "numero": "20",
+      "texto": "Una estrategia de promoción de salud en escuelas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Charlas aisladas de salud"
+        },
+        {
+          "opcion": "B",
+          "texto": "Programas integrales de vida saludable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender educación física"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entregar suplementos farmacológicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación sin educación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los programas integrales promueven hábitos saludables sostenibles en la comunidad escolar."
+    }
+  ]
+}

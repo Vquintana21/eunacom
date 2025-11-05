@@ -1,0 +1,600 @@
+{
+  "codigo": "1.01.1.021",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué estructura cardíaca genera el soplo sistólico eyectivo en el foco aórtico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Válvula tricúspide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Válvula pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Válvula aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Válvula mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aurícula izquierda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El soplo sistólico eyectivo en foco aórtico se produce por flujo turbulento a través de una válvula aórtica estenótica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué maniobra aumenta la intensidad del soplo de la miocardiopatía hipertrófica obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiración profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejecución de Valsalva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevación de piernas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de líquidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Posición en decúbito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Valsalva disminuye la precarga, intensificando el gradiente de obstrucción y el soplo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de soplo se asocia a la insuficiencia mitral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mesosistólico eyectivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Holosistólico que irradia a la axila"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diastólico precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo continuo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El soplo holosistólico de la insuficiencia mitral irradia hacia la axila izquierda."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué característica define a un soplo inocente o funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acompañado de cianosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intensidad ≥4/6"
+        },
+        {
+          "opcion": "C",
+          "texto": "No se asocia a signos patológicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diastólico en foco mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Produce frémito palpable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los soplos funcionales son de baja intensidad, sin otros hallazgos anormales cardíacos o hemodinámicos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo acompaña a un soplo de insuficiencia aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso parvus et tardus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso celer et altus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la presión diferencial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ritmo irregular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Foco pulmonar aumentado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insuficiencia aórtica causa un pulso amplio y de ascenso rápido (celer et altus)."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué maniobra disminuye el soplo de la estenosis aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Valsalva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sentarse"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agacharse"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio isométrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inspiración profunda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Valsalva reduce la precarga, disminuyendo el flujo a través de la válvula aórtica y el soplo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de soplo sugiere insuficiencia tricuspídea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diastólico decreciente en foco aórtico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Holosistólico que aumenta con la inspiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mesosistólico fijo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mesodiastólico en foco mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El soplo holosistólico de la insuficiencia tricuspídea se acentúa con la inspiración (signo de Carvallo)."
+    },
+    {
+      "numero": "8",
+      "texto": "¿En qué momento del ciclo cardíaco ocurre el soplo de la estenosis mitral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sístole"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mesodiástole"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presístole"
+        },
+        {
+          "opcion": "D",
+          "texto": "Continuo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Protosístole"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis mitral produce un soplo mesodiastólico por flujo turbulento de la aurícula al ventrículo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué soplo se irradia al cuello y carótidas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis tricuspídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso mitral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El soplo de estenosis aórtica típicamente se irradia hacia las carótidas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de soplo puede aparecer en un paciente con comunicación interventricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diastólico suave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Holosistólico intenso en borde esternal inferior izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mesosistólico en foco pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presistólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo de eyección suave"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo de izquierda a derecha genera un soplo holosistólico intenso en borde esternal inferior."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué soplo se asocia con un clic mesosistólico seguido de soplo tardío?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolapso de la válvula mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis aórtica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El prolapso mitral produce un clic por inversión del velo y un soplo tardío."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo físico acompaña al soplo de la estenosis mitral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ritmo de galope"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chasquido de apertura mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clic mesosistólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo continuo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desdoblamiento fijo del segundo ruido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El chasquido de apertura mitral se ausculta tras el segundo ruido cardíaco."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la mejor posición para auscultar un soplo de insuficiencia mitral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito lateral izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sentado e inclinado hacia adelante"
+        },
+        {
+          "opcion": "C",
+          "texto": "De pie"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito dorsal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inspirando profundamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El decúbito lateral izquierdo acerca el foco mitral a la pared torácica, facilitando su audición."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué maniobra aumenta el soplo de la insuficiencia mitral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejecución de Valsalva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Posición de cuclillas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inspiración profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exhalación forzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apnea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ponerse en cuclillas aumenta la poscarga y el volumen regurgitante mitral, intensificando el soplo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué soplo diastólico se escucha mejor con el paciente sentado e inclinado hacia adelante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo de Still"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La insuficiencia aórtica se ausculta mejor con el paciente inclinado hacia adelante en espiración."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué soplo se asocia a la fiebre reumática crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis tricuspídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia aórtica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis mitral es la secuela valvular más común de la fiebre reumática crónica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica del soplo sugiere gravedad en la estenosis aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio precoz y breve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo suave"
+        },
+        {
+          "opcion": "C",
+          "texto": "Culminación tardía con frémito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Auscultación limitada al foco pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desaparición con Valsalva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un soplo tardío e intenso con frémito indica estenosis aórtica severa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo complementario puede observarse en la insuficiencia aórtica crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ritmo de galope S4"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso de Corrigan"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desdoblamiento fijo del segundo ruido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ritmo de galope S3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pulso de Corrigan es un pulso saltón típico de la insuficiencia aórtica crónica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué soplo se escucha en un ductus arterioso persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diastólico puro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistólico eyectivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Continuo en foco pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holosistólico en foco mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presistólico en foco tricuspídeo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ductus arterioso persistente produce un soplo continuo por flujo de la aorta a la pulmonar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué característica define un soplo orgánico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambia con la postura"
+        },
+        {
+          "opcion": "B",
+          "texto": "No se asocia a alteraciones estructurales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiene origen en una lesión valvular o estructural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desaparece con el ejercicio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Es siempre inocente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los soplos orgánicos se deben a lesiones estructurales cardíacas o valvulares."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué hallazgo auscultatorio indica una estenosis mitral severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo breve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparición del chasquido de apertura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo más largo con refuerzo presistólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de S1"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clic mesosistólico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En estenosis mitral severa, el soplo diastólico se alarga y se refuerza en presístole."
+    }
+  ]
+}

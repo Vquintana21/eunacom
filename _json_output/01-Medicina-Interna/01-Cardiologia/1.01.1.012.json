@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica electrocardiográfica típica de la fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Onda P ausente y ritmo irregularmente irregular"
+        },
+        {
+          "opcion": "B",
+          "texto": "QRS ancho y monomórfico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de ondas P regulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ritmo regular con PR prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas delta visibles"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrilación auricular se caracteriza por la ausencia de ondas P y un ritmo ventricular irregularmente irregular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la complicación más temida de la fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis arterial sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar agudo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrilación auricular favorece la formación de trombos en la aurícula izquierda, con riesgo de embolia sistémica o ictus."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio más común de formación de trombos en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orejuela izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aurícula derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aorta ascendente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventrículo izquierdo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los trombos se forman con frecuencia en la orejuela izquierda debido al estancamiento sanguíneo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la meta del tratamiento con anticoagulantes en la fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir la formación de trombos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restaurar el ritmo sinusal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar el gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de anticoagulantes busca prevenir fenómenos tromboembólicos derivados de la estasis auricular."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué fármaco se usa comúnmente para el control de frecuencia en fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metoprolol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lidocaína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flecainida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Procainamida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los betabloqueadores como metoprolol reducen la frecuencia ventricular al disminuir la conducción AV."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué herramienta se utiliza para evaluar el riesgo tromboembólico en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CHA2DS2-VASc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Wells"
+        },
+        {
+          "opcion": "C",
+          "texto": "TIMI"
+        },
+        {
+          "opcion": "D",
+          "texto": "APACHE II"
+        },
+        {
+          "opcion": "E",
+          "texto": "HAS-BLED"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El puntaje CHA2DS2-VASc estima el riesgo de eventos tromboembólicos en pacientes con fibrilación auricular."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo auscultatorio es típico en fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso irregularmente irregular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo diastólico fijo"
+        },
+        {
+          "opcion": "D",
+          "texto": "S3 aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desdoblamiento fijo de S2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pulso es irregularmente irregular por la conducción ventricular impredecible."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué antiarrítmico puede usarse en el control del ritmo en fibrilación auricular persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flecainida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atenolol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Labetalol"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La amiodarona es útil para mantener el ritmo sinusal en fibrilación auricular persistente o crónica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué valor del INR se busca mantener en pacientes anticoagulados con warfarina por fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.0-1.5"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.5-2.0"
+        },
+        {
+          "opcion": "C",
+          "texto": "2.0-3.0"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.0-4.0"
+        },
+        {
+          "opcion": "E",
+          "texto": "4.0-5.0"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rango terapéutico ideal es 2.0 a 3.0 para prevenir eventos tromboembólicos sin aumentar el riesgo hemorrágico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la arritmia más frecuente en adultos mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flutter auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia paroxística supraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia ventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrilación auricular es la arritmia sostenida más frecuente en la población anciana."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué trastorno estructural cardíaco predispone a fibrilación auricular crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía hipertrófica"
+        },
+        {
+          "opcion": "E",
+          "texto": "CIA pequeña"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis mitral causa dilatación auricular izquierda, lo que favorece la aparición de fibrilación auricular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro define una fibrilación auricular como crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración menor a 48 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración mayor a 7 días o permanente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de síntomas severos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Responde a cardioversión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Es inducida por ejercicio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrilación auricular crónica es aquella persistente o permanente que no revierte a ritmo sinusal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación puede presentarse en la fibrilación auricular por respuesta ventricular rápida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión y síncope"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo AV completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia sinusal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una respuesta ventricular rápida puede comprometer el gasto cardíaco y provocar hipotensión o síncope."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué opción terapéutica puede usarse para control de frecuencia en pacientes con insuficiencia cardíaca y FA crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Verapamilo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flecainida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sotalol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Procainamida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La digoxina ayuda al control de frecuencia en pacientes con disfunción ventricular o insuficiencia cardíaca."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo en el ECG diferencia la fibrilación auricular del flutter auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas F irregulares sin línea isoeléctrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ondas F regulares tipo 'dientes de sierra'"
+        },
+        {
+          "opcion": "C",
+          "texto": "PR prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "QRS ancho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnivel del ST"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la fibrilación auricular las ondas F son irregulares y de morfología variable, sin línea isoeléctrica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué marcador ecocardiográfico indica alto riesgo de trombosis en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocinesia ventricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espontaneous echo contrast en aurícula izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aneurisma septal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia mitral leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El 'smoke' o contraste espontáneo en aurícula izquierda sugiere estasis y riesgo de formación de trombos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué fármaco está contraindicado en FA crónica con disfunción sistólica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verapamilo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metoprolol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los calcioantagonistas no dihidropiridínicos como verapamilo pueden empeorar la función sistólica ventricular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué factor no se incluye en el score CHA2DS2-VASc?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad ≥75 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El tabaquismo no forma parte del score CHA2DS2-VASc, aunque aumenta el riesgo cardiovascular general."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tipo de anticoagulante NO requiere control del INR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Warfarina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acenocumarol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apixabán"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fenprocumón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heparina sódica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los anticoagulantes orales directos como apixabán no requieren control rutinario del INR."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico es característico en el pulso arterial de un paciente con FA crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso alternante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulso deficitario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulso parvus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso bisferiens"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pulso deficitario ocurre por la contracción auricular ineficaz y el llenado ventricular irregular."
+    }
+  ]
+}

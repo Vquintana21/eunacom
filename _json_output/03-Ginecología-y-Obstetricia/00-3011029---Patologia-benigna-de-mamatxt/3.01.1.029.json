@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.029",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.029 - Patologia benigna de mama.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La lesión benigna más frecuente de la mama en mujeres jóvenes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibroadenoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papiloma intraductal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mastitis crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipoma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fibroadenoma es la lesión benigna más frecuente en mujeres jóvenes."
+    },
+    {
+      "numero": "2",
+      "texto": "La mastitis puerperal está más frecuentemente asociada a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteus mirabilis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El agente más común en mastitis puerperal es Staphylococcus aureus."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo clínico típico de un fibroadenoma es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa dura, irregular y fija"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa móvil, bien delimitada e indolora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión con retracción de piel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo doloroso con secreción hemática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masa con adenopatías axilares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fibroadenoma es una masa bien delimitada, móvil e indolora."
+    },
+    {
+      "numero": "4",
+      "texto": "La ectasia ductal se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Secreción sanguinolenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción serosa persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción espesa, verdosa y retracción del pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo duro en cuadrante superior externo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor mamario cíclico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ectasia ductal suele producir secreción verdosa y retracción del pezón."
+    },
+    {
+      "numero": "5",
+      "texto": "El papiloma intraductal se asocia típicamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo móvil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción serosa unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción hemática por pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor mamario bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mastitis recurrente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El papiloma intraductal suele causar secreción hemática espontánea por el pezón."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento inicial de un absceso mamario agudo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "AINEs"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos y drenaje quirúrgico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamoxifeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Seguimiento clínico sin intervención"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo incluye antibióticos y drenaje quirúrgico o aspiración según el caso."
+    },
+    {
+      "numero": "7",
+      "texto": "El dolor mamario cíclico se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibroadenoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad fibroquística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papiloma intraductal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absceso mamario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ectasia ductal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor mamario cíclico es característico de la enfermedad fibroquística."
+    },
+    {
+      "numero": "8",
+      "texto": "Un hallazgo ecográfico típico de un quiste mamario simple es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión sólida hiperecogénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión irregular con microcalcificaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión anecoica con refuerzo posterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión heterogénea vascularizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión mixta sólido-quística"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El quiste simple aparece como imagen anecoica con refuerzo posterior."
+    },
+    {
+      "numero": "9",
+      "texto": "El galactocele se produce por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción de un conducto galactóforo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transformación fibroquística"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenoma secretor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El galactocele es un quiste lácteo causado por obstrucción ductal en lactancia."
+    },
+    {
+      "numero": "10",
+      "texto": "El signo clínico que más orienta a patología maligna más que benigna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa móvil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción verdosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa dura, fija e irregular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor mamario cíclico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulo blando compresible"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una masa dura, fija e irregular orienta más a malignidad que a patología benigna."
+    },
+    {
+      "numero": "11",
+      "texto": "La mastitis granulomatosa idiopática se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Procesos infecciosos recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación crónica sin causa aparente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Siempre asociada a lactancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progresión inevitable a cáncer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respuesta inmediata a antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mastitis granulomatosa idiopática es una inflamación crónica de causa no infecciosa."
+    },
+    {
+      "numero": "12",
+      "texto": "El adenoma de la mama se diferencia del fibroadenoma en que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Siempre es maligno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiende a presentarse en lactancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Es más frecuente en posmenopáusicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se asocia a secreción hemática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Produce retracción de piel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenoma de la mama suele aparecer en mujeres en periodo de lactancia."
+    },
+    {
+      "numero": "13",
+      "texto": "El hallazgo histológico de enfermedad fibroquística incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Necrosis grasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metaplasia escamosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistes y fibrosis estromal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proliferación ductal maligna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado eosinofílico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad fibroquística incluye quistes y fibrosis del estroma mamario."
+    },
+    {
+      "numero": "14",
+      "texto": "La necrosis grasa mamaria se produce habitualmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trauma o cirugía previa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción ductal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis idiopática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La necrosis grasa suele originarse tras traumatismo o cirugía mamaria."
+    },
+    {
+      "numero": "15",
+      "texto": "El hallazgo clínico más común en ectasia ductal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa dura y fija"
+        },
+        {
+          "opcion": "B",
+          "texto": "Secreción verdosa o marrón por pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulo móvil indoloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor mamario cíclico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso recurrente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ectasia ductal produce secreción espesa verdosa o marrón y retracción del pezón."
+    },
+    {
+      "numero": "16",
+      "texto": "La mastitis periductal se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de anticonceptivos orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tabaquismo es un factor de riesgo para mastitis periductal."
+    },
+    {
+      "numero": "17",
+      "texto": "Un hallazgo típico de fibroadenoma gigante es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Siempre maligno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aparece en adolescentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción hemática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retracción de piel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociado a mastitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fibroadenoma gigante es más común en adolescentes y puede deformar la mama."
+    },
+    {
+      "numero": "18",
+      "texto": "El diagnóstico de certeza de lesiones benignas de mama se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Examen físico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mamografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia histológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La biopsia histológica confirma el diagnóstico de patología mamaria benigna."
+    },
+    {
+      "numero": "19",
+      "texto": "El lipoma mamario se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa dura e irregular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa blanda y móvil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción purulenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor cíclico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retracción cutánea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lipoma es una masa blanda, móvil y bien delimitada."
+    }
+  ]
+}

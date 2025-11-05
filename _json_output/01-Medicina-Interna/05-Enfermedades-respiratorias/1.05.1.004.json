@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.1.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué son las bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dilaciones reversibles de los bronquiolos terminales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento reversible de la pared alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilaciones irreversibles de los bronquios por destrucción de su pared"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inflamación aguda de los bronquios sin daño estructural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Formación de quistes pulmonares congénitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bronquiectasias son dilataciones bronquiales irreversibles causadas por destrucción de las paredes bronquiales secundarias a inflamación crónica o infecciones repetidas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de bronquiectasias en adultos en países desarrollados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tuberculosis pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones bacterianas recurrentes no tuberculosas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En países desarrollados, las bronquiectasias suelen ser consecuencia de infecciones bacterianas repetidas y no de tuberculosis."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de esputo es característico en las bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esputo espumoso sin olor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esputo mucoide claro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esputo purulento abundante y fétido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esputo con sangre fresca abundante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esputo seroso escaso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El esputo purulento y maloliente es típico de bronquiectasias por la presencia de infección crónica en las vías dilatadas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el agente infeccioso más frecuentemente aislado en bronquiectasias no asociadas a fibrosis quística?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspergillus fumigatus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Haemophilus influenzae es el microorganismo aislado con mayor frecuencia en bronquiectasias adquiridas no asociadas a fibrosis quística."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo radiológico es característico de las bronquiectasias en TAC de alta resolución?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vidrio esmerilado difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Árbol en brote"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo del anillo de sello"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos subpleurales múltiples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consolidación homogénea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo del anillo de sello, donde el bronquio dilatado supera el tamaño de la arteria adyacente, es típico de bronquiectasias."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de bronquiectasias se asocia con fibrosis quística?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cilíndricas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varicosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quísticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sacciformes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fusiformes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bronquiectasias quísticas, con dilataciones ampollares terminales, son frecuentes en la fibrosis quística avanzada."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué manifestación clínica suele acompañar al esputo purulento crónico en bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoptisis recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cianosis paroxística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico súbito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Afonía progresiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemoptisis recurrente se produce por erosión de vasos bronquiales dilatados en zonas inflamadas crónicamente."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo físico es típico en un paciente con bronquiectasias crónicas avanzadas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dedos en palillo de tambor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tórax en tonel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estridor laríngeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sibilancias inspiratorias aisladas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxemia crónica en bronquiectasias avanzadas puede producir acropaquia o dedos en palillo de tambor."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estudio diagnóstico es el más sensible para confirmar bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computarizada de alta resolución (TACAR)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TACAR es el método diagnóstico de elección porque permite visualizar la morfología y extensión de las bronquiectasias."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la fisiopatología principal de las bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción bronquial secundaria a hiperreactividad alérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inflamación crónica e infección que destruye las paredes bronquiales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoconstricción reversible del músculo liso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipersecreción mucosa sin daño estructural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colapso alveolar repetido por hipoventilación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inflamación crónica y la infección persistente destruyen el cartílago y el músculo bronquial, generando dilataciones irreversibles."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo espirométrico es característico en las bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Patrón restrictivo puro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón obstructivo con disminución del FEV1/FVC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Patrón mixto con FEV1 normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Capacidad vital aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistencia de vía aérea normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bronquiectasias suelen mostrar un patrón obstructivo con disminución del cociente FEV1/FVC por obstrucción al flujo aéreo."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué microorganismo se asocia a peor pronóstico en bronquiectasias crónicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycoplasma pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La colonización crónica por Pseudomonas aeruginosa se asocia con deterioro acelerado de la función pulmonar y mayor morbilidad."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la medida terapéutica más importante en el manejo crónico de bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides sistémicos diarios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos prolongados y fisioterapia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenoterapia continua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncodilatadores aislados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía pulmonar bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento combina antibióticos para infecciones y fisioterapia respiratoria para eliminar secreciones y mejorar el drenaje bronquial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué signo clínico diferencia bronquiectasias de bronquitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esputo purulento fétido y hemoptisis frecuente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea progresiva leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor torácico inespecífico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esputo purulento y maloliente con hemoptisis recurrente orienta a bronquiectasias más que a bronquitis crónica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿En qué zona pulmonar suelen localizarse las bronquiectasias postinfecciosas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulos superiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segmentos apicales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lóbulos inferiores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Segmentos anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lóbulos medios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bronquiectasias postinfecciosas son más frecuentes en lóbulos inferiores debido a la retención de secreciones por gravedad."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación puede presentarse en bronquiectasias severas y crónicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión pulmonar secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural seroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neoplasia bronquial benigna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia pulmonar aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxemia crónica y la inflamación persistente pueden generar hipertensión pulmonar secundaria en bronquiectasias avanzadas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué patología debe descartarse en bronquiectasias difusas desde la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "B",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tromboembolismo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrosis quística debe descartarse en casos de bronquiectasias difusas y recurrentes desde edades tempranas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué rol cumple la fisioterapia respiratoria en bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la inflamación bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecer la eliminación de secreciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la colonización bacteriana directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementar la capacidad vital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la broncoconstricción"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fisioterapia respiratoria facilita el drenaje de secreciones acumuladas, reduciendo infecciones y exacerbaciones."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la indicación quirúrgica en bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad difusa bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones recurrentes localizadas y refractarias al tratamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis leve ocasional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia respiratoria aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colonización inicial por Pseudomonas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resección quirúrgica se indica en bronquiectasias localizadas con infecciones o hemoptisis recurrentes no controladas médicamente."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo se observa frecuentemente en el examen del esputo en bronquiectasias crónicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Predominio de linfocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio de neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de eosinófilos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de basófilos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrófagos espumosos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esputo en bronquiectasias suele mostrar abundantes neutrófilos, reflejo de la inflamación bacteriana crónica."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué signo clínico orienta a exacerbación infecciosa en un paciente con bronquiectasias conocidas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del volumen y purulencia del esputo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la tos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la frecuencia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea matutina aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor pleurítico leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento del volumen y purulencia del esputo indica infección bacteriana activa y requiere antibióticos."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia suprarrenal crónica primaria en países desarrollados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tuberculosis suprarrenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autoinmunidad (enfermedad de Addison)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia suprarrenal bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección por citomegalovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metástasis suprarrenales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La causa más frecuente en países desarrollados es la autoinmunidad, conocida como enfermedad de Addison autoinmune."
+    },
+    {
+      "numero": "2",
+      "texto": "En la insuficiencia suprarrenal primaria, los niveles de ACTH son:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variables"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indetectables"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida de retroalimentación negativa por cortisol bajo provoca una elevación compensatoria de ACTH."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo cutáneo característico de la enfermedad de Addison es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palidez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperpigmentación difusa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema malar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitiligo segmentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Petequias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperpigmentación es consecuencia del exceso de ACTH y MSH en la insuficiencia suprarrenal primaria."
+    },
+    {
+      "numero": "4",
+      "texto": "La insuficiencia suprarrenal secundaria se distingue de la primaria porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presenta hiperpigmentación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se asocia a hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiene ACTH suprimida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cursa con hipertensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiene aldosterona elevada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la forma secundaria hay déficit hipofisario de ACTH, con cortisol bajo y aldosterona generalmente conservada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principal desequilibrio hidroelectrolítico en la insuficiencia suprarrenal primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipernatremia e hipopotasemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia e hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia e hipomagnesemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipokalemia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipernatremia e hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de aldosterona produce pérdida de sodio y retención de potasio, causando hiponatremia e hiperkalemia."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hormona permanece normal en la insuficiencia suprarrenal secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aldosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Andrógenos suprarrenales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Renina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la forma secundaria, la aldosterona se mantiene normal porque depende del sistema renina-angiotensina, no de la ACTH."
+    },
+    {
+      "numero": "7",
+      "texto": "El síntoma más común de la insuficiencia suprarrenal crónica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fatiga y debilidad progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea intensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fatiga crónica y la debilidad muscular son síntomas cardinales del déficit de cortisol y mineralocorticoides."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes hallazgos apoya el diagnóstico de insuficiencia suprarrenal primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ACTH baja y cortisol bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "ACTH alta y cortisol bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH normal y cortisol normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "ACTH alta y cortisol alto"
+        },
+        {
+          "opcion": "E",
+          "texto": "ACTH baja y cortisol alto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la forma primaria hay destrucción de la corteza, con cortisol bajo y ACTH compensatoriamente elevada."
+    },
+    {
+      "numero": "9",
+      "texto": "La prueba diagnóstica de elección para insuficiencia suprarrenal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol urinario en 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol plasmático basal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de estimulación con ACTH (cosintropina)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de supresión con dexametasona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medición de aldosterona plasmática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prueba con ACTH exógena evalúa la capacidad de la corteza suprarrenal para producir cortisol."
+    },
+    {
+      "numero": "10",
+      "texto": "En la insuficiencia suprarrenal primaria, la presión arterial suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ligeramente elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida de sodio y agua por déficit de aldosterona provoca hipotensión persistente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo bioquímico diferencia la insuficiencia suprarrenal primaria de la secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia normocítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperkalemia solo ocurre en la forma primaria debido al déficit de aldosterona."
+    },
+    {
+      "numero": "12",
+      "texto": "La insuficiencia suprarrenal secundaria puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción autoinmune suprarrenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tuberculosis suprarrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensión brusca de corticoides exógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección fúngica diseminada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia suprarrenal bilateral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La retirada súbita de corticoides prolongados suprime el eje hipotálamo-hipofisario, generando insuficiencia secundaria."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento de mantenimiento de la insuficiencia suprarrenal primaria incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo glucocorticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo mineralocorticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucocorticoides y mineralocorticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dexametasona nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "ACTH exógena intermitente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los pacientes requieren reemplazo tanto de glucocorticoides (hidrocortisona) como de mineralocorticoides (fludrocortisona)."
+    },
+    {
+      "numero": "14",
+      "texto": "La insuficiencia suprarrenal puede asociarse a otras enfermedades autoinmunes en el contexto de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome poliglandular autoinmune tipo II"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Conn"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Sheehan"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Nelson"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome poliglandular autoinmune tipo II combina Addison, tiroiditis autoinmune y diabetes tipo 1."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué manifestación digestiva es frecuente en la insuficiencia suprarrenal crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estreñimiento severo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anorexia y náuseas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor epigástrico urente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distensión abdominal leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las náuseas, vómitos y anorexia son comunes debido a la hipovolemia y al déficit de cortisol."
+    },
+    {
+      "numero": "16",
+      "texto": "En el contexto de Addison autoinmune, la presencia de vitiligo indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección concomitante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción excesiva de cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asociación autoinmune multisistémica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de ACTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno metabólico aislado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El vitiligo refleja la autoinmunidad sistémica que afecta a múltiples tejidos, incluyendo la corteza suprarrenal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo analítico se espera en la crisis suprarrenal aguda sobre una insuficiencia crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipernatremia e hiperglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia, hiperkalemia e hipoglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia y leucocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH elevada con cortisol alto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la crisis se produce hiponatremia, hiperkalemia e hipoglucemia por déficit agudo de cortisol y aldosterona."
+    },
+    {
+      "numero": "18",
+      "texto": "En la insuficiencia suprarrenal, la hipoglucemia se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la gluconeogénesis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del catabolismo muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resistencia a la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de glucogenólisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de cortisol reduce la gluconeogénesis hepática, causando hipoglucemia persistente."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hormona puede elevarse compensatoriamente en la insuficiencia suprarrenal primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Renina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aldosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "ACTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de volumen estimula la secreción de renina por el aparato yuxtaglomerular renal."
+    },
+    {
+      "numero": "20",
+      "texto": "En el tratamiento de la insuficiencia suprarrenal, la dosis de glucocorticoides debe aumentarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Situaciones de estrés o infección"
+        },
+        {
+          "opcion": "B",
+          "texto": "Durante el sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante el ayuno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuando se aumenta la fludrocortisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después del ejercicio físico leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En situaciones de estrés fisiológico, se requieren dosis mayores de glucocorticoides para evitar descompensación."
+    }
+  ]
+}

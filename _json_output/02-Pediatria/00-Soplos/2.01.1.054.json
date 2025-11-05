@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.054",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Soplos",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de soplo cardíaco en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiopatía congénita cianótica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo funcional o inocente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis aórtica congénita"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comunicación interventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocardiopatía dilatada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de los soplos en niños son funcionales o inocentes, sin patología estructural cardíaca."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes soplos se considera fisiológico en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo de Still"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo de Graham-Steell"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo de Austin-Flint"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo de Carey-Coombs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo de Rivero-Carvallo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El soplo de Still es el soplo funcional más frecuente en niños sanos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Dónde se ausculta mejor el soplo de Still?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Base del corazón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Borde esternal superior izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Borde esternal inferior izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apex cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Región pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El soplo de Still se ausculta mejor en el borde esternal inferior izquierdo con paciente en decúbito."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué característica sugiere que un soplo es patológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intensidad menor a grado II/VI"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye con la bipedestación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de frémito o irradiación amplia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desaparece al cambiar de posición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corto y musical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La irradiación y el frémito son signos de soplos orgánicos asociados a cardiopatía estructural."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes soplos es continuo durante todo el ciclo cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo de insuficiencia mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo de comunicación interauricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo de ductus arterioso persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo de estenosis aórtica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo de insuficiencia tricuspídea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ductus arterioso persistente genera un soplo continuo en maquinaria durante todo el ciclo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué maniobra disminuye la intensidad del soplo de Still?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiración profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bipedestación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Valsalva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito supino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio físico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El soplo de Still disminuye con la bipedestación por reducción del retorno venoso."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo acompaña con mayor frecuencia a un soplo patológico en el niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento pondoestatural normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo musical sin irradiación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis o signos de insuficiencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desaparición en posición de pie"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso normal y simétrico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de cianosis o signos de falla cardíaca sugiere un soplo orgánico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué característica tiene el soplo de insuficiencia mitral en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sistólico eyectivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diastólico temprano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sistólico holosistólico en el ápex con irradiación a axila"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo continuo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo musical vibrante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El soplo de insuficiencia mitral es holosistólico, máximo en el ápex y se irradia a la axila."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el soplo típico de una comunicación interventricular pequeña?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo diastólico suave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo holosistólico intenso en borde esternal inferior izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo sistólico eyectivo en foco pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo continuo en la base"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo musical cambiante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las CIV pequeñas generan soplos holosistólicos intensos en el borde esternal inferior izquierdo."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de soplo se asocia a una comunicación interauricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo holosistólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo sistólico eyectivo en foco pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soplo diastólico suave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo continuo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo musical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El soplo de CIA es sistólico eyectivo pulmonar por aumento del flujo a través de la válvula pulmonar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la mejor conducta ante un soplo funcional en un niño asintomático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Indicar ecocardiografía urgente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solicitar estudio Holter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tranquilizar a los padres y seguimiento clínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar tratamiento farmacológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derivar a cardiología infantil de inmediato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los soplos funcionales no requieren estudios adicionales ni tratamiento, solo control clínico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el principal criterio auscultatorio para diferenciar un soplo funcional de uno patológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Momento del ciclo cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Irradiación del soplo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intensidad y variación con postura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de soplos en familiares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad de aparición"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los soplos funcionales son suaves, varían con postura y no se irradian ampliamente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de soplo se produce por un ductus arterioso persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sistólico eyectivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diastólico de llenado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Continuo en maquinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holosistólico en ápex"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sistólico musical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ductus arterioso genera un soplo continuo 'en maquinaria' típico en el foco pulmonar."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo clínico puede acompañar un soplo de estenosis aórtica severa en el niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso saltón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulsos periféricos débiles y tardíos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo musical vibrante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión de pulso amplia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la estenosis aórtica, los pulsos son débiles y tardíos por la obstrucción al flujo sistémico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué característica define un soplo de estenosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sistólico eyectivo con desdoblamiento fijo del segundo ruido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistólico eyectivo con clic de eyección pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Holosistólico en ápex"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo diastólico temprano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo continuo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estenosis pulmonar genera un soplo sistólico eyectivo con clic de eyección audible."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes características NO corresponde a un soplo funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intensidad menor a III/VI"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparece en bipedestación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irradiación amplia al cuello o dorso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Musical o vibrante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asintomático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La irradiación amplia es típica de soplos orgánicos y no se observa en soplos funcionales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de soplo se asocia a una coartación aórtica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sistólico en foco pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistólico eyectivo en región interescapular izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diastólico de llenado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holosistólico apical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Continuo precordial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coartación aórtica produce un soplo sistólico que se irradia al dorso, especialmente interescapular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué estudio confirma la etiología de un soplo patológico en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiografía Doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecocardiografía Doppler permite visualizar alteraciones anatómicas y funcionales cardíacas causantes del soplo."
+    },
+    {
+      "numero": "19",
+      "texto": "En un lactante con soplo y dificultad respiratoria, ¿qué hallazgo indica patología significativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo suave grado I/VI"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de cianosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulsos femorales débiles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo que desaparece con el sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desdoblamiento fisiológico del segundo ruido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Pulsos femorales débiles sugieren coartación aórtica u obstrucción del flujo sistémico significativa."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué recomendación se da a los padres de un niño con soplo funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restringir actividad física"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar vacunas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control médico anual y vida normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar deportes de contacto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los niños con soplos funcionales pueden hacer vida normal y solo requieren control periódico."
+    }
+  ]
+}

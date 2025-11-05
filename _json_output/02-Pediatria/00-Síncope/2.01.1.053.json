@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.053",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síncope",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de síncope en niños y adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síncope cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síncope neurocardiogénico (vasovagal)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síncope por hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síncope ortostático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síncope vasovagal o neurocardiogénico es la causa más común en pediatría y suele ser benigno."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué maniobra puede provocar un episodio de síncope vasovagal en un paciente susceptible?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toser"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar esfuerzo físico intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prolongar la bipedestación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inspirar profundamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Levantar objetos pesados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La bipedestación prolongada puede inducir hipotensión y bradicardia mediada por el reflejo vasovagal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes hallazgos orienta a un síncope de origen cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Precedido por visión borrosa y náuseas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ocurre durante el ejercicio físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aparece en posición de pie prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuperación rápida sin confusión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de gatillo emocional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síncope durante el ejercicio es altamente sugestivo de una causa cardíaca."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estudio inicial se recomienda realizar en todo paciente pediátrico con síncope?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecocardiografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Holter 24 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El electrocardiograma permite detectar arritmias o alteraciones estructurales cardíacas que pueden causar síncope."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes síntomas sugiere una causa neurológica del síncope?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida breve de conciencia sin movimientos anormales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aura visual seguida de pérdida de conciencia prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de bradicardia durante el evento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuperación inmediata sin confusión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desencadenado por el calor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aura y la pérdida prolongada de conciencia son sugestivas de una causa neurológica, como crisis epiléptica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué característica clínica diferencia el síncope del episodio epiléptico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida de conciencia breve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de movimientos tónico-clónicos prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sudoración previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión postural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuperación completa en segundos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los movimientos tónico-clónicos prolongados y la confusión postictal orientan a una crisis epiléptica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el mecanismo fisiopatológico del síncope vasovagal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución súbita del tono simpático y bradicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasoconstricción periférica excesiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la contractilidad ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción del flujo sistémico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síncope vasovagal ocurre por vasodilatación y bradicardia mediadas por el sistema parasimpático."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes hallazgos requiere derivación urgente al cardiólogo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síncope con estrés emocional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síncope al ponerse de pie"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síncope durante el ejercicio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síncope con visión borrosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síncope con náuseas previas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síncope durante el ejercicio puede ser causado por arritmias o cardiopatías estructurales graves."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué maniobra diagnóstica se usa para reproducir un síncope vasovagal en el laboratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tilt test (prueba de la mesa basculante)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Holter ECG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecocardiografía Doppler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Registro de presión arterial ambulatoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de la mesa basculante reproduce el estímulo postural que desencadena el síncope vasovagal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial recomendado para el síncope vasovagal recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta bloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la ingesta de líquidos y sal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Marcapasos definitivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción de líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de la hidratación y del sodio ayuda a prevenir episodios de síncope vasovagal recurrente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el principal diagnóstico diferencial del síncope en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglicemia reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis de ansiedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epilepsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Migraña hemipléjica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La epilepsia debe considerarse siempre en el diagnóstico diferencial de pérdida súbita de conciencia."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo en el ECG sugiere una causa arrítmica del síncope?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intervalo PR corto"
+        },
+        {
+          "opcion": "B",
+          "texto": "QT prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia sinusal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eje izquierdo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas T negativas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El QT prolongado se asocia a torsades de pointes, causa potencialmente letal de síncope arrítmico."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué antecedente familiar aumenta el riesgo de síncope de origen cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia en familiares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muerte súbita en familiares jóvenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Migrañas recurrentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes tipo 1"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La muerte súbita en familiares jóvenes orienta a canalopatías hereditarias o cardiopatías estructurales."
+    },
+    {
+      "numero": "14",
+      "texto": "En un síncope vasovagal típico, ¿qué signo aparece durante la fase prodrómica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Confusión postevento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Palidez y sudoración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tonicidad aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incontinencia urinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La palidez y sudoración son síntomas previos frecuentes por activación parasimpática."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la causa más probable de síncope súbito sin pródromos en un niño deportista?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síncope vasovagal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocardiopatía hipertrófica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis epiléptica parcial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miocardiopatía hipertrófica puede causar arritmias ventriculares y síncope súbito durante el esfuerzo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el pronóstico del síncope vasovagal en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progresión a cardiopatía estructural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuperación completa con medidas posturales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta recurrencia con secuelas neurológicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociado a muerte súbita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pronóstico es benigno y suele resolverse con medidas de hidratación y evitación de gatillos."
+    },
+    {
+      "numero": "17",
+      "texto": "En un niño con síncope repetido y soplo cardíaco, ¿cuál es el estudio de elección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tilt test"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecocardiografía Doppler"
+        },
+        {
+          "opcion": "C",
+          "texto": "Holter ECG"
+        },
+        {
+          "opcion": "D",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "E",
+          "texto": "TC cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecocardiografía permite identificar causas estructurales como estenosis o miocardiopatías."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tipo de síncope se asocia más a posturas de pie prolongadas y ambientes calurosos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasovagal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neurológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metabólico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El calor y la bipedestación prolongada desencadenan vasodilatación y caída del retorno venoso en síncope vasovagal."
+    },
+    {
+      "numero": "19",
+      "texto": "En un síncope ortostático, ¿qué hallazgo se observa al pasar de decúbito a bipedestación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descenso de la presión arterial sistólica >20 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incremento del tono vagal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La caída de la presión sistólica al ponerse de pie caracteriza la hipotensión ortostática."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida preventiva se recomienda a pacientes con síncope vasovagal recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar el ejercicio físico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicios isométricos durante pródromos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso rutinario de betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar glucosa oral diariamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ejercicios isométricos (cruzar piernas o tensión muscular) aumentan el retorno venoso y previenen el episodio."
+    }
+  ]
+}

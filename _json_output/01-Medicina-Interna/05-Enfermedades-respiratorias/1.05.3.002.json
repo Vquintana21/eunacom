@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.3.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la medida más efectiva para prevenir daño pulmonar por inhalación de productos químicos en el trabajo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso adecuado de equipos de protección respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavado frecuente de manos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de antioxidantes orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico diario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación anual contra influenza"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso correcto de mascarillas o respiradores específicos evita la inhalación de sustancias tóxicas en ambientes laborales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de mascarilla se recomienda para exposición a vapores orgánicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mascarilla quirúrgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Respirador con filtro de carbón activado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mascarilla N95 estándar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pañuelo de tela"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respirador sin válvula"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los filtros de carbón activado absorben vapores orgánicos, protegiendo las vías respiratorias de solventes y aerosoles químicos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el mecanismo principal de lesión pulmonar por inhalación de cloro doméstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Formación de ácido clorhídrico y oxidantes en vías respiratorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción de radicales libres hepáticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depresión del sistema nervioso central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimulación del nervio vago"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatación refleja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cloro reacciona con agua en mucosas produciendo ácido clorhídrico y oxidantes que lesionan el epitelio respiratorio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué sustancia usada en limpieza doméstica produce gases tóxicos al mezclarse con cloro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoniaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido cítrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bicarbonato de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcohol etílico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vinagre blanco"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mezcla de cloro con amoníaco genera cloraminas gaseosas irritantes y potencialmente letales al inhalarse."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes es un riesgo laboral común asociado a la inhalación de sílice cristalina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Silicosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asbestosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis quística"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La exposición prolongada al polvo de sílice provoca silicosis, una neumoconiosis progresiva e irreversible."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de las siguientes medidas disminuye la exposición al polvo en ambientes laborales cerrados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación adecuada y extracción localizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de calefactores eléctricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la humedad relativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del número de trabajadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trabajo nocturno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ventilación con sistemas de extracción localizada elimina contaminantes aéreos y reduce su concentración."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la principal medida preventiva en trabajadores expuestos a asbesto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sustitución del material por alternativas no tóxicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación antigripal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidratación frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio respiratorio diario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La eliminación o sustitución del asbesto es la estrategia más efectiva para prevenir asbestosis y cáncer pulmonar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de daño pulmonar produce la exposición a vapores de pintura sin protección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquiolitis obliterante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfisema lobar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía intersticial aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taponamiento bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax espontáneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los vapores de solventes y pinturas pueden inducir bronquiolitis obliterante por inflamación crónica de vías aéreas pequeñas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué acción inmediata debe realizarse tras la inhalación accidental de vapores irritantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar al afectado a un área ventilada y evaluar oxigenación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inducir el vómito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar líquidos fríos por vía oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar compresas frías en el tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar sedantes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe retirarse al paciente del área contaminada y evaluarse la saturación de oxígeno y el estado respiratorio."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medida educativa previene intoxicaciones por productos domésticos volátiles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Etiquetar claramente los productos y evitar mezclas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Guardar los productos en envases sin etiqueta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mantenerlos destapados para ventilación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usarlos en espacios cerrados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diluirlos con agua caliente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La correcta identificación y uso independiente de productos químicos domésticos evita reacciones tóxicas y exposiciones peligrosas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de ventilación es más adecuada al usar aerosoles domésticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación cruzada con corrientes de aire naturales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aire acondicionado cerrado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calefacción intensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventiladores orientados al suelo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento total de ventanas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Abrir ventanas en lados opuestos genera ventilación cruzada y facilita la dispersión de gases o aerosoles."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes trabajadores tiene mayor riesgo de desarrollar neumonitis por hipersensibilidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agricultores expuestos a hongos o polvo orgánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trabajadores de oficina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conductores de transporte público"
+        },
+        {
+          "opcion": "D",
+          "texto": "Personal de aseo urbano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Guardias de seguridad"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La exposición repetida a antígenos orgánicos como mohos o bacterias en el polvo agrícola causa neumonitis por hipersensibilidad."
+    },
+    {
+      "numero": "13",
+      "texto": "El uso de respiradores con filtros HEPA se recomienda especialmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trabajos con polvo fino o esporas biológicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambientes con ozono elevado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Climas húmedos tropicales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tareas de cocina doméstica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambientes con vapor de agua"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los filtros HEPA retienen partículas microscópicas, ideales para proteger frente a polvo, mohos y alérgenos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de las siguientes acciones es una medida preventiva en talleres de soldadura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Instalar extracción de humos y ventilación localizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar solo ventiladores domésticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar el uso de mascarillas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trabajar en espacios confinados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumir líquidos durante la soldadura"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La extracción localizada elimina gases y humos metálicos, reduciendo el riesgo de intoxicación y neumonitis química."
+    },
+    {
+      "numero": "15",
+      "texto": "La exposición a amoníaco en ambientes domésticos o laborales puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoespasmo y edema pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del apetito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El amoníaco irrita las vías respiratorias, causando broncoespasmo y, en concentraciones elevadas, edema pulmonar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué práctica reduce el riesgo de intoxicación por monóxido de carbono en el hogar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Revisar anualmente calefones y estufas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener cerradas las ventanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encender estufas durante el sueño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar carbón en espacios cerrados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la temperatura del calefón"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La revisión periódica de calefones y estufas previene fugas de monóxido de carbono, evitando intoxicaciones fatales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es una consecuencia de la exposición prolongada a solventes orgánicos volátiles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquitis crónica y deterioro de la función pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de peso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión ortostática leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertermia transitoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los solventes orgánicos dañan el epitelio respiratorio y pueden causar bronquitis crónica con disminución del VEF1."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida preventiva se recomienda en trabajadores de panaderías para evitar asma ocupacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de mascarillas y control de polvo de harina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhalación de vapor caliente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta de antihistamínicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento del área de horneado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventanas cerradas durante el trabajo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El polvo de harina contiene proteínas alergénicas que pueden provocar asma ocupacional; las mascarillas previenen la exposición."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes es una recomendación general para el uso seguro de inhalantes domésticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leer etiquetas y usar guantes y mascarilla al aplicar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Utilizarlos sin protección personal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Guardar productos químicos junto a alimentos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usarlos en habitaciones sin ventanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mezclarlos para aumentar su efectividad"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Leer etiquetas y emplear medidas de protección personal son pasos esenciales para prevenir intoxicaciones respiratorias."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la mejor estrategia para prevenir enfermedades respiratorias ocupacionales en general?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Identificación y control de riesgos en el ambiente laboral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento total del trabajador"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementar las horas de trabajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar exámenes radiológicos semanales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El reconocimiento y control de los riesgos ambientales mediante vigilancia y educación laboral previene la aparición de enfermedades respiratorias."
+    }
+  ]
+}

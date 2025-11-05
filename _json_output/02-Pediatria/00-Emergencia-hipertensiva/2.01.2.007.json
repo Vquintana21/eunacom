@@ -1,0 +1,600 @@
+{
+  "codigo": "2.01.2.007",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Emergencia hipertensiva",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de emergencia hipertensiva en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión arterial sin daño orgánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación severa de la presión arterial con daño de órgano blanco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión arterial mayor al percentil 90 en tres mediciones consecutivas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión secundaria leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión diastólica elevada sin síntomas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La emergencia hipertensiva implica elevación grave de la presión arterial asociada a daño agudo de órganos vitales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el órgano más frecuentemente comprometido en una emergencia hipertensiva pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Páncreas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El riñón es el órgano más frecuentemente afectado en cuadros de hipertensión severa por daño vascular agudo."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué valor define hipertensión severa en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PA > percentil 90"
+        },
+        {
+          "opcion": "B",
+          "texto": "PA > percentil 95"
+        },
+        {
+          "opcion": "C",
+          "texto": "PA > percentil 99 + 5 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PA > percentil 85"
+        },
+        {
+          "opcion": "E",
+          "texto": "PA < percentil 90"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una presión arterial superior al percentil 99 + 5 mmHg indica hipertensión severa en niños y adolescentes."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué síntoma neurológico es más característico de una emergencia hipertensiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea intensa y vómitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palidez"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anorexia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cefalea intensa y los vómitos reflejan hipertensión intracraneal y daño de órgano blanco neurológico."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el manejo inicial adecuado de la emergencia hipertensiva pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión arterial lentamente con fármacos IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar diuréticos orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar líquidos IV en bolo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar clonidina oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicar reposo absoluto sin medicación"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Debe reducirse la presión arterial de forma gradual con fármacos IV para evitar hipoperfusión cerebral."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el fármaco de elección para reducir la presión arterial en emergencia hipertensiva pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Labetalol IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Captopril oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amlodipino oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidralazina sublingual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Propranolol IV"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El labetalol IV es seguro y eficaz para disminuir la presión arterial en crisis hipertensiva infantil."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estudio se solicita para evaluar daño renal asociado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica y orina completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina y el examen de orina permiten valorar compromiso renal agudo por hipertensión severa."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo oftalmológico indica daño por hipertensión severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Papiledema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia subconjuntival"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrabismo convergente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Catarata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conjuntivitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El papiledema es un signo de daño orgánico por aumento de presión intracraneana en crisis hipertensiva."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué valor de reducción máxima de la PA se recomienda durante la primera hora?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "15%"
+        },
+        {
+          "opcion": "C",
+          "texto": "25%"
+        },
+        {
+          "opcion": "D",
+          "texto": "40%"
+        },
+        {
+          "opcion": "E",
+          "texto": "50%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La reducción debe ser gradual, no superior al 25% de la PA inicial para evitar hipoperfusión cerebral."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la causa más frecuente de emergencia hipertensiva secundaria en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertiroidismo"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La glomerulonefritis postestreptocócica es la causa más común de hipertensión aguda severa en niños."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo indica compromiso cardíaco en una emergencia hipertensiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soplo funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia ventricular izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia refleja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ruidos cardíacos apagados"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertrofia ventricular izquierda es un signo de sobrecarga crónica de presión arterial elevada."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué examen permite identificar una causa vascular renal de hipertensión secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TAC cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía Doppler renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Urocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angiografía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Doppler renal permite detectar estenosis o alteraciones vasculares que originan hipertensión secundaria."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué fármaco puede usarse si no se dispone de labetalol intravenoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidralazina IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Captopril oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amlodipino oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metoprolol IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nicardipino tópico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hidralazina IV es una alternativa segura y eficaz en crisis hipertensivas pediátricas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo neurológico puede sugerir encefalopatía hipertensiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoactividad leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Llanto continuo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de apetito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las convulsiones son un signo cardinal de compromiso neurológico en encefalopatía hipertensiva."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro guía la velocidad de descenso de la presión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso corporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grado de daño neurológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duración del cuadro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión venosa central"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El grado de daño neurológico orienta la velocidad segura de reducción de la presión arterial."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el riesgo principal de reducir la presión arterial de forma excesivamente rápida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoperfusión cerebral y renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipokalemia severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión de rebote"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia refleja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Reducir la PA rápidamente puede provocar hipoperfusión y daño isquémico cerebral o renal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio es fundamental para evaluar compromiso cardíaco agudo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecocardiografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasometría arterial"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El ECG permite detectar hipertrofia ventricular o isquemia por sobrecarga de presión."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la diferencia clave entre urgencia y emergencia hipertensiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel absoluto de presión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Daño a órgano blanco presente en la emergencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duración del cuadro clínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edad del paciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo de fármaco usado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La emergencia se diferencia por presentar daño orgánico agudo, mientras que la urgencia no."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo en fondo de ojo indica daño hipertensivo avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragias y exudados retinianos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arteriolas normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Catarata incipiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desprendimiento vítreo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia óptica antigua"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las hemorragias y exudados retinianos reflejan daño vascular severo por hipertensión aguda."
+    },
+    {
+      "numero": "20",
+      "texto": "En un paciente con emergencia hipertensiva y falla renal aguda, ¿qué fármaco debe evitarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidralazina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nicardipino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Captopril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Labetalol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nitroprusiato"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El captopril puede agravar la insuficiencia renal por reducción del flujo glomerular."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Cuál es el objetivo de presión arterial en las primeras 24 horas de manejo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalizar completamente la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir un 25-30% de la presión inicial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir solo 10% del valor inicial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la diastólica a menos de 60 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la sistólica a menos de 100 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La reducción controlada del 25–30% en 24 horas evita hipoperfusión cerebral y renal."
+    }
+  ]
+}

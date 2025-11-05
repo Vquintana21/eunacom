@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.2.016",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.016 - Dolor pelvico agudo.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "Ante una mujer joven con dolor pélvico agudo y sangrado escaso, la primera causa a descartar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad inflamatoria pélvica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazo ectópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Torsión de ovario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endometriosis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apendicitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En toda mujer en edad fértil con dolor pélvico agudo debe descartarse en primer lugar embarazo ectópico."
+    },
+    {
+      "numero": "2",
+      "texto": "El signo más característico de torsión ovárica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor sordo y crónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor súbito e intenso unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metrorragia profusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secreción vaginal purulenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amenorrea prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La torsión ovárica suele presentarse con dolor súbito, intenso y localizado en fosa iliaca."
+    },
+    {
+      "numero": "3",
+      "texto": "El diagnóstico inicial en dolor pélvico agudo en paciente en edad fértil debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test rápido de embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laparoscopía diagnóstica inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcadores tumorales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La primera prueba es descartar embarazo mediante un test de embarazo en orina o sangre."
+    },
+    {
+      "numero": "4",
+      "texto": "En enfermedad inflamatoria pélvica aguda, el hallazgo clínico más típico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor hipogástrico y fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria macroscópica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalea y visión borrosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado intermenstrual"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad inflamatoria pélvica se caracteriza por dolor abdominal bajo y fiebre asociada."
+    },
+    {
+      "numero": "5",
+      "texto": "Un quiste ovárico roto típicamente se manifiesta por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal súbito con líquido libre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metrorragia intensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción vaginal maloliente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor lumbar irradiado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El quiste ovárico roto cursa con dolor abdominal súbito y líquido libre en cavidad pélvica."
+    },
+    {
+      "numero": "6",
+      "texto": "El método diagnóstico de elección en torsión ovárica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía transvaginal con Doppler"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histerosalpingografía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia laparoscópica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ecografía con Doppler es útil para evaluar flujo sanguíneo y diagnosticar torsión ovárica."
+    },
+    {
+      "numero": "7",
+      "texto": "La complicación más grave de un embarazo ectópico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aborto incompleto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia intraperitoneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amenorrea secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infertilidad temporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección puerperal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La rotura de embarazo ectópico causa hemorragia intraperitoneal, complicación potencialmente mortal."
+    },
+    {
+      "numero": "8",
+      "texto": "En dolor pélvico agudo, la elevación marcada de beta-hCG con útero vacío sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenomiosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo ectópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioma submucoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polipo endometrial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hallazgo de beta-hCG elevada con útero vacío en ecografía es sugestivo de embarazo ectópico."
+    },
+    {
+      "numero": "9",
+      "texto": "La laparoscopía en dolor pélvico agudo es útil porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es el tratamiento definitivo de endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permite diagnóstico y tratamiento simultáneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reemplaza al ultrasonido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descarta patología gastrointestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sustituye al test de embarazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La laparoscopía es útil en dolor pélvico agudo porque permite confirmar diagnóstico y resolver la causa."
+    },
+    {
+      "numero": "10",
+      "texto": "Una paciente con dolor pélvico agudo, fiebre, secreción purulenta y masa anexial sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mioma subseroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste folicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Absceso tubo-ovárico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Torsión uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometrioma roto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cuadro es típico de absceso tubo-ovárico, complicación de enfermedad inflamatoria pélvica."
+    },
+    {
+      "numero": "11",
+      "texto": "La torsión de ovario es más frecuente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovarios atróficos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quistes o masas anexiales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endometriosis mínima"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliquistosis ovárica leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de quistes o masas ováricas aumenta el riesgo de torsión por alteración en la movilidad."
+    },
+    {
+      "numero": "12",
+      "texto": "El manejo inicial del dolor pélvico agudo incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Analgesia y reposo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Descartar embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de antibióticos empíricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observación expectante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histerectomía inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La primera medida es descartar embarazo, dado el riesgo de embarazo ectópico roto."
+    },
+    {
+      "numero": "13",
+      "texto": "La apendicitis puede confundirse con dolor pélvico agudo ginecológico porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Produce hipermenorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se asocia a flujo vaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Genera dolor en fosa iliaca derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se diagnostica con colposcopia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre produce metrorragia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La apendicitis produce dolor en fosa iliaca derecha, pudiendo confundirse con patología ginecológica."
+    },
+    {
+      "numero": "14",
+      "texto": "El tratamiento de elección del absceso tubo-ovárico roto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Laparotomía de urgencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observación expectante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia hormonal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El absceso tubo-ovárico roto requiere cirugía de urgencia para drenaje y control de sepsis."
+    },
+    {
+      "numero": "15",
+      "texto": "La presencia de dolor pélvico agudo con líquido libre en Douglas sin masa anexial sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Torsión ovárica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quiste ovárico roto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mioma subseroso pediculado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endometriosis mínima"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un quiste ovárico roto suele causar líquido libre en Douglas sin hallazgos anexiales significativos."
+    },
+    {
+      "numero": "16",
+      "texto": "En torsión ovárica, el tratamiento de elección es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Laparoscopia con destorsión y fijación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo y analgesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia hormonal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento ideal es la laparoscopia con destorsión y fijación para preservar la función ovárica."
+    },
+    {
+      "numero": "17",
+      "texto": "En dolor pélvico agudo con fiebre alta y leucocitosis, el diagnóstico más probable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometriosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Torsión ovárica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad inflamatoria pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste funcional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad inflamatoria pélvica se presenta con dolor, fiebre y leucocitosis en etapa aguda."
+    },
+    {
+      "numero": "18",
+      "texto": "La mejor prueba inicial de imagen en dolor pélvico agudo ginecológico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "RM pélvica"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC contrastado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histerosalpingografía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colonoscopia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ecografía transvaginal es el estudio inicial recomendado en dolor pélvico agudo ginecológico."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo ecográfico típico de torsión ovárica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ovario hiperecogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de flujo en Doppler"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido libre en cavidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste multilocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento endometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En torsión ovárica se observa ausencia de flujo sanguíneo en Doppler en el ovario afectado."
+    }
+  ]
+}

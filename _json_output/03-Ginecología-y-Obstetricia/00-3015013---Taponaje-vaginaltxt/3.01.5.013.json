@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.5.013",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.5.013 - Taponaje vaginal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Procedimiento diagnóstico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medida terapéutica para controlar hemorragia vaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Técnica de obtención de muestra citológica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Método anticonceptivo de emergencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Procedimiento para inducción del parto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El taponaje vaginal consiste en la colocación de gasas o material estéril para controlar hemorragias vaginales o posparto."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la indicación más frecuente para realizar un taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia postparto leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sospecha de cáncer cervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retención de restos placentarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolapso uterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección pélvica aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El taponaje vaginal se utiliza principalmente como medida temporal para controlar una hemorragia posparto leve o moderada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el objetivo principal del taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimular la contractilidad uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comprimir vasos sangrantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prevenir infección uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorecer la episiotomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el dolor pélvico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo del taponaje es ejercer presión directa sobre los vasos sangrantes para controlar la hemorragia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué material se utiliza habitualmente para realizar el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresas secas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gasa estéril larga empapada en solución antiséptica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Algodón seco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paño quirúrgico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toalla absorbente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se utiliza una gasa larga estéril empapada en solución antiséptica o suero fisiológico estéril para evitar infecciones."
+    },
+    {
+      "numero": "5",
+      "texto": "¿En qué contexto se contraindica el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia por laceración vaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desgarros cervicales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Episiotomía reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometritis puerperal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El taponaje está contraindicado en placenta previa por riesgo de provocar hemorragia masiva y daño placentario."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el tiempo máximo recomendado para mantener el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "4 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "48 horas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El taponaje no debe mantenerse más de 24 horas debido al riesgo de infección o necrosis tisular."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es una complicación posible del taponaje vaginal prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eversión uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección y síndrome de shock tóxico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoperitoneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atonía uterina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso prolongado de taponajes puede favorecer la proliferación bacteriana y causar síndrome de shock tóxico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué procedimiento debe realizarse antes de colocar un taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tacto rectal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Revisión del canal del parto y control de lesiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Instalación de antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Curetaje uterino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Es indispensable revisar el canal del parto y suturar desgarros antes de colocar el taponaje para evitar sangrados ocultos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el principal signo que obliga a retirar un taponaje vaginal antes de tiempo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leve dolor pélvico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de flujo seroso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre o mal olor vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contracciones uterinas leves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prurito vulvar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de fiebre, mal olor o secreción purulenta sugiere infección, por lo que debe retirarse de inmediato."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué medida complementaria debe aplicarse junto al taponaje vaginal en hemorragias postparto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masaje uterino y administración de uterotónicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidratación oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibiótico profiláctico solo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compresas frías abdominales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El masaje uterino y el uso de uterotónicos ayudan a reducir la pérdida sanguínea en conjunto con el taponaje."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué agente antiséptico se utiliza comúnmente en la preparación del taponaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clorhexidina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Yodo povidona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcohol al 70%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agua oxigenada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Formaldehído diluido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El yodo povidona es el antiséptico más utilizado por su amplio espectro y baja irritación tisular."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la posición adecuada de la paciente para realizar el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito lateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Litotomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Decúbito prono"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fowler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trendelenburg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La posición de litotomía facilita la exposición del canal vaginal y la colocación controlada del taponaje."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué se debe verificar después de realizar el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signos de sangrado activo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contracción uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamaño del útero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temperatura rectal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tras el procedimiento se debe verificar si cesó el sangrado y monitorizar el estado hemodinámico de la paciente."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué material alternativo puede usarse si no hay gasas estériles disponibles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresas quirúrgicas limpias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toallas sanitarias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Material de algodón no estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paño limpio humedecido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Telas de lino reutilizables"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En situaciones de urgencia, se pueden utilizar compresas quirúrgicas limpias y estériles como alternativa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿En qué casos el taponaje vaginal puede ser una medida temporal antes de cirugía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia por úlcera cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rotura uterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desgarros vaginales múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atención de episiotomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia por cáncer cervical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El taponaje puede ser un control temporal de hemorragias por desgarros múltiples antes de la reparación quirúrgica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la diferencia entre el taponaje vaginal y el uterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El vaginal es terapéutico y el uterino diagnóstico"
+        },
+        {
+          "opcion": "B",
+          "texto": "El vaginal controla sangrado del canal y el uterino el intrauterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "El uterino se realiza con compresas secas"
+        },
+        {
+          "opcion": "D",
+          "texto": "El vaginal es siempre quirúrgico"
+        },
+        {
+          "opcion": "E",
+          "texto": "El uterino no requiere asepsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El taponaje vaginal comprime sangrados del canal, mientras que el uterino controla hemorragias dentro de la cavidad uterina."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida preventiva se recomienda tras retirar el taponaje vaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocar otro taponaje"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar líquidos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar uterotónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dejar gasas nuevas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Después de retirar el taponaje se recomienda profilaxis antibiótica para prevenir infección secundaria."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué signo indica que el taponaje vaginal fue efectivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de sangrado visible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de dolor pélvico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción serosa abundante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cese del sangrado y la estabilidad hemodinámica indican efectividad del taponaje vaginal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de los siguientes pasos debe evitarse durante el procedimiento de taponaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Revisión del canal vaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colocación de gasas con asepsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de material no estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitoreo posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control de sangrado activo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de material no estéril aumenta el riesgo de infección y debe evitarse siempre."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué evaluación se debe realizar antes del alta tras un taponaje exitoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de coagulación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Revisión ginecológica del canal y control de sangrado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Papanicolaou"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse una revisión del canal del parto para asegurar que no haya sangrado residual o lesiones ocultas."
+    }
+  ]
+}

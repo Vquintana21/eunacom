@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.4.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la prueba de provocación bronquial con fármacos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la respuesta inflamatoria pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar la capacidad de difusión pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la hiperreactividad bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar EPOC"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar el volumen residual"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prueba busca medir la hiperreactividad bronquial mediante la administración controlada de un agente provocador."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué agente farmacológico se utiliza con mayor frecuencia en la prueba de provocación bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metacolina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acetilcolina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenosina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epinefrina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metacolina es el agente más utilizado por su capacidad para inducir broncoconstricción de forma controlada y reproducible."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué parámetro es el más útil para monitorizar la respuesta durante la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Capacidad vital forzada (CVF)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión parcial de oxígeno arterial (PaO2)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Volumen espiratorio forzado en 1 segundo (VEF1)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Saturación de oxígeno (SpO2)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Capacidad pulmonar total (CPT)"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VEF1 se usa para cuantificar la disminución del flujo aéreo durante la broncoconstricción inducida."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el criterio de positividad de la prueba con metacolina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del VEF1 ≥10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del VEF1 ≥20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del VEF1 ≥30%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del VEF1 ≥40%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del VEF1 ≥50%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una caída del VEF1 igual o superior al 20% respecto al valor basal indica hiperreactividad bronquial significativa."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué sustancia se administra al final de la prueba para revertir la broncoconstricción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ipratropio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salbutamol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Beclometasona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Montelukast"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El salbutamol, un agonista beta-2, se utiliza para revertir la broncoconstricción inducida durante la prueba."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es una contraindicación absoluta para realizar la prueba de provocación bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma leve controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infarto de miocardio reciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obesidad leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un infarto reciente aumenta el riesgo de complicaciones cardiacas ante la broncoconstricción inducida."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la concentración de metacolina que induce una caída del 20% del VEF1 conocida como PC20?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Concentración necesaria para reducir la SpO2 al 90%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Concentración que reduce el VEF1 en un 20%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dosis máxima tolerada sin síntomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Concentración que duplica el VEF1 basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dosis que produce disnea leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PC20 se define como la concentración de metacolina que causa una caída del 20% del VEF1 basal."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de pacientes suelen requerir esta prueba para confirmar diagnóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes con asma severa conocida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con EPOC avanzado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con síntomas respiratorios pero espirometría normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con fibrosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con bronquiectasias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se usa en pacientes con sospecha de asma pero con espirometría normal para confirmar hiperreactividad bronquial."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes factores puede causar un falso negativo en la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso reciente de broncodilatadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio previo a la prueba"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral reciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exposición a alérgenos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo crónico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso reciente de broncodilatadores reduce la respuesta broncoconstrictora, generando falsos negativos."
+    },
+    {
+      "numero": "10",
+      "texto": "Antes de iniciar la prueba, ¿qué valor mínimo de VEF1 se recomienda para seguridad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥30% del predicho"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥40% del predicho"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥50% del predicho"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥60% del predicho"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥70% del predicho"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Un VEF1 ≥70% del predicho garantiza seguridad y reduce riesgo de broncoconstricción grave durante la prueba."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué método de administración se utiliza típicamente para la metacolina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inyección subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhalación nebulizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vía oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vía intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Instilación nasal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metacolina se administra por inhalación nebulizada para inducir broncoconstricción localizada en las vías respiratorias."
+    },
+    {
+      "numero": "12",
+      "texto": "Durante la prueba, si un paciente desarrolla disnea intensa, ¿qué debe hacerse inmediatamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Continuar hasta completar la dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar metacolina diluida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender la prueba y dar broncodilatador"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir la saturación y esperar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Repetir la última dosis administrada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Ante disnea intensa, la prueba se suspende y se administra un broncodilatador de acción rápida como salbutamol."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué efecto tiene la metacolina sobre el músculo liso bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Relajación por acción adrenérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contracción por estimulación muscarínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Relajación por efecto anticolinérgico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la ventilación alveolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de receptores nicotínicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metacolina estimula receptores muscarínicos M3 produciendo contracción del músculo liso bronquial."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué indica una PC20 menor a 4 mg/mL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperreactividad bronquial leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperreactividad bronquial moderada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperreactividad bronquial grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba negativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Error en la técnica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una PC20 <4 mg/mL indica una hiperreactividad bronquial grave, característica de asma clínicamente significativa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro adicional puede usarse para evaluar respuesta bronquial además del VEF1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PEF (flujo espiratorio máximo)"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capacidad pulmonar total"
+        },
+        {
+          "opcion": "D",
+          "texto": "DLCO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión inspiratoria máxima"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El PEF puede usarse como parámetro complementario para monitorizar la respuesta broncoconstrictora."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué resultado esperaría en un paciente sin asma sometido a la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caída del VEF1 >20%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea intensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "VEF1 sin cambios significativos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperreactividad inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoconstricción tardía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En personas sin asma, el VEF1 permanece estable, indicando ausencia de hiperreactividad bronquial."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué se debe hacer antes de realizar la prueba para minimizar riesgos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender beta-bloqueadores y broncodilatadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar metacolina previa prueba"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidratar al paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la dosis inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar anestesia local"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe suspenderse el uso de broncodilatadores y beta-bloqueadores para evitar resultados alterados o riesgos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes pacientes no debería someterse a la prueba?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma intermitente controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "VEF1 <60% del predicho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "No fumador con disnea leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paciente con espirometría normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un VEF1 <60% del predicho implica riesgo elevado de broncoconstricción severa y complicaciones."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué condición puede dar falsos positivos en la prueba de provocación bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinitis alérgica activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de corticoides inhalados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo crónico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio previo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso reciente de antihistamínicos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La rinitis alérgica puede generar hiperreactividad inespecífica y falsos positivos en la prueba."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal utilidad clínica de esta prueba en el asma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la severidad del asma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confirmar el diagnóstico en casos dudosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar la respuesta a corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir el flujo espiratorio máximo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valorar la función pulmonar basal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba se utiliza para confirmar diagnóstico en casos en que la espirometría basal no demuestra obstrucción reversible."
+    }
+  ]
+}

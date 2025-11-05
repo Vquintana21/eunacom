@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.2.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la característica fisiopatológica común a todos los tipos de shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la perfusión tisular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipervolemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasoconstricción generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del retorno venoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shock se caracteriza por una disminución crítica de la perfusión tisular que compromete el aporte de oxígeno a los órganos vitales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes es un tipo de shock distributivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipovolémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anafiláctico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstructivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorrágico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El shock anafiláctico es un tipo de shock distributivo mediado por liberación de histamina y vasodilatación sistémica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más frecuente de shock cardiogénico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infarto agudo al miocardio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miocardiopatía dilatada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El infarto agudo al miocardio es la causa más común de shock cardiogénico por pérdida súbita de contractilidad."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo clínico es característico del shock hipovolémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Piel caliente y seca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión venosa central elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia y extremidades frías"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasodilatación periférica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El shock hipovolémico se manifiesta con taquicardia, hipotensión y extremidades frías por vasoconstricción compensatoria."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tipo de shock que presenta gasto cardíaco elevado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipovolémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Séptico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstructivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorrágico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el shock séptico inicial hay vasodilatación sistémica con gasto cardíaco elevado y resistencia vascular disminuida."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué parámetro hemodinámico se encuentra disminuido en el shock hipovolémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión venosa central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión capilar pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En el shock hipovolémico disminuyen el gasto cardíaco, la presión venosa central y la presión capilar pulmonar."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tratamiento inicial es prioritario en el shock hipovolémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasopresores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuréticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fluidoterapia con cristaloides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La reposición rápida con cristaloides es el tratamiento inicial para restaurar la volemia y la perfusión tisular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de las siguientes situaciones produce shock obstructivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infarto al miocardio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anafilaxia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia gastrointestinal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El neumotórax a tensión impide el llenado ventricular, produciendo un shock obstructivo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué signo clínico distingue al shock séptico de otros tipos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Extremidades frías"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piel caliente y vasodilatada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión venosa central baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso débil y filiforme"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el shock séptico inicial la vasodilatación causa piel caliente y rubicunda, a diferencia de otros tipos con piel fría."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento farmacológico inicial en shock anafiláctico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Noradrenalina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina IM"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antihistamínicos IV"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adrenalina intramuscular es el tratamiento de primera línea para revertir la vasodilatación y broncoconstricción en el shock anafiláctico."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de shock se caracteriza por presión capilar pulmonar elevada y bajo gasto cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipovolémico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstructivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anafiláctico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El shock cardiogénico presenta aumento de la presión de llenado pulmonar y disminución del gasto cardíaco."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo sugiere shock séptico refractario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión persistente pese a fluidos y vasopresores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitos normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuresis conservada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasto cardíaco bajo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se define shock séptico refractario cuando la hipotensión persiste a pesar de líquidos y vasopresores adecuados."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes es un marcador de hipoperfusión tisular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactato elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sodio sérico bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bicarbonato alto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoglobina elevada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento del lactato indica metabolismo anaerobio secundario a hipoperfusión tisular."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal objetivo terapéutico en cualquier tipo de shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la diuresis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restaurar la perfusión tisular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corregir el pH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevar el hematocrito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo principal es restaurar la perfusión y oxigenación tisular para evitar el fallo multiorgánico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro hemodinámico está aumentado en el shock séptico temprano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resistencia vascular sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión capilar pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión venosa central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial media"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la fase inicial del shock séptico el gasto cardíaco suele estar aumentado por vasodilatación y bajo retorno venoso."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué vasoactivo es de primera elección en el manejo del shock séptico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Noradrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasopresina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dobutamina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La noradrenalina es el vasopresor de elección en el shock séptico por su efecto alfa-adrenérgico predominante."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de shock se asocia a un pulso paradójico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Séptico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstructivo por taponamiento cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipovolémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anafiláctico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pulso paradójico es característico del taponamiento cardíaco, una causa de shock obstructivo."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es un signo precoz de shock hipovolémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oliguria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Confusión mental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La taquicardia es una respuesta compensatoria temprana ante la pérdida de volumen circulante."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la presión arterial media mínima recomendada para mantener la perfusión adecuada en shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "60 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "65 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "70 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "80 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda mantener una presión arterial media ≥ 65 mmHg para asegurar la perfusión orgánica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro clínico se utiliza como indicador de respuesta al tratamiento del shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuresis mayor a 0.5 ml/kg/h"
+        },
+        {
+          "opcion": "D",
+          "texto": "Color de piel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nivel de hemoglobina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diuresis adecuada indica una perfusión renal suficiente y es un marcador clave de respuesta terapéutica."
+    }
+  ]
+}

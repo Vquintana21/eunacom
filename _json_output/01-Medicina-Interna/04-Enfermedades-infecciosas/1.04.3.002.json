@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.3.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente bacteriano más comúnmente asociado a infecciones por mordeduras de perro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capnocytophaga canimorsus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eikenella corrodens"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Capnocytophaga canimorsus es una bacteria común en mordeduras de perro, especialmente peligrosa en pacientes inmunocomprometidos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué antibiótico es el tratamiento empírico de elección para mordeduras de perro o gato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina/ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trimetoprima-sulfametoxazol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Amoxicilina/ácido clavulánico cubre los principales patógenos de mordeduras, incluyendo anaerobios y Pasteurella spp."
+    },
+    {
+      "numero": "3",
+      "texto": "La bacteria más frecuente en infecciones por mordeduras de gato es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Capnocytophaga canimorsus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bartonella henselae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moraxella catarrhalis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Pasteurella multocida se encuentra habitualmente en la flora oral de los gatos y causa infecciones rápidamente progresivas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la primera medida tras una mordedura animal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar sutura inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavar abundantemente con agua y jabón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar antiséptico y cubrir la herida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar vacuna antitetánica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El lavado profuso con agua y jabón reduce significativamente la carga bacteriana y el riesgo de infección."
+    },
+    {
+      "numero": "5",
+      "texto": "En una mordedura por murciélago, la profilaxis recomendada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo vacunación antitetánica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna antirrábica e inmunoglobulina antirrábica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna antirrábica sin inmunoglobulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo observación clínica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Toda exposición a murciélagos se considera potencialmente rábica y requiere vacunación e inmunoglobulina antirrábica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué microorganismo se asocia a infecciones graves tras mordeduras en alcohólicos o asplénicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Capnocytophaga canimorsus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bartonella henselae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clostridium perfringens"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Capnocytophaga canimorsus puede causar sepsis fulminante en alcohólicos y pacientes asplénicos tras mordeduras de perro."
+    },
+    {
+      "numero": "7",
+      "texto": "La enfermedad por arañazo de gato es causada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bartonella henselae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Francisella tularensis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Brucella melitensis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leptospira interrogans"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Bartonella henselae es el agente de la enfermedad por arañazo de gato, que causa linfadenitis regional."
+    },
+    {
+      "numero": "8",
+      "texto": "En las mordeduras humanas, el patógeno más característico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pasteurella multocida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eikenella corrodens"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus viridans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Eikenella corrodens es común en mordeduras humanas y resistente a clindamicina y macrólidos."
+    },
+    {
+      "numero": "9",
+      "texto": "En una mordedura de perro profunda en mano, la sutura primaria:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Está contraindicada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se realiza siempre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depende del tiempo de evolución"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo si no hay signos de infección"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se realiza tras antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las mordeduras en manos no deben suturarse por el alto riesgo de infección anaerobia y Pasteurella."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el periodo de incubación típico de la rabia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 a 2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 a 2 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 a 3 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 a 9 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de un año"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de incubación promedio de la rabia es de 1 a 3 meses, aunque puede variar según el sitio de la mordedura."
+    },
+    {
+      "numero": "11",
+      "texto": "En una mordedura de perro vacunado y observado, sin síntomas, la profilaxis antirrábica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se omite si el animal permanece sano 10 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debe aplicarse siempre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se aplica una sola dosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incluye solo inmunoglobulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Debe repetirse al año"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Si el perro vacunado está sano durante 10 días de observación, no se requiere profilaxis antirrábica."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes antibióticos no se recomienda en mordeduras de animales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina/ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doxiciclina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clindamicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefuroxima"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Eritromicina no tiene buena cobertura frente a Pasteurella multocida y no se recomienda en mordeduras."
+    },
+    {
+      "numero": "13",
+      "texto": "La profilaxis antitetánica tras mordedura depende de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estado vacunal previo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tipo de animal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Localización anatómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tamaño de la herida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esquema antitetánico depende del estado de inmunización y del tipo de herida (limpia o contaminada)."
+    },
+    {
+      "numero": "14",
+      "texto": "La presentación clínica de Capnocytophaga canimorsus suele incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abscesos localizados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Celulitis leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis fulminante y coagulación intravascular diseminada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gangrena gaseosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningitis crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Capnocytophaga canimorsus puede causar sepsis grave y CID, especialmente en inmunocomprometidos o asplénicos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de mordedura tiene mayor riesgo de infección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mordeduras en cara"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mordeduras en extremidades inferiores"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mordeduras en manos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mordeduras en tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mordeduras superficiales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las mordeduras en manos tienen alto riesgo de infección por baja irrigación y presencia de tendones y articulaciones."
+    },
+    {
+      "numero": "16",
+      "texto": "La vacuna antirrábica postexposición se administra por vía:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intradérmica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna antirrábica se administra por vía intramuscular, típicamente en el deltoides o muslo en niños."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el manejo inicial de una mordedura infectada con pus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sutura inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Limpieza y antibióticos sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo observación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar antiséptico tópico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desbridamiento diferido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las mordeduras infectadas requieren limpieza exhaustiva, drenaje y antibióticos sistémicos de amplio espectro."
+    },
+    {
+      "numero": "18",
+      "texto": "La inmunoglobulina antirrábica debe aplicarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En el glúteo contralateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lejos del sitio de mordedura"
+        },
+        {
+          "opcion": "C",
+          "texto": "En la herida y el resto por vía IM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo por vía intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de completar el esquema vacunal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunoglobulina antirrábica se infiltra en la herida y el resto por vía intramuscular en otro sitio anatómico."
+    },
+    {
+      "numero": "19",
+      "texto": "La mayoría de las infecciones por mordeduras de gato se desarrollan dentro de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 a 5 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "7 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "2 semanas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones por mordeduras de gato, usualmente por Pasteurella multocida, se desarrollan en menos de 24 horas."
+    },
+    {
+      "numero": "20",
+      "texto": "La enfermedad por arañazo de gato se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfadenopatía regional y fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exantema generalizado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Abscesos hepáticos múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conjuntivitis purulenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Artritis migratoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La infección por Bartonella henselae causa fiebre y linfadenopatía regional tras un arañazo de gato."
+    }
+  ]
+}

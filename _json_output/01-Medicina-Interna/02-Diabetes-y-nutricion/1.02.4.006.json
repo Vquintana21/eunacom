@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué son los cuerpos cetónicos detectados en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Derivados del metabolismo de proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Productos del metabolismo incompleto de los ácidos grasos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intermediarios del ciclo de Krebs"
+        },
+        {
+          "opcion": "D",
+          "texto": "Residuos del metabolismo de aminoácidos aromáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metabolitos de la glucólisis anaerobia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los cuerpos cetónicos son productos del metabolismo incompleto de los ácidos grasos durante déficit de glucosa o insulina."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuáles son los principales cuerpos cetónicos presentes en el organismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido láctico, pirúvico y acético"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetona, acetoacetato y beta-hidroxibutirato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido úrico, oxálico y cítrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glicerol, propionato y butirato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido fórmico, metanoico y succínico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los tres cuerpos cetónicos principales son acetoacetato, beta-hidroxibutirato y acetona."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué cuerpo cetónico es detectado principalmente por las tiras reactivas de orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beta-hidroxibutirato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acetoacetato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido acético"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido láctico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reactivo de nitroprusiato de sodio detecta principalmente el acetoacetato en orina."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué condición clínica suele acompañarse de cetonuria positiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglucemia e hiperosmolaridad sin acidosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia posprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipidemia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética cursa con acumulación de cuerpos cetónicos detectables en orina."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principio químico de las pruebas semicuantitativas para cuerpos cetónicos en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción de Benedict"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reacción de nitroprusiato de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción de Biuret"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción de Fehling"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción de Jaffé"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El nitroprusiato de sodio reacciona con el acetoacetato y acetona produciendo un color violeta proporcional a su concentración."
+    },
+    {
+      "numero": "6",
+      "texto": "¿En qué situaciones no diabéticas puede observarse cetonuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio extremo o ayuno prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo excesivo de azúcares simples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta rica en carbohidratos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de diuréticos tiazídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperhidratación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ayuno prolongado y el ejercicio intenso inducen lipólisis y cetogénesis con aparición de cetonas en orina."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué indica una prueba de cetonas en orina moderadamente positiva en un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control adecuado de la glucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio de cetogénesis por déficit parcial de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve sin importancia clínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Error técnico del examen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un resultado moderadamente positivo refleja un inicio de cetogénesis y riesgo de progresar a cetoacidosis."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué color indica una reacción fuertemente positiva para cuerpos cetónicos en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amarillo claro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Verde"
+        },
+        {
+          "opcion": "C",
+          "texto": "Púrpura intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rojo ladrillo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azul celeste"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aparición de color púrpura intenso en la tira reactiva indica alta concentración de cetonas en orina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué limitación tiene la medición semicuantitativa de cuerpos cetónicos en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subestima el beta-hidroxibutirato"
+        },
+        {
+          "opcion": "B",
+          "texto": "No detecta acetoacetato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sobrestima la cetonemia real"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es más sensible que la prueba sanguínea"
+        },
+        {
+          "opcion": "E",
+          "texto": "No puede detectar acetona"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El método semicuantitativo no detecta beta-hidroxibutirato, principal cetona en la cetoacidosis diabética."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes fármacos puede generar falsos positivos en la detección de cetonas urinarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levodopa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sulfonilureas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La levodopa puede interferir con el nitroprusiato y producir falsos positivos en el test de cetonas."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Por qué las tiras reactivas deben analizarse inmediatamente después de obtener la muestra?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Las cetonas se evaporan o degradan con el tiempo"
+        },
+        {
+          "opcion": "B",
+          "texto": "La glucosa aumenta con el reposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "La acidez de la orina disminuye"
+        },
+        {
+          "opcion": "D",
+          "texto": "La densidad aumenta con el tiempo"
+        },
+        {
+          "opcion": "E",
+          "texto": "El nitroprusiato se inactiva con el frío"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las cetonas son volátiles y se degradan, por lo que el análisis debe hacerse inmediatamente."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo clínico acompaña comúnmente la cetonuria significativa en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis metabólica con respiración de Kussmaul"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperventilación compensadora leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia sin acidosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipernatremia con pH normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética se caracteriza por acidosis metabólica y respiración de Kussmaul compensadora."
+    },
+    {
+      "numero": "13",
+      "texto": "En una prueba semicuantitativa, el resultado 'traza' de cetonas indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pequeña presencia de acetoacetato, sin repercusión clínica inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis diabética grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falla renal aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción hepática aumentada de glucosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un resultado 'traza' indica mínima presencia de cetonas y suele ser transitorio o benigno."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal utilidad clínica de la medición de cuerpos cetónicos en orina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monitorear la cetoacidosis diabética y el metabolismo lipídico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar insuficiencia hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar infecciones urinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir el nivel de insulina plasmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La detección de cetonas urinarias permite identificar y seguir la evolución de la cetoacidosis diabética."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes factores puede causar falsos negativos en la prueba de cetonas urinarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina C o muestras muy diluidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Altos niveles de glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del pH urinario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exposición al calor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ácido ascórbico (vitamina C) y la orina diluida pueden reducir la reactividad del nitroprusiato y dar falsos negativos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿En qué pacientes diabéticos se recomienda la monitorización rutinaria de cetonas urinarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes tipo 2 bien controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes tipo 1 durante enfermedades agudas o estrés metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con hipoglucemia frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabéticos con obesidad leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes tratados con metformina exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En diabetes tipo 1, el monitoreo de cetonas es esencial durante episodios de estrés o descompensación metabólica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué resultado en cetonas urinarias requiere evaluación urgente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Negativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traza"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pequeña cantidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moderada a grande (+2 o más)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indeterminada"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una cetonuria moderada o alta (+2 o más) indica riesgo de cetoacidosis diabética y requiere atención inmediata."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué efecto tiene la deshidratación sobre la concentración urinaria de cetonas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye su concentración aparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la concentración aparente de cetonas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elimina completamente las cetonas"
+        },
+        {
+          "opcion": "D",
+          "texto": "No modifica la medición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inactiva el reactivo de nitroprusiato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deshidratación concentra la orina, incrementando la detección aparente de cetonas."
+    },
+    {
+      "numero": "19",
+      "texto": "Durante el tratamiento de una cetoacidosis diabética, los niveles de cetonas urinarias:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan inicialmente a medida que mejora la perfusión renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuyen inmediatamente tras la administración de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permancen constantes hasta la resolución del cuadro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se vuelven indetectables antes que las plasmáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "No tienen valor clínico en seguimiento"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Durante el tratamiento, la mejoría del flujo renal puede aumentar temporalmente la cetonuria antes de su normalización."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la interpretación más probable de una cetonuria positiva sin hiperglucemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ayuno prolongado o dieta cetogénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética clásica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperosmolaridad no cetósica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperinsulinismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cetonuria sin hiperglucemia se asocia con ayuno prolongado o dietas bajas en carbohidratos."
+    }
+  ]
+}

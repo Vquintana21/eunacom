@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.3.002",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.002 - Derechos y aspectos legales de la embarazada y su pareja.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es un derecho fundamental de la mujer embarazada en Chile durante el trabajo de parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elegir obligatoriamente la vía vaginal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recibir acompañamiento de una persona de su elección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exigir cesárea en cualquier circunstancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decidir el alta inmediata postparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Negarse a controles prenatales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La legislación chilena reconoce el derecho de la mujer a estar acompañada durante el trabajo de parto."
+    },
+    {
+      "numero": "2",
+      "texto": "El permiso prenatal en Chile tiene una duración de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "8 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "4 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 semanas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La legislación chilena otorga a la mujer embarazada un permiso prenatal de 6 semanas antes del parto."
+    },
+    {
+      "numero": "3",
+      "texto": "El postnatal parental puede ser utilizado:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exclusivamente por la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo en caso de enfermedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por la madre o cedido parcialmente al padre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por cualquier familiar directo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Si la madre vuelve a trabajar a la semana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El postnatal parental puede ser ejercido por la madre o transferido en parte al padre."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué ley regula en Chile los derechos y deberes de los pacientes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ley 20.120"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ley 20.584"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ley 16.744"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ley 21.030"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ley 19.937"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley 20.584 regula los derechos y deberes de los pacientes en el sistema de salud."
+    },
+    {
+      "numero": "5",
+      "texto": "El fuero maternal protege a la trabajadora embarazada desde:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La semana 20 de gestación"
+        },
+        {
+          "opcion": "B",
+          "texto": "La notificación escrita al empleador"
+        },
+        {
+          "opcion": "C",
+          "texto": "La concepción hasta un año después del parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "El primer control prenatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "La semana 12 de embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El fuero maternal protege desde la concepción hasta un año después del parto."
+    },
+    {
+      "numero": "6",
+      "texto": "En casos de urgencia obstétrica, la atención debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autorizada por un familiar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Condicionada al pago"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otorgada solo en hospitales públicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmediata y sin discriminación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pospuesta hasta confirmación de diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Toda urgencia obstétrica debe ser atendida de inmediato, sin discriminación ni condiciones económicas previas."
+    },
+    {
+      "numero": "7",
+      "texto": "El consentimiento informado en obstetricia implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decisión exclusiva del médico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Firma obligatoria del cónyuge"
+        },
+        {
+          "opcion": "C",
+          "texto": "Comprensión y aceptación de la paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Autorización del tribunal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consentimiento del empleador"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El consentimiento informado asegura que la paciente comprenda y acepte los procedimientos médicos."
+    },
+    {
+      "numero": "8",
+      "texto": "El padre tiene derecho a permiso laboral postnatal por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 días hábiles"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 días corridos"
+        },
+        {
+          "opcion": "C",
+          "texto": "7 días hábiles"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 días corridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "15 días hábiles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El padre tiene derecho a 5 días corridos de permiso postnatal al nacimiento de su hijo."
+    },
+    {
+      "numero": "9",
+      "texto": "La interrupción voluntaria del embarazo en Chile está permitida en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta las 12 semanas por libre decisión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tres causales específicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Todas las situaciones de riesgo fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Únicamente con orden judicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en hospitales privados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley 21.030 permite la interrupción en tres causales: riesgo vital, inviabilidad fetal y violación."
+    },
+    {
+      "numero": "10",
+      "texto": "La objeción de conciencia en interrupción del embarazo en Chile es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obligatoria para todos los médicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inexistente en hospitales públicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercida individualmente y en ciertos casos institucionalmente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Autorizada solo en ginecólogos privados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicable a enfermeras exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La objeción de conciencia puede ser ejercida individualmente e institucionalmente en ciertos casos regulados."
+    },
+    {
+      "numero": "11",
+      "texto": "La pareja de la embarazada tiene derecho a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exigir cesárea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acompañar los controles prenatales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Firmar consentimientos en lugar de la madre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solicitar parto domiciliario financiado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Impedir hospitalización obligatoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pareja tiene derecho a acompañar controles y el parto, como parte del apoyo integral."
+    },
+    {
+      "numero": "12",
+      "texto": "Las adolescentes embarazadas tienen derecho a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo atención privada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atención y confidencialidad en salud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consentimiento exclusivo de los padres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atención hospitalaria obligatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Autorización judicial para controles"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las adolescentes embarazadas tienen derecho a atención médica con confidencialidad en salud sexual y reproductiva."
+    },
+    {
+      "numero": "13",
+      "texto": "La Ley 16.744 protege a la embarazada frente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Accidentes del trabajo y enfermedades profesionales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesáreas electivas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Preeclampsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Partos pretérmino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aborto espontáneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La Ley 16.744 asegura protección frente a accidentes laborales y enfermedades profesionales, incluyendo a embarazadas trabajadoras."
+    },
+    {
+      "numero": "14",
+      "texto": "La confidencialidad de la información médica de la embarazada está protegida por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ley 20.584"
+        },
+        {
+          "opcion": "B",
+          "texto": "Código del Trabajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Código Penal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Constitución"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ley 19.880"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La Ley 20.584 protege la confidencialidad de la información médica de todo paciente, incluyendo a embarazadas."
+    },
+    {
+      "numero": "15",
+      "texto": "La protección frente a la discriminación laboral por embarazo está regulada en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Código del Trabajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Código Penal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ley de Isapres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ley de Transparencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Código Civil"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Código del Trabajo prohíbe la discriminación laboral por embarazo o maternidad."
+    },
+    {
+      "numero": "16",
+      "texto": "El permiso de lactancia en Chile otorga a la madre trabajadora:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 horas diarias hasta que el niño cumpla 2 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 hora diaria hasta los 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 hora diaria hasta los 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 horas diarias hasta el primer año"
+        },
+        {
+          "opcion": "E",
+          "texto": "30 minutos diarios hasta los 12 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ley otorga 1 hora diaria de permiso de lactancia hasta que el niño cumpla 2 años."
+    },
+    {
+      "numero": "17",
+      "texto": "El objetivo del parto humanizado desde el punto de vista legal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar la analgesia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Respetar derechos y decisiones de la madre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Garantizar cesárea a demanda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asegurar parto domiciliario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exigir episiotomía profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El parto humanizado busca respetar los derechos, autonomía y decisiones informadas de la mujer."
+    },
+    {
+      "numero": "18",
+      "texto": "La interrupción del embarazo por violación en Chile se permite hasta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "8 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 semanas en mayores de 14 años y 14 en menores"
+        },
+        {
+          "opcion": "C",
+          "texto": "20 semanas en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "16 semanas en cualquier edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre que lo decida la madre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Ley 21.030 permite interrupción hasta 12 semanas en mayores de 14 y 14 semanas en menores."
+    }
+  ]
+}

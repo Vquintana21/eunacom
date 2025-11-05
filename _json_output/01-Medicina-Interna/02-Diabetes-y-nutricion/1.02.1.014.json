@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.014",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal factor fisiopatológico que contribuye al desarrollo del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoperfusión coronaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neuropatía periférica sensitiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipidemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neuropatía periférica sensitiva provoca pérdida de la sensibilidad protectora, lo que facilita lesiones y úlceras."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué microorganismo es el más frecuente en las infecciones del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus es el agente bacteriano más común en infecciones del pie diabético."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de neuropatía está involucrada en la deformidad del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sensitiva exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Motora periférica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Autonómica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerebelosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neuropatía motora genera desequilibrio muscular y deformidades como el pie de Charcot."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal causa de amputación no traumática en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Accidentes laborales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlceras del pie diabético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad arterial periférica aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteomielitis postraumática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las úlceras del pie diabético complicadas son la causa más frecuente de amputaciones no traumáticas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes factores favorece la aparición de infecciones en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrofilia compensadora"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperglucemia crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotermia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de secreción gástrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de cortisol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia crónica altera la función leucocitaria y disminuye la respuesta inmune frente a infecciones."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico sugiere infección profunda en pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritema leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera superficial sin exudado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre, dolor intenso y drenaje purulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piel seca y descamativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de pulsos periféricos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fiebre, dolor severo y drenaje purulento son signos de infección profunda o absceso."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué método diagnóstico es más útil para confirmar osteomielitis en pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía axial computarizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia de piel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resonancia magnética permite detectar alteraciones óseas precoces compatibles con osteomielitis."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la recomendación más importante para prevenir el pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso diario de antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuidado e inspección diaria de los pies"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masajes podales frecuentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar toda actividad física"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso exclusivo de calzado abierto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inspección y cuidado diario de los pies reduce drásticamente la incidencia de úlceras e infecciones."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué escala se utiliza habitualmente para clasificar las úlceras del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clasificación de Wagner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Glasgow"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escala de Braden"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clasificación NYHA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escala de Rankin"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La clasificación de Wagner valora la profundidad y la presencia de infección o gangrena en las úlceras."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué característica de la piel es típica en el pie diabético con neuropatía autonómica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sudoración excesiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piel seca y fisurada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración rojiza persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura disminuida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema localizado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neuropatía autonómica reduce la sudoración, generando piel seca y fisuras predisponentes a infecciones."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de las siguientes infecciones es más frecuente en diabéticos mal controlados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candidiasis mucocutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mononucleosis infecciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoplasmosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperglucemia favorece el crecimiento de Candida spp., causando candidiasis recurrente en mucosas y piel."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo indica compromiso vascular en el pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sensibilidad aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulso pedio ausente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertricosis plantar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sudoración excesiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración rosada homogénea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia de pulsos pedios o tibiales indica compromiso arterial periférico asociado a isquemia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué factor de riesgo contribuye tanto a neuropatía como a enfermedad vascular periférica en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de omega 3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio regular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo acelera la ateroesclerosis y agrava el daño nervioso periférico en la diabetes."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el objetivo del desbridamiento en el tratamiento del pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir el flujo sanguíneo local"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminar tejido necrótico e infectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar la cicatrización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementar la carga bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la temperatura local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El desbridamiento elimina tejido desvitalizado e infectado, facilitando la cicatrización y control de la infección."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué antibiótico es apropiado en infecciones leves del pie diabético sin anaerobios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vancomicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meropenem"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clindamicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Amoxicilina-clavulánico cubre la mayoría de patógenos aerobios en infecciones leves del pie diabético."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida nutricional favorece la cicatrización de úlceras en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de proteínas y vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción extrema de carbohidratos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta cetogénica estricta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción de líquidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aporte adecuado de proteínas y vitamina C favorece la síntesis de colágeno y la reparación tisular."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué condición infecciosa invasiva es más grave en diabéticos descompensados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mucormicosis rinocerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candidiasis oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Faringitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dermatitis seborreica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mucormicosis rinocerebral es una infección fúngica invasiva grave asociada a cetoacidosis diabética."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal diferencia entre úlceras neuropáticas y vasculares en pie diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Las neuropáticas son dolorosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Las vasculares tienen pulsos normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Las neuropáticas son indoloras y plantares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Las vasculares aparecen en zonas de presión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Las neuropáticas afectan el dorso del pie"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las úlceras neuropáticas suelen ser indoloras, profundas y se localizan en la planta del pie."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué alteración inmunológica explica la susceptibilidad a infecciones en diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de linfocitos T citotóxicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto en quimiotaxis y fagocitosis neutrofílica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperactividad del complemento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipogammaglobulinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de interleucina 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia deteriora la quimiotaxis y fagocitosis de los neutrófilos, facilitando las infecciones bacterianas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué condición metabólica favorece el desarrollo de infecciones graves en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopotasemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética altera la inmunidad y promueve infecciones invasivas como mucormicosis."
+    }
+  ]
+}

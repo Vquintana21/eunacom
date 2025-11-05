@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.032",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.032 - Incontinencia urinaria.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La forma más frecuente de incontinencia urinaria en mujeres es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incontinencia de urgencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incontinencia por rebosamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incontinencia de esfuerzo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia mixta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incontinencia funcional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La incontinencia urinaria de esfuerzo es la forma más común en mujeres, especialmente multiparas."
+    },
+    {
+      "numero": "2",
+      "texto": "El mecanismo principal en la incontinencia urinaria de esfuerzo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperactividad del detrusor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipermovilidad uretral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción uretral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la capacidad vesical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia del epitelio uretral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipermovilidad uretral secundaria a debilidad del suelo pélvico es la causa principal."
+    },
+    {
+      "numero": "3",
+      "texto": "La incontinencia urinaria de urgencia se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia esfinteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperactividad del detrusor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipermovilidad uretral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía ginecológica previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistocele avanzado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incontinencia de urgencia se debe a contracciones involuntarias del detrusor."
+    },
+    {
+      "numero": "4",
+      "texto": "El estudio de primera línea en el diagnóstico de incontinencia urinaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cistoscopia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estudio urodinámico completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Historia clínica y diario miccional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía vesical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La historia clínica detallada y el diario miccional permiten orientar el diagnóstico inicial."
+    },
+    {
+      "numero": "5",
+      "texto": "El tratamiento de primera línea para la incontinencia de esfuerzo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicios de Kegel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antimuscarínicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inyecciones de toxina botulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocación de malla suburetral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colporrafia anterior"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los ejercicios del suelo pélvico son el tratamiento inicial más recomendado en incontinencia de esfuerzo."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento farmacológico más utilizado en incontinencia urinaria de urgencia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antimuscarínicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estrógenos tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ansiolíticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los antimuscarínicos reducen la hiperactividad del detrusor y mejoran la urgencia."
+    },
+    {
+      "numero": "7",
+      "texto": "La incontinencia por rebosamiento se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoactividad del detrusor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipermovilidad uretral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperactividad del detrusor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistocele grado III"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoactividad del detrusor y la obstrucción uretral pueden generar vaciamiento incompleto y rebosamiento."
+    },
+    {
+      "numero": "8",
+      "texto": "El síntoma cardinal de la incontinencia de urgencia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida al toser"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida con esfuerzo físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urgencia miccional con pérdida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Goteo postmiccional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sensación de vaciamiento incompleto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida involuntaria de orina asociada a urgencia miccional caracteriza la incontinencia de urgencia."
+    },
+    {
+      "numero": "9",
+      "texto": "Un factor de riesgo importante para incontinencia urinaria en mujeres es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Multiparidad vaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de café"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de ACO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio aeróbico regular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La multiparidad vaginal se asocia a debilidad del suelo pélvico y mayor riesgo de incontinencia."
+    },
+    {
+      "numero": "10",
+      "texto": "El estudio urodinámico está indicado principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toda mujer con síntomas leves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Casos complejos o refractarios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección urinaria recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Primera consulta ginecológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mujeres menores de 30 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estudio urodinámico se reserva para casos complejos, refractarios o quirúrgicos."
+    },
+    {
+      "numero": "11",
+      "texto": "El procedimiento quirúrgico más utilizado en incontinencia de esfuerzo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colporrafia anterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Burch laparoscópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Banda suburetral tipo TOT/TVT"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esfinteroplastia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inyección de colágeno periuretral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las técnicas con malla suburetral tipo TOT/TVT son las más empleadas actualmente."
+    },
+    {
+      "numero": "12",
+      "texto": "El tratamiento con estrógenos tópicos se recomienda en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incontinencia de esfuerzo aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incontinencia por rebosamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mujeres posmenopáusicas con atrofia urogenital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia de urgencia en jóvenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso severo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los estrógenos tópicos mejoran la atrofia urogenital en mujeres posmenopáusicas con incontinencia."
+    },
+    {
+      "numero": "13",
+      "texto": "Una complicación frecuente de las cirugías con malla suburetral es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección urinaria recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfunción sexual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Erosión vesical o uretral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amenorrea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La erosión vesical o uretral puede aparecer como complicación de las mallas suburetrales."
+    },
+    {
+      "numero": "14",
+      "texto": "La incontinencia funcional se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Problemas anatómicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperactividad del detrusor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Limitaciones físicas o cognitivas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia esfinteriana pura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermovilidad uretral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La incontinencia funcional ocurre por limitaciones cognitivas o físicas que impiden llegar al baño."
+    },
+    {
+      "numero": "15",
+      "texto": "La urgencia urinaria nocturna es más característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incontinencia de esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incontinencia de urgencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incontinencia funcional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia por rebosamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistocele"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La urgencia miccional nocturna es característica de la incontinencia de urgencia."
+    },
+    {
+      "numero": "16",
+      "texto": "El test de la tos se utiliza para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnóstico de urgencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar incontinencia de esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir capacidad vesical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar infecciones urinarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Confirmar vaciamiento incompleto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test de la tos evalúa la pérdida de orina con aumento de la presión abdominal."
+    },
+    {
+      "numero": "17",
+      "texto": "Un factor protector frente a incontinencia urinaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto vaginal múltiple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicios del suelo pélvico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los ejercicios del suelo pélvico fortalecen los músculos y previenen la incontinencia."
+    },
+    {
+      "numero": "18",
+      "texto": "La frecuencia urinaria aumentada se asocia típicamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incontinencia de esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incontinencia de urgencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incontinencia por rebosamiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia funcional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La frecuencia aumentada y la urgencia son síntomas típicos de la incontinencia de urgencia."
+    }
+  ]
+}

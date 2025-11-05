@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.107",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Dermatitis atópica",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la candidiasis urogenital en niños y adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida krusei"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida parapsilosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Candida albicans es responsable de la mayoría de los casos de candidiasis urogenital por su capacidad de adherencia y formación de hifas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor predisponente para la candidiasis vulvovaginal infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso prolongado de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Baños frecuentes con agua fría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de ropa de algodón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo de frutas ácidas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso de antibióticos altera la microbiota vaginal, favoreciendo el crecimiento de Candida."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo clínico es típico de la candidiasis vulvovaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flujo vaginal amarillento y maloliente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flujo blanquecino grumoso con prurito y eritema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo espumoso verdoso con ardor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secreción serosa sin olor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Flujo marrón intermitente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo blanquecino grumoso acompañado de prurito y eritema vulvar es característico de Candida."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo microscópico confirma el diagnóstico de candidiasis urogenital?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células clave"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocitos abundantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hifas y seudohifas en examen con KOH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacilos gram negativos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trofozoítos móviles"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de hifas y seudohifas en el examen directo con KOH es diagnóstica de Candida."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento tópico de elección en la vulvovaginitis por Candida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clotrimazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mupirocina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ketoconazol oral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El clotrimazol es un imidazólico antifúngico eficaz y seguro en infecciones por Candida."
+    },
+    {
+      "numero": "6",
+      "texto": "En niñas prepuberales, la candidiasis vulvovaginal suele deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transmisión sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autoinoculación fecal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminación alimentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunodeficiencia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La autoinoculación desde la región anal es el mecanismo más frecuente en niñas pequeñas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el antifúngico oral más utilizado para candidiasis urogenital recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amfotericina B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Griseofulvina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Itraconazol tópico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nistatina tópica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fluconazol oral es eficaz para episodios recurrentes de candidiasis vulvovaginal."
+    },
+    {
+      "numero": "8",
+      "texto": "En la candidiasis del pañal, ¿qué hallazgo clínico la diferencia de la dermatitis irritativa simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritema limitado a convexidades"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones satélite en pliegues y bordes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de descamación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Costras amarillentas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Flictenas con líquido seroso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de lesiones satélite en pliegues es típica de la candidiasis del pañal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué condición sistémica se debe descartar ante candidiasis urogenital recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Artritis juvenil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglicemia facilita la proliferación de Candida; debe descartarse diabetes mellitus."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo clínico es característico de la balanitis candidiásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pústulas en glande sin eritema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritema con placas blanquecinas adherentes y prurito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Úlceras dolorosas con exudado purulento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ampollas hemorrágicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fisuras lineales sin secreción"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La balanitis por Candida cursa con eritema y placas blanquecinas con prurito intenso."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué prueba de laboratorio es más específica para confirmar candidiasis urogenital?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo en agar Sabouraud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de aminas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de orina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo en agar Sabouraud permite la identificación de la especie de Candida y su sensibilidad."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué medida preventiva ayuda a evitar recurrencias de candidiasis vulvovaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar ropa interior sintética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar duchas vaginales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el consumo de azúcares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la ingesta de líquidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspender el baño diario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las duchas vaginales alteran la flora normal, favoreciendo el sobrecrecimiento de Candida."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo diferencia la candidiasis de la vaginosis bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Olor fétido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flujo espumoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito intenso y flujo grumoso blanco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de células clave"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH vaginal mayor a 4,5"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prurito intenso con flujo blanco grumoso y pH normal es típico de Candida."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué antifúngico tópico es seguro para usar en lactantes con candidiasis del pañal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clotrimazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fluconazol oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Itraconazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ketoconazol oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Voriconazol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El clotrimazol tópico es seguro y efectivo en la candidiasis del pañal infantil."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué mecanismo explica la acción antifúngica de los azoles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhiben la síntesis de proteínas fúngicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteran la pared celular bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloquean la síntesis de ergosterol en la membrana fúngica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhiben la mitosis fúngica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentan la permeabilidad celular al calcio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los azoles inhiben la síntesis de ergosterol, esencial para la integridad de la membrana fúngica."
+    },
+    {
+      "numero": "16",
+      "texto": "En adolescentes con candidiasis recurrente, ¿qué comorbilidad debe investigarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad celíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección por VIH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergia alimentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia ferropénica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La inmunosupresión asociada al VIH puede manifestarse con candidiasis mucocutánea recurrente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el antifúngico contraindicado en el primer trimestre del embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nistatina tópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clotrimazol tópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miconazol en crema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tioconazol vaginal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fluconazol oral es teratogénico y debe evitarse en el primer trimestre del embarazo."
+    },
+    {
+      "numero": "18",
+      "texto": "En la candidiasis urogenital, ¿qué medida higiénica debe reforzarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar el uso de jabones perfumados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar talcos perfumados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la hidratación diaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar ropa interior ajustada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar baños prolongados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los jabones perfumados irritan la mucosa y alteran el pH, favoreciendo la infección."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué característica del pH vaginal se observa en la candidiasis urogenital?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH mayor de 5"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH entre 3,8 y 4,5"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH neutro"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH alcalino persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH inestable variable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pH vaginal en candidiasis suele mantenerse normal (3,8–4,5), a diferencia de otras vaginitis."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el pronóstico de la candidiasis urogenital tratada adecuadamente en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evolución crónica con recurrencias inevitables"
+        },
+        {
+          "opcion": "B",
+          "texto": "Curación completa con bajo riesgo de recurrencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Progresión a candidemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desarrollo de sepsis neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necesidad de tratamiento quirúrgico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con tratamiento antifúngico adecuado, el pronóstico es excelente y las recurrencias son poco frecuentes."
+    }
+  ]
+}

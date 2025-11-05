@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.2.006",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.006 - Endometritis puerperal  .txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la endometritis puerperal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inflamación de la vejiga postparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección de la herida quirúrgica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección de la mucosa endometrial tras el parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mastitis asociada a la lactancia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La endometritis puerperal corresponde a la infección del endometrio después del parto, más frecuente tras cesárea."
+    },
+    {
+      "numero": "2",
+      "texto": "El factor de riesgo más importante para endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parto eutócico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactancia exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aborto espontáneo previo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cesárea es el principal factor de riesgo, con incidencia significativamente mayor que en parto vaginal."
+    },
+    {
+      "numero": "3",
+      "texto": "La tríada clínica típica de endometritis puerperal incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre, taquipnea y cianosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre, loquios fétidos y dolor uterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión, hemorragia y convulsiones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Náuseas, vómitos y diarrea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema, proteinuria y cefalea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se caracteriza por fiebre, loquios malolientes y dolor o subinvolución uterina."
+    },
+    {
+      "numero": "4",
+      "texto": "El agente etiológico más frecuente en endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus beta hemolítico del grupo B"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flora polimicrobiana anaerobia y aerobios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La infección suele ser polimicrobiana, con mezcla de bacterias aerobias y anaerobias de la flora vaginal."
+    },
+    {
+      "numero": "5",
+      "texto": "El hallazgo clínico más temprano en endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre en primeras 48 h postparto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia vaginal intensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distensión abdominal marcada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fiebre dentro de las primeras 48 horas postparto es el signo inicial más común."
+    },
+    {
+      "numero": "6",
+      "texto": "El diagnóstico de endometritis puerperal es principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Por resonancia magnética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Por ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por criterios clínicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por cultivo de sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Por laparoscopía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico es clínico, basado en fiebre, dolor uterino y loquios fétidos."
+    },
+    {
+      "numero": "7",
+      "texto": "El antibiótico de elección en endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ampicilina sola"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clindamicina más gentamicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metronidazol oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación de clindamicina y gentamicina cubre aerobios y anaerobios, siendo esquema de elección."
+    },
+    {
+      "numero": "8",
+      "texto": "Una complicación grave de la endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Absceso pélvico y sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mastitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tromboflebitis superficial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia digestiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endometritis puede progresar a absceso pélvico, peritonitis y sepsis."
+    },
+    {
+      "numero": "9",
+      "texto": "El factor protector más importante para endometritis tras cesárea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de profilaxis antibiótica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edad materna avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nutrición parenteral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Analgesia epidural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis antibiótica antes de la incisión disminuye significativamente la incidencia de endometritis."
+    },
+    {
+      "numero": "10",
+      "texto": "El signo clínico más específico de endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Loquios fétidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sudoración profusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de loquios fétidos es altamente sugestiva de infección endometrial puerperal."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento antibiótico debe mantenerse hasta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "24 horas afebril"
+        },
+        {
+          "opcion": "B",
+          "texto": "48 horas afebril"
+        },
+        {
+          "opcion": "C",
+          "texto": "72 horas afebril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una semana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta el alta hospitalaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda mantener antibióticos hasta 48 horas después de la desaparición de la fiebre."
+    },
+    {
+      "numero": "12",
+      "texto": "Un factor de riesgo adicional para endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trabajo de parto prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embarazo múltiple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna joven"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anestesia local"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto pretérmino sin trabajo de parto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El trabajo de parto prolongado aumenta el riesgo por mayor manipulación y ruptura de membranas."
+    },
+    {
+      "numero": "13",
+      "texto": "La endometritis puerperal ocurre con mayor frecuencia:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En la primera semana postparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Durante el embarazo temprano"
+        },
+        {
+          "opcion": "C",
+          "texto": "En el tercer trimestre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dos meses después del parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "En la menopausia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endometritis puerperal se desarrolla habitualmente durante la primera semana tras el parto."
+    },
+    {
+      "numero": "14",
+      "texto": "El hallazgo ecográfico sugestivo de complicación en endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento endometrial aislado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gas intrauterino o restos retenidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Poliquistosis ovárica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibromas uterinos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidrosalpinx"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de gas intrauterino o restos retenidos sugiere complicación o persistencia infecciosa."
+    },
+    {
+      "numero": "15",
+      "texto": "El mejor abordaje para prevenir endometritis tras cesárea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibiótico profiláctico previo a incisión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sonda vesical prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado uterino rutinario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento materno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso exclusivo de analgésicos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis antibiótica preoperatoria reduce significativamente el riesgo de infección uterina."
+    },
+    {
+      "numero": "16",
+      "texto": "Un diagnóstico diferencial de endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mastitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tromboflebitis séptica pélvica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Todas las anteriores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La mastitis, tromboflebitis pélvica séptica e infección urinaria pueden simular fiebre postparto."
+    },
+    {
+      "numero": "17",
+      "texto": "La profilaxis antibiótica en cesárea debe administrarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tras el cierre de piel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Durante el trabajo de parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antes de la incisión quirúrgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Al finalizar el procedimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo si hay fiebre postoperatoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe administrarse antes de la incisión para asegurar concentraciones efectivas al momento de la cirugía."
+    },
+    {
+      "numero": "18",
+      "texto": "El hallazgo histopatológico característico de la endometritis puerperal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atrofia glandular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrado inflamatorio polimorfonuclear"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplasia endometrial simple"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células trofoblásticas atípicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se observa infiltrado inflamatorio polimorfonuclear en la mucosa endometrial."
+    }
+  ]
+}

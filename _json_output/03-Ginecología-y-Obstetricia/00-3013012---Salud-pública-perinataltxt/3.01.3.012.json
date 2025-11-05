@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.3.012",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.012 - Salud pública perinatal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal indicador de salud pública perinatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tasa de fecundidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tasa de natalidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tasa de mortalidad infantil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tasa de cesáreas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tasa de lactancia materna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tasa de mortalidad infantil, especialmente la neonatal, es un indicador clave de la salud perinatal y del sistema sanitario."
+    },
+    {
+      "numero": "2",
+      "texto": "El control prenatal adecuado se considera cuando la embarazada realiza:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al menos una consulta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dos controles trimestrales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un control cada mes hasta el parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seis o más controles durante el embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controles sólo en el tercer trimestre"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La OMS recomienda al menos seis controles durante el embarazo para un adecuado control prenatal."
+    },
+    {
+      "numero": "3",
+      "texto": "La mortalidad perinatal incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad neonatal temprana y tardía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad materna y fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muerte fetal tardía y muerte neonatal temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muerte posneonatal y materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mortalidad infantil y juvenil"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad perinatal incluye las muertes fetales tardías (≥22 semanas) y las muertes neonatales tempranas (≤7 días)."
+    },
+    {
+      "numero": "4",
+      "texto": "El bajo peso al nacer se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 1500 g"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menos de 2000 g"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menos de 2500 g"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menos de 3000 g"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menos de 3500 g"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La OMS define bajo peso al nacer como peso menor a 2500 gramos, independiente de la edad gestacional."
+    },
+    {
+      "numero": "5",
+      "texto": "La causa más frecuente de mortalidad materna a nivel mundial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión del embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abortos inseguros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Complicaciones anestésicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las hemorragias obstétricas siguen siendo la principal causa de mortalidad materna en países de bajos recursos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué intervenciones reducen significativamente la mortalidad perinatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesáreas electivas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suplementación de hierro y ácido fólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hospitalización prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunas en el recién nacido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía de rutina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La suplementación de hierro y ácido fólico en el embarazo previene anemia y defectos del tubo neural, mejorando la salud perinatal."
+    },
+    {
+      "numero": "7",
+      "texto": "La estrategia de Tamizaje neonatal en salud pública incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VIH, sífilis, hepatitis B"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fenilcetonuria, hipotiroidismo congénito, fibrosis quística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malformaciones congénitas mayores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tuberculosis neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina D"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamizaje neonatal busca enfermedades congénitas tratables como fenilcetonuria, hipotiroidismo congénito y fibrosis quística."
+    },
+    {
+      "numero": "8",
+      "texto": "El principal factor de riesgo para mortalidad neonatal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prematuridad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incompatibilidad Rh"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección posnatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de hierro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prematuridad es el factor más importante asociado a mortalidad neonatal, debido a inmadurez orgánica."
+    },
+    {
+      "numero": "9",
+      "texto": "La principal estrategia para prevenir transmisión vertical del VIH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar la lactancia materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia antirretroviral durante el embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamizaje neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento del recién nacido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de terapia antirretroviral en la madre es la estrategia más efectiva para prevenir transmisión vertical del VIH."
+    },
+    {
+      "numero": "10",
+      "texto": "El indicador de salud materna más utilizado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mortalidad neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mortalidad perinatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bajo peso al nacer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Morbilidad materna severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tasa de mortalidad materna es un indicador básico de la calidad de los sistemas de salud y de equidad."
+    },
+    {
+      "numero": "11",
+      "texto": "La atención profesional del parto disminuye principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abortos inseguros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad infantil tardía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mortalidad perinatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malformaciones congénitas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrosomía fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La atención profesional del parto disminuye complicaciones neonatales y maternas, reduciendo la mortalidad perinatal."
+    },
+    {
+      "numero": "12",
+      "texto": "La lactancia materna exclusiva hasta los 6 meses previene:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prematuridad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Malformaciones congénitas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones respiratorias y gastrointestinales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muerte fetal tardía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrosomía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lactancia materna exclusiva protege contra infecciones respiratorias y gastrointestinales, reduciendo la mortalidad infantil temprana."
+    },
+    {
+      "numero": "13",
+      "texto": "Un objetivo clave de los programas de salud perinatal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la natalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir la tasa de cesáreas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la mortalidad materna y perinatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prevenir el envejecimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fomentar la reproducción asistida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo de la salud pública perinatal es reducir la mortalidad materna y perinatal, mejorando la calidad de vida."
+    },
+    {
+      "numero": "14",
+      "texto": "La principal estrategia para prevenir la enfermedad hemolítica perinatal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides prenatales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunoglobulina anti-D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fototerapia neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exanguinotransfusión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La administración de inmunoglobulina anti-D en madres Rh negativo previene la enfermedad hemolítica perinatal."
+    },
+    {
+      "numero": "15",
+      "texto": "El concepto de muerte materna evitable se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Muertes por causas inevitables"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muertes prevenibles con atención adecuada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muertes asociadas a prematuridad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muertes fetales tardías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muertes neonatales precoces"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una muerte materna evitable es aquella que podría prevenirse con acceso a servicios de salud oportunos y de calidad."
+    },
+    {
+      "numero": "16",
+      "texto": "El tamizaje de sífilis en embarazadas busca prevenir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abortos espontáneos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transmisión vertical y sífilis congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Preeclampsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamizaje y tratamiento de sífilis en embarazadas previene la transmisión vertical y la sífilis congénita."
+    },
+    {
+      "numero": "17",
+      "texto": "La estrategia de prevención de parto prematuro en salud pública incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cese del tabaco y control prenatal adecuado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo absoluto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inducción temprana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar lactancia materna"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control prenatal y evitar factores de riesgo como tabaquismo son estrategias clave para reducir partos prematuros."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué programa internacional se asocia a la salud perinatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "OPS/OMS Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI)"
+        },
+        {
+          "opcion": "B",
+          "texto": "GAVI (Alianza para las vacunas)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Programa mundial de nutrición"
+        },
+        {
+          "opcion": "D",
+          "texto": "Programa de envejecimiento saludable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciativa CARMEN"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La estrategia AIEPI busca reducir la mortalidad infantil y mejorar la salud perinatal."
+    }
+  ]
+}

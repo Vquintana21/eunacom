@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.3.007",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.3.007 - Mortalidad perinatal y materna.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por mortalidad materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Muerte de la mujer durante el embarazo o puerperio por cualquier causa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muerte de la mujer durante el embarazo o puerperio por causas obstétricas directas o indirectas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muerte fetal antes de las 20 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muerte de la mujer en cualquier momento de su vida reproductiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muerte perinatal dentro de los primeros 28 días"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mortalidad materna es la muerte de una mujer durante el embarazo o hasta 42 días postparto por causas obstétricas directas o indirectas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal causa de mortalidad materna en países en desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia obstétrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones puerperales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abortos inseguros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sepsis urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia obstétrica es la causa más frecuente de mortalidad materna en países en desarrollo."
+    },
+    {
+      "numero": "3",
+      "texto": "La mortalidad perinatal incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo muertes neonatales tempranas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortinatos y muertes neonatales hasta 7 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muertes fetales a partir de 28 semanas y muertes neonatales hasta 7 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muertes neonatales hasta 28 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muertes maternas y fetales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad perinatal se refiere a muertes fetales desde las 28 semanas y muertes neonatales tempranas (primeros 7 días)."
+    },
+    {
+      "numero": "4",
+      "texto": "La razón de mortalidad materna se expresa como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Muertes por cada 10,000 habitantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muertes por cada 100,000 nacidos vivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muertes por cada 1,000 mujeres en edad fértil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muertes por cada 1,000 embarazos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muertes por cada 100 partos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La razón de mortalidad materna se mide por cada 100,000 nacidos vivos."
+    },
+    {
+      "numero": "5",
+      "texto": "Una causa indirecta de mortalidad materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis puerperal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad cardíaca agravada por el embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desprendimiento prematuro de placenta"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las causas indirectas son enfermedades previas o concurrentes agravadas por el embarazo, como cardiopatías."
+    },
+    {
+      "numero": "6",
+      "texto": "La mortalidad neonatal temprana se define como la muerte del recién nacido en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Las primeras 12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Las primeras 24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Los primeros 7 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los primeros 14 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Los primeros 28 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad neonatal temprana corresponde a muertes en los primeros 7 días de vida."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué indicador refleja mejor la calidad de atención obstétrica de un país?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tasa de natalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mortalidad infantil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mortalidad neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperanza de vida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mortalidad materna es un indicador sensible de la calidad de los servicios de salud reproductiva y obstétrica."
+    },
+    {
+      "numero": "8",
+      "texto": "Una estrategia clave para disminuir la mortalidad materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso universal de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promoción de la lactancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acceso a control prenatal oportuno y parto institucional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de la natalidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Campañas de vacunación infantil"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El acceso a control prenatal y parto seguro en instituciones reduce significativamente la mortalidad materna."
+    },
+    {
+      "numero": "9",
+      "texto": "La principal causa de muerte perinatal en países desarrollados es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Malformaciones congénitas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prematuridad y sus complicaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoxia intraparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragia intracraneal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En países desarrollados, la prematuridad y sus complicaciones son la principal causa de muerte perinatal."
+    },
+    {
+      "numero": "10",
+      "texto": "El concepto de 'muertes maternas evitables' se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Muertes ocurridas en mujeres con enfermedades crónicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muertes inevitables por complicaciones súbitas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muertes prevenibles con intervenciones médicas oportunas y eficaces"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muertes que ocurren fuera del hospital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muertes indirectas únicamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Son muertes prevenibles si existiera atención oportuna, adecuada y accesible para la gestante."
+    },
+    {
+      "numero": "11",
+      "texto": "El factor que más contribuye a la mortalidad materna en zonas rurales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta natalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acceso limitado a servicios de salud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor número de partos múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de micronutrientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor edad materna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de acceso a servicios obstétricos de emergencia en zonas rurales eleva la mortalidad materna."
+    },
+    {
+      "numero": "12",
+      "texto": "La mortalidad fetal tardía corresponde a muertes ocurridas:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de las 12 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antes de las 20 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 20 y 27 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "A partir de las 28 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo durante el parto"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La mortalidad fetal tardía corresponde a muertes a partir de las 28 semanas de gestación."
+    },
+    {
+      "numero": "13",
+      "texto": "El indicador más sensible de salud perinatal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tasa de natalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mortalidad perinatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mortalidad materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esperanza de vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mortalidad adulta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mortalidad perinatal refleja las condiciones de atención prenatal, parto y neonatal."
+    },
+    {
+      "numero": "14",
+      "texto": "La sepsis puerperal contribuye a la mortalidad materna por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Complicaciones metabólicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones generalizadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastornos de coagulación hereditarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Causas no obstétricas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sepsis puerperal puede llevar a infecciones sistémicas y fallo multiorgánico."
+    },
+    {
+      "numero": "15",
+      "texto": "El acceso a anticoncepción segura contribuye a disminuir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo mortalidad perinatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo mortalidad materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ambas mortalidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo infecciones ginecológicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo complicaciones neonatales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El acceso a anticoncepción previene embarazos no deseados y abortos inseguros, disminuyendo mortalidad materna y perinatal."
+    },
+    {
+      "numero": "16",
+      "texto": "Un ejemplo de causa obstétrica directa de mortalidad materna es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiopatía congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epilepsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemorragia posparto es una causa obstétrica directa de mortalidad materna."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la principal estrategia global de la OMS para reducir mortalidad materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Universalizar la anticoncepción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atención calificada en el parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Campañas de vacunación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Educación secundaria femenina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control nutricional estricto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La OMS enfatiza la atención calificada durante el parto y el acceso a emergencias obstétricas como estrategia clave."
+    },
+    {
+      "numero": "18",
+      "texto": "La mortalidad materna tardía se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Muerte hasta 1 semana después del parto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muerte hasta 42 días después del parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muerte entre 42 días y 1 año posparto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muerte después de 2 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muerte en cualquier momento de la vida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mortalidad materna tardía ocurre entre los 42 días y 1 año posparto por causas relacionadas al embarazo."
+    }
+  ]
+}

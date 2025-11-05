@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.4.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal del análisis citoquímico del líquido pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar la etiología del derrame pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir la presión intratorácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar la función pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnosticar hipertensión pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la saturación de oxígeno pleural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estudio citoquímico del líquido pleural permite diferenciar entre trasudados y exudados y orientar la causa del derrame."
+    },
+    {
+      "numero": "2",
+      "texto": "Según los criterios de Light, un líquido pleural se considera exudado cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas pleurales/Proteínas séricas > 0,5"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH pleural/LDH sérico < 0,6"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proteínas pleurales < 3 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH pleural < 200 U/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol pleural < 45 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un cociente proteínas pleurales/séricas > 0,5 es uno de los criterios de Light para exudado."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes características corresponde a un trasudado pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajo contenido proteico y celularidad escasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH elevada y predominio de neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alto contenido de colesterol y proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Predominio linfocitario con pH bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspecto turbio y viscocidad aumentada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los trasudados son líquidos pobres en proteínas y células, originados por causas sistémicas como IC o cirrosis."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué valor de LDH pleural es compatible con un exudado según los criterios de Light?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDH pleural > 200 U/L o > 2/3 del límite superior sérico"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH pleural < 100 U/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH pleural igual a LDH sérico"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDH pleural < 1/3 del límite normal sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH pleural entre 100-150 U/L"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un LDH pleural mayor a dos tercios del límite superior normal sérico sugiere exudado."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el rango normal del pH del líquido pleural en condiciones fisiológicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "7,60 a 7,64"
+        },
+        {
+          "opcion": "B",
+          "texto": "7,20 a 7,30"
+        },
+        {
+          "opcion": "C",
+          "texto": "6,80 a 6,90"
+        },
+        {
+          "opcion": "D",
+          "texto": "7,00 a 7,10"
+        },
+        {
+          "opcion": "E",
+          "texto": "7,80 a 8,00"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El pH del líquido pleural normal es ligeramente alcalino, mayor que el del plasma (7,60-7,64)."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo citoquímico sugiere un empiema pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH < 7,2 y glucosa < 40 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH baja y proteínas < 3 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Color amarillento claro y pH normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa > 60 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Predominio linfocitario con pH alto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El empiema presenta pH bajo, glucosa disminuida y LDH elevada debido a infección bacteriana."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de células predominan en un derrame pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinófilos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrófagos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células mesoteliales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los derrames tuberculosos son exudados linfocitarios con alto contenido de proteínas."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué parámetro ayuda a diferenciar un derrame paraneumónico complicado de uno no complicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH y glucosa pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Color del líquido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión parcial de oxígeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de fibrina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cantidad de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un pH < 7,2 y glucosa < 40 mg/dL indican derrame paraneumónico complicado que requiere drenaje."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el valor de proteínas pleurales más frecuentemente asociado a un exudado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "> 3 g/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "< 2,5 g/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 1 y 2 g/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 0,5 y 1 g/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "< 0,5 g/dL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los exudados contienen más de 3 g/dL de proteínas debido al aumento de permeabilidad capilar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo se asocia a un derrame pleural maligno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de células neoplásicas en el examen citológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa y pH normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Predominio eosinofílico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La identificación de células neoplásicas confirma la etiología maligna del derrame pleural."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué significa la presencia de eosinófilos >10% en líquido pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Derrame asociado a aire o sangre en el espacio pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tuberculosis pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neoplasia pleural maligna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Empiema bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia cardíaca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La eosinofilia pleural suele asociarse a aire o sangre en el espacio pleural, como en neumotórax o hemotórax."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro bioquímico disminuye notablemente en derrames pleurales reumatoideos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amilasa pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH pleural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los derrames reumatoideos muestran glucosa muy baja (<30 mg/dL) y pH ácido por metabolismo celular intenso."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué significa un líquido pleural lechoso con triglicéridos >110 mg/dL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quilotórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudoquilotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empiema pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame hemático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transudado hepático"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El quilotórax es rico en triglicéridos (>110 mg/dL) y aparece lechoso por la presencia de linfa."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo químico distingue un pseudoquilotórax de un quilotórax?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alto colesterol y bajos triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Altos triglicéridos y bajo colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de bacterias anaerobias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Predominio neutrofílico"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El pseudoquilotórax tiene alto colesterol (>200 mg/dL) y triglicéridos bajos, típico de procesos crónicos como TBC o AR."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo citológico orienta a un derrame por pancreatitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amilasa elevada en líquido pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio eosinofílico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de células mesoteliales abundantes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa elevada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento de amilasa en el líquido pleural indica comunicación con el páncreas o esófago."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el aspecto más frecuente de un derrame pleural tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amarillo citrino y claro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemático oscuro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lechoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Purulento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verdoso espeso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El líquido pleural tuberculoso es típicamente serofibrinoso, claro o amarillo citrino con alto contenido proteico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué parámetro es útil para identificar un derrame pleural maligno cuando la citología es negativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinación de ADA y LDH"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Color del líquido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conteo de eosinófilos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una LDH muy elevada junto a ADA baja puede sugerir malignidad aun sin confirmación citológica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué valor de ADA pleural orienta a tuberculosis pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">40 U/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "<20 U/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 10-30 U/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "<5 U/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "No detectable"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un valor de adenosina deaminasa (ADA) superior a 40 U/L es sugestivo de tuberculosis pleural."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tipo de células se observan con frecuencia en derrames pleurales de origen neoplásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células malignas y mesoteliales atípicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio de eosinófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfocitos normales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células escamosas descamadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrófagos alveolares"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los derrames malignos contienen células tumorales con pleomorfismo y núcleos prominentes junto a mesoteliales reactivas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro se encuentra generalmente disminuido en un derrame pleural por insuficiencia cardíaca congestiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas pleurales y LDH"
+        },
+        {
+          "opcion": "B",
+          "texto": "ADA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colesterol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amilasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los trasudados por insuficiencia cardíaca presentan baja concentración de proteínas y LDH, reflejando ultrafiltrado plasmático."
+    }
+  ]
+}

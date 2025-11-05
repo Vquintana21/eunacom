@@ -1,0 +1,572 @@
+{
+  "codigo": "1.06.1.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Gastroenterologia",
+  "subcategoria_id": "06",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo histológico más común del cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenocarcinoma ductal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma de células acinares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tumor neuroendocrino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cistoadenocarcinoma seroso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma pancreático"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El adenocarcinoma ductal representa aproximadamente el 90% de los casos de cáncer pancreático."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo modificable para el cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcoholismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta rica en grasas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo duplica el riesgo de cáncer pancreático, siendo el factor de riesgo más importante y modificable."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Dónde se localiza con mayor frecuencia el cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cabeza"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuerpo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cola"
+        },
+        {
+          "opcion": "D",
+          "texto": "Difuso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Unión pancreática central"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cabeza pancreática es el sitio más frecuente de localización, representando cerca del 70% de los casos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué manifestación clínica es típica del cáncer de cabeza pancreática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia indolora progresiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematemesis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Melena"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor en hipogastrio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea secretora"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ictericia indolora progresiva es característica debido a la obstrucción del colédoco distal por el tumor."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el marcador tumoral más utilizado para el cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "B",
+          "texto": "CA 19-9"
+        },
+        {
+          "opcion": "C",
+          "texto": "CA 125"
+        },
+        {
+          "opcion": "D",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA 15-3"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El CA 19-9 es el marcador más usado para diagnóstico y seguimiento, aunque no es específico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el estudio de imagen inicial más útil para diagnosticar cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "TAC con contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "RMN simple"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET-CT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangiorresonancia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía axial computarizada con contraste es el estudio de elección inicial para diagnóstico y estadificación."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué procedimiento permite obtener biopsia de una masa pancreática con precisión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colangiorresonancia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecoendoscopía con punción aspirativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Laparotomía exploradora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía sin contraste"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colangiografía retrógrada endoscópica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecoendoscopía con punción aspirativa es el método más preciso para obtener muestra histológica del tumor."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué mutación se asocia con mayor frecuencia al adenocarcinoma pancreático esporádico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "KRAS"
+        },
+        {
+          "opcion": "B",
+          "texto": "TP53"
+        },
+        {
+          "opcion": "C",
+          "texto": "BRCA1"
+        },
+        {
+          "opcion": "D",
+          "texto": "APC"
+        },
+        {
+          "opcion": "E",
+          "texto": "RET"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las mutaciones en KRAS están presentes en más del 90% de los adenocarcinomas pancreáticos esporádicos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué síndrome paraneoplásico puede observarse en el cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Trousseau"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Lambert-Eaton"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome carcinoide"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Trousseau, o tromboflebitis migratoria, es una manifestación paraneoplásica clásica del cáncer pancreático."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué procedimiento quirúrgico se indica en tumores resecables de la cabeza del páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pancreatectomía total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duodenopancreatectomía cefálica (Whipple)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pancreatectomía distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Drenaje biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pancreatectomía central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La duodenopancreatectomía cefálica o procedimiento de Whipple es la cirugía indicada en tumores resecables de la cabeza."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el síntoma predominante en tumores de cuerpo o cola pancreática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor epigástrico irradiado a espalda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia dolorosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor epigástrico irradiado en cinturón a la espalda es característico de lesiones en cuerpo o cola."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo tomográfico sugiere cáncer pancreático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa hipodensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa hiperdensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificación difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste multilocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia lobular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La masa hipodensa en TAC con dilatación del colédoco y conducto pancreático es sugestiva de cáncer pancreático."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué síndrome genético se asocia a un mayor riesgo de cáncer pancreático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Peutz-Jeghers"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Marfan"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Klinefelter"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Noonan"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Peutz-Jeghers confiere un alto riesgo de desarrollar cáncer de páncreas y gastrointestinal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué marcador se utiliza para seguimiento tras cirugía resectiva de cáncer pancreático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CA 19-9"
+        },
+        {
+          "opcion": "B",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "C",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "D",
+          "texto": "CA 15-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Beta-2 microglobulina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El CA 19-9 es útil para seguimiento posoperatorio, siendo su aumento indicador de recurrencia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué esquema quimioterápico mejora la supervivencia en cáncer pancreático metastásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FOLFIRINOX"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gemcitabina sola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cisplatino"
+        },
+        {
+          "opcion": "D",
+          "texto": "5-Fluorouracilo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Capecitabina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El esquema FOLFIRINOX prolonga la supervivencia en pacientes con buen estado funcional comparado con gemcitabina sola."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo físico corresponde al signo de Courvoisier?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vesícula palpable e indolora con ictericia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal con fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis con hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor epigástrico con náuseas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prurito con coluria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Courvoisier consiste en vesícula palpable e indolora con ictericia por obstrucción maligna del colédoco."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué alteración metabólica puede preceder al diagnóstico de cáncer de páncreas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus de reciente aparición"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diabetes de reciente aparición puede ser una manifestación temprana del cáncer pancreático."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la supervivencia global a 5 años en cáncer pancreático metastásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "15%"
+        },
+        {
+          "opcion": "C",
+          "texto": "5%"
+        },
+        {
+          "opcion": "D",
+          "texto": "1%"
+        },
+        {
+          "opcion": "E",
+          "texto": "0%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La supervivencia a 5 años en enfermedad metastásica es menor al 1%, reflejando su mal pronóstico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la función principal del tratamiento paliativo en cáncer pancreático avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curar el cáncer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aliviar síntomas y mejorar calidad de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir CA 19-9"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prevenir diabetes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar recurrencia local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento paliativo busca controlar síntomas como el dolor, ictericia y anorexia para mejorar calidad de vida."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico indica invasión del plexo celíaco por cáncer pancreático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor epigástrico irradiado a espalda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia progresiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor epigástrico que irradia en cinturón a la espalda indica infiltración del plexo celíaco."
+    }
+  ]
+}

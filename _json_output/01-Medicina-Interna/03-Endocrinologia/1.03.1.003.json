@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hipertiroidismo en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bocio multinodular tóxico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroiditis subaguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad de Graves-Basedow"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenoma hipofisario secretor de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingesta excesiva de yodo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad de Graves es la causa más común de hipertiroidismo, mediada por anticuerpos estimulantes del receptor de TSH."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el patrón hormonal característico del hipertiroidismo primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH baja y T4 libre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH alta y T4 libre baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH alta y T4 libre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH baja y T4 libre baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH normal y T4 libre baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el hipertiroidismo primario, la T4 y T3 están elevadas y la TSH suprimida por retroalimentación negativa."
+    },
+    {
+      "numero": "3",
+      "texto": "El signo de Dalrymple en la enfermedad de Graves corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Temblor fino distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retracción palpebral con mirada fija"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del tamaño tiroideo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejos lentos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Dalrymple consiste en retracción del párpado superior, dejando visible la esclerótica por hipersimpaticotonía ocular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el anticuerpo característico de la enfermedad de Graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antitiroglobulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anti-TPO"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antirreceptor de TSH (TSI)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos bloqueantes de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos anti-T3"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los anticuerpos estimulantes del receptor de TSH (TSI) son responsables del hipertiroidismo autoinmune de Graves."
+    },
+    {
+      "numero": "5",
+      "texto": "La crisis tiroidea se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotermia y bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertermia, taquicardia y alteración del sensorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retardo psicomotor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La crisis tiroidea es una emergencia con fiebre alta, taquiarritmia y alteración del sensorio por exceso extremo de hormona tiroidea."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el tratamiento inicial de elección en crisis tiroidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Levotiroxina intravenosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Propiltiouracilo, betabloqueo y esteroides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioyodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía urgente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroglobulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento incluye propiltiouracilo para inhibir síntesis y conversión periférica, betabloqueo y corticoides para reducir respuesta adrenérgica."
+    },
+    {
+      "numero": "7",
+      "texto": "En la enfermedad de Graves, el hallazgo ecográfico típico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroides hipoecogénica con baja vascularización"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroides hiperecogénica heterogénea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroides hipoecogénica con hiperflujo difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos fríos aislados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificaciones múltiples"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía muestra glándula hipoecogénica y vascularización aumentada en todo el parénquima ('tiroides en llamas')."
+    },
+    {
+      "numero": "8",
+      "texto": "El hipertiroidismo facticio se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH alta y captación elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH baja y captación tiroidea suprimida"
+        },
+        {
+          "opcion": "C",
+          "texto": "TSH baja y captación aumentada"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH alta y captación baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH normal y T4 libre baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipertiroidismo facticio se produce por ingesta exógena de hormona tiroidea, con TSH baja y captación tiroidea suprimida."
+    },
+    {
+      "numero": "9",
+      "texto": "En el bocio multinodular tóxico, la gammagrafía tiroidea muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Captación homogénea difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulos fríos múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Áreas de captación heterogénea con nódulos calientes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia total de captación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Captación solo periférica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El bocio multinodular tóxico muestra múltiples áreas hiperfuncionantes (nódulos calientes) y zonas hipocaptantes."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué alteración cardiovascular es típica del hipertiroidismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo AV de tercer grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia aórtica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión ortostática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de hormona tiroidea aumenta la excitabilidad cardíaca y puede inducir fibrilación auricular, especialmente en mayores."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué fármaco bloquea la conversión periférica de T4 a T3?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metimazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Propiltiouracilo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yodo radiactivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El propiltiouracilo inhibe tanto la organificación del yodo como la conversión periférica de T4 en T3."
+    },
+    {
+      "numero": "12",
+      "texto": "La oftalmopatía tiroidea se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo primario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad de Graves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis subaguda de De Quervain"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertiroidismo facticio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La oftalmopatía tiroidea es típica de la enfermedad de Graves, mediada por reactividad inmunológica cruzada en tejidos orbitarios."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento con yodo radiactivo está contraindicado en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adultos jóvenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bocio multinodular tóxico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo y lactancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recaída post-metimazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancianos con comorbilidad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El yodo radiactivo está contraindicado en embarazo y lactancia por riesgo de hipotiroidismo fetal o neonatal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes no es un síntoma típico del hipertiroidismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida de peso con apetito aumentado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temblor fino distal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intolerancia al frío"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperreflexia"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La intolerancia al frío es típica del hipotiroidismo, mientras que en el hipertiroidismo hay intolerancia al calor."
+    },
+    {
+      "numero": "15",
+      "texto": "En la tiroiditis subaguda de De Quervain, el hipertiroidismo se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autonomía funcional nodular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Liberación pasiva de hormona preformada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticuerpos estimulantes del receptor de TSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción excesiva por mutación de receptor TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de yodo dietario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la tiroiditis subaguda, la destrucción inflamatoria libera hormonas ya formadas, sin aumento de síntesis."
+    },
+    {
+      "numero": "16",
+      "texto": "El efecto adverso más grave del metimazol es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rash cutáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agranulocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Náuseas leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatotoxicidad colestásica leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La agranulocitosis es el efecto adverso más severo de los antitiroideos, y requiere suspensión inmediata del fármaco."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo radiológico es típico en oftalmopatía de Graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción del espacio retroocular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento de músculos extraoculares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificaciones orbitarias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exoftalmos unilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia de grasa orbitaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía muestra engrosamiento de músculos extraoculares, especialmente del recto inferior y medial."
+    },
+    {
+      "numero": "18",
+      "texto": "En el hipertiroidismo, los betabloqueadores se utilizan para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuir la síntesis hormonal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloquear la conversión de T4 a T3 y síntomas adrenérgicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimular la función tiroidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir el tamaño del bocio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la secreción de TSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los betabloqueadores controlan síntomas adrenérgicos y, en el caso del propranolol, reducen la conversión periférica de T4 a T3."
+    },
+    {
+      "numero": "19",
+      "texto": "La captación tiroidea en la tiroiditis subaguda es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuida o ausente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Irregular y parcheada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la tiroiditis subaguda la captación de yodo está disminuida por daño folicular y liberación pasiva de hormona."
+    },
+    {
+      "numero": "20",
+      "texto": "En el hipertiroidismo, el metabolismo basal se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del consumo de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la termogénesis y consumo de oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del catabolismo proteico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retardo en el metabolismo hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de hormona tiroidea aumenta la termogénesis, el gasto energético y el consumo de oxígeno tisular."
+    }
+  ]
+}

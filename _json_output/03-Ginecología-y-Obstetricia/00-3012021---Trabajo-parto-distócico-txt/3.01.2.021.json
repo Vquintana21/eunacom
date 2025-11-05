@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.2.021",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.021 - Trabajo parto distócico .txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "El trabajo de parto distócico se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trabajo de parto que ocurre antes de las 37 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto vaginal espontáneo sin complicaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración en la progresión normal del trabajo de parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parto múltiple con presentación anómala"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cesárea electiva programada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trabajo de parto distócico corresponde a la alteración de la progresión normal en dilatación, descenso o expulsión."
+    },
+    {
+      "numero": "2",
+      "texto": "La causa más frecuente de distocia en el trabajo de parto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alteraciones del canal del parto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presentaciones anómalas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la fuerza de contracciones uterinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipodinamia o inadecuada contracción uterina es la causa más común de trabajo de parto distócico."
+    },
+    {
+      "numero": "3",
+      "texto": "En la tríada de factores que determinan la distocia (las 3P), se incluyen:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelvis, placenta, presión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pelvis, potencia, presentación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta, pelvis, placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pelvis, potencia, peso fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Potencia, presentación, preeclampsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las 3P corresponden a pelvis (canal óseo), potencia (contracciones) y presentación fetal."
+    },
+    {
+      "numero": "4",
+      "texto": "Una pelvis estrecha puede producir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distocia de contracción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Distocia de canal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Distocia de partes blandas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distocia de placenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distocia funcional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pelvis estrecha genera distocia mecánica o de canal, impidiendo el progreso del feto."
+    },
+    {
+      "numero": "5",
+      "texto": "La macrosomía fetal favorece principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Distocia de hombros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto pretérmino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desprendimiento de placenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mala presentación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La macrosomía aumenta el riesgo de distocia de hombros, complicando el parto vaginal."
+    },
+    {
+      "numero": "6",
+      "texto": "La prueba de parto se realiza para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Valorar la contractilidad uterina con oxitocina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar la adaptación feto-pélvica en parto distócico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la dilatación cervical por ecografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Comprobar bienestar fetal con Doppler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducir el parto en embarazos prolongados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de parto evalúa la capacidad de la pelvis y contracciones para permitir el paso fetal."
+    },
+    {
+      "numero": "7",
+      "texto": "Una indicación absoluta de cesárea en distocia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Preeclampsia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto prolongado con sufrimiento fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa oclusiva total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fase activa prolongada sin sufrimiento fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrosomía sin complicaciones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La placenta previa oclusiva total impide el parto vaginal y obliga a cesárea."
+    },
+    {
+      "numero": "8",
+      "texto": "La hipodinamia uterina se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracciones uterinas frecuentes y dolorosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contracciones débiles e ineficaces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contracciones sostenidas sin relajación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia total de contracciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contracciones regulares con buena progresión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipodinamia, las contracciones son insuficientes para dilatación y descenso fetal."
+    },
+    {
+      "numero": "9",
+      "texto": "El manejo inicial de hipodinamia uterina incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de oxitocina y monitorización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de prostaglandinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tocolíticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Episiotomía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento inicial consiste en administrar oxitocina y controlar la evolución del parto."
+    },
+    {
+      "numero": "10",
+      "texto": "En distocia por desproporción céfalo-pélvica la conducta es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inducción con oxitocina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de parto prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Analgesia epidural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotura artificial de membranas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desproporción céfalo-pélvica es una indicación de cesárea por imposibilidad de parto vaginal."
+    },
+    {
+      "numero": "11",
+      "texto": "La fase activa prolongada en el trabajo de parto se diagnostica cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La dilatación es menor a 1 cm por hora"
+        },
+        {
+          "opcion": "B",
+          "texto": "La paciente presenta taquicardia materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "El feto no desciende en 30 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "El líquido amniótico es meconial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se observa hipertonía uterina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se define como dilatación cervical <1 cm por hora en fase activa de parto."
+    },
+    {
+      "numero": "12",
+      "texto": "La distocia de hombros es una complicación asociada a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desproporción céfalo-pélvica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperdinamia uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto pretérmino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La macrosomía fetal predispone a la impactación de hombros tras la salida de la cabeza."
+    },
+    {
+      "numero": "13",
+      "texto": "Una de las maniobras iniciales en distocia de hombros es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maniobra de McRoberts"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maniobra de Bracht"
+        },
+        {
+          "opcion": "C",
+          "texto": "Maniobra de Kristeller"
+        },
+        {
+          "opcion": "D",
+          "texto": "Versión cefálica externa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de fórceps"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La maniobra de McRoberts (flexión de caderas) es primera línea en distocia de hombros."
+    },
+    {
+      "numero": "14",
+      "texto": "En la hiperdinamia uterina se observa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contracciones débiles y escasas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contracciones excesivas y prolongadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia total de contracciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contracciones normales pero ineficaces"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contracciones regulares con progresión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperdinamia se caracteriza por contracciones uterinas excesivas, dolorosas y con riesgo de sufrimiento fetal."
+    },
+    {
+      "numero": "15",
+      "texto": "Una complicación materna de trabajo de parto distócico prolongado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eclampsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección puerperal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Abruptio placentae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolismo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo de parto distócico prolongado incrementa el riesgo de infección puerperal."
+    },
+    {
+      "numero": "16",
+      "texto": "Un factor fetal predisponente de distocia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo materno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad materna avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo materno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La macrosomía fetal es una causa frecuente de distocia por dificultad en el paso por canal."
+    },
+    {
+      "numero": "17",
+      "texto": "En caso de trabajo de parto distócico con sufrimiento fetal, la conducta inmediata es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar dosis de oxitocina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar tocolíticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cesárea de urgencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener conducta expectante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotura artificial de membranas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sufrimiento fetal en un contexto de distocia indica cesárea urgente."
+    },
+    {
+      "numero": "18",
+      "texto": "Un signo de desproporción céfalo-pélvica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso en descenso fetal a pesar de buena dinámica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación cervical rápida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contracciones irregulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Expulsivo prolongado con parto vaginal exitoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Episiotomía necesaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La falta de descenso fetal pese a contracciones adecuadas sugiere desproporción céfalo-pélvica."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.010",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Citoquímico de líquido cefaloraquídeo y pleural",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el aspecto normal del líquido cefalorraquídeo (LCR) en un niño sano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Turbio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristalino e incoloro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amarillento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lechoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Verdoso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LCR normal es transparente e incoloro; la turbidez indica aumento celular o de proteínas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué valor normal de proteínas se espera en el LCR de un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10-20 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "20-45 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "60-100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "120-150 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "180-250 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes, el valor normal de proteínas en LCR es de 20 a 45 mg/dL."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la principal causa de LCR turbio con predominio de polimorfonucleares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia subaracnoidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis tuberculosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalitis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La meningitis bacteriana produce LCR turbio con neutrofilia marcada."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué valor de glucosa en LCR sugiere infección bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor a 60% de la glucemia plasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor a 40 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 50-80 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Igual a la glucemia plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor a 100 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glucosa baja en LCR es característica de meningitis bacteriana."
+    },
+    {
+      "numero": "5",
+      "texto": "En un LCR con predominio linfocitario y proteínas elevadas, se debe sospechar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis viral o tuberculosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia subaracnoidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contaminación sanguínea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso epidural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El predominio linfocitario y proteínas altas son típicos de meningitis viral o tuberculosa."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el recuento celular normal del LCR en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0-5 células/mm³"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-50 células/mm³"
+        },
+        {
+          "opcion": "C",
+          "texto": "100-200 células/mm³"
+        },
+        {
+          "opcion": "D",
+          "texto": "300-500 células/mm³"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 1000 células/mm³"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En condiciones normales, el LCR contiene de 0 a 5 células por mm³."
+    },
+    {
+      "numero": "7",
+      "texto": "Un líquido pleural con proteínas >3 g/dL y LDH alta corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trasudado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido hemorrágico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido quiloso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Líquido purulento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los exudados tienen alto contenido proteico y LDH, típicos de procesos inflamatorios o infecciosos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo es característico del líquido pleural en una empiema?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Claro y transparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Turbio con pH bajo y glucosa baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lechoso y rico en triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seroso con alto sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rojizo con hematíes abundantes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El empiema presenta líquido turbio, con pH bajo y glucosa disminuida."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué coloración se usa para identificar células en líquido pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Wright o Giemsa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ziehl-Neelsen"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sudán III"
+        },
+        {
+          "opcion": "E",
+          "texto": "PAS"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las tinciones Wright o Giemsa permiten diferenciar tipos celulares en líquidos biológicos."
+    },
+    {
+      "numero": "10",
+      "texto": "El líquido pleural quiloso tiene triglicéridos:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 50 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 50 y 100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayores de 110 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iguales a los plasmáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inexistentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El quilotórax se caracteriza por triglicéridos mayores de 110 mg/dL en líquido pleural."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo de LCR es típico de meningitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Turbidez y neutrofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transparente con linfocitosis y proteínas normales o ligeramente elevadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemático con alta glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "LCR lechoso y ácido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuento celular normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En meningitis viral el LCR es claro, con linfocitosis leve y proteínas discretamente elevadas."
+    },
+    {
+      "numero": "12",
+      "texto": "En meningitis bacteriana, la relación glucosa LCR/glucemia es típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">0.6"
+        },
+        {
+          "opcion": "B",
+          "texto": "<0.4"
+        },
+        {
+          "opcion": "C",
+          "texto": "≈1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 0.5 y 0.8"
+        },
+        {
+          "opcion": "E",
+          "texto": "Igual a 0.7"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una relación menor a 0.4 es típica de infecciones bacterianas con consumo de glucosa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de célula predomina en el líquido pleural de un derrame tuberculoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrófilos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monocitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrófagos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los derrames tuberculosos se caracterizan por linfocitosis en el líquido pleural."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué componente permite diferenciar exudado de trasudado según Light?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH y proteínas totales"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH y proteínas en líquido y suero"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa y albúmina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuento celular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Color del líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los criterios de Light usan la relación de LDH y proteínas entre líquido pleural y suero."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo en LCR sugiere hemorragia subaracnoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LCR xantocrómico sin coágulo"
+        },
+        {
+          "opcion": "B",
+          "texto": "LCR hemático con coágulo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Turbidez con linfocitosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteínas normales y glucosa alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de eritrocitos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El LCR xantocrómico indica presencia antigua de sangre en el espacio subaracnoideo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el valor normal del pH del líquido pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6.5-6.9"
+        },
+        {
+          "opcion": "B",
+          "texto": "7.00-7.20"
+        },
+        {
+          "opcion": "C",
+          "texto": "7.30-7.45"
+        },
+        {
+          "opcion": "D",
+          "texto": "7.50-7.70"
+        },
+        {
+          "opcion": "E",
+          "texto": "8.0"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pH normal del líquido pleural es ligeramente alcalino, entre 7.30 y 7.45."
+    },
+    {
+      "numero": "17",
+      "texto": "El hallazgo de colesterol elevado en líquido pleural sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trasudado simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame crónico o exudativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empiema agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quilotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contaminación hemática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El colesterol alto se asocia a derrames crónicos o exudativos por aumento de permeabilidad."
+    },
+    {
+      "numero": "18",
+      "texto": "En meningitis tuberculosa, el LCR se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Turbio con neutrofilia y glucosa baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Claro con linfocitosis y proteínas muy altas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemático con coágulo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normal con pH bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lechoso con triglicéridos altos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El LCR es claro, con linfocitosis y proteínas elevadas por inflamación meníngea prolongada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué significa un líquido pleural con predominio de eosinófilos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tuberculosis pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Empiema bacteriano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de aire o sangre en cavidad pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neoplasia metastásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quilotórax"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los eosinófilos aumentan ante la presencia de aire o sangre en el espacio pleural."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué indica un LCR con proteínas muy elevadas (>1000 mg/dL) y glucosa muy baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana grave o tuberculosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia subaracnoidea leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contaminación por sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traumatismo craneal leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de proteínas muy altas y glucosa baja es típica de meningitis bacteriana o tuberculosa severa."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.044",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hepatomegalia",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hepatomegalia en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cardíaca congestiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tumor hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocromatosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones virales, especialmente por citomegalovirus y hepatitis, son las causas más frecuentes en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué examen inicial es más útil para evaluar una hepatomegalia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de abdomen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia hepática inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía abdominal permite determinar el tamaño, textura y características estructurales del hígado."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes condiciones se asocia a hepatomegalia con esplenomegalia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis aguda viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia cardíaca aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucemia aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis medicamentosa leve"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La leucemia puede producir hepatomegalia y esplenomegalia por infiltración celular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes hallazgos orienta a una hepatomegalia de origen cardíaco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado firme y nodular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascitis con circulación colateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado blando, doloroso y pulsátil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia indolora con ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hígado pequeño y atrófico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hepatomegalia pulsátil y dolorosa sugiere congestión hepática por insuficiencia cardíaca."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué estudio confirma la sospecha de hepatitis viral como causa de hepatomegalia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil hepático y serología viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El perfil hepático y la serología permiten identificar hepatitis viral activa."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué característica clínica sugiere hepatomegalia infiltrativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor a la palpación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consistencia blanda y superficie lisa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado duro, nodular y no doloroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulsaciones hepáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de fiebre alta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infiltración tumoral o metabólica genera un hígado duro y nodular sin dolor."
+    },
+    {
+      "numero": "7",
+      "texto": "En un recién nacido con ictericia prolongada y hepatomegalia, ¿cuál es el diagnóstico más probable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia de vías biliares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección por rotavirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico congénito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La atresia biliar se presenta con ictericia colestásica y hepatomegalia persistente."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo de laboratorio sugiere hepatomegalia de origen metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de transaminasas aislado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglicemia y acidosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperbilirrubinemia directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación leve de fosfatasa alcalina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia normocítica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de hipoglicemia y acidosis sugiere errores innatos del metabolismo hepático."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de las siguientes enfermedades causa hepatomegalia por depósito de glucógeno?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad de Gaucher"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad de Wilson"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicogenosis tipo I (Von Gierke)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocromatosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glicogenosis tipo I produce hepatomegalia masiva y hipoglicemia recurrente."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué signo clínico se asocia a hepatomegalia congestiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea y edemas periféricos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal en epigastrio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esplenomegalia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La congestión hepática por insuficiencia cardíaca produce disnea y edema periférico."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tamaño normal del borde hepático palpable en lactantes sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No debe palparse"
+        },
+        {
+          "opcion": "B",
+          "texto": "1–2 cm bajo el reborde costal derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "3–4 cm bajo el reborde costal"
+        },
+        {
+          "opcion": "D",
+          "texto": "6 cm bajo el reborde costal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende de la edad sin valores de referencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes sanos, el hígado puede palparse 1–2 cm bajo el reborde costal sin patología."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estudio confirma la enfermedad de Wilson como causa de hepatomegalia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles bajos de ceruloplasmina y cobre urinario alto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de ferritina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía con hígado brillante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detección de mutación G6PD"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos antinucleares positivos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad de Wilson cursa con ceruloplasmina baja y excreción urinaria de cobre aumentada."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal causa de hepatomegalia dolorosa en niños mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis viral aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glicogenosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemangioma hepático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atresia biliar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hepatitis viral aguda causa hepatomegalia sensible por inflamación parenquimatosa."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué causa metabólica debe sospecharse ante hepatomegalia con hipoglicemia recurrente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Galactosemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tirosinemia tipo I"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicogenosis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de alfa-1 antitripsina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemocromatosis congénita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las glicogenosis producen hepatomegalia e hipoglicemias por almacenamiento anómalo de glucógeno."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué enfermedad infiltrativa produce hepatomegalia y anemia pancitopénica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glicogenosis tipo I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad de Gaucher"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemangioma hepático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad de Gaucher produce depósito lisosomal en hígado, bazo y médula ósea."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo sugiere hepatomegalia de causa tumoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor epigástrico leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa firme, irregular y nodular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sensibilidad a la palpación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hígado blando y homogéneo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los tumores hepáticos presentan hepatomegalia irregular, dura y no dolorosa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo ecográfico sugiere esteatosis hepática como causa de hepatomegalia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado hiperecogénico y homogéneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado con múltiples quistes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de masas nodulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dilatación de vías biliares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Circulación colateral intrahepática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La esteatosis se observa como hígado brillante e hiperecogénico en ecografía."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro de laboratorio indica colestasis en hepatomegalia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de ALT y AST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bilirrubina indirecta elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfatasa alcalina y GGT elevadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoalbuminemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucocitosis leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La colestasis cursa con elevación de fosfatasa alcalina y GGT sérica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué patología debe sospecharse en hepatomegalia con hiperferritinemia marcada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocromatosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glicogenosis tipo VI"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad de Gaucher"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Alagille"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemocromatosis cursa con depósito excesivo de hierro y hepatomegalia progresiva."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el objetivo principal del estudio de una hepatomegalia en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar la necesidad de cirugía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar la etiología y evaluar el compromiso funcional hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Confirmar únicamente el aumento de tamaño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar riesgo de malignidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicar biopsia hepática en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo es establecer la causa subyacente y determinar la función hepática residual."
+    }
+  ]
+}

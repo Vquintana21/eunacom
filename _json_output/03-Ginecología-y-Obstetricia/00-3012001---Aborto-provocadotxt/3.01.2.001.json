@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.2.001",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.001 - Aborto provocado.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "El aborto provocado se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Interrupción espontánea del embarazo antes de la semana 20"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expulsión de un feto muerto mayor de 500 gramos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Interrupción voluntaria del embarazo por medios médicos o quirúrgicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Expulsión involuntaria del producto antes de la viabilidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cualquier pérdida gestacional después de la semana 28"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aborto provocado corresponde a la interrupción intencional del embarazo, ya sea por métodos médicos o quirúrgicos."
+    },
+    {
+      "numero": "2",
+      "texto": "El método farmacológico más utilizado para aborto provocado en el primer trimestre es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Misoprostol solo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mifepristona más misoprostol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metotrexato intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxitocina intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prostaglandina F2 alfa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de mifepristona y misoprostol es el método más eficaz y seguro en el primer trimestre."
+    },
+    {
+      "numero": "3",
+      "texto": "La principal complicación inmediata de un aborto provocado inseguro es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección pélvica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esterilidad definitiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neoplasia trofoblástica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemorragia aguda es una complicación frecuente y grave en abortos provocados inseguros."
+    },
+    {
+      "numero": "4",
+      "texto": "El misoprostol actúa principalmente a nivel de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Receptores beta adrenérgicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Receptores de progesterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Receptores de prostaglandinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Canales de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Receptores estrogénicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El misoprostol es un análogo de prostaglandina E1 que induce contracciones uterinas y maduración cervical."
+    },
+    {
+      "numero": "5",
+      "texto": "El procedimiento quirúrgico más utilizado para aborto provocado en el primer trimestre es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Legrado uterino instrumental"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aspiración manual endouterina (AMEU)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laparotomía exploradora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cesárea evacuadora"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La AMEU es el procedimiento quirúrgico más usado en el primer trimestre por su eficacia y seguridad."
+    },
+    {
+      "numero": "6",
+      "texto": "La complicación infecciosa más frecuente post aborto inseguro es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometritis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salpingitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Septicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Absceso tuboovárico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cistitis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endometritis es la complicación infecciosa más común tras un aborto inseguro."
+    },
+    {
+      "numero": "7",
+      "texto": "El uso de antibióticos profilácticos en aborto provocado quirúrgico busca prevenir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perforación uterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sinequias uterinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rechazo a anticoncepción posterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La profilaxis antibiótica disminuye el riesgo de infección pélvica post procedimiento."
+    },
+    {
+      "numero": "8",
+      "texto": "La perforación uterina es más frecuente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abortos farmacológicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "AMEU realizada en ambiente hospitalario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legrado instrumental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de misoprostol vía oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aborto espontáneo completo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El legrado instrumental con cureta rígida tiene mayor riesgo de perforación uterina."
+    },
+    {
+      "numero": "9",
+      "texto": "En el contexto de aborto provocado, el síndrome de Asherman corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección uterina crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adherencias intrauterinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertrofia endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endometriosis secundaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Asherman se caracteriza por adherencias intrauterinas tras procedimientos como legrado repetido."
+    },
+    {
+      "numero": "10",
+      "texto": "La principal indicación legal de aborto en muchos países, incluida Chile, es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Motivos económicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Violación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malformación fetal incompatible con la vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Libre decisión de la mujer"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infertilidad previa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En Chile es legal en tres causales, incluyendo malformación fetal incompatible con la vida."
+    },
+    {
+      "numero": "11",
+      "texto": "La vigilancia posterior a un aborto provocado debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Examen neurológico completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Control ecográfico y consejería anticonceptiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estudio de fertilidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunización contra hepatitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda control ecográfico para descartar restos y consejería anticonceptiva post aborto."
+    },
+    {
+      "numero": "12",
+      "texto": "El uso de antibióticos en aborto séptico debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo profiláctico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Empírico de amplio espectro inmediato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esperar cultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vía oral exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociado siempre a corticoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aborto séptico requiere antibióticos de amplio espectro empíricos de forma inmediata."
+    },
+    {
+      "numero": "13",
+      "texto": "Una complicación tardía del aborto provocado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Choque séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infertilidad secundaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perforación uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necrosis tisular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infertilidad secundaria puede ser consecuencia de sinequias uterinas post aborto."
+    },
+    {
+      "numero": "14",
+      "texto": "El sangrado excesivo tras un aborto con misoprostol se debe principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perforación uterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falla en la contracción uterina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección pélvica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adherencias uterinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La atonía uterina o contracción insuficiente es la principal causa de hemorragia tras aborto con misoprostol."
+    },
+    {
+      "numero": "15",
+      "texto": "El aborto inseguro se asocia a mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Choque séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incompetencia cervical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aborto inseguro incrementa el riesgo de sepsis grave y choque séptico."
+    },
+    {
+      "numero": "16",
+      "texto": "En aborto provocado con medicamentos, el esquema más eficaz incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metotrexato solo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Misoprostol vía oral únicamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mifepristona seguida de misoprostol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxitocina intramuscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prostaglandina F2 alfa tópica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La combinación mifepristona-misoprostol es el esquema farmacológico más eficaz y seguro."
+    },
+    {
+      "numero": "17",
+      "texto": "La principal medida preventiva de complicaciones post aborto es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atención en servicios de salud seguros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esterilización quirúrgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de AINEs"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La atención segura en servicios de salud reduce significativamente las complicaciones post aborto."
+    },
+    {
+      "numero": "18",
+      "texto": "La tasa de complicaciones en abortos con métodos médicos realizados en condiciones seguras es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor al 20%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 10 y 15%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor al 5%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cercana al 50%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Igual que en abortos inseguros"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En condiciones seguras, la tasa de complicaciones de abortos médicos es menor al 5%."
+    }
+  ]
+}

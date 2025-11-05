@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el factor de riesgo más importante para el desarrollo del cáncer bronquial primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición al asbesto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contaminación ambiental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exposición al radón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antecedentes familiares"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tabaquismo es el principal factor de riesgo, responsable de hasta el 85% de los casos de cáncer bronquial primario."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes tipos histológicos pertenece al grupo de cánceres de pulmón no microcíticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma de células pequeñas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma epidermoide"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma neuroendocrino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma de células de avena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tumor carcinoide típico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma epidermoide es un tipo de cáncer de pulmón no microcítico, común en fumadores."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes síntomas es más característico del cáncer bronquial central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cansancio generalizado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis es típica en tumores centrales debido a la ulceración de la mucosa bronquial."
+    },
+    {
+      "numero": "4",
+      "texto": "El síndrome de Pancoast se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afectación de nervio frénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresión del nervio laríngeo recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Invasión del plexo braquial y cadena simpática cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metástasis hepáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural maligno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de Pancoast implica invasión del plexo braquial y del simpático cervical, causando dolor en hombro y síndrome de Horner."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo histológico se asocia con secreción ectópica de ACTH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma epidermoide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma de células grandes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma de células pequeñas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma bronquioloalveolar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma de células pequeñas puede producir ACTH y causar síndrome de Cushing paraneoplásico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el sitio más frecuente de metástasis del cáncer bronquial primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Huesos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glándulas suprarrenales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hígado es uno de los sitios más comunes de metástasis en cáncer bronquial, junto con cerebro y huesos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el método diagnóstico más sensible para detectar metástasis cerebrales en cáncer de pulmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada craneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "PET-CT"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía cerebral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resonancia magnética cerebral tiene mayor sensibilidad para detectar metástasis cerebrales que otras técnicas."
+    },
+    {
+      "numero": "8",
+      "texto": "En el cáncer bronquial, la hipercalcemia se asocia más comúnmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma de células pequeñas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma epidermoide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma bronquioloalveolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma de células grandes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma epidermoide puede producir PTHrP, causando hipercalcemia paraneoplásica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo radiológico sugiere un cáncer bronquial periférico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrado central con broncograma aéreo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa bien delimitada en periferia pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ensanchamiento mediastínico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cavitación hiliar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cáncer periférico suele presentarse como una masa nodular bien delimitada en la periferia pulmonar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes síndromes paraneoplásicos es característico del carcinoma de células pequeñas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Lambert-Eaton"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polimiositis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Lambert-Eaton es una manifestación neuromuscular paraneoplásica asociada al carcinoma de células pequeñas."
+    },
+    {
+      "numero": "11",
+      "texto": "El síndrome de Horner puede presentarse en tumores que afectan:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulo inferior izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tráquea distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ápice pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mediastino anterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquio principal derecho"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los tumores apicales (de Pancoast) pueden afectar el simpático cervical, causando síndrome de Horner."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la técnica más definitiva para el diagnóstico histológico del cáncer bronquial primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoscopía con biopsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citología de esputo"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET-CT"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La broncoscopía con biopsia permite la obtención de tejido para diagnóstico histológico definitivo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué marcador se asocia principalmente al adenocarcinoma pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "B",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "C",
+          "texto": "CA-125"
+        },
+        {
+          "opcion": "D",
+          "texto": "CA 19-9"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcitonina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El antígeno carcinoembrionario (CEA) suele elevarse en adenocarcinomas pulmonares."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué prueba es más útil para la estadificación del cáncer de pulmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "TAC de tórax y abdomen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citología de esputo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía simple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TAC de tórax y abdomen permite evaluar extensión local y metástasis a distancia para estadificación TNM."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes tipos histológicos tiene mejor pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma de células pequeñas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma epidermoide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma de células grandes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma mixto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenocarcinoma suele tener mejor pronóstico, especialmente si se detecta en etapas tempranas."
+    },
+    {
+      "numero": "16",
+      "texto": "En el carcinoma broncogénico, la presencia de derrame pleural maligno implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estadio I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estadio II"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estadio IIIA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estadio IIIB o IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estadio 0"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un derrame pleural maligno indica enfermedad avanzada, estadio IIIB o IV según TNM."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el tratamiento de elección para el carcinoma de células pequeñas limitado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cirugía exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioterapia paliativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quimioterapia combinada con radioterapia torácica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunoterapia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia dirigida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma de células pequeñas responde mejor a la combinación de quimioterapia y radioterapia."
+    },
+    {
+      "numero": "18",
+      "texto": "En el carcinoma de células pequeñas, ¿cuál es el pronóstico promedio sin tratamiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Sin tratamiento, el carcinoma de células pequeñas progresa rápidamente y la supervivencia media es de 6 meses."
+    },
+    {
+      "numero": "19",
+      "texto": "El carcinoma bronquioloalveolar se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento endobronquial central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metástasis óseas precoces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crecimiento a lo largo del epitelio alveolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción de ACTH ectópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta sensibilidad a la radioterapia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma bronquioloalveolar crece siguiendo las paredes alveolares, manteniendo la arquitectura pulmonar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes hallazgos puede indicar un tumor central obstructivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo periférico solitario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncograma aéreo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos miliares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis intersticial difusa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un tumor central puede obstruir el bronquio y provocar atelectasia del segmento distal."
+    }
+  ]
+}

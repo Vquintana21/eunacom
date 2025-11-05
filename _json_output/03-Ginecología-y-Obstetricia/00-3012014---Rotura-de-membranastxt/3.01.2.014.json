@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.2.014",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.014 - Rotura de membranas.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cómo se define la rotura prematura de membranas (RPM)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rotura de membranas antes del inicio del trabajo de parto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rotura de membranas antes de las 20 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotura de membranas durante el trabajo de parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotura de membranas asociada a contracciones regulares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotura de membranas tras la dilatación completa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La RPM se define como la rotura de membranas ovulares antes del inicio del trabajo de parto, independientemente de la edad gestacional."
+    },
+    {
+      "numero": "2",
+      "texto": "El diagnóstico clínico de RPM se confirma principalmente mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía obstétrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Especuloscopia con salida de líquido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palpación abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tacto vaginal repetido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de O'Sullivan"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La visualización directa de líquido amniótico en vagina con especuloscopia confirma la RPM."
+    },
+    {
+      "numero": "3",
+      "texto": "La prueba de nitrazina en RPM se basa en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambio de color por pH alcalino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristalización en hoja de helecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción con glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de proteínas específicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detección de estrógenos en líquido"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba de nitrazina se basa en el cambio de color al detectar pH alcalino del líquido amniótico."
+    },
+    {
+      "numero": "4",
+      "texto": "La complicación más frecuente asociada a RPM es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia posparto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corioamnionitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abruptio placentae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Preeclampsia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La corioamnionitis es la complicación más frecuente asociada a la rotura prematura de membranas."
+    },
+    {
+      "numero": "5",
+      "texto": "En una gestación de 32 semanas con RPM sin signos de infección, la conducta es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inducción inmediata del parto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea urgente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos y corticoides, conducta expectante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reposo absoluto sin tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis terapéutica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Antes de las 34 semanas, sin infección, se recomienda conducta expectante con antibióticos y corticoides."
+    },
+    {
+      "numero": "6",
+      "texto": "La profilaxis antibiótica en RPM prolonga la latencia principalmente al:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar líquido amniótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir corioamnionitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la contractilidad uterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir riesgo de abruptio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimular maduración cervical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antibióticos disminuyen el riesgo de infección intraamniótica, prolongando así el período de latencia."
+    },
+    {
+      "numero": "7",
+      "texto": "La edad gestacional a partir de la cual se recomienda finalizar la gestación en RPM, aun sin infección, es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "32 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "34 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "36 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "38 semanas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La recomendación es finalizar el embarazo a partir de las 34 semanas para reducir riesgos de infección."
+    },
+    {
+      "numero": "8",
+      "texto": "El hallazgo más sugestivo de corioamnionitis en RPM es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre materna y taquicardia fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de movimientos fetales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contracciones uterinas irregulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Fiebre materna asociada a taquicardia fetal es altamente sugestiva de corioamnionitis."
+    },
+    {
+      "numero": "9",
+      "texto": "La prueba de cristalización en helecho confirma RPM porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detecta proteínas específicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "El líquido amniótico cristaliza por su contenido en sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mide la osmolaridad del líquido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identifica células epiteliales amnióticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valora la viscosidad del líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido amniótico cristaliza en patrón de helecho por su contenido en sodio y electrolitos."
+    },
+    {
+      "numero": "10",
+      "texto": "El riesgo de RPM recurrente aumenta si:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antecedente de parto pretérmino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antecedente de cesárea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo múltiple previo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Preeclampsia previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa previa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los antecedentes de parto pretérmino y de RPM aumentan el riesgo de recurrencia en embarazos futuros."
+    },
+    {
+      "numero": "11",
+      "texto": "La RPM a término, sin infección, debe manejarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inducción inmediata del parto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación expectante por 48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cesárea de urgencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reposo domiciliario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis diagnóstica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En RPM a término se recomienda inducir el parto para reducir riesgo de infección materno-fetal."
+    },
+    {
+      "numero": "12",
+      "texto": "El factor de riesgo más importante para RPM es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección genital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edad materna avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Historia de hipertensión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones genitales son el factor de riesgo más importante para la aparición de RPM."
+    },
+    {
+      "numero": "13",
+      "texto": "En sospecha de RPM, el tacto vaginal está:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altamente recomendado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permitido solo con dilatación avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contraindicado salvo en casos necesarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "De elección frente a la especuloscopia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicado siempre en urgencias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tacto vaginal se evita porque aumenta riesgo de infección; se prefiere especuloscopia."
+    },
+    {
+      "numero": "14",
+      "texto": "El antibiótico más usado en profilaxis de RPM es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ampicilina es uno de los antibióticos más empleados en la profilaxis de RPM."
+    },
+    {
+      "numero": "15",
+      "texto": "La principal consecuencia de la RPM antes de las 26 semanas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión materna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oligohidramnios severo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrosomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La RPM precoz genera oligohidramnios severo con secuelas pulmonares y ortopédicas fetales."
+    },
+    {
+      "numero": "16",
+      "texto": "La inducción del parto en RPM se realiza preferentemente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Misoprostol oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxitocina intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amniotomía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dinoprostona vaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cesárea programada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En RPM a término, la oxitocina intravenosa es el método de elección para la inducción del parto."
+    },
+    {
+      "numero": "17",
+      "texto": "La RPM prolongada se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración >6 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración >12 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duración >18 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duración >24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duración >48 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera RPM prolongada si han transcurrido más de 18 horas desde la rotura hasta el parto."
+    },
+    {
+      "numero": "18",
+      "texto": "En caso de RPM y líquido amniótico meconial, la conducta inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Finalizar el embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación expectante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo domiciliario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos ambulatorios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducción diferida en 48 h"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de meconio sugiere riesgo de sufrimiento fetal y se indica finalizar la gestación."
+    },
+    {
+      "numero": "19",
+      "texto": "En RPM a término con estreptococo grupo B positivo, la profilaxis antibiótica debe iniciarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tras el nacimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al inicio del trabajo de parto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Al diagnóstico de RPM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Con la primera contracción"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo si hay fiebre materna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En RPM con colonización por EGB se indica profilaxis antibiótica inmediata al diagnóstico."
+    }
+  ]
+}

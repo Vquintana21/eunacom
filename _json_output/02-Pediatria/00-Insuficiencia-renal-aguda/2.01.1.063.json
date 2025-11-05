@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.063",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Insuficiencia renal aguda",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de insuficiencia renal aguda en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida progresiva e irreversible de la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución rápida y reversible de la función renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del flujo renal sin alteración del filtrado glomerular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anuria persistente por más de 7 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la excreción de sodio urinario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La IRA se define como una disminución rápida y potencialmente reversible de la función renal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes es una causa prerrenal de insuficiencia renal aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefritis intersticial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipovolemia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis tubular aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción uretral bilateral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipovolemia causa una disminución del flujo sanguíneo renal, produciendo IRA prerrenal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa intrínseca más frecuente de insuficiencia renal aguda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefritis intersticial aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis tubular aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La necrosis tubular aguda es la causa intrínseca más común de IRA en pediatría."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el hallazgo característico de la insuficiencia renal prerrenal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FeNa >2%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osmolalidad urinaria <300 mOsm/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "FeNa <1%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteinuria masiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cilindros granulosos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la IRA prerrenal, la fracción excretada de sodio (FeNa) es menor al 1%."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué manifestación clínica puede observarse en la insuficiencia renal aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Poliuria persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oliguria y edema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión refractaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica microangiopática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La oliguria y el edema son signos comunes de acumulación de líquidos por falla renal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el parámetro más sensible para detectar IRA temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urea plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuresis horaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio urinario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Densidad urinaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disminución de la diuresis precede al aumento de la creatinina en la IRA."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo sugiere una causa posrenal de IRA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FeNa <1%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñones hiperecogénicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Distensión vesical y hidronefrosis bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cilindros hemáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia dilucional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hidronefrosis bilateral indica obstrucción urinaria, causa posrenal de IRA."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes medicamentos puede inducir una IRA por nefrotoxicidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paracetamol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ibuprofeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Penicilina G"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefalexina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ranitidina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ibuprofeno puede causar IRA al reducir el flujo renal por inhibición de prostaglandinas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el tratamiento inicial de la insuficiencia renal aguda prerrenal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restricción hídrica estricta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Furosemida IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Expansión con solución salina isotónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diálisis urgente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La expansión con solución salina restaura la perfusión renal en IRA prerrenal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la complicación metabólica más frecuente de la insuficiencia renal aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipernatremia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperkalemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperkalemia es una complicación frecuente y potencialmente mortal de la IRA."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo en el sedimento urinario orienta a necrosis tubular aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cilindros hemáticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cilindros granulosos pigmentados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritrocitos dismórficos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piuria estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cristales de oxalato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los cilindros granulosos pigmentados son característicos de necrosis tubular aguda."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de las siguientes situaciones indica inicio de terapia dialítica en un niño con IRA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipokalemia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oliguria por menos de 6 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia refractaria al tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia leve"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hiperkalemia refractaria es una indicación absoluta de diálisis en IRA."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo de laboratorio sugiere progresión de IRA a falla renal establecida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento leve de urea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuresis normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascenso progresivo de creatinina sérica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio urinario bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Densidad urinaria alta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento sostenido de creatinina indica daño renal establecido y disminución del filtrado."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué fase de la IRA se caracteriza por poliuria y riesgo de deshidratación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fase inicial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fase oligúrica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fase poliúrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fase de recuperación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fase terminal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante la fase poliúrica, aumenta la diuresis con incapacidad para concentrar orina."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué examen es fundamental para diferenciar una causa posrenal de IRA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sedimento urinario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía renal y vesical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gammagrafía renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Análisis de orina completa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía renal y vesical permite identificar obstrucciones urinarias."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes electrolitos requiere mayor vigilancia en IRA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Magnesio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El potasio debe monitorizarse estrechamente por riesgo de arritmias fatales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de las siguientes enfermedades se asocia con IRA en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome urémico hemolítico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad de Kawasaki"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lupus neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia de Fanconi"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome urémico hemolítico es una causa importante de IRA en pediatría."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el valor de diuresis que define oliguria en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<0.5 mL/kg/h"
+        },
+        {
+          "opcion": "B",
+          "texto": "<1 mL/kg/h"
+        },
+        {
+          "opcion": "C",
+          "texto": "<2 mL/kg/h"
+        },
+        {
+          "opcion": "D",
+          "texto": "<3 mL/kg/h"
+        },
+        {
+          "opcion": "E",
+          "texto": "<0.2 mL/kg/h"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Oliguria se define como diuresis menor de 0.5 mL/kg/h en 24 horas."
+    },
+    {
+      "numero": "19",
+      "texto": "En un niño con IRA y acidosis metabólica severa, ¿cuál es la conducta inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar bicarbonato si pH <7.1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restringir líquidos estrictamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dar furosemida IV"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender alimentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar biopsia renal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Si el pH es menor a 7.1, se indica bicarbonato para corregir la acidosis grave."
+    },
+    {
+      "numero": "20",
+      "texto": "En la IRA secundaria a deshidratación severa, ¿qué parámetro mejora primero con la reanimación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuresis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urea plasmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osmolalidad urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Filtrado glomerular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diuresis mejora primero tras la corrección de la hipovolemia en IRA prerrenal."
+    }
+  ]
+}

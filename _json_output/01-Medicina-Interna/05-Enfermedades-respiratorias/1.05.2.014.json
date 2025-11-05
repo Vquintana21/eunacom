@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.2.014",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué define al traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión que compromete grandes vasos y requiere cirugía inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión limitada a tejidos blandos, costillas o pleura sin compromiso vital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contusión pulmonar bilateral grave"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotura cardíaca traumática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento pericárdico por herida penetrante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El traumatismo torácico simple afecta estructuras superficiales o costales sin comprometer la función respiratoria o circulatoria."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heridas por arma blanca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Golpes directos en accidentes domésticos o deportivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Impacto de alta velocidad vehicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión por arma de fuego"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compresión torácica prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los golpes directos o caídas leves suelen producir traumatismos torácicos simples, especialmente en costillas o músculos intercostales."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma más frecuente en un traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor torácico localizado que aumenta con la respiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor localizado, que se intensifica con la respiración o la palpación, es el síntoma predominante en estos casos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estructura se lesiona con mayor frecuencia en un traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Costillas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diafragma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericardio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tráquea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las costillas son las estructuras más vulnerables a fracturarse por impactos leves o moderados."
+    },
+    {
+      "numero": "5",
+      "texto": "En una fractura costal aislada, el tratamiento inicial incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toracotomía exploradora"
+        },
+        {
+          "opcion": "B",
+          "texto": "Analgesia y control de la ventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje pleural inmediato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticoagulación profiláctica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intubación orotraqueal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo conservador con analgesia adecuada previene la hipoventilación y complicaciones respiratorias."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo físico se encuentra con frecuencia en fractura costal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crepitación ósea localizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Matidez a la percusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ruidos cardíacos apagados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Traquea desviada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fremito vocal aumentado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La crepitación ósea en el punto doloroso sugiere fractura costal o lesión de cartílago costal."
+    },
+    {
+      "numero": "7",
+      "texto": "En un traumatismo torácico simple, ¿qué examen complementario es más útil inicialmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía axial de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angiografía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La radiografía permite identificar fracturas costales, neumotórax pequeño o hemotórax leve."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación puede presentarse tras una fractura costal simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia por hipoventilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemotórax masivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotura diafragmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fístula broncopleural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor torácico intenso puede impedir la inspiración profunda, favoreciendo la atelectasia y la infección."
+    },
+    {
+      "numero": "9",
+      "texto": "En pacientes mayores con fractura costal, la complicación más temida es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrotórax"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En adultos mayores, la hipoventilación secundaria al dolor aumenta el riesgo de neumonía."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el manejo del neumotórax pequeño asociado a trauma torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Drenaje pleural inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observación y oxigenoterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toracotomía exploradora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reanimación con líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un neumotórax pequeño y estable puede manejarse con observación y oxígeno suplementario."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué característica distingue al traumatismo torácico simple del grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de compromiso respiratorio o hemodinámico significativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fracturas múltiples de costillas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de tórax inestable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión cardíaca asociada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax hipertensivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El traumatismo simple no compromete la función vital ni requiere intervención quirúrgica urgente."
+    },
+    {
+      "numero": "12",
+      "texto": "En el examen físico del traumatismo torácico simple se espera encontrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Matidez generalizada y ruidos ausentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor localizado y respiración superficial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis y desviación traqueal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquipnea grave con hipotensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disnea progresiva con hipoventilación difusa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El paciente presenta dolor localizado y respiración superficial por el dolor costal o muscular."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento del dolor en fracturas costales simples debe incluir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Analgésicos y fisioterapia respiratoria temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo simpático permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo absoluto prolongado"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El control del dolor y la fisioterapia evitan complicaciones respiratorias por hipoventilación."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el signo clínico más orientador de una fractura de cartílago costal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor intenso sin evidencia radiológica de fractura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Matidez pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis peribucal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estertores bibasales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfisema subcutáneo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor torácico localizado sin hallazgos radiológicos sugiere lesión del cartílago costal."
+    },
+    {
+      "numero": "15",
+      "texto": "El signo de enfisema subcutáneo tras traumatismo torácico simple indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Posible neumotórax pequeño o lesión alveolar mínima"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rotura de la aorta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contusión pulmonar extensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar agudo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El enfisema subcutáneo leve puede ser consecuencia de una fuga aérea pequeña en el parénquima pulmonar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes no se asocia al traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fractura costal única"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contusión leve de pared torácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tórax inestable"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor localizado sin disnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Equimosis torácica superficial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tórax inestable es una lesión grave, no incluida dentro del traumatismo torácico simple."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo radiográfico puede observarse en un traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fractura costal aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desviación mediastínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemotórax masivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colapso pulmonar bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agrandamiento cardíaco súbito"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La radiografía puede evidenciar una fractura costal simple sin otras complicaciones intratorácicas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué maniobra debe evitarse en un traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vendajes compresivos circunferenciales del tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Analgesia oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fisioterapia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de control"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los vendajes compresivos limitan la expansión torácica y favorecen la hipoventilación y la atelectasia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el pronóstico habitual del traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Excelente con tratamiento conservador"
+        },
+        {
+          "opcion": "B",
+          "texto": "Requiere cirugía en la mayoría de los casos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alto riesgo de mortalidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Secuelas respiratorias graves permanentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necesidad de ventilación mecánica prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Con manejo conservador adecuado, el traumatismo torácico simple tiene una evolución favorable."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida preventiva es importante en el manejo del traumatismo torácico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicios respiratorios y movilización temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposo absoluto prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vendaje rígido del tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intubación profiláctica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso rutinario de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los ejercicios respiratorios evitan atelectasias y promueven una recuperación completa sin complicaciones."
+    }
+  ]
+}

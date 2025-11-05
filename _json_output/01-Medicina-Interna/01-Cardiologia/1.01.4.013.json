@@ -1,0 +1,600 @@
+{
+  "codigo": "1.01.4.013",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué parámetros se incluyen en un perfil lipídico completo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total, HDL, LDL y triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol total y glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL, ácido úrico y creatinina"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDL, potasio y sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos, AST y ALT"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El perfil lipídico evalúa colesterol total, HDL, LDL y triglicéridos para valorar riesgo cardiovascular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el valor óptimo de colesterol LDL en pacientes sin factores de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<160 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<50 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En personas sin factores de riesgo, el LDL debe mantenerse por debajo de 130 mg/dL."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el rango considerado normal para el colesterol HDL en hombres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<30 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "30–40 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">40 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">50 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">60 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El HDL mayor a 40 mg/dL en hombres se asocia a menor riesgo cardiovascular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué lipoproteína es considerada aterogénica y se asocia a enfermedad coronaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quilomicrones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apolipoproteína A-I"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El LDL transporta colesterol hacia los tejidos, contribuyendo a la formación de placas ateroscleróticas."
+    },
+    {
+      "numero": "5",
+      "texto": "Un colesterol HDL elevado se considera:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Factor de riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indicador de daño hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Factor protector cardiovascular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de dislipidemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcador de inflamación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El HDL elevado tiene un efecto protector al facilitar el transporte inverso de colesterol al hígado."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué nivel de triglicéridos se considera alto según guías actuales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": ">150 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">200 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">250 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">300 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los triglicéridos mayores de 150 mg/dL se consideran elevados y aumentan el riesgo cardiovascular."
+    },
+    {
+      "numero": "7",
+      "texto": "La lipoproteína de muy baja densidad (VLDL) transporta principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol libre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fosfolípidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos endógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos grasos libres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol esterificado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La VLDL transporta triglicéridos endógenos desde el hígado hacia los tejidos periféricos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué fórmula se usa comúnmente para calcular el colesterol LDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fórmula de Friedewald"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fórmula de HOMA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fórmula de Cockcroft-Gault"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fórmula de Henderson-Hasselbalch"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fórmula de Framingham"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fórmula de Friedewald estima el LDL: LDL = Colesterol total - HDL - (Triglicéridos/5)."
+    },
+    {
+      "numero": "9",
+      "texto": "¿En qué situación no es válida la fórmula de Friedewald?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Triglicéridos <150 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Triglicéridos >400 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "HDL bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "LDL elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol total normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fórmula de Friedewald pierde precisión cuando los triglicéridos superan los 400 mg/dL."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el valor objetivo de LDL en pacientes con enfermedad coronaria establecida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<130 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<90 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<50 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En pacientes con enfermedad cardiovascular, se recomienda mantener LDL por debajo de 70 mg/dL."
+    },
+    {
+      "numero": "11",
+      "texto": "El colesterol no-HDL se calcula restando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colesterol total menos LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol total menos HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL menos triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "HDL menos triglicéridos"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDL más VLDL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El colesterol no-HDL se obtiene restando HDL del colesterol total y representa todas las partículas aterogénicas."
+    },
+    {
+      "numero": "12",
+      "texto": "Una elevación aislada de triglicéridos puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta rica en carbohidratos simples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo de proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deshidratación leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El exceso de carbohidratos simples favorece la síntesis hepática de triglicéridos endógenos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el principal componente lipídico de las membranas celulares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fosfolípidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos grasos libres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esteres de colesterol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fosfolípidos son componentes estructurales esenciales de las membranas celulares, junto al colesterol."
+    },
+    {
+      "numero": "14",
+      "texto": "Un paciente con HDL <40 mg/dL y triglicéridos >200 mg/dL presenta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perfil lipídico normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipercolesterolemia aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipoproteinemia tipo II"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipolipidemia secundaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de HDL bajo y triglicéridos elevados es típica del síndrome metabólico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué lipoproteína tiene una función protectora contra la aterosclerosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "IDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lp(a)"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El HDL promueve el transporte inverso de colesterol y tiene acción antiinflamatoria y antioxidante."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué marcador lipídico se asocia con mayor riesgo de enfermedad coronaria en mujeres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Triglicéridos elevados"
+        },
+        {
+          "opcion": "B",
+          "texto": "HDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "VLDL bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colesterol total alto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En mujeres, el HDL bajo es un factor de riesgo cardiovascular más relevante que el LDL elevado."
+    },
+    {
+      "numero": "17",
+      "texto": "Una relación colesterol total/HDL mayor de 5 indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bajo riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riesgo intermedio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alto riesgo cardiovascular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ningún riesgo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperlipidemia secundaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una relación colesterol total/HDL >5 se asocia a un aumento significativo del riesgo cardiovascular."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tipo de dislipidemia es más común en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipercolesterolemia pura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrigliceridemia con HDL bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDL elevado con HDL normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipolipidemia mixta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperquilomicronemia aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pacientes diabéticos suelen presentar triglicéridos altos y HDL bajo debido a resistencia a la insulina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el efecto de las estatinas sobre el perfil lipídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan LDL y HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuyen LDL y aumentan ligeramente HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuyen triglicéridos solamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentan VLDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentan la lipogénesis hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las estatinas inhiben la HMG-CoA reductasa, reduciendo LDL y aumentando moderadamente HDL."
+    },
+    {
+      "numero": "20",
+      "texto": "Un valor de triglicéridos >500 mg/dL se asocia a mayor riesgo de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aterosclerosis acelerada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pancreatitis aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia ventricular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los triglicéridos muy elevados (>500 mg/dL) aumentan el riesgo de pancreatitis aguda."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Cuál de los siguientes factores reduce el HDL?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo moderado de alcohol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad y tabaquismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en ácidos grasos omega-3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratamiento con fibratos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obesidad y el tabaquismo reducen el HDL, aumentando el riesgo cardiovascular global."
+    }
+  ]
+}

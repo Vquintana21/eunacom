@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza al derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de pus en el líquido pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH pleural menor de 7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido pleural estéril y libremente móvil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de tabiques fibrinosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa pleural menor de 40 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El derrame paraneumónico simple es estéril, no tabicado y responde al tratamiento antibiótico sin requerir drenaje."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico del derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rotura de un absceso pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Difusión de mediadores inflamatorios desde la neumonía hacia la pleura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción linfática pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colonización bacteriana directa de la cavidad pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la presión hidrostática pleural"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido se acumula por la difusión de mediadores inflamatorios desde el parénquima pulmonar afectado."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué microorganismo se asocia con mayor frecuencia al derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Streptococcus pneumoniae es el agente más común asociado a neumonías que generan derrames pleurales simples."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué característica del líquido pleural sugiere un derrame paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH < 7.2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa < 40 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH > 1000 UI/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH > 7.3 y líquido estéril"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de pus visible"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El derrame simple tiene un pH mayor a 7.3, sin bacterias ni pus, y responde a antibióticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento principal del derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos únicamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje pleural con tubo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toracocentesis repetida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decorticación quirúrgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pleurodesis química"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El manejo con antibióticos es suficiente porque el líquido es estéril y no tabicado."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo radiológico se espera en un derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel hidroaéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Loculaciones múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Borramiento del ángulo costofrénico libre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento pleural calcificado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cavidad pulmonar con aire"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la radiografía se observa borramiento del ángulo costofrénico por líquido libre y móvil."
+    },
+    {
+      "numero": "7",
+      "texto": "En el derrame paraneumónico simple, el líquido pleural se clasifica como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transudado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exudado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quilo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemotórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudoquilotórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El derrame paraneumónico simple es un exudado inflamatorio con proteínas elevadas y LDH aumentada."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué valor de glucosa pleural es típico de un derrame paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 40 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 40 y 60 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 60 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según el pH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el derrame simple, la glucosa suele mantenerse en valores normales, superiores a 60 mg/dL."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué resultado del cultivo pleural se espera en un derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Positivo para bacterias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negativo para bacterias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de hongos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento anaerobio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento mixto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido pleural es estéril, ya que no hay infección bacteriana directa en la cavidad pleural."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la apariencia del líquido pleural en un derrame paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Seroso o serofibrinoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiloso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lechoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El líquido es generalmente seroso o serofibrinoso, sin pus ni hemorragia significativa."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estudio es más útil para confirmar la naturaleza libre del derrame pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía axial computarizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía torácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gammagrafía pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía torácica permite determinar si el derrame es libre o loculado, guiando el manejo adecuado."
+    },
+    {
+      "numero": "12",
+      "texto": "En el derrame pleural paraneumónico simple, el pH pleural suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 7.0"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 7.0 y 7.2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 7.3"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exactamente 7.2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indeterminado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pH es mayor de 7.3, indicando que no hay infección bacteriana ni acidez significativa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la evolución clínica habitual del derrame pleural paraneumónico simple con tratamiento adecuado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progresión a empiema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resolución completa con antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desarrollo de loculaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transformación en derrame maligno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Persistencia crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Con tratamiento antibiótico apropiado, el derrame simple se resuelve completamente sin requerir drenaje."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo NO se asocia con un derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH > 7.3"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido estéril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de tabiques"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pus macroscópico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa normal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La presencia de pus es característica de un derrame complicado o empiema, no del simple."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el principal objetivo del tratamiento en un derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminar el líquido por drenaje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Controlar la infección pulmonar de base"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la presión pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar la fibrosis pleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejorar la oxigenación inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento se enfoca en resolver la neumonía, que es la causa del derrame pleural simple."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación puede surgir si el derrame pleural paraneumónico simple no se trata correctamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evolución a derrame complicado o empiema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colapso pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fístula broncopleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemotórax masivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Si no se trata adecuadamente, puede progresar a un derrame complicado o empiema."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué parámetro de Light se cumple en un derrame paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Relación proteínas pleural/suero < 0.5"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relación LDH pleural/suero > 0.6"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH pleural menor de 200 UI/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH pleural de 7.0"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa pleural menor de 30 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cumple criterios de exudado con una relación LDH pleural/suero superior a 0.6."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo en ecografía torácica es típico del derrame pleural paraneumónico simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Loculaciones septadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido anecoico libre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento pleural irregular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tabiques fibrinosos múltiples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colección encapsulada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía muestra líquido anecoico libre, sin tabiques ni septaciones, compatible con derrame simple."
+    },
+    {
+      "numero": "19",
+      "texto": "En la toracocentesis de un derrame pleural paraneumónico simple, el aspecto del líquido es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Verdoso y purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Seroso o amarillento claro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorrágico espeso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lechoso opaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Turbio con fibrina visible"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido es seroso o ligeramente turbio, sin pus ni fibrina, típico del derrame simple."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes valores indica que el derrame aún es simple y no complicado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH pleural 7.15"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa pleural 30 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "LDH pleural 1200 UI/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH pleural 7.35"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de bacterias en Gram"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un pH de 7.35 indica un derrame simple, sin infección activa ni acidez significativa."
+    }
+  ]
+}

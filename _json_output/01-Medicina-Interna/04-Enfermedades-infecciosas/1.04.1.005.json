@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal agente etiológico de la candidiasis oral y esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida krusei"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida parapsilosis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Candida albicans es el hongo comensal más común responsable de la mayoría de las infecciones orales y esofágicas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes factores predispone más a la candidiasis oral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta rica en proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición solar prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso prolongado de antibióticos altera la flora bacteriana, favoreciendo el sobrecrecimiento de Candida."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué manifestación clínica es característica de la candidiasis pseudomembranosa oral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones eritematosas sin exudado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placas blancas removibles que dejan mucosa eritematosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulos indurados dolorosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Úlceras profundas con necrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vesículas llenas de líquido claro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La candidiasis pseudomembranosa presenta placas blanquecinas que se desprenden dejando mucosa enrojecida."
+    },
+    {
+      "numero": "4",
+      "texto": "En pacientes con VIH, la presencia de candidiasis esofágica suele indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CD4 mayor de 500 células/μL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección reciente por VIH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunosupresión severa (CD4 <200 células/μL)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tratamiento antirretroviral exitoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reinfección bacteriana secundaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La candidiasis esofágica es una infección oportunista que indica inmunodepresión avanzada en pacientes VIH."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de las siguientes formas clínicas de candidiasis oral se asocia al uso de prótesis dentales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomembranosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritematosa atrófica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplásica crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Angular (queilitis)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diseminada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La forma eritematosa atrófica se asocia al uso de prótesis mal ajustadas o poco higiénicas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el método diagnóstico más utilizado para confirmar candidiasis oral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR para Candida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo en agar Sabouraud"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción con KOH al 10%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Serología por ELISA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia de mucosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La observación de levaduras y pseudohifas con KOH es una técnica rápida y eficaz para el diagnóstico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes fármacos es de elección para el tratamiento de la candidiasis oral leve?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nistatina en enjuagues"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fluconazol oral 400 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anfotericina B intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Voriconazol intravenoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Itraconazol en cápsulas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La nistatina tópica es efectiva para cuadros leves de candidiasis oral sin compromiso sistémico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el antifúngico sistémico de elección en candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ketoconazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Caspofungina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nistatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Griseofulvina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fluconazol oral o intravenoso es el tratamiento de primera línea en candidiasis esofágica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes síntomas sugiere candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disfagia y odinofagia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regurgitación ácida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sialorrea profusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La disfagia y la odinofagia son los síntomas predominantes en la candidiasis esofágica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo endoscópico es característico de la candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Erosiones lineales y úlceras profundas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placas blancas adherentes sobre mucosa eritematosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesiones nodulares múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ulceraciones aisladas con bordes elevados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mucosa atrófica y friable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las placas blancas adherentes que no se desprenden fácilmente son típicas de la candidiasis esofágica."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué factor inmunológico está más relacionado con el desarrollo de candidiasis mucocutánea crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de linfocitos B"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de linfocitos T CD4+"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de complemento C3"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de neutrófilos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperactividad de linfocitos NK"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de inmunidad celular mediada por linfocitos T CD4+ favorece la infección por Candida."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué condición sistémica predispone fuertemente a la candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglicemia y la inmunosupresión asociadas a diabetes favorecen la colonización por Candida."
+    },
+    {
+      "numero": "13",
+      "texto": "En pacientes con cáncer, la candidiasis oral suele estar asociada al uso de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides inhalados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antivirales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quimioterapia y antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Analgésicos opioides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hierro parenteral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La quimioterapia y los antibióticos reducen la flora protectora, facilitando la proliferación de Candida."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de las siguientes especies de Candida presenta mayor resistencia al fluconazol?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Candida glabrata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida parapsilosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida kefyr"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Candida glabrata muestra resistencia intrínseca o adquirida al fluconazol en infecciones recurrentes."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo histológico es típico en candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Granulomas con necrosis caseosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hifas y levaduras invasoras en la mucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrado eosinofílico difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depósitos de colágeno hialino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células gigantes multinucleadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se observan hifas y levaduras que invaden la mucosa esofágica con inflamación aguda."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes es un signo clínico de candidiasis angular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisuras y costras en las comisuras labiales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lengua geográfica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Erosiones en paladar blando"
+        },
+        {
+          "opcion": "D",
+          "texto": "Úlceras profundas en encías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placas adherentes en labios"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La candidiasis angular se manifiesta como fisuras dolorosas y costrosas en las comisuras de los labios."
+    },
+    {
+      "numero": "17",
+      "texto": "En la candidiasis oral crónica hiperplásica, las lesiones se caracterizan por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placas blancas no removibles con displasia epitelial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pápulas eritematosas en paladar duro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Úlceras necróticas profundas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema difuso en mucosa gingival"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulos submucosos dolorosos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La forma hiperplásica crónica se manifiesta como placas blancas adherentes que pueden mostrar displasia epitelial."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué estudio es el más específico para confirmar candidiasis esofágica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopía con biopsia y PAS positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía con contraste baritado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Gram en esputo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo de saliva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Serología para anticuerpos anti-Candida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endoscopía con biopsia y tinción PAS confirma la presencia de Candida invasora en la mucosa esofágica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida preventiva puede reducir el riesgo de candidiasis oral en usuarios de corticoides inhalados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar el inhalador sin espaciador"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enjuagar la boca después de cada dosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la dosis de corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar alimentos sólidos tras el uso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspender los broncodilatadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El enjuague posterior al uso del inhalador elimina residuos del fármaco y previene el crecimiento de Candida."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el principal diagnóstico diferencial de la candidiasis esofágica en pacientes inmunocomprometidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esófago de Barrett"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esofagitis por CMV o herpes simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflujo gastroesofágico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esofagitis eosinofílica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlcera péptica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las esofagitis virales por CMV o HSV son diagnósticos diferenciales comunes en pacientes inmunodeprimidos."
+    }
+  ]
+}

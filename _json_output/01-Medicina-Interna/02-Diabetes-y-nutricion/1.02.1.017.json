@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.017",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué vitamina es deficiente en el escorbuto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina K"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El escorbuto se produce por deficiencia de vitamina C, necesaria para la síntesis de colágeno y reparación tisular."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la manifestación clínica clásica de la deficiencia de tiamina (vitamina B1)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelagra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beriberi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escorbuto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El beriberi, seco o húmedo, resulta de la deficiencia de tiamina, afectando sistema nervioso y cardiovascular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué deficiencia nutricional causa pelagra?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina B2 (riboflavina)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B3 (niacina)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B6 (piridoxina)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina B12 (cobalamina)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Folato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pelagra se debe a deficiencia de niacina o triptófano, con dermatitis, diarrea y demencia como tríada clásica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué mineral es esencial para la síntesis de hemoglobina y su deficiencia causa anemia microcítica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cobre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Selenio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yodo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hierro es esencial para la hemoglobina; su deficiencia causa anemia microcítica e hipocrómica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal causa del raquitismo nutricional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de calcio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de magnesio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de fósforo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina A"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El raquitismo se debe a deficiencia de vitamina D, que altera la mineralización ósea durante el crecimiento."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué deficiencia causa anemia megaloblástica junto con alteraciones neurológicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido fólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B12"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B6"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zinc"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de vitamina B12 causa anemia megaloblástica y desmielinización del sistema nervioso central."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué deficiencia produce ceguera nocturna y xerosis conjuntival?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zinc"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de vitamina A altera la regeneración de rodopsina, causando ceguera nocturna y sequedad ocular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué signo clínico es típico de la deficiencia de vitamina K?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragias por coagulopatía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piel seca y escamosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia macrocítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parestesias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vitamina K es necesaria para la carboxilación de factores de coagulación; su deficiencia causa hemorragias."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué deficiencia mineral se asocia con bocio endémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Selenio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yodo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cobre"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El bocio endémico se debe a deficiencia de yodo, esencial para la síntesis de hormonas tiroideas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué vitamina es necesaria para la absorción intestinal de calcio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B6"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina E"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La vitamina D estimula la síntesis de proteínas transportadoras de calcio en el intestino delgado."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué enfermedad está asociada a deficiencia severa de niacina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Beriberi"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pelagra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Raquitismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escorbuto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Kwashiorkor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pelagra se debe a deficiencia de niacina, presentándose con dermatitis, diarrea y demencia."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué deficiencia produce glositis, queilitis angular y dermatitis seborreica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina B2 (riboflavina)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B6 (piridoxina)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B12 (cobalamina)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Niacina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido fólico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de riboflavina causa lesiones mucocutáneas características como queilitis y glositis."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué mineral es fundamental para la función de la insulina y su deficiencia causa intolerancia a la glucosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Magnesio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cromo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cobre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cromo potencia la acción de la insulina, y su deficiencia se asocia con resistencia a la glucosa."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué manifestación se observa en la deficiencia de zinc?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dermatitis periorificial y alopecia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia y tetania"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia macrocítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceguera nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de zinc produce dermatitis, alopecia y retraso en la cicatrización de heridas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la consecuencia más grave de la deficiencia de selenio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocardiopatía de Keshan"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteomalacia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis grasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuropatía periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de selenio causa miocardiopatía de Keshan, debida a estrés oxidativo aumentado en el miocardio."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué vitamina es cofactor en la síntesis de neurotransmisores y su deficiencia produce neuropatía periférica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina B1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B6"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina B12"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina C"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vitamina B6 (piridoxina) participa en la síntesis de neurotransmisores; su deficiencia causa neuropatía sensitiva."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué deficiencia vitamínica puede causar anemia hemolítica en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina K"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina E"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina A"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La deficiencia de vitamina E causa daño oxidativo en eritrocitos, provocando anemia hemolítica neonatal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la manifestación hematológica típica de la deficiencia de ácido fólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia megaloblástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia aplásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia sideroblástica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ácido fólico es esencial para la síntesis de ADN; su déficit produce anemia megaloblástica sin compromiso neurológico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué deficiencia causa debilidad muscular y osteomalacia en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina D"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B12"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina E"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de vitamina D altera la mineralización ósea y causa osteomalacia en adultos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué mineral es fundamental para la formación de colágeno y su deficiencia causa fragilidad vascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cobre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Magnesio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yodo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hierro"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cobre es cofactor de la lisil oxidasa, necesaria para la maduración del colágeno; su deficiencia causa fragilidad tisular."
+    }
+  ]
+}

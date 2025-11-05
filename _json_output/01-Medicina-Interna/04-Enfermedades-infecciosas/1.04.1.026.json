@@ -1,0 +1,576 @@
+{
+  "codigo": "1.04.1.026",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de toxicoinfección alimentaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección viral transmitida por aerosoles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección intestinal causada por parásitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad producida por la ingestión de alimentos contaminados con microorganismos o sus toxinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción alérgica a proteínas alimentarias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inflamación gástrica inducida por medicamentos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La toxicoinfección alimentaria se produce por el consumo de alimentos contaminados con microorganismos o sus toxinas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal agente causal de intoxicación alimentaria por toxina preformada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella spp."
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella dysenteriae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli enterotoxigénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Campylobacter jejuni"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Staphylococcus aureus produce toxinas preformadas responsables de cuadros agudos de intoxicación alimentaria."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tiempo de incubación típico en la intoxicación alimentaria estafilocócica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-6 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12-24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "48-72 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "4-7 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de una semana"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las toxinas preformadas de S. aureus causan síntomas gastrointestinales entre 1 y 6 horas tras la ingestión."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué manifestación clínica es más característica de las intoxicaciones alimentarias por Staphylococcus aureus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre alta persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea con sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos intensos de inicio rápido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal en fosa ilíaca derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia progresiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los vómitos intensos de inicio rápido son típicos por acción emetogénica de las enterotoxinas estafilocócicas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué microorganismo se asocia clásicamente con intoxicación alimentaria por arroz recalentado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacillus cereus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Listeria monocytogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Bacillus cereus produce toxinas termoestables en alimentos como el arroz mal refrigerado o recalentado."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el principal mecanismo patogénico en la intoxicación alimentaria por Clostridium botulinum?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invasión intestinal directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción de exotoxina neurotóxica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Liberación de endotoxina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Daño de la mucosa gástrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El botulismo alimentario se debe a una exotoxina neurotóxica que bloquea la liberación de acetilcolina."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué alimento se asocia frecuentemente con brotes de botulismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carne asada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conservas caseras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leche pasteurizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Frutas frescas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pescado frito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las conservas caseras mal esterilizadas favorecen el crecimiento de Clostridium botulinum y la producción de toxina."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el hallazgo neurológico característico del botulismo alimentario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones generalizadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parálisis flácida descendente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez de nuca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temblor fino distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El botulismo alimentario causa una parálisis flácida descendente por bloqueo presináptico de acetilcolina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué microorganismo produce una toxicoinfección alimentaria mediada por esporas en carnes mal cocidas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clostridium perfringens"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shigella sonnei"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vibrio parahaemolyticus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Clostridium perfringens produce esporas que germinan en alimentos mal cocidos, liberando toxinas en el intestino."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el principal factor de riesgo para las infecciones alimentarias por Listeria monocytogenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Consumo de vegetales crudos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consumo de lácteos no pasteurizados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carne bien cocida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bebidas carbonatadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua embotellada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Listeria se asocia con lácteos no pasteurizados y es especialmente peligrosa en embarazadas e inmunodeprimidos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes patógenos se transmite principalmente por el consumo de huevos crudos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Campylobacter jejuni"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli O157:H7"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clostridium difficile"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Salmonella enteritidis se transmite por huevos crudos o mal cocidos contaminados durante la oviposición."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué agente causa diarrea acuosa asociada al consumo de mariscos crudos o poco cocidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vibrio parahaemolyticus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shigella flexneri"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Helicobacter pylori"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Vibrio parahaemolyticus se transmite por mariscos crudos y causa diarrea acuosa autolimitada."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué microorganismo se asocia con síndrome hemolítico urémico tras intoxicación alimentaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "E. coli enterotoxigénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "E. coli O157:H7"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shigella sonnei"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "E. coli O157:H7 produce toxina Shiga-like que puede causar síndrome hemolítico urémico."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento de elección para la mayoría de las intoxicaciones alimentarias bacterianas leves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antivirales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rehidratación oral y dieta blanda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antiparasitarios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de las intoxicaciones alimentarias son autolimitadas y solo requieren rehidratación y medidas de soporte."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la medida más eficaz para prevenir las toxicoinfecciones alimentarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso rutinario de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocción adecuada y refrigeración oportuna de alimentos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado de manos solo antes de comer"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar alimentos grasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumir suplementos vitamínicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adecuada cocción, refrigeración y manipulación higiénica de los alimentos previene la mayoría de los brotes."
+    },
+    {
+      "numero": "16",
+      "texto": "En el diagnóstico de una sospecha de brote alimentario, ¿qué muestra es más útil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sangre venosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heces o alimento sospechoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido cefalorraquídeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secreción respiratoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las heces y los alimentos sospechosos permiten identificar el agente causal y confirmar el brote."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué bacteria produce una toxina termolábil y otra termoestable implicadas en intoxicaciones alimentarias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shigella dysenteriae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escherichia coli enterotoxigénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio vulnificus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yersinia enterocolitica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clostridium difficile"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "E. coli enterotoxigénica produce toxinas termolábil y termoestable que causan diarrea del viajero y cuadros alimentarios."
+    },
+    {
+      "numero": "18",
+      "texto": "En el contexto de brote de intoxicación alimentaria, ¿cuál es el síntoma predominante en infecciones por C. perfringens?",
+      "alternativas": [
+        {
+          "opcion": "C",
+          "texto": "perfringens?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Vómitos intensos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea acuosa sin fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea sanguinolenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal cólico severo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre alta y cefalea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "C. perfringens produce diarrea acuosa sin fiebre por toxinas elaboradas en el intestino delgado."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué microorganismo puede causar parálisis flácida en lactantes tras consumo de miel contaminada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium botulinum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacillus cereus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Campylobacter jejuni"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las esporas de C. botulinum en miel pueden germinar en el intestino del lactante, causando botulismo infantil."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la causa más frecuente de brotes de intoxicación alimentaria en instituciones cerradas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shigella dysenteriae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clostridium tetani"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium avium"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "S. aureus es la causa más frecuente de brotes alimentarios en instituciones por manipulación inadecuada de alimentos."
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "codigo": "2.01.4.017",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Parasitológico de deposiciones",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el método más sensible para detectar parásitos intestinales en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coproparasitológico simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coproparasitológico seriado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Benedict"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo de heces"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El coproparasitológico seriado aumenta la probabilidad de detectar parásitos por su variabilidad en la eliminación."
+    },
+    {
+      "numero": "2",
+      "texto": "Giardia lamblia se observa en heces en forma de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Huevos y larvas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quistes y trofozoítos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esporozoítos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cilindros hialinos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cristales de Charcot-Leyden"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Giardia lamblia se presenta en forma de quistes y trofozoítos en el examen microscópico."
+    },
+    {
+      "numero": "3",
+      "texto": "La técnica de Graham (cinta adhesiva) se utiliza para el diagnóstico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amebiasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobiasis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloidiasis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Teniasis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método de Graham detecta huevos de Enterobius vermicularis en la región anal."
+    },
+    {
+      "numero": "4",
+      "texto": "El hallazgo de huevos con tapones polares corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Strongyloides stercoralis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Trichuris trichiura presenta huevos con tapones mucosos en sus extremos característicos."
+    },
+    {
+      "numero": "5",
+      "texto": "Los quistes de Entamoeba coli se diferencian de E. histolytica por:",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "histolytica por:"
+        },
+        {
+          "opcion": "A",
+          "texto": "Mayor tamaño y más núcleos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de pseudópodos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración más intensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor patogenicidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor movilidad"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Entamoeba coli es no patógena y presenta quistes con hasta ocho núcleos."
+    },
+    {
+      "numero": "6",
+      "texto": "El hallazgo de larvas rabditiformes en deposiciones indica infección por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Blastocystis hominis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Strongyloides stercoralis elimina larvas rabditiformes en las heces."
+    },
+    {
+      "numero": "7",
+      "texto": "La técnica de concentración por sedimentación se utiliza para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar virus entéricos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la visibilidad de parásitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar pH fecal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuantificar bacterias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir proteínas fecales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite concentrar huevos y quistes aumentando la sensibilidad del examen."
+    },
+    {
+      "numero": "8",
+      "texto": "El parásito que se observa en trofozoítos con movimiento en heces frescas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entamoeba histolytica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Blastocystis hominis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascaris lumbricoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Entamoeba histolytica puede observarse móvil en muestras frescas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes parásitos se asocia con diarrea crónica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia saginata"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Giardia lamblia produce malabsorción y diarrea crónica en edad pediátrica."
+    },
+    {
+      "numero": "10",
+      "texto": "La tinción de Ziehl-Neelsen modificada permite identificar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cryptosporidium spp."
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia solium"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cryptosporidium spp. es resistente a ácido y se tiñe con Ziehl-Neelsen modificada."
+    },
+    {
+      "numero": "11",
+      "texto": "La presencia de proglótidos móviles en heces indica infección por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taenia spp."
+        },
+        {
+          "opcion": "D",
+          "texto": "Blastocystis hominis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Strongyloides stercoralis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las proglótidos móviles son segmentos de Taenia observables a simple vista."
+    },
+    {
+      "numero": "12",
+      "texto": "Los huevos de Ascaris lumbricoides se caracterizan por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cubierta lisa y transparente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cubierta rugosa y gruesa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tapones polares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coloración rojiza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tamaño microscópico variable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los huevos de Ascaris tienen cubierta gruesa y rugosa característica."
+    },
+    {
+      "numero": "13",
+      "texto": "La autoinfección es característica de cuál de los siguientes parásitos:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hymenolepis nana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia solium"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Hymenolepis nana puede causar autoinfección interna persistente."
+    },
+    {
+      "numero": "14",
+      "texto": "La presencia de eosinofilia periférica es más frecuente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amebiasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascariasis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Blastocistosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Entamoebiasis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los helmintos tisulares como Ascaris inducen eosinofilia periférica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el agente más frecuente en diarrea prolongada en jardines infantiles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taenia saginata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cryptosporidium spp."
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Giardia lamblia es la causa más común de diarrea prolongada en niños."
+    },
+    {
+      "numero": "16",
+      "texto": "La conservación de muestras fecales para diagnóstico parasitológico se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alcohol al 70%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Formol al 10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suero fisiológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agua destilada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eter-éter"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El formol al 10% conserva la morfología de huevos y quistes."
+    },
+    {
+      "numero": "17",
+      "texto": "Los quistes de Giardia lamblia son resistentes a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cloro en bajas concentraciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desecación ambiental"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temperaturas mayores a 60°C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiación ultravioleta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agentes detergentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los quistes son resistentes al cloro en concentraciones habituales del agua potable."
+    },
+    {
+      "numero": "18",
+      "texto": "El parásito que puede transmitirse por autoinfección externa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia solium"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Enterobius vermicularis puede reinfectar al huésped por rascado perianal."
+    },
+    {
+      "numero": "19",
+      "texto": "El hallazgo de huevos operculados en deposiciones corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hymenolepis nana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fasciola hepatica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trichuris trichiura"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los huevos de Fasciola hepatica presentan un opérculo característico."
+    },
+    {
+      "numero": "20",
+      "texto": "La observación de quistes ovalados con 4 núcleos en heces sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entamoeba histolytica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entamoeba coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cryptosporidium spp."
+        },
+        {
+          "opcion": "E",
+          "texto": "Blastocystis hominis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Entamoeba histolytica forma quistes ovalados con 4 núcleos en fase madura."
+    }
+  ]
+}

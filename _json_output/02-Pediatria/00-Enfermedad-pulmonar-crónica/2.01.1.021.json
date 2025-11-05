@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.021",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Enfermedad pulmonar crónica",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de enfermedad pulmonar crónica en prematuros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía bacteriana recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Displasia broncopulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma persistente severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquiectasias posinfecciosas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La displasia broncopulmonar es la principal causa de enfermedad pulmonar crónica en prematuros con ventilación prolongada."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué factor contribuye más al desarrollo de displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición a oxígeno suplementario y ventilación mecánica prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones virales recurrentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de alfa-1 antitripsina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergias respiratorias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de surfactante secundaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La exposición prolongada a oxígeno y ventilación mecánica causa daño alveolar e inflamación crónica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la edad gestacional más asociada a displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 32 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 33 y 35 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 36 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recién nacido a término"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayores de 1 año"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La displasia broncopulmonar ocurre principalmente en recién nacidos prematuros menores de 32 semanas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo clínico es característico en un lactante con enfermedad pulmonar crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancias recurrentes y dependencia de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca intermitente sin disnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Episodios de apnea central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico agudo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinorrea constante"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dependencia de oxígeno y las sibilancias persistentes son signos característicos de enfermedad pulmonar crónica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué radiografía torácica es típica en displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campos pulmonares normales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados alveolares difusos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Áreas alternadas de hiperinsuflación y atelectasia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consolidación lobar única"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural bilateral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La imagen muestra patrón mixto con áreas hiperlúcidas y opacidades por daño estructural crónico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estrategia reduce la incidencia de displasia broncopulmonar en prematuros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar ventilación mecánica invasiva prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso rutinario de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar surfactante a término"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener saturaciones de O2 elevadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción hídrica severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso de ventilación no invasiva y el control cuidadoso del oxígeno reducen el daño pulmonar."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el tratamiento principal de la enfermedad pulmonar crónica en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides inhalados y broncodilatadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides sistémicos prolongados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxígeno suplementario y control nutricional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antivirales profilácticos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El soporte con oxígeno y una nutrición adecuada son fundamentales para mejorar crecimiento y oxigenación."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación cardiovascular es frecuente en displasia broncopulmonar severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia mitral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arritmia supraventricular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertensión pulmonar es una complicación frecuente por remodelado vascular y daño alveolar crónico."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué microorganismo puede agravar la evolución de la enfermedad pulmonar crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus de la influenza"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinovirus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El VSR puede causar exacerbaciones graves y hospitalizaciones en niños con displasia broncopulmonar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es un criterio diagnóstico de displasia broncopulmonar según la edad gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de oxígeno suplementario por más de 28 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía pulmonar normal a los 10 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea de la prematuridad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos productiva persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La necesidad de oxígeno por más de 28 días en un prematuro indica displasia broncopulmonar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué alteración fisiológica caracteriza a la enfermedad pulmonar crónica infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperreactividad bronquial y atrapamiento aéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción pulmonar pura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del volumen residual con hipercapnia leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación compensada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obstrucción crónica provoca hipercapnia e incremento del volumen residual pulmonar."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué intervención profiláctica reduce las exacerbaciones en displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunización con palivizumab"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos orales continuos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides orales profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementación de vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia con teofilina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El palivizumab previene la infección por VSR en prematuros y pacientes con displasia broncopulmonar."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es una complicación a largo plazo de la enfermedad pulmonar crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteopenia neonatal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxia crónica y el gasto energético elevado contribuyen al retraso del crecimiento."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el objetivo del uso de diuréticos en displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la presión arterial sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir el edema intersticial pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prevenir la fibrosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejorar la oxigenación cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el riesgo de neumotórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los diuréticos reducen el edema pulmonar, mejorando el intercambio gaseoso en pacientes con displasia broncopulmonar."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué parámetro se usa para graduar la severidad de la displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad gestacional y necesidad de oxígeno a las 36 semanas postconcepción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de sibilancias persistentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia de infecciones respiratorias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nivel de hemoglobina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso al nacer mayor de 2 kg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La severidad se define por la dependencia de oxígeno a las 36 semanas postconcepción en prematuros."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de alteración funcional pulmonar se observa en la displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstructiva con atrapamiento aéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restrictiva pura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta con predominio restrictivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del flujo inspiratorio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción al flujo aéreo y el atrapamiento son típicos de la displasia broncopulmonar."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida preventiva general disminuye la incidencia de enfermedad pulmonar crónica neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides prenatales en amenaza de parto prematuro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de líquidos posnatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso temprano de antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplemento de hierro desde el nacimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los corticoides prenatales reducen el riesgo de síndrome de dificultad respiratoria y displasia broncopulmonar."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué seguimiento se recomienda en niños con displasia broncopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Controles respiratorios y crecimiento cada 3-6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía mensual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación anual sin controles intermedios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión de controles tras alta hospitalaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controles cardiológicos exclusivos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El seguimiento respiratorio y nutricional frecuente permite prevenir complicaciones y ajustar el tratamiento."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo clínico sugiere hipoxemia crónica en enfermedad pulmonar crónica infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis y acropaquia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sibilancias leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sudoración fría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia aislada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cianosis y la acropaquia son manifestaciones de hipoxemia mantenida en enfermedades pulmonares crónicas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro indica buen control clínico en un paciente con enfermedad pulmonar crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saturación basal de O2 > 94%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necesidad de oxígeno constante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida ponderal progresiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disnea con alimentación"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una saturación mayor al 94% indica oxigenación adecuada y control clínico estable."
+    }
+  ]
+}

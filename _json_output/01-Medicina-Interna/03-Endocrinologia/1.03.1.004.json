@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo más frecuente de cáncer de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma papilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma folicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma medular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma anaplásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma tiroideo primario"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El carcinoma papilar representa cerca del 80% de los cánceres tiroideos y suele tener buen pronóstico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal factor de riesgo para carcinoma papilar de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de yodo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiación ionizante en la infancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Historia familiar de MEN tipo 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La exposición a radiación ionizante en la infancia es el principal factor de riesgo para carcinoma papilar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué marcador sérico se utiliza para seguimiento del carcinoma diferenciado de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcitonina"
+        },
+        {
+          "opcion": "B",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroglobulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tiroglobulina es producida por células foliculares y sirve para monitorizar recurrencia tras tiroidectomía total."
+    },
+    {
+      "numero": "4",
+      "texto": "El carcinoma medular de tiroides se origina en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células foliculares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células C parafoliculares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células endoteliales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células del estroma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células de Hürthle"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma medular proviene de células C parafoliculares productoras de calcitonina."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué marcador tumoral se eleva en el carcinoma medular de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroglobulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcitonina"
+        },
+        {
+          "opcion": "C",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "D",
+          "texto": "PTH"
+        },
+        {
+          "opcion": "E",
+          "texto": "ACTH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La calcitonina elevada es característica del carcinoma medular y útil para diagnóstico y seguimiento."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué mutación se asocia al carcinoma medular familiar de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "RET"
+        },
+        {
+          "opcion": "B",
+          "texto": "BRAF"
+        },
+        {
+          "opcion": "C",
+          "texto": "RAS"
+        },
+        {
+          "opcion": "D",
+          "texto": "TP53"
+        },
+        {
+          "opcion": "E",
+          "texto": "PIK3CA"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las mutaciones germinales del protooncogén RET se asocian a MEN 2A y 2B y carcinoma medular familiar."
+    },
+    {
+      "numero": "7",
+      "texto": "El carcinoma folicular de tiroides se diferencia del adenoma folicular por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de invasión capsular o vascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor tamaño del tumor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevación de tiroglobulina sérica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificaciones intratumorales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercaptación en gammagrafía"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El diagnóstico de carcinoma folicular se basa en la demostración de invasión capsular y/o vascular."
+    },
+    {
+      "numero": "8",
+      "texto": "El carcinoma anaplásico de tiroides se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento lento y buen pronóstico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alta agresividad y rápida diseminación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Producción elevada de tiroglobulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respuesta favorable a radioyodo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociación frecuente con MEN 2"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma anaplásico es muy agresivo, con crecimiento rápido y mal pronóstico, frecuente en ancianos."
+    },
+    {
+      "numero": "9",
+      "texto": "La metástasis ganglionar cervical es más común en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma folicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma papilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma medular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma anaplásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma tiroideo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma papilar metastatiza preferentemente por vía linfática hacia ganglios cervicales."
+    },
+    {
+      "numero": "10",
+      "texto": "El carcinoma folicular tiende a diseminarse principalmente por vía:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contigüidad directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transcelómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intraductal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma folicular se disemina por vía hematógena, con metástasis en hueso y pulmón."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la primera prueba de imagen recomendada ante un nódulo tiroideo sospechoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gammagrafía tiroidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET-CT"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ecografía cervical es el método inicial para evaluar morfología, vascularización y características sospechosas del nódulo."
+    },
+    {
+      "numero": "12",
+      "texto": "El hallazgo ecográfico más sospechoso de malignidad en un nódulo tiroideo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo anecoico con bordes regulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nódulo espongiforme"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microcalcificaciones y márgenes irregulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo isoecoico homogéneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta vascularización periférica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las microcalcificaciones y los márgenes irregulares son signos ecográficos de sospecha de malignidad."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el estudio diagnóstico definitivo del cáncer de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punción aspirativa con aguja fina (PAAF)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gammagrafía tiroidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación de tiroglobulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia abierta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PAAF es el método más preciso para el diagnóstico preoperatorio de nódulos malignos tiroideos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento principal del carcinoma papilar de tiroides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroidectomía total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia externa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yodo radiactivo exclusivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiroidectomía total es el tratamiento de elección, seguida de ablación con yodo radiactivo en casos seleccionados."
+    },
+    {
+      "numero": "15",
+      "texto": "El yodo radiactivo se utiliza principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma anaplásico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma medular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma folicular y papilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma tiroideo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis de Hashimoto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los carcinomas diferenciados (papilar y folicular) captan yodo y pueden tratarse con ablación radioactiva."
+    },
+    {
+      "numero": "16",
+      "texto": "En el carcinoma medular de tiroides debe estudiarse además:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucosa sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niveles de cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Feocromocitoma asociado (MEN 2)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Función renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos anti-TPO"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe descartarse feocromocitoma antes de la cirugía por su asociación en el síndrome MEN 2."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes tiene peor pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma papilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma folicular mínimamente invasivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma medular esporádico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma anaplásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma de células de Hürthle"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El carcinoma anaplásico tiene el peor pronóstico, con supervivencia media de pocos meses."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo histológico es característico del carcinoma papilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cuerpos de psammoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células en anillo de sello"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis extensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Invasión angiolinfática difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células gigantes multinucleadas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los cuerpos de psammoma son depósitos laminares de calcio característicos del carcinoma papilar."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué procedimiento está indicado tras tiroidectomía total en cáncer diferenciado de alto riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Observación clínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suplementación con yodo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ablación con yodo radiactivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia externa inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quimioterapia adyuvante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ablación con yodo radiactivo elimina tejido remanente y micrometástasis en cáncer diferenciado de alto riesgo."
+    },
+    {
+      "numero": "20",
+      "texto": "La terapia supresora con levotiroxina en cáncer diferenciado de tiroides busca:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalizar la TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir los niveles de tiroglobulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suprimir TSH para reducir estímulo tumoral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimular regeneración tiroidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibir conversión de T4 a T3"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se usa levotiroxina en dosis altas para suprimir la TSH y evitar estímulo del crecimiento tumoral residual."
+    }
+  ]
+}

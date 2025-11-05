@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.057",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Mesenquimopatías",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la mesenquimopatía hereditaria más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Marfan"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Ehlers-Danlos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Stickler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudoxantoma elástico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La osteogénesis imperfecta es la mesenquimopatía hereditaria más común y se caracteriza por fragilidad ósea."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la alteración molecular principal en el síndrome de Marfan?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mutación del colágeno tipo I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto en la fibrilina-1"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de elastina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mutación del colágeno tipo III"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de fibronectina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Marfan es causado por mutaciones en el gen de la fibrilina-1 (FBN1)."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo clínico más característico del síndrome de Marfan es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperelasticidad cutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fragilidad ósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatación de la aorta ascendente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sordera progresiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatoesplenomegalia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación aórtica es una de las principales complicaciones cardiovasculares del síndrome de Marfan."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes características es típica del síndrome de Ehlers-Danlos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Piel hiperextensible y fragilidad vascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla alta y extremidades largas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deformidad torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fracturas múltiples"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Ehlers-Danlos cursa con piel hiperextensible y tendencia a hematomas y rupturas vasculares."
+    },
+    {
+      "numero": "5",
+      "texto": "La osteogénesis imperfecta se debe a un defecto en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colágeno tipo I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colágeno tipo II"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elastina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteoglucanos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La osteogénesis imperfecta es causada por mutaciones que afectan la síntesis del colágeno tipo I."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo ocular es típico del síndrome de Marfan?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cataratas congénitas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desprendimiento de retina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ectopia lentis (subluxación del cristalino)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microftalmia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloboma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La subluxación del cristalino es una manifestación clásica del síndrome de Marfan."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes síndromes se asocia con mutaciones del gen COL3A1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Marfan"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Ehlers-Danlos tipo vascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteogénesis imperfecta tipo I"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Stickler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cutis laxa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Ehlers-Danlos tipo vascular está causado por mutaciones en el gen del colágeno tipo III (COL3A1)."
+    },
+    {
+      "numero": "8",
+      "texto": "En la osteogénesis imperfecta, las escleras azuladas se deben a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Depósito de hemosiderina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tinción por bilirrubina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transparencia aumentada por colágeno anormal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto en la vascularización corneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acumulación de elastina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El colágeno defectuoso hace más delgada la esclera, permitiendo ver el pigmento coroideo subyacente."
+    },
+    {
+      "numero": "9",
+      "texto": "La triada clásica del síndrome de Ehlers-Danlos incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ectopia lentis, aneurisma aórtico y aracnodactilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperelasticidad cutánea, hipermovilidad articular y fragilidad tisular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fragilidad ósea, talla baja y dentinogénesis imperfecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valvulopatía mitral, pectus excavatum y miopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernias, osteopenia y piel atrófica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los tres signos cardinales del síndrome de Ehlers-Danlos son piel hiperextensible, articulaciones laxas y fragilidad de tejidos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de herencia tiene la osteogénesis imperfecta más frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autosómica recesiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autosómica dominante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ligada al X"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mitocondrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "De novo exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de los casos de osteogénesis imperfecta presentan herencia autosómica dominante."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué característica permite diferenciar el síndrome de Marfan del homocistinuria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talla alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deformidad torácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ectopia lentis inferior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arachnodactilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escoliosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la homocistinuria la subluxación del cristalino es inferior, mientras que en Marfan es superior."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo radiológico es típico de osteogénesis imperfecta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Calcificación subdérmica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Huesos delgados y múltiples fracturas en distintos estadios de consolidación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteopetrosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Condensación metafisaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fusión vertebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las fracturas múltiples en diferentes fases de consolidación son características de osteogénesis imperfecta."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación cardiovascular es típica del síndrome de Marfan?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disección aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endocarditis bacteriana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dilatación progresiva de la raíz aórtica puede evolucionar a disección aórtica en el síndrome de Marfan."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento fundamental en la osteogénesis imperfecta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bisfosfonatos intravenosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunosupresores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hormona de crecimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los bisfosfonatos reducen la incidencia de fracturas y mejoran la densidad ósea en osteogénesis imperfecta."
+    },
+    {
+      "numero": "15",
+      "texto": "El síndrome de Stickler se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dislocación de cristalino y aneurisma aórtico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miopía alta, paladar hendido y alteraciones articulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ectopia lentis y aracnodactilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Piel laxa y aneurismas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteopenia generalizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Stickler se asocia a alteraciones del colágeno tipo II con miopía severa y malformaciones orofaciales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el defecto genético del síndrome de Ehlers-Danlos clásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "COL1A1"
+        },
+        {
+          "opcion": "B",
+          "texto": "COL5A1 o COL5A2"
+        },
+        {
+          "opcion": "C",
+          "texto": "FBN1"
+        },
+        {
+          "opcion": "D",
+          "texto": "COL3A1"
+        },
+        {
+          "opcion": "E",
+          "texto": "ELN"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Ehlers-Danlos clásico se asocia a mutaciones en COL5A1 o COL5A2 (colágeno tipo V)."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué examen complementario se utiliza para evaluar compromiso cardiovascular en síndrome de Marfan?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiograma Doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holter 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Angio-TAC cerebral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ecocardiograma permite evaluar dilatación aórtica y válvulas en pacientes con síndrome de Marfan."
+    },
+    {
+      "numero": "18",
+      "texto": "La piel frágil con cicatrización anómala y hematomas espontáneos es característica de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Ehlers-Danlos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Marfan"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteogénesis imperfecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Stickler"
+        },
+        {
+          "opcion": "E",
+          "texto": "Homocistinuria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Ehlers-Danlos se caracteriza por fragilidad tisular y cicatrices atróficas en áreas de trauma leve."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico es común entre el síndrome de Marfan y el de Ehlers-Danlos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperelasticidad cutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Laxitud articular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fracturas espontáneas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ectopia lentis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis aórtica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos síndromes comparten la hipermovilidad articular como manifestación del tejido conectivo laxo."
+    },
+    {
+      "numero": "20",
+      "texto": "El diagnóstico definitivo de una mesenquimopatía se realiza mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Análisis bioquímico de colágeno sérico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia cutánea y estudio genético molecular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de huesos largos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La confirmación se realiza por estudio molecular y, en algunos casos, histológico del colágeno o fibrilina."
+    }
+  ]
+}

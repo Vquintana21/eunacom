@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.005",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Familia y ciclo vital",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal función de la familia en el desarrollo infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proveer recursos materiales exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Satisfacer necesidades biológicas básicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ofrecer un entorno afectivo y socializador"
+        },
+        {
+          "opcion": "D",
+          "texto": "Regular la conducta del niño mediante normas rígidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Promover independencia temprana"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La familia es el principal agente de socialización y desarrollo afectivo del niño, promoviendo seguridad y aprendizaje."
+    },
+    {
+      "numero": "2",
+      "texto": "En el ciclo vital familiar, el nacimiento del primer hijo corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Etapa de independencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etapa de pareja joven sin hijos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Etapa de expansión o crianza inicial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Etapa de contracción"
+        },
+        {
+          "opcion": "E",
+          "texto": "Etapa de reorganización"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El nacimiento del primer hijo marca la etapa de expansión familiar, donde la pareja asume el rol parental."
+    },
+    {
+      "numero": "3",
+      "texto": "La teoría estructural de Minuchin describe a la familia como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Un sistema sin jerarquías internas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un conjunto de subsistemas interrelacionados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Una unidad emocional rígida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Un grupo donde los roles son fijos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un modelo sin límites claros"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Minuchin describe a la familia como un sistema compuesto por subsistemas (conyugal, parental, fraterno) con límites y jerarquías definidos."
+    },
+    {
+      "numero": "4",
+      "texto": "Según el modelo de Duvall, la familia con hijos adolescentes se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Centrarse en el cuidado físico del niño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la autonomía y los límites flexibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dependencia total de los hijos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reforzar normas rígidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retiro social de los padres"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante esta etapa, la familia favorece la autonomía de los adolescentes y ajusta los límites familiares."
+    },
+    {
+      "numero": "5",
+      "texto": "Un límite difuso entre subsistemas familiares puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fortalecimiento de la autonomía infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor cohesión saludable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falta de diferenciación de roles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejor comunicación intrafamiliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incremento del apoyo emocional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los límites difusos generan confusión de roles y dificultades en la autonomía de los miembros familiares."
+    },
+    {
+      "numero": "6",
+      "texto": "El ciclo vital familiar se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La evolución biológica del niño"
+        },
+        {
+          "opcion": "B",
+          "texto": "Los cambios predecibles que enfrenta la familia a lo largo del tiempo"
+        },
+        {
+          "opcion": "C",
+          "texto": "El desarrollo cognitivo individual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los eventos traumáticos externos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Las etapas escolares del menor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ciclo vital familiar se refiere a las etapas y transiciones previsibles que atraviesa la familia."
+    },
+    {
+      "numero": "7",
+      "texto": "Una familia monoparental se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La ausencia temporal de uno de los padres"
+        },
+        {
+          "opcion": "B",
+          "texto": "La presencia de un solo progenitor como cuidador principal"
+        },
+        {
+          "opcion": "C",
+          "texto": "El cuidado alternado por ambos padres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una estructura rígida de autoridad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un sistema familiar extendido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La familia monoparental se compone de un progenitor y sus hijos, generalmente por separación o viudez."
+    },
+    {
+      "numero": "8",
+      "texto": "El concepto de resiliencia familiar implica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar los conflictos familiares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Negar los problemas emocionales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capacidad de adaptarse y superar adversidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener rigidez frente a los cambios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Delegar responsabilidades fuera de la familia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resiliencia familiar es la capacidad de reorganizarse positivamente frente a situaciones adversas."
+    },
+    {
+      "numero": "9",
+      "texto": "El nacimiento de un hijo con enfermedad crónica suele provocar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fortalecimiento inmediato de la relación conyugal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del equilibrio familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reestructuración de roles y aumento del estrés parental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ruptura automática del vínculo familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indiferencia emocional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La llegada de un hijo con enfermedad crónica exige adaptaciones en roles y dinámicas familiares."
+    },
+    {
+      "numero": "10",
+      "texto": "Durante la adolescencia del hijo, los padres deben:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el control y la supervisión rígida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permitir independencia progresiva y comunicación abierta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir el diálogo y aumentar las reglas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar hablar de emociones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir la socialización"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adolescencia requiere límites flexibles, diálogo y acompañamiento respetuoso hacia la autonomía."
+    },
+    {
+      "numero": "11",
+      "texto": "El genograma familiar permite:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la dieta infantil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Representar visualmente relaciones y estructura familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar ingresos familiares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar antecedentes escolares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar crecimiento físico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El genograma muestra la estructura, vínculos y patrones familiares a través de generaciones."
+    },
+    {
+      "numero": "12",
+      "texto": "La familia extensa incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo al núcleo padre-madre-hijo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Únicamente abuelos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parientes de varias generaciones bajo un mismo sistema de apoyo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vecinos y amigos cercanos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Padres adoptivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La familia extensa incluye varias generaciones y familiares más allá del núcleo básico."
+    },
+    {
+      "numero": "13",
+      "texto": "Un límite rígido entre subsistemas familiares produce:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Autonomía adecuada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento y poca comunicación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Relaciones flexibles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejor resolución de conflictos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor cohesión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los límites rígidos impiden la comunicación entre subsistemas y generan distanciamiento emocional."
+    },
+    {
+      "numero": "14",
+      "texto": "En la etapa del nido vacío, los padres suelen experimentar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incremento de las demandas parentales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conflictos con adolescentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reorganización de la vida conyugal y duelo por la partida de los hijos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Expansión familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sobrecarga económica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El nido vacío implica reajuste emocional y redirección de roles hacia la pareja o nuevos proyectos."
+    },
+    {
+      "numero": "15",
+      "texto": "La etapa de independencia en el ciclo vital familiar corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio de la paternidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Formación de pareja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Emancipación del joven adulto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nacimiento del primer hijo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reincorporación de abuelos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La independencia implica la separación del hogar de origen y el inicio de autonomía del joven adulto."
+    },
+    {
+      "numero": "16",
+      "texto": "Un factor protector familiar frente a enfermedades crónicas en la infancia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Negación del diagnóstico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comunicación abierta y apoyo emocional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento social"
+        },
+        {
+          "opcion": "D",
+          "texto": "Roles rígidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dependencia excesiva del sistema médico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La comunicación abierta y el apoyo emocional fortalecen la resiliencia familiar ante enfermedades crónicas."
+    },
+    {
+      "numero": "17",
+      "texto": "Los eventos transicionales del ciclo vital familiar requieren:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rigidez estructural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adaptación flexible a los nuevos roles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar cambios en la dinámica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del control parental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distanciamiento emocional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las transiciones saludables exigen flexibilidad y adaptación a nuevos roles y responsabilidades."
+    },
+    {
+      "numero": "18",
+      "texto": "La crisis normativa familiar se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eventos esperables del desarrollo que exigen ajustes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conflictos sin solución"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desintegración del núcleo familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de miembros familiares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Situaciones de violencia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Son crisis esperables, como el nacimiento de un hijo o la adolescencia, que requieren reorganización familiar."
+    },
+    {
+      "numero": "19",
+      "texto": "En familias con hijos pequeños, una característica saludable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Roles parentales flexibles y comunicación efectiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento social"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dependencia total del niño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Jerarquías difusas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Autoritarismo parental"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los roles claros y la comunicación abierta fortalecen la dinámica familiar durante la crianza inicial."
+    },
+    {
+      "numero": "20",
+      "texto": "El rol del pediatra frente a la familia incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intervenir solo en lo biológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orientar, contener y promover relaciones familiares saludables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Limitar su rol al diagnóstico médico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar conversaciones sobre dinámica familiar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derivar sin evaluar el contexto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pediatra cumple un rol integrador, apoyando el bienestar físico, emocional y social del niño y su familia."
+    }
+  ]
+}

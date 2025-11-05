@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo de la prevención de la obesidad en pacientes con riesgo de diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir el índice de masa corporal (IMC) a valores inferiores a 18,5"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar la progresión hacia el síndrome metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la masa magra mediante suplementos proteicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Controlar la glucemia en ayunas exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir el colesterol HDL plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prevención de la obesidad busca evitar la progresión hacia el síndrome metabólico y diabetes tipo 2 mediante el control del peso corporal."
+    },
+    {
+      "numero": "2",
+      "texto": "Según la evidencia actual, ¿qué intervención tiene mayor impacto en la prevención de la obesidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restricción severa de carbohidratos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de actividad física y control calórico sostenido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta cetogénica prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementación con vitamina D"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar el consumo de gluten"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de la actividad física junto al control calórico sostenido es la intervención más eficaz para prevenir obesidad."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes macronutrientes tiene mayor densidad energética por gramo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carbohidratos complejos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibra dietética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcohol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las grasas aportan 9 kcal/g, siendo el macronutriente con mayor densidad energética."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de fibra dietética contribuye más al aumento de la saciedad y control del peso corporal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibra insoluble"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibra soluble"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibra lignina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibra celulósica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibra sintética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibra soluble retarda el vaciamiento gástrico y aumenta la sensación de saciedad, ayudando al control del peso."
+    },
+    {
+      "numero": "5",
+      "texto": "El exceso de grasa visceral se asocia principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor sensibilidad a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación sistémica y resistencia insulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto energético basal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La grasa visceral libera citocinas proinflamatorias que promueven resistencia a la insulina y riesgo cardiometabólico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el mejor predictor antropométrico del riesgo de obesidad abdominal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Índice de masa corporal (IMC)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pliegue tricipital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Relación cintura-cadera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso corporal total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Índice de masa magra"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La relación cintura-cadera refleja mejor la distribución de grasa abdominal, relacionada con el riesgo metabólico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el aporte calórico recomendado por las guías para lograr una pérdida de peso gradual y segura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de 100 kcal/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de 500–1000 kcal/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de 1500 kcal/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de 2000 kcal/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de 300 kcal/día"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un déficit calórico de 500–1000 kcal/día permite una pérdida de peso segura de 0,5–1 kg por semana."
+    },
+    {
+      "numero": "8",
+      "texto": "En la prevención de la obesidad, el ejercicio físico aeróbico es preferido porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la masa muscular exclusivamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Favorece la oxidación de lípidos y el gasto calórico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye el metabolismo basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementa la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ejercicio aeróbico aumenta la oxidación de grasas y el gasto energético total, contribuyendo al control ponderal."
+    },
+    {
+      "numero": "9",
+      "texto": "El consumo habitual de bebidas azucaradas se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción del índice glucémico total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de triglicéridos plasmáticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor riesgo de obesidad y resistencia insulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del metabolismo basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejor regulación del apetito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bebidas azucaradas aportan calorías vacías y elevan el riesgo de obesidad y resistencia a la insulina."
+    },
+    {
+      "numero": "10",
+      "texto": "El concepto de 'densidad energética' se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cantidad de nutrientes por ración"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cantidad de energía por gramo de alimento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Capacidad de un alimento para generar saciedad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Porcentaje de agua en el alimento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cantidad de fibra total"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La densidad energética indica la cantidad de calorías por gramo, clave para planificar dietas hipocalóricas."
+    },
+    {
+      "numero": "11",
+      "texto": "Una estrategia efectiva para disminuir la densidad energética de la dieta es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el consumo de frutas y verduras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incrementar grasas vegetales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir el consumo de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar el tamaño de las porciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir el consumo de proteínas magras"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las frutas y verduras tienen alta cantidad de agua y fibra, reduciendo la densidad calórica global."
+    },
+    {
+      "numero": "12",
+      "texto": "El patrón alimentario más recomendado para prevenir obesidad y diabetes tipo 2 es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta alta en proteínas animales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta mediterránea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta carnívora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta cetogénica estricta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta sin gluten"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta mediterránea promueve consumo de vegetales, frutas, granos integrales y grasas saludables, reduciendo obesidad y diabetes."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es un marcador clínico temprano del riesgo de obesidad infantil en adultos jóvenes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altos niveles de HDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Circunferencia abdominal elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Índice cintura-cadera bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "IMC inferior al percentil 25"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso estable durante la adolescencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La circunferencia abdominal elevada predice riesgo de obesidad y trastornos metabólicos futuros."
+    },
+    {
+      "numero": "14",
+      "texto": "El efecto del sueño insuficiente en la regulación del peso corporal se relaciona con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de leptina y disminución de grelina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de leptina y aumento de grelina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del metabolismo basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la sensibilidad insulínica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de sueño eleva grelina y reduce leptina, promoviendo el apetito y el aumento de peso."
+    },
+    {
+      "numero": "15",
+      "texto": "En el contexto de prevención primaria de obesidad, la intervención más costo-efectiva a nivel poblacional es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia farmacológica temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cirugía bariátrica preventiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Promoción de estilos de vida saludables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitoreo continuo de glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suplementación con omega-3"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La promoción de estilos de vida saludables es la medida más efectiva y costo-efectiva para prevenir obesidad."
+    },
+    {
+      "numero": "16",
+      "texto": "El consumo excesivo de sodio se relaciona indirectamente con la obesidad por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el gasto calórico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecer la retención de líquidos y consumo de bebidas azucaradas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir el apetito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la resistencia a la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementar la masa muscular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sodio promueve la sed, aumentando el consumo de bebidas calóricas y contribuyendo a la ganancia de peso."
+    },
+    {
+      "numero": "17",
+      "texto": "En pacientes con obesidad, la pérdida de peso del 5–10% se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la sensibilidad insulínica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejoras significativas en parámetros metabólicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción del gasto energético basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pérdida de masa ósea excesiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una pérdida del 5–10% del peso corporal mejora presión arterial, glucemia y perfil lipídico."
+    },
+    {
+      "numero": "18",
+      "texto": "La termogénesis inducida por la dieta se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Energía utilizada en la digestión y metabolismo de los alimentos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida de calor corporal por sudoración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del metabolismo basal durante el sueño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Energía usada en el ejercicio físico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Producción de calor por el tejido óseo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La termogénesis inducida por la dieta es la energía gastada en digerir, absorber y metabolizar alimentos."
+    },
+    {
+      "numero": "19",
+      "texto": "En la regulación del peso corporal, la leptina actúa principalmente a nivel de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corteza prefrontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotálamo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tronco encefálico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Amígdala"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tálamo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La leptina actúa sobre el hipotálamo, inhibiendo el apetito y regulando el balance energético."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el papel del índice glucémico en la prevención de la obesidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevar la glucemia postprandial para aumentar saciedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecer alimentos de alto IG para energía rápida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir picos de glucosa y controlar el apetito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar carbohidratos simples completamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar el IG para estimular metabolismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una dieta con bajo índice glucémico evita picos de glucosa y ayuda a controlar el apetito y peso corporal."
+    }
+  ]
+}

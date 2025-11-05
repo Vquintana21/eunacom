@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.008",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Radiografía de senos paranasales",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación de una radiografía de senos paranasales en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar traumatismos craneales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diagnosticar sinusitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar otitis media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar desviación del tabique nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar epistaxis recurrente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía se usa principalmente para evaluar signos compatibles con sinusitis bacteriana en niños mayores de 6 años."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué seno paranasal se encuentra completamente desarrollado al nacimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maxilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Etmoidal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esfenoidal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos están ausentes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El seno etmoidal está presente desde el nacimiento, aunque es pequeño y crece progresivamente."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué proyección radiográfica se usa comúnmente para evaluar los senos maxilares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proyección lateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proyección de Waters"
+        },
+        {
+          "opcion": "C",
+          "texto": "Proyección de Towne"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proyección AP simple"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proyección submentovertical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La proyección de Waters permite visualizar adecuadamente los senos maxilares y frontales."
+    },
+    {
+      "numero": "4",
+      "texto": "¿A qué edad se completa el desarrollo del seno frontal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "8 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "15 años"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El seno frontal comienza su desarrollo alrededor de los 4 años y se completa hacia los 12 años."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes senos se desarrolla más tardíamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maxilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etmoidal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frontal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esfenoidal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mastoideo"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El seno esfenoidal es el último en desarrollarse, completándose alrededor de los 15 años."
+    },
+    {
+      "numero": "6",
+      "texto": "En la proyección de Waters normal, los senos maxilares deben visualizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Opacos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Translúcidos con nivel líquido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aéreos y simétricos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desplazados lateralmente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con engrosamiento mucoso leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En condiciones normales, los senos maxilares se observan radiolúcidos y simétricos."
+    },
+    {
+      "numero": "7",
+      "texto": "Un nivel hidroaéreo visible en seno maxilar indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sinusitis bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sinusitis viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desviación septal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fractura nasal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La presencia de nivel hidroaéreo es característica de sinusitis bacteriana aguda."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué limitación importante tiene la radiografía simple en la evaluación de senos paranasales pediátricos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobreestima la inflamación mucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "No detecta sinusitis etmoidal"
+        },
+        {
+          "opcion": "C",
+          "texto": "No diferencia líquido de tejido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Requiere anestesia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Expone a alta radiación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La radiografía no diferencia entre contenido líquido o engrosamiento mucoso."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué método de imagen es más sensible para evaluar sinusitis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ultrasonido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopia nasal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tomografía computarizada es el método más sensible y específico para evaluar sinusitis complicada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué seno se visualiza mejor en la proyección lateral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frontal y esfenoidal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etmoidal y maxilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esfenoidal y etmoidal posterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maxilar y frontal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frontal y etmoidal anterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La proyección lateral permite observar bien los senos esfenoidales y etmoidales posteriores."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo radiológico es compatible con sinusitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel hidroaéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Opacidad total del seno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento mucoso persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiolucidez aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desplazamiento septal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El engrosamiento mucoso persistente o irregular sugiere inflamación crónica de los senos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué proyección se recomienda para valorar el seno frontal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Waters"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caldwell"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Towne"
+        },
+        {
+          "opcion": "E",
+          "texto": "Submentovertical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La proyección de Caldwell es ideal para visualizar el seno frontal y las celdillas etmoidales."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo radiológico se asocia con sinusitis maxilar aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperdensidad uniforme del seno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiolucidez aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de tabiques"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de volumen sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles líquidos bilaterales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La sinusitis aguda muestra opacificación o hiperdensidad uniforme del seno afectado."
+    },
+    {
+      "numero": "14",
+      "texto": "En menores de 5 años, la sinusitis etmoidal puede manifestarse radiográficamente como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos frontales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Opacificación de celdillas etmoidales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotransparencia maxilar bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento del seno esfenoidal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desplazamiento septal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes, los senos etmoidales son predominantes y pueden mostrar opacidad por inflamación."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estructura debe observarse centrada para considerar una radiografía bien posicionada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Silla turca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Seno maxilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabique nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arcos cigomáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cornetes inferiores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La correcta alineación del tabique nasal indica simetría y adecuada proyección radiográfica."
+    },
+    {
+      "numero": "16",
+      "texto": "El engrosamiento mucoso mayor de 4 mm en senos maxilares sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sinusitis viral leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sinusitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proceso neoplásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desviación septal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un engrosamiento mucoso mayor de 4 mm es signo de sinusitis bacteriana aguda."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio reemplaza progresivamente a la radiografía para evaluar senos paranasales pediátricos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada de baja dosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía de senos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoscopia flexible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía panorámica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía computarizada de baja dosis ofrece mejor resolución y menor radiación que la radiografía convencional."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué seno es más frecuentemente afectado en la sinusitis pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etmoidal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esfenoidal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maxilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos por igual"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El seno maxilar es el más afectado por su anatomía y drenaje gravitacional deficiente."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo puede observarse en una sinusitis complicada por celulitis orbitaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Engrosamiento mucoso leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desplazamiento del tabique nasal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Borramiento de la pared medial orbitaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiolucidez aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Seno frontal hipoplásico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El borramiento de la pared medial de la órbita indica extensión de la infección a tejidos periorbitarios."
+    },
+    {
+      "numero": "20",
+      "texto": "En una radiografía de Waters, los senos maxilares se proyectan sobre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Celdillas etmoidales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ramas mandibulares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arcos cigomáticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Seno frontal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Base del cráneo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la proyección de Waters, los senos maxilares se observan debajo de los arcos cigomáticos."
+    }
+  ]
+}

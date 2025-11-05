@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente en las adenitis bacterianas agudas en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bartonella henselae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Francisella tularensis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus es el agente más común en las adenitis bacterianas agudas, especialmente en niños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué diferencia histopatológica caracteriza al adenoflegmón respecto a la adenitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Formación de granulomas con necrosis caseosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrado linfocitario difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Supuración y necrosis extensa con pérdida de límites ganglionares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de células gigantes multinucleadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis perinodal sin necrosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El adenoflegmón se caracteriza por necrosis supurativa y destrucción de la arquitectura ganglionar."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tratamiento inicial más adecuado para una adenitis bacteriana aguda sin fluctuación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incisión y drenaje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos empíricos dirigidos a Staphylococcus y Streptococcus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Observación expectante sin tratamiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Drenaje percutáneo guiado por imagen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento inicial es antibiótico empírico cubriendo S. aureus y S. pyogenes."
+    },
+    {
+      "numero": "4",
+      "texto": "En un paciente con adenitis cervical crónica por Mycobacterium tuberculosis, ¿qué hallazgo clínico es típico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor intenso y eritema local"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fluctuación y drenaje purulento agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenopatías indoloras con fistulización cutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inflamación bilateral simétrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desaparición espontánea en 48 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La adenitis tuberculosa se caracteriza por adenopatías indoloras que pueden fistulizar."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la complicación más grave del adenoflegmón no tratado oportunamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fístula cutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Celulitis regional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis y diseminación sistémica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis ganglionar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenitis reactiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diseminación séptica puede ocurrir si el adenoflegmón no se trata adecuadamente."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué prueba diagnóstica es más útil para confirmar una adenitis supurativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía con Doppler"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computarizada de cuello"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo de sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR para virus Epstein-Barr"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía permite visualizar colección purulenta y diferenciar adenitis de absceso."
+    },
+    {
+      "numero": "7",
+      "texto": "En el contexto de una adenitis submandibular por S. aureus, ¿qué antibiótico empírico es de elección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penicilina G"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefazolina o cloxacilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritromicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Cefazolina o cloxacilina son activas frente a S. aureus sensible a meticilina."
+    },
+    {
+      "numero": "8",
+      "texto": "Un niño con contacto con gatos presenta adenitis axilar dolorosa. ¿Cuál es la etiología probable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Brucella melitensis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bartonella henselae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Francisella tularensis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxoplasma gondii"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Bartonella henselae causa la enfermedad por arañazo de gato, con adenitis regional dolorosa."
+    },
+    {
+      "numero": "9",
+      "texto": "En la adenitis tuberculosa, el tratamiento principal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cirugía y drenaje"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quimioterapia antituberculosa estándar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resección completa del ganglio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento es médico, con esquema antituberculoso estándar (2HRZE/4HR)."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores favorece la aparición de adenoflegmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunosupresión y diabetes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de AINEs"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación reciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo moderado de alcohol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las condiciones inmunosupresoras facilitan la progresión de infecciones ganglionares a adenoflegmón."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico diferencia al adenoflegmón de una adenitis simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de fiebre baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Movilidad del ganglio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fluctuación y dolor intenso con eritema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de volumen sin calor local"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de síntomas sistémicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El adenoflegmón presenta fluctuación, eritema y dolor intenso debido a la supuración."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el mecanismo fisiopatológico del adenoflegmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proliferación linfocitaria reactiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis licuefactiva del ganglio linfático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplasia folicular benigna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis ganglionar progresiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia del parénquima ganglionar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenoflegmón se origina por necrosis licuefactiva secundaria a infección bacteriana intensa."
+    },
+    {
+      "numero": "13",
+      "texto": "En la sospecha de adenitis cervical por anaerobios, ¿qué antibiótico se recomienda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalexina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Amoxicilina-ácido clavulánico cubre anaerobios y flora mixta habitual de infecciones cervicales."
+    },
+    {
+      "numero": "14",
+      "texto": "En una adenitis bacteriana complicada con absceso, el manejo incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Observación expectante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos orales por 10 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje quirúrgico y antibioterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia tópica con antisépticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo analgesia y compresas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El drenaje quirúrgico junto con antibióticos es el tratamiento estándar en adenitis supuradas."
+    },
+    {
+      "numero": "15",
+      "texto": "La enfermedad por arañazo de gato se asocia a qué tipo de histología ganglionar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Granulomas caseosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microabscesos con necrosis estrellada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis perinodal densa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Necrosis licuefactiva difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia sinusoidal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Bartonella henselae produce microabscesos con necrosis estrellada en el ganglio afectado."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el principal diagnóstico diferencial de una adenitis cervical unilateral aguda en adulto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metástasis ganglionares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sarcoidosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfoma no Hodgkin"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste branquial infectado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mononucleosis infecciosa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El quiste branquial infectado puede simular una adenitis cervical aguda unilateral."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de las siguientes bacterias se asocia con adenitis necrosante en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Yersinia enterocolitica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Listeria monocytogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Yersinia enterocolitica puede producir adenitis mesentérica y necrosante, simulando apendicitis."
+    },
+    {
+      "numero": "18",
+      "texto": "Una adenitis cervical recurrente en un niño sano debe hacer sospechar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección por virus Epstein-Barr"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto anatómico del drenaje linfático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enfermedad por arañazo de gato"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un defecto anatómico o drenaje linfático alterado puede predisponer a infecciones recurrentes."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tipo de inflamación caracteriza al adenoflegmón en su fase avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Serosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Purulenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Granulomatosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrinosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorrágica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenoflegmón avanzado presenta inflamación purulenta con destrucción tisular."
+    },
+    {
+      "numero": "20",
+      "texto": "La adenitis inguinal supurativa es típica en infecciones por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Chlamydia trachomatis (L1-L3)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Haemophilus ducreyi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ureaplasma urealyticum"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El linfogranuloma venéreo causado por C. trachomatis L1-L3 produce adenitis inguinal supurativa."
+    }
+  ]
+}

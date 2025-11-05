@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.039",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Diarrea aguda y en vías de prolongación",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de diarrea aguda en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rotavirus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salmonella"
+        },
+        {
+          "opcion": "C",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli enteropatógena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shigella"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El rotavirus es la principal causa de diarrea aguda viral en lactantes y niños pequeños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cómo se define diarrea aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Más de tres deposiciones blandas por más de 14 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Más de tres deposiciones líquidas en 24 horas con duración menor a 14 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea persistente con sangre y fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evacuaciones semisólidas con deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heces líquidas alternando con estreñimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diarrea aguda dura menos de 14 días y se caracteriza por aumento de frecuencia y disminución de consistencia de las heces."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la principal complicación de la diarrea aguda en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección urinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deshidratación es la complicación más frecuente y potencialmente mortal en la diarrea infantil."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué signo clínico indica deshidratación grave en un niño con diarrea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sed leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lágrimas presentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo del pliegue disminuido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Letargia o inconsciencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mucosas húmedas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La letargia o inconsciencia es un signo de deshidratación grave y requiere rehidratación inmediata."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento de elección para la deshidratación leve a moderada por diarrea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero intravenoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suero oral de rehidratación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ayuno temporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antidiarreicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia de rehidratación oral es segura, efectiva y la primera elección en deshidratación leve o moderada."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la etiología bacteriana más frecuente de diarrea con sangre en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shigella"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salmonella"
+        },
+        {
+          "opcion": "C",
+          "texto": "E. coli enterotoxigénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rotavirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Giardia lamblia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La Shigella es la principal causa de disentería bacteriana en la edad pediátrica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué agente se asocia a diarrea prolongada tras una infección viral aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Campylobacter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shigella"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rotavirus persistente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La giardiasis puede aparecer tras daño mucoso postinfeccioso, prolongando el cuadro diarreico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué característica define una diarrea en vías de prolongación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración entre 7 y 13 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración mayor de 14 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duración menor de 48 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de sangre y fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acompañada de vómitos persistentes"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diarrea en vías de prolongación se define entre 7 y 13 días de evolución."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida dietética se recomienda durante la diarrea aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender alimentación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ofrecer solo líquidos claros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mantener la alimentación habitual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar todos los lácteos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la ingesta de grasas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe mantenerse la alimentación habitual para evitar desnutrición y favorecer la recuperación intestinal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo orienta a diarrea osmótica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Persistencia con ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparición con ayuno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de leucocitos en heces"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangre visible en las deposiciones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diarrea osmótica cede con el ayuno, a diferencia de la secretora que persiste."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el principal signo clínico para valorar el grado de deshidratación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso corporal perdido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temperatura axilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo pupilar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida de peso corporal porcentual es el indicador más objetivo de deshidratación."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué microorganismo puede producir diarrea prolongada postantibiótica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium difficile"
+        },
+        {
+          "opcion": "B",
+          "texto": "E. coli enteropatógena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella"
+        },
+        {
+          "opcion": "D",
+          "texto": "Giardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vibrio cholerae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Clostridium difficile puede causar diarrea prolongada por alteración de la flora intestinal tras antibióticos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo clínico orienta a diarrea invasiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heces acuosas sin sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces con moco y sangre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómitos aislados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de sangre y moco en las heces indica afectación inflamatoria del colon."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal causa de diarrea persistente en países en desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia inmunitaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición y reinfección entérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de probióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta rica en proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exceso de fibra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desnutrición y las infecciones repetidas alteran la mucosa intestinal prolongando la diarrea."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué signo orienta a deshidratación leve en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Letargo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de lágrimas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mucosas húmedas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sed aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ojos hundidos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La sed aumentada es un signo precoz de deshidratación leve o moderada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la principal diferencia entre diarrea viral y bacteriana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración del cuadro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cantidad de deposiciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de sangre y fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Respuesta al ayuno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo de deshidratación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diarrea bacteriana suele presentar fiebre y sangre por inflamación colónica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué intervención NO está indicada en el manejo de diarrea aguda infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Continuar alimentación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos rutinarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Zinc en menores de 5 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluación del estado de hidratación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los antibióticos solo están indicados en cuadros bacterianos específicos como Shigella o cólera."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué mineral se recomienda suplementar durante y después de la diarrea aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Magnesio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El zinc reduce la duración y recurrencia de la diarrea en menores de 5 años."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el tipo de deshidratación más común en la diarrea aguda infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Isotónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperosmolar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deshidratación isotónica es la más frecuente en la diarrea infantil, con pérdida proporcional de agua y sodio."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué patógeno suele causar diarrea nosocomial en lactantes hospitalizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium difficile"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rotavirus"
+        },
+        {
+          "opcion": "C",
+          "texto": "E. coli enteropatógena"
+        },
+        {
+          "opcion": "D",
+          "texto": "Norovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shigella"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El rotavirus es la causa más frecuente de diarrea nosocomial en lactantes."
+    }
+  ]
+}

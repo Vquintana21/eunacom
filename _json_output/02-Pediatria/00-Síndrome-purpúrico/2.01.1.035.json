@@ -1,0 +1,576 @@
+{
+  "codigo": "2.01.1.035",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome purpúrico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal causa de púrpura trombocitopénica en niños previamente sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucemia linfoblástica aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Púrpura trombocitopénica idiopática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis meningocócica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de vitamina K"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome urémico hemolítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La púrpura trombocitopénica idiopática es la causa más común de púrpura aguda aislada en niños sanos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica distingue la púrpura no palpable de la palpable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La palpable indica vasculitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "La no palpable se asocia a fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "La palpable es siempre trombocitopénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "La no palpable es de origen infeccioso"
+        },
+        {
+          "opcion": "E",
+          "texto": "La palpable desaparece con presión"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La púrpura palpable refleja inflamación vascular, típica de vasculitis como la de Henoch-Schönlein."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de lesiones cutáneas predominan en la púrpura de Henoch-Schönlein?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Petequias aisladas en tronco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pápulas pruriginosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Púrpura palpable en extremidades inferiores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Equimosis generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ampollas hemorrágicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La púrpura palpable en piernas y glúteos es característica de la vasculitis IgA."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes sistemas se compromete con mayor frecuencia en la púrpura de Henoch-Schönlein?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neurológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El compromiso renal es frecuente y puede manifestarse como hematuria o proteinuria."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo de laboratorio es típico en la púrpura trombocitopénica inmune (PTI)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plaquetas <100000/mm³ con médula ósea normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación de LDH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de esquistocitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La PTI cursa con trombocitopenia aislada y médula ósea normocelular o hiperplásica megacariocítica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué agente infeccioso puede desencadenar púrpura fulminante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterovirus"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La sepsis meningocócica puede producir púrpura fulminante y coagulación intravascular diseminada."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico del síndrome urémico hemolítico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Destrucción plaquetaria autoinmune"
+        },
+        {
+          "opcion": "B",
+          "texto": "Daño endotelial por toxina Shiga"
+        },
+        {
+          "opcion": "C",
+          "texto": "Activación del complemento C3"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de ADAMTS13"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración de la médula ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La toxina Shiga daña el endotelio, generando microangiopatía trombótica y hemólisis."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico orienta a un síndrome purpúrico por coagulopatía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Púrpura palpable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Petequias sin sangrado mucoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragias profundas y hematomas espontáneos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones en extremidades inferiores simétricas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre y artralgias"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las coagulopatías causan hematomas y hemorragias profundas, no petequias superficiales."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes exámenes es más útil para diferenciar causas de síndrome purpúrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "VSG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemograma con recuento plaquetario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio sérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El recuento plaquetario ayuda a distinguir causas trombocitopénicas de vasculíticas o coagulopatías."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo es característico del síndrome purpúrico por trombocitopenia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Púrpura palpable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Petequias y equimosis en zonas de presión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urticaria con prurito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos dolorosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesiones lineales eritematosas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trombocitopenia causa petequias y equimosis en extremidades y zonas declives."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estudio permite confirmar la púrpura trombocitopénica inmune?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia cutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Médula ósea con aumento de megacariocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frotis con esquistocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estudio del complemento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dosificación de fibrinógeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la PTI la médula ósea muestra megacariocitos aumentados con producción periférica inefectiva."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de lesión cutánea es característica de la coagulación intravascular diseminada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Máculas pruriginosas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Púrpura no palpable y equimosis extensas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urticaria lineal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ampollas serosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vesículas hemorrágicas pequeñas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La CID se manifiesta con púrpura no palpable y equimosis por consumo de factores de coagulación."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la conducta inicial ante una púrpura febril y mal estado general?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar corticoides orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar antibióticos empíricos intravenosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar estudio inmunológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esperar evolución 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar biopsia cutánea inmediata"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe iniciarse antibiótico empírico IV por sospecha de sepsis meningocócica o bacteriemia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo diferencia la púrpura fulminante de la PTI?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta extremidades inferiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se asocia a trombocitosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se acompaña de shock y coagulopatía"
+        },
+        {
+          "opcion": "D",
+          "texto": "No presenta fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiene evolución benigna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La púrpura fulminante se acompaña de shock, CID y lesiones necróticas extensas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el tratamiento inicial de la púrpura de Henoch-Schönlein sin compromiso renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antihistamínicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medidas de reposo y analgesia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos empíricos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoglobulina intravenosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los casos son autolimitados y se manejan con reposo y analgesia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo sugiere síndrome urémico hemolítico asociado a E. coli O157:H7?",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "coli O157:H7?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Púrpura palpable y fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia hemolítica, trombocitopenia e insuficiencia renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucopenia con sangrado nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Petequias en tronco sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteinuria aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada de anemia hemolítica, trombocitopenia y falla renal define el síndrome urémico hemolítico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio es más útil para confirmar púrpura de Henoch-Schönlein?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Complemento sérico bajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia de piel con depósito de IgA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento plaquetario bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Coombs positivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de agregación plaquetaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La biopsia cutánea demuestra vasculitis leucocitoclástica con depósitos de IgA."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la causa más frecuente de púrpura no trombocitopénica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Púrpura de Henoch-Schönlein"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Púrpura fulminante"
+        },
+        {
+          "opcion": "D",
+          "texto": "CID"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de vitamina C"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La púrpura de Henoch-Schönlein es la vasculitis más común en la infancia y cursa sin trombocitopenia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación más temida en la púrpura fulminante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia hemolítica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shock séptico y necrosis cutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis reactiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La púrpura fulminante puede evolucionar rápidamente a shock séptico con necrosis y falla multiorgánica."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo orienta a causa plaquetaria del síndrome purpúrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Púrpura palpable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones en mucosas y petequias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Equimosis profundas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemartrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiempo de protrombina prolongado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las petequias y el sangrado mucoso sugieren alteración plaquetaria o trombocitopenia."
+    }
+  ]
+}

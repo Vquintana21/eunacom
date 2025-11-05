@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.5.005",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Osteoclisis",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué es la osteoclisis en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una técnica de acceso venoso central"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un método para administrar líquidos a través del hueso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un procedimiento quirúrgico de descompresión ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una técnica para obtener médula ósea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un tipo de punción lumbar terapéutica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La osteoclisis es la administración de líquidos o medicamentos mediante punción intraósea cuando no hay acceso venoso disponible."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal indicación para realizar una osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paciente con fiebre alta sin acceso venoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paciente en shock sin vía venosa disponible"
+        },
+        {
+          "opcion": "C",
+          "texto": "Paciente con infección local en extremidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paciente con fractura femoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paciente con vía central permeable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se indica en urgencias cuando no se logra un acceso venoso rápido, especialmente en shock hipovolémico o paro cardiorrespiratorio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio preferido para la osteoclisis en un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radio distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fémur distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tibia proximal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Húmero proximal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peroné medio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tibia proximal es el sitio más utilizado por su fácil acceso y bajo riesgo de complicaciones."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de las siguientes es una contraindicación para la osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fractura en el hueso elegido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock hipovolémico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paro cardiorrespiratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Convulsión febril"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "No debe realizarse en huesos fracturados por riesgo de extravasación y daño tisular."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tipo de aguja se utiliza comúnmente para la osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aguja espinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aguja hipodérmica fina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aguja intraósea con tope"
+        },
+        {
+          "opcion": "D",
+          "texto": "Catéter venoso central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aguja tipo butterfly"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se usa una aguja intraósea con tope que atraviesa la cortical sin penetrar en exceso."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la complicación más frecuente de la osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osteomielitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Extravasación subcutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión nerviosa periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fractura ósea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La extravasación ocurre cuando la aguja no está correctamente posicionada o se desplaza durante la infusión."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo indica posición correcta de la aguja intraósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flujo libre sin extravasación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión elevada en el sistema de infusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor local y resistencia al flujo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangrado por el sitio de punción"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema distal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El flujo debe ser libre y sin evidencia de fuga hacia tejidos blandos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuánto tiempo puede mantenerse un acceso intraóseo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta 6 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "48 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 72 horas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Debe retirarse antes de 48 horas para evitar infecciones y complicaciones locales."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de líquidos son seguros para administrar por osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soluciones hipertónicas sin diluir"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristaloides isotónicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensiones lipídicas concentradas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos oleosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa hipertónica al 50%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los cristaloides isotónicos son seguros y eficaces para la reanimación inicial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué acción debe tomarse al obtener una vía venosa periférica funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar la aguja intraósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mantener ambas vías activas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sellar la vía ósea y usar en paralelo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejar la aguja para control posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Revisar radiográficamente el hueso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El acceso óseo debe retirarse tan pronto se logra una vía venosa definitiva."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estructura debe evitarse durante la osteoclisis tibial proximal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cresta tibial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peroné"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arteria poplítea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Músculo gastrocnemio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ligamento rotuliano"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Debe evitarse el tendón rotuliano y puncionar ligeramente lateral a él."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la complicación más grave de una osteoclisis prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osteomielitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematoma subcutáneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Celulitis leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fístula ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso prolongado o mala técnica puede causar osteomielitis, complicación infecciosa severa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica anatómica del hueso permite la absorción rápida en la osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La médula ósea rica en capilares sinusoidales"
+        },
+        {
+          "opcion": "B",
+          "texto": "El periostio fibroso"
+        },
+        {
+          "opcion": "C",
+          "texto": "El cartílago articular"
+        },
+        {
+          "opcion": "D",
+          "texto": "La cortical densa"
+        },
+        {
+          "opcion": "E",
+          "texto": "La placa epifisaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La médula ósea altamente vascularizada facilita la absorción rápida de líquidos y fármacos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hacer si hay resistencia durante la infusión ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la presión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inyectar más rápido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detener la infusión y revisar extravasación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambiar el líquido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar unos minutos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia al flujo puede indicar extravasación; debe suspenderse la infusión de inmediato."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el segundo sitio recomendado si falla la tibia proximal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fémur distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radio distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Húmero proximal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peroné medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tibia distal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El fémur distal es una alternativa útil en lactantes si la tibia no está disponible."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medida previene infecciones tras osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos sistémicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambio frecuente de aguja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asepsia estricta y retiro antes de 48 h"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cobertura con gasas húmedas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sellado con alcohol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La asepsia rigurosa y el retiro precoz del acceso son las mejores medidas preventivas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el principal riesgo en recién nacidos al realizar osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión de placa de crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock séptico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osteonecrosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La placa de crecimiento puede dañarse si la punción es muy cercana a la epífisis."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué líquidos deben evitarse por osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soluciones isotónicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cristaloides balanceados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Soluciones hipertónicas sin diluir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adrenalina diluida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasma fresco"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las soluciones hipertónicas sin diluir pueden causar necrosis ósea o tisular."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo clínico alerta sobre extravasación en la osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Palidez distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor y edema local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El edema y el dolor local indican extravasación de la infusión hacia tejidos blandos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuándo debe suspenderse una osteoclisis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A las 6 horas de uso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al presentar extravasación o dolor intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuando el flujo es libre y continuo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de administrar cristaloides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tras lograr buena perfusión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si aparece extravasación o dolor intenso, debe suspenderse para evitar necrosis e infección."
+    }
+  ]
+}

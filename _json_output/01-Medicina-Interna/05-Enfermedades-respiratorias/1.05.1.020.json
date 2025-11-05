@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.020",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la hidatidosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taenia solium"
+        },
+        {
+          "opcion": "B",
+          "texto": "Echinococcus granulosus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Echinococcus multilocularis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxocara canis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hidatidosis pulmonar es causada por el parásito Echinococcus granulosus, un cestodo del perro como huésped definitivo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal huésped definitivo de Echinococcus granulosus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caballo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Perro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerdo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El perro actúa como huésped definitivo del Echinococcus granulosus, eliminando huevos en sus heces."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el órgano más frecuentemente afectado por hidatidosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hígado es el órgano más frecuentemente afectado, seguido del pulmón."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la manifestación clínica más frecuente en la hidatidosis pulmonar no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemoptisis masiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos seca persistente es un síntoma común en las etapas iniciales de la hidatidosis pulmonar no complicada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo radiológico es típico del quiste hidatídico pulmonar íntegro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cavitación con nivel hidroaéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Opacidad homogénea redondeada de bordes definidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrado intersticial bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulos múltiples diseminados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El quiste íntegro aparece como una imagen redondeada, homogénea y bien delimitada en la radiografía de tórax."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo radiológico sugiere ruptura del quiste hidatídico pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de la luna creciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Signo de la doble burbuja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Signo del halo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Signo de la silueta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de la cúpula"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de la luna creciente indica la entrada de aire entre la adventicia y la membrana del quiste roto."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la complicación más frecuente de la hidatidosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ruptura del quiste"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquiectasias difusas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embolia pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspergilosis secundaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ruptura del quiste es la complicación más frecuente, pudiendo generar tos, fiebre y expectoración hidatídica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico es sugestivo de ruptura de un quiste hidatídico pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos con esputo verdoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expectoración de líquido salado con membranas blanquecinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sibilancias aisladas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disnea súbita sin tos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La expectoración de líquido salado y membranas blanquecinas es característica de la ruptura de un quiste hidatídico."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba inmunológica se utiliza en el diagnóstico de hidatidosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción de Weil-Felix"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "ELISA para Echinococcus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Mantoux"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de aglutinación de Wright"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ELISA detecta anticuerpos específicos contra Echinococcus y es útil como apoyo diagnóstico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación puede presentarse tras la ruptura de un quiste hidatídico hacia la pleura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Empiema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía lobar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pericárdico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tromboembolismo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ruptura hacia la pleura puede producir empiema o neumotórax hidatídico."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estudio de imagen es más sensible para detectar quistes hidatídicos pulmonares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía simple de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía axial computarizada (TAC)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía torácica"
+        },
+        {
+          "opcion": "D",
+          "texto": "RMN pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TAC permite identificar el número, tamaño y características de los quistes con alta precisión."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tratamiento médico se usa como complemento en la hidatidosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albendazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ivermectina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azitromicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El albendazol se utiliza como coadyuvante antes y después de la cirugía para evitar recidivas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el tratamiento quirúrgico de elección en la hidatidosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resección pulmonar total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lobectomía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quistectomía con capitonaje"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pleurectomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoplastia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La quistectomía con capitonaje permite extirpar el quiste preservando el parénquima pulmonar."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es una posible reacción alérgica tras la ruptura del quiste hidatídico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anafilaxia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoconstricción leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rash maculopapular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar cardiogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La liberación de antígenos hidatídicos al torrente sanguíneo puede desencadenar anafilaxia."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo hematológico puede acompañar a la hidatidosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leucopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La eosinofilia puede observarse debido a la respuesta inmunológica frente al parásito."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué signo clínico puede presentarse en la hidatidosis pulmonar bilateral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis intensa y disnea progresiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos seca aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico unilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre vespertina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis mínima"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la afectación bilateral puede desarrollarse hipoxemia progresiva con disnea y cianosis."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes factores facilita la ruptura del quiste hidatídico pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico intenso o tos violenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria concomitante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento brusco de presión intratorácica puede favorecer la ruptura del quiste pulmonar."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la vía de infección en el ser humano por Echinococcus granulosus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Picadura de insecto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inoculación cutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta de huevos en alimentos contaminados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transmisión transplacentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhalación de quistes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ser humano se infecta por la ingestión de huevos del parásito presentes en alimentos o agua contaminada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la medida preventiva más eficaz contra la hidatidosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de repelentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminación de perros vagos y desparasitación canina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacunación humana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Control de mosquitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hervir el agua antes de beber"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desparasitación de perros y control de canes vagos interrumpe el ciclo biológico del Echinococcus granulosus."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué patrón radiológico aparece tras la ruptura completa del quiste en la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo del menisco aéreo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imagen de nivel hidroaéreo con membranas flotantes (signo del camalote)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia homogénea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos múltiples pequeños"
+        },
+        {
+          "opcion": "E",
+          "texto": "Imagen de vidrio esmerilado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo del camalote o lirio representa la presencia de membranas desprendidas flotando en líquido dentro del quiste roto."
+    }
+  ]
+}

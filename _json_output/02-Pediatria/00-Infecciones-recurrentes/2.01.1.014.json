@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.014",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Infecciones recurrentes",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de infecciones respiratorias recurrentes en niños sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunodeficiencia primaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición a contaminantes ambientales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de IgA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asma bronquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La exposición al humo del tabaco y contaminantes ambientales aumenta la frecuencia de infecciones respiratorias."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué número de infecciones respiratorias altas por año se considera normal en preescolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 episodios"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-4 episodios"
+        },
+        {
+          "opcion": "C",
+          "texto": "6-8 episodios"
+        },
+        {
+          "opcion": "D",
+          "texto": "10-12 episodios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 12 episodios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En niños preescolares sanos son esperables entre 6 y 8 episodios de infecciones respiratorias anuales."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué inmunodeficiencia primaria es más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agammaglobulinemia ligada al X"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunodeficiencia combinada severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de complemento"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia selectiva de IgA es la inmunodeficiencia primaria más común en la infancia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué característica clínica orienta a sospechar inmunodeficiencia en un niño con infecciones recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones leves autolimitadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recuperación rápida con antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones graves por gérmenes oportunistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resfríos frecuentes en invierno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Respuesta adecuada a vacunas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones graves o por gérmenes oportunistas sugieren una inmunodeficiencia subyacente."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes estudios iniciales es más útil ante sospecha de inmunodeficiencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma y recuento diferencial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test del sudor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia de médula ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hemograma permite identificar alteraciones en linfocitos o neutrófilos, orientando el diagnóstico inicial."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo orienta a un defecto de la inmunidad humoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones virales recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones bacterianas sinopulmonares recurrentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candidiasis mucocutánea persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infecciones por micobacterias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infecciones cutáneas por hongos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones bacterianas recurrentes de vías respiratorias son típicas de defectos en la inmunidad humoral."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué síndrome inmunodeficiente cursa con eccema, trombocitopenia e infecciones recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Wiskott-Aldrich"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agammaglobulinemia de Bruton"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de IgA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Job"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Wiskott-Aldrich asocia inmunodeficiencia, eccema y trombocitopenia congénita."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué inmunodeficiencia debe sospecharse en un niño con infecciones por Candida persistentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Defecto de fagocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto de células T"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de complemento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto de anticuerpos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunodeficiencia secundaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones por Candida persistentes son típicas de defectos de la inmunidad celular (células T)."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estudio confirma el diagnóstico de fibrosis quística en un niño con infecciones respiratorias recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba del sudor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cultivo de esputo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estudio genético de CFTR"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espirometría"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba del sudor con cloruros elevados confirma el diagnóstico de fibrosis quística."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de infecciones son más comunes en los defectos del complemento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones virales leves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones por bacterias encapsuladas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candidiasis oral recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infecciones por Mycobacterium"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otitis media aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones por bacterias encapsuladas como Neisseria y Streptococcus son comunes en defectos del complemento."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico sugiere neutropenia congénita severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlceras orales y gingivitis severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis alérgica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las úlceras orales, gingivitis y abscesos cutáneos recurrentes son típicos de neutropenia congénita."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué inmunodeficiencia se asocia a hipocalcemia neonatal y malformaciones cardíacas congénitas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Wiskott-Aldrich"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agammaglobulinemia ligada al X"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de IgG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Job"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de DiGeorge cursa con hipocalcemia y cardiopatías por ausencia del timo y paratiroides."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de gérmenes predominan en infecciones recurrentes por déficit de anticuerpos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus respiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacterias encapsuladas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hongos oportunistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Micobacterias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Protozoos intestinales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bacterias encapsuladas como Streptococcus pneumoniae y Haemophilus influenzae predominan en estos casos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro inmunológico se mide primero ante sospecha de deficiencia humoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recuento de neutrófilos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niveles séricos de inmunoglobulinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dosaje de complemento C3 y C4"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fenotipo linfocitario por citometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos específicos postvacunales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cuantificación de inmunoglobulinas séricas es la prueba inicial ante sospecha de deficiencia humoral."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo orienta a enfermedad granulomatosa crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Defecto en la fagocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de timo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunoglobulinas elevadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del complemento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defecto en presentación de antígenos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la enfermedad granulomatosa crónica hay un defecto en la función fagocítica por alteración del estallido respiratorio."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes condiciones NO se asocia a infecciones recurrentes verdaderas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alergia respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunodeficiencia combinada severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis quística"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de IgA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de complemento"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los cuadros alérgicos pueden simular infecciones recurrentes pero no son infecciones reales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio permite evaluar la función fagocítica en sospecha de enfermedad granulomatosa crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de nitroazul de tetrazolio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dosaje de IgG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba del sudor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recuento de linfocitos T"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles de complemento C3"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El test de nitroazul de tetrazolio evalúa el estallido oxidativo de los fagocitos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué condición secundaria puede causar infecciones recurrentes en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desnutrición"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de complemento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto de fagocitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de IgM"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La desnutrición es una causa secundaria frecuente de inmunosupresión e infecciones recurrentes."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué antecedente familiar debe hacer sospechar inmunodeficiencia primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Padres fumadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hermanos con infecciones graves o muertes tempranas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma en la madre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Otitis media en la infancia del padre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación incompleta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Antecedentes familiares de infecciones graves o muertes tempranas orientan a inmunodeficiencia hereditaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué medida es fundamental en el manejo de niños con infecciones recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar el contacto social"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar crecimiento y desarrollo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender vacunas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso prolongado de antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento domiciliario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control del crecimiento y desarrollo permite detectar impacto sistémico de infecciones crónicas o inmunodeficiencia."
+    }
+  ]
+}

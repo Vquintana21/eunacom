@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.087",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Tumores SNC",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tumor cerebral más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Astrocitoma pilocítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glioblastoma multiforme"
+        },
+        {
+          "opcion": "E",
+          "texto": "Craniofaringioma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El astrocitoma pilocítico es el tumor cerebral más común en niños, generalmente benigno y localizado en el cerebelo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes tumores se localiza típicamente en la fosa posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Astrocitoma supratentorial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningioma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glioma del nervio óptico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El meduloblastoma se origina en el cerebelo, en la fosa posterior, y es un tumor maligno frecuente en niños."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué síntoma inicial es característico de los tumores de la fosa posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis convulsivas focales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteraciones visuales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea matinal y vómitos en proyectil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemiparesia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambios de conducta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento de la presión intracraneal por obstrucción del LCR causa cefalea matinal y vómitos en proyectil."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo en el fondo de ojo puede sugerir hipertensión endocraneana por tumor cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atrofia óptica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema de papila"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia retiniana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exudados duros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neovascularización"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema de papila indica hipertensión intracraneana y puede aparecer en tumores que obstruyen el flujo del LCR."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tumor se asocia con pubertad precoz en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Astrocitoma hipotalámico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glioma de tronco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El astrocitoma hipotalámico puede alterar la función endocrina, provocando pubertad precoz o disfunción hormonal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes tumores suele presentar calcificaciones en la neuroimagen?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glioma del tronco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Astrocitoma pilocítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El craneofaringioma presenta calcificaciones características en la región supraselar, visibles en TAC o RM."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tumor de SNC es más asociado a hidrocefalia obstructiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Astrocitoma frontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningioma parietal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glioma óptico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Craniofaringioma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El meduloblastoma obstruye el acueducto de Silvio y causa hidrocefalia por aumento de la presión intracraneal."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el tumor maligno más frecuente del SNC pediátrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Astrocitoma pilocítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glioblastoma multiforme"
+        },
+        {
+          "opcion": "E",
+          "texto": "Craniofaringioma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El meduloblastoma es el tumor maligno más común del SNC en niños, con origen en la línea media cerebelosa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué característica histológica define al ependimoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rosetas de Homer-Wright"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rosetas perivasculares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células fusiformes en fascículos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proliferación glial difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células gigantes multinucleadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ependimoma se caracteriza por rosetas perivasculares y suele ubicarse en el cuarto ventrículo."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes tumores suele localizarse en la región supraselar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Astrocitoma del tronco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glioma pontino"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El craneofaringioma deriva de restos de la bolsa de Rathke y se ubica en la región supraselar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué manifestación clínica es frecuente en el craneofaringioma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemiparesia izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ataxia cerebelosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit visual bitemporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómitos matinales sin cefalea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epilepsia focal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La compresión del quiasma óptico produce hemianopsia bitemporal en el craneofaringioma."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes síntomas sugiere afectación del tronco encefálico por tumor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ataxia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diplopía y disartria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit visual bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones tónico-clónicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoacusia progresiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los tumores del tronco afectan pares craneales, produciendo diplopía, disartria y debilidad facial."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué método diagnóstico es más útil para definir la localización del tumor cerebral infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET con glucosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resonancia magnética cerebral permite definir extensión, localización y relación con estructuras adyacentes."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué característica es típica del glioma del nervio óptico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento rápido y metastásico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida visual progresiva unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis convulsivas recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemiparesia contralateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ataxia cerebelosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El glioma del nervio óptico causa pérdida visual progresiva y puede asociarse a neurofibromatosis tipo 1."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo radiológico sugiere meduloblastoma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión hipodensa con calcificaciones gruesas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masa hiperdensa en línea media cerebelosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesión quística con pared fina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia cortical difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificación periventricular bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El meduloblastoma aparece como masa hiperdensa de la línea media cerebelosa con realce homogéneo en TAC."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de tumor es más probable en la médula espinal pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Astrocitoma pilocítico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningioma"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El astrocitoma pilocítico es el tumor intramedular más frecuente en la médula espinal infantil."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué complicación endocrina puede aparecer en tumores supraselares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes insípida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipopituitarismo aislado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diabetes insípida es una complicación frecuente por afectación del hipotálamo o tallo hipofisario."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes tumores puede presentar diseminación por LCR?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Craniofaringioma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ependimoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Astrocitoma pilocítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glioma óptico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Meningioma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ependimoma puede diseminarse a través del LCR hacia otras regiones del sistema ventricular."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tratamiento es fundamental en meduloblastoma tras cirugía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo observación clínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioterapia craneoespinal y quimioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia hormonal sustitutiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticonvulsivantes profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides prolongados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radioterapia craneoespinal combinada con quimioterapia mejora la supervivencia en meduloblastoma infantil."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes tumores cerebrales tiene mejor pronóstico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meduloblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glioblastoma multiforme"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ependimoma anaplásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Astrocitoma pilocítico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Craniofaringioma"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El astrocitoma pilocítico, de crecimiento lento y bajo grado, tiene excelente pronóstico tras resección completa."
+    }
+  ]
+}

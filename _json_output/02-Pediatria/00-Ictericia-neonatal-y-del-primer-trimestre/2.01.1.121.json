@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.121",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Ictericia neonatal y del primer trimestre",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de ictericia en el recién nacido a término?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia fisiológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia por incompatibilidad Rh"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia por lactancia materna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección neonatal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ictericia fisiológica es la causa más frecuente y resulta de la inmadurez hepática en la conjugación de bilirrubina."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad suele alcanzar su pico la ictericia fisiológica en el recién nacido a término?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "A las 12 horas de vida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 24 y 48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 48 y 96 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después del séptimo día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Al décimo día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ictericia fisiológica aparece después de las 24 h y alcanza su pico entre 48 y 96 h de vida."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué valor de bilirrubina total se considera patológico en las primeras 24 horas de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">5 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": ">8 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": ">10 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": ">12 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">15 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Toda ictericia con bilirrubina >5 mg/dL en las primeras 24 horas se considera patológica y requiere estudio."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tipo de bilirrubina predominante en la ictericia fisiológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Indirecta (no conjugada)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Directa (conjugada)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Libre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sulfatada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ictericia fisiológica se debe a acumulación de bilirrubina indirecta por inmadurez hepática."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué condición causa ictericia por bilirrubina directa en el período neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incompatibilidad ABO"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia fisiológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia biliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactancia materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Policitemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La atresia biliar produce colestasis con aumento de bilirrubina directa y heces acólicas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el mecanismo principal de la ictericia fisiológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemólisis inmunológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la reabsorción intestinal de bilirrubina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmadurez enzimática de la glucuroniltransferasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colestasis intrahepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Defecto congénito de biliverdina reductasa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inmadurez de la glucuroniltransferasa hepática retrasa la conjugación de bilirrubina."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estudio inicial se recomienda ante ictericia que aparece antes de las 24 horas de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medir hemoglobina y grupo sanguíneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dosificar bilirrubina indirecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar bilirrubina total y directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Coombs directa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La ictericia precoz obliga a estudio completo: bilirrubina total/directa, grupo, hemograma y Coombs."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la principal complicación de la hiperbilirrubinemia indirecta no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colestasis crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatitis neonatal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Kernícterus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia persistente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de bilirrubina no conjugada puede atravesar la barrera hematoencefálica y causar kernícterus."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo orienta a ictericia por leche materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio antes de 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Predominio de bilirrubina directa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Persistencia de ictericia más allá de la primera semana en lactante sano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatoesplenomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coombs directo positivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ictericia por leche materna aparece después del 5° día y persiste más de una semana en lactante sano."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tratamiento se indica ante hiperbilirrubinemia indirecta significativa sin signos neurológicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exanguinotransfusión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fototerapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidratación oral exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fototerapia convierte bilirrubina no conjugada en compuestos hidrosolubles eliminables por orina y bilis."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es un signo de alarma en la ictericia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aparición después del segundo día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración menor de una semana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloración pálida de las heces"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bilirrubina menor de 10 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia leve sin síntomas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las heces acólicas sugieren colestasis, característica de ictericia patológica como la atresia biliar."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal indicación de exanguinotransfusión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bilirrubina total mayor a 15 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Kernícterus clínico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bilirrubina en rango de riesgo alto y fototerapia inefectiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bilirrubina directa elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia por leche materna prolongada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La exanguinotransfusión se indica ante hiperbilirrubinemia severa refractaria a fototerapia."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la causa más frecuente de ictericia hemolítica en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incompatibilidad Rh"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incompatibilidad ABO"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esferocitosis hereditaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de G6PD"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia aplásica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incompatibilidad ABO es más común que la Rh, especialmente en madres grupo O y RN A o B."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué prueba confirma hemólisis inmunológica en ictericia neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de Coombs directo positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoglobina elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reticulocitos bajos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bilirrubina directa elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cultivo de sangre positivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Coombs directo positivo confirma la presencia de anticuerpos adheridos a los eritrocitos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo clínico orienta a ictericia patológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio después del segundo día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desaparición antes de 10 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "Progresión caudo-cefálica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aparición en las primeras 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bilirrubina <12 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ictericia en las primeras 24 h siempre se considera patológica y requiere evaluación."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de bilirrubina predomina en la ictericia por incompatibilidad ABO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indirecta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mixta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Conjugada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desconjugada y sulfatada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la incompatibilidad ABO la destrucción de eritrocitos produce aumento de bilirrubina indirecta."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica presenta la ictericia por leche materna en comparación con la fisiológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio más temprano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor intensidad y duración prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio de bilirrubina directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asociación con hemólisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ictericia por leche materna aparece más tarde y dura más, aunque con RN sano."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal diferencia entre ictericia por leche materna y por lactancia insuficiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La primera es fisiológica y la segunda patológica"
+        },
+        {
+          "opcion": "B",
+          "texto": "La primera se debe a un factor en la leche y la segunda a deshidratación"
+        },
+        {
+          "opcion": "C",
+          "texto": "La segunda inicia más tarde"
+        },
+        {
+          "opcion": "D",
+          "texto": "La primera presenta hiperbilirrubinemia directa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambas tienen la misma fisiopatología"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ictericia por leche materna se asocia a inhibidores de conjugación, la de lactancia insuficiente a deshidratación."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué signo clínico sugiere kernícterus en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Llanto vigoroso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotonía, letargo y convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea y vómitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatoesplenomegalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Irritabilidad leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El kernícterus se manifiesta con hipotonía, letargo y convulsiones por daño cerebral por bilirrubina."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué examen es esencial ante sospecha de colestasis neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bilirrubina total y directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina completa"
+        },
+        {
+          "opcion": "D",
+          "texto": "TGO y TGP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía craneal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La elevación de bilirrubina directa confirma colestasis, orientando a causas como atresia biliar o hepatitis neonatal."
+    }
+  ]
+}

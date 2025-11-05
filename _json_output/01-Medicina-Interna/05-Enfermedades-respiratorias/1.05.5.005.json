@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.5.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación diagnóstica de la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluación de un derrame pleural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estudio de una atelectasia persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnóstico de neumotórax espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Confirmación de asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluación de hipertensión pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrobroncoscopia se utiliza para investigar atelectasias persistentes o lesiones endobronquiales no aclaradas por imágenes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué estructura anatómica marca el límite distal habitual de exploración en una fibrobroncoscopia estándar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquio principal derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquio principal izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquio segmentario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquiolo terminal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alvéolo pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El fibrobroncoscopio puede llegar hasta los bronquios segmentarios, donde termina la exploración visual directa."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es una contraindicación absoluta para realizar una fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia respiratoria leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombocitopenia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxemia refractaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos productiva persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre de origen desconocido"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoxemia refractaria representa un riesgo vital durante el procedimiento, constituyendo una contraindicación absoluta."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué anestésico local se utiliza comúnmente para la realización de una fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lidocaína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bupivacaína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Procaína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Articaína"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ropivacaína"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La lidocaína es el anestésico local más empleado por su eficacia y seguridad en procedimientos broncoscópicos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el propósito del lavado broncoalveolar durante la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eliminar secreciones bronquiales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obtener muestras del parénquima pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la presión alveolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Visualizar vasos pulmonares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducir tos terapéutica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lavado broncoalveolar permite obtener material celular y microbiológico del parénquima pulmonar distal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes es un riesgo potencial del procedimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión ortostática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención urinaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis leve es una complicación posible, especialmente tras biopsias o maniobras traumáticas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué medida se debe tomar previo al procedimiento en pacientes anticoagulados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar broncodilatadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender anticoagulantes según riesgo trombótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la dosis de vitamina K"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidratar intensamente al paciente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la dosis de sedantes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda suspender anticoagulantes para disminuir el riesgo de sangrado durante biopsias o lavados."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de sedación se emplea habitualmente en la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sedación profunda con anestesia general"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedación consciente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sin sedación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo epidural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anestesia espinal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sedación consciente permite mantener la cooperación del paciente y preservar la ventilación espontánea."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el instrumento más utilizado para la obtención de biopsias endobronquiales durante la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspirador de secreciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pinza de biopsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Catéter de lavado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cepillo citológico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aguja de punción"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pinzas de biopsia permiten extraer fragmentos de mucosa o tejido para estudio histológico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la complicación más temida posterior a una biopsia transbronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoespasmo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertermia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema laríngeo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El neumotórax puede ocurrir por perforación del parénquima durante la biopsia transbronquial."
+    },
+    {
+      "numero": "11",
+      "texto": "¿En qué caso se recomienda la fibrobroncoscopia rígida sobre la flexible?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Para obtener lavados broncoalveolares"
+        },
+        {
+          "opcion": "B",
+          "texto": "En extracción de cuerpos extraños grandes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Para evaluar infecciones virales"
+        },
+        {
+          "opcion": "D",
+          "texto": "En estudio de fibrosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Para control de asma severo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La broncoscopia rígida ofrece mayor control de vía aérea en casos de extracción de cuerpos extraños o hemorragias masivas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo puede observarse en una fibrobroncoscopia de un paciente con carcinoma broncogénico central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mucosa normal con secreción serosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción endobronquial con lesión exofítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bronquios dilatados y permeables"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de tapones mucosos blandos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mucosa eritematosa sin lesiones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los tumores centrales suelen producir masas exofíticas que obstruyen parcialmente el lumen bronquial."
+    },
+    {
+      "numero": "13",
+      "texto": "Durante la fibrobroncoscopia, ¿qué muestra es útil para diagnóstico microbiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia transbronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cepillado bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspirado gástrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mucosa nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangre venosa periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cepillado bronquial permite obtener células y microorganismos del epitelio bronquial para cultivo y citología."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la preparación más importante del paciente antes de la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ayuno de 6-8 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio respiratorio previo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación profunda inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhalación de oxígeno hiperbárico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ayuno reduce el riesgo de aspiración durante el procedimiento bajo sedación."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una indicación terapéutica de la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la capacidad vital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retirar tapones mucosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar fibrosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar el intercambio gaseoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la resistencia de vía aérea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Puede emplearse para retirar tapones mucosos, cuerpos extraños o aspirar secreciones obstructivas."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parámetro debe monitorizarse continuamente durante la fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saturación de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicemia capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión venosa central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frecuencia urinaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La oximetría de pulso es fundamental para detectar hipoxemia durante el procedimiento."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué vía es la más utilizada para la introducción del fibrobroncoscopio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vía nasal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vía oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vía traqueal directa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vía endovenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vía subcutánea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vía nasal permite un acceso cómodo y natural al árbol traqueobronquial en pacientes despiertos."
+    },
+    {
+      "numero": "18",
+      "texto": "Tras el procedimiento, ¿qué indicación debe darse al paciente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Puede comer inmediatamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debe evitar ingerir líquidos hasta recuperar el reflejo tusígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Debe realizar ejercicio respiratorio vigoroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debe inhalar broncodilatadores de rescate"
+        },
+        {
+          "opcion": "E",
+          "texto": "Puede retirarse la monitorización de inmediato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe evitar ingerir alimentos o líquidos hasta recuperar el reflejo de la tos y deglución."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo podría indicar complicación infecciosa post-fibrobroncoscopia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ronquera transitoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoptisis mínima"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disfonía leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fiebre persistente posterior al procedimiento puede sugerir una infección respiratoria secundaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la ventaja principal del fibrobroncoscopio flexible sobre el rígido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor diámetro del canal de trabajo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejor control de hemorragias masivas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor comodidad y alcance periférico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Permite ventilación mecánica simultánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor facilidad para toma de biopsias grandes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El fibrobroncoscopio flexible permite explorar bronquios más distales y ofrece mayor confort al paciente."
+    }
+  ]
+}

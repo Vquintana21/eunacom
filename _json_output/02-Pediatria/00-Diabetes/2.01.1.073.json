@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.073",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Diabetes",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo de diabetes más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes tipo 1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes tipo 2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes MODY"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diabetes gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes secundaria a fármacos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La diabetes tipo 1 es la más común en niños y adolescentes, causada por destrucción autoinmune de células beta."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal de la diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resistencia a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción excesiva de glucagón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Destrucción autoinmune de células beta pancreáticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto en el receptor de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia de los islotes pancreáticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diabetes tipo 1 se debe a una destrucción autoinmune de las células beta del páncreas, con déficit absoluto de insulina."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma cardinal más frecuente de presentación en la diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Polidipsia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoactividad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada clásica es poliuria, polidipsia y pérdida de peso, siendo la polidipsia uno de los síntomas más precoces."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes hallazgos confirma el diagnóstico de diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glicemia en ayuno de 100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glicemia postprandial de 160 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoglobina glicosilada de 6.2%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glicemia en ayuno ≥126 mg/dL en dos ocasiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glucosa capilar aleatoria de 140 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una glicemia en ayuno ≥126 mg/dL en dos ocasiones distintas confirma el diagnóstico de diabetes."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué marcador inmunológico es típico de la diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticuerpos anti-TPO"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticuerpos anti-GAD"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticuerpos anti-CCP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos antimitocondriales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos anti-ENA"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticuerpos anti-GAD son frecuentes en la diabetes tipo 1 y reflejan la autoinmunidad pancreática."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la complicación aguda más grave de la diabetes tipo 1 en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nefropatía diabética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuropatía periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética es una emergencia metabólica grave asociada a déficit de insulina y acidosis metabólica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el principal objetivo del manejo en la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar bicarbonato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corregir la hiperglucemia rápidamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rehidratación y corrección gradual de la hiperglucemia y acidosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender toda insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar diuréticos para eliminar cuerpos cetónicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo busca rehidratación, reposición de insulina y corrección lenta de alteraciones metabólicas para evitar edema cerebral."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación neurológica se asocia al tratamiento rápido de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Convulsiones febriles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mielitis transversa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Encefalopatía hipóxica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Guillain-Barré"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema cerebral es una complicación grave del tratamiento rápido de la cetoacidosis en niños."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el objetivo de la hemoglobina glicosilada (HbA1c) en niños diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<6%"
+        },
+        {
+          "opcion": "B",
+          "texto": "<6.5%"
+        },
+        {
+          "opcion": "C",
+          "texto": "<7%"
+        },
+        {
+          "opcion": "D",
+          "texto": "<7.5%"
+        },
+        {
+          "opcion": "E",
+          "texto": "<8%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo general es mantener una HbA1c <7% para reducir el riesgo de complicaciones crónicas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el hallazgo bioquímico característico de la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH > 7.4 y bicarbonato elevado"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH < 7.3 y bicarbonato bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anión gap normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia leve con alcalosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de lactato sin cetonas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética se caracteriza por acidosis metabólica con pH <7.3 y bicarbonato disminuido."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hormona contrarreguladora no está aumentada en la diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glucagón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hormona del crecimiento"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La insulina está disminuida en la diabetes tipo 1, mientras las hormonas contrarreguladoras aumentan."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de insulina se utiliza para controlar la glicemia basal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina regular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina lispro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina NPH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina glargina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina aspart"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La insulina glargina o detemir son de acción prolongada y controlan la glicemia basal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal complicación microvascular crónica de la diabetes en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nefropatía diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neuropatía periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pie diabético"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastropatía diabética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La retinopatía diabética es una complicación microvascular frecuente que requiere seguimiento oftalmológico anual."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo clínico sugiere hipoglucemia en un niño diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Polidipsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sudoración y temblor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Poliuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somnolencia postprandial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoglucemia produce síntomas adrenérgicos como sudoración, temblor y palidez."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes fármacos puede causar hiperglucemia secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina glargina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Propranolol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Furosemida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los corticoides como la prednisona inducen resistencia a la insulina y elevación de la glicemia."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica es típica de la diabetes tipo 2 en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio abrupto con cetoacidosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autoanticuerpos positivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resistencia a la insulina con obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit absoluto de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peso normal o bajo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La diabetes tipo 2 se asocia a obesidad, resistencia insulínica y curso insidioso."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué examen se usa para monitorear el control glicémico a largo plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curva de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoglobina glicosilada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulinemia basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetonuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La HbA1c refleja el promedio glicémico de los últimos 2 a 3 meses y evalúa el control metabólico."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la causa más frecuente de muerte en la cetoacidosis diabética pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock hipovolémico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema cerebral es la complicación más grave y principal causa de muerte en cetoacidosis diabética infantil."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación microvascular más precoz en diabetes tipo 1?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retinopatía diabética"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefropatía incipiente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neuropatía periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gastroparesia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pie diabético"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La nefropatía incipiente, detectada por microalbuminuria, suele ser la primera complicación microvascular detectable."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué valor define hipoglucemia clínica en un paciente pediátrico con diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<80 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<50 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<40 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera hipoglucemia clínica cuando la glicemia es menor a 70 mg/dL."
+    }
+  ]
+}

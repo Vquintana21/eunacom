@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.038",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Constipación",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de constipación en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfermedad de Hirschsprung"
+        },
+        {
+          "opcion": "C",
+          "texto": "Constipación funcional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de fibra en la dieta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La constipación funcional es la causa más común en niños, sin patología orgánica subyacente."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué signo clínico orienta a una causa orgánica de constipación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio posterior a la introducción de sólidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deposiciones duras y escasas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso en la eliminación del meconio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal esporádico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antecedentes familiares de constipación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El retraso en la eliminación del meconio (>48 h) sugiere enfermedad de Hirschsprung."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal de la constipación funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipermotilidad intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del tono esfinteriano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retención voluntaria de heces"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de secreción colónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipersecreción de moco intestinal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La retención voluntaria perpetúa el ciclo de dolor y distensión, manteniendo la constipación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué característica de las deposiciones orienta a constipación funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heces en cinta delgada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces duras y voluminosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heces líquidas con sangre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heces pastosas con moco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heces explosivas tras el tacto rectal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las heces grandes y duras son típicas de constipación funcional por retención prolongada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué signo orienta a enfermedad de Hirschsprung?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fecaloma palpable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de reflejo rectoanal inhibitorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manchado fecal involuntario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Heces diarias con esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ausencia del reflejo rectoanal inhibitorio en manometría sugiere aganglionosis (Hirschsprung)."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué examen se recomienda inicialmente para descartar causa orgánica de constipación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de abdomen simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enema baritado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manometría anorrectal"
+        },
+        {
+          "opcion": "E",
+          "texto": "TAC abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía simple puede evidenciar fecalomas o megacolon funcional de manera no invasiva."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué factor psicológico puede contribuir a la constipación funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ansiedad por separación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrés académico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aprendizaje del control de esfínteres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de atención"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La constipación funcional puede desencadenarse durante el aprendizaje del control de esfínteres."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el tratamiento de primera línea para la constipación funcional en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aceite mineral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactulosa o polietilenglicol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Senósidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enema salino diario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción de fibra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El polietilenglicol o lactulosa son los laxantes osmóticos más seguros y efectivos en niños."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes hallazgos es más sugerente de enfermedad de Hirschsprung?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Incontinencia fecal intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación colónica difusa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Segmento rectosigmoideo estrecho en enema baritado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heces voluminosas y duras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal postprandial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El segmento distal estrecho y proximal dilatado es característico del megacolon agangliónico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué manifestación es frecuente en la constipación funcional prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Encopresis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea acuosa persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos biliosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor lumbar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia microcítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La encopresis ocurre por sobreflujo fecal en presencia de fecaloma rectal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué componente dietético es esencial en el manejo de la constipación infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibra vegetal y agua"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Grasas saturadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibra y la adecuada hidratación favorecen la motilidad intestinal y ablandan las heces."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué característica orienta a una causa endocrina de constipación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio súbito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso del crecimiento y piel seca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor cólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematoquecia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo causa constipación acompañada de retraso ponderal y piel seca."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué examen confirma el diagnóstico de enfermedad de Hirschsprung?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Manometría anorrectal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia rectal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enema baritado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La biopsia rectal confirma el diagnóstico al demostrar ausencia de células ganglionares."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes medicamentos puede causar constipación secundaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hierro oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metformina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los suplementos de hierro pueden provocar constipación como efecto adverso frecuente."
+    },
+    {
+      "numero": "15",
+      "texto": "En un niño con constipación funcional, ¿cuál es el primer paso terapéutico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta sin lácteos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desimpactación fecal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia conductual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio físico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de probióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desimpactación fecal inicial es esencial antes de iniciar laxantes o medidas conductuales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué edad es más frecuente para la aparición de constipación funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Durante el control de esfínteres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Etapa escolar avanzada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adolescencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Primer mes de vida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Suele presentarse durante el control de esfínteres, asociado a retención voluntaria."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es una señal de alarma en un niño con constipación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor al evacuar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces duras frecuentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso ponderal y vómitos biliosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manchado de ropa interior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antecedentes de ansiedad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El retraso del crecimiento y los vómitos biliosos orientan a una causa orgánica grave."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué componente del tratamiento conductual es más importante en constipación funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Castigar al niño por ensuciarse"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reforzamiento positivo por evacuaciones exitosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspender fibra dietética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar laxantes solo al final del tratamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir la ingesta de líquidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El refuerzo positivo y la educación familiar son claves para mantener la adherencia terapéutica."
+    },
+    {
+      "numero": "19",
+      "texto": "En el manejo de constipación funcional, ¿cuál es el objetivo terapéutico principal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el apetito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminar el dolor abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lograr evacuaciones blandas sin dolor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar la incontinencia urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminar completamente los laxantes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El objetivo es lograr evacuaciones blandas y regulares sin dolor ni retención voluntaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué complicación puede presentarse si la constipación no se trata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolapso rectal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colelitiasis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esfuerzo evacuatorio crónico puede provocar prolapso rectal en casos severos."
+    }
+  ]
+}

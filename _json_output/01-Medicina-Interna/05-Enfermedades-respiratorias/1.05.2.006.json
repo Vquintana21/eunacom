@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.2.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por enfermedad bronquial obstructiva crónica descompensada (EPOC agudizada)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Episodio autolimitado sin cambios clínicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Empeoramiento agudo de los síntomas respiratorios más allá de la variabilidad diaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fase de recuperación posterior a una neumonía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exacerbación de asma reversible con broncodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis alérgica respiratoria aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La descompensación de EPOC es un empeoramiento súbito de síntomas respiratorios que requiere ajuste terapéutico."
+    },
+    {
+      "numero": "2",
+      "texto": "El factor desencadenante más frecuente de la descompensación en EPOC es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exposición a humo de tabaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección respiratoria viral o bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminación ambiental crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis pulmonar subclínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de adherencia al tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las infecciones respiratorias son la causa más común de agudización en pacientes con EPOC."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el signo clínico característico de una descompensación de EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea progresiva y aumento del esputo purulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis distal aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor pleurítico agudo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de disnea, volumen y purulencia del esputo define clínicamente la agudización."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes hallazgos gasométricos indica retención de CO2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pCO2 < 35 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "pCO2 > 45 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH > 7.45"
+        },
+        {
+          "opcion": "D",
+          "texto": "pO2 > 100 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "HCO3- disminuido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una pCO2 superior a 45 mmHg indica hipoventilación y retención de CO2 en la EPOC descompensada."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo físico más común en una descompensación de EPOC es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estertores crepitantes basales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sibilancias y uso de músculos accesorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Silencio auscultatorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Roncus focalizados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Murmullo vesicular aumentado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las sibilancias y el uso de músculos accesorios reflejan obstrucción bronquial y esfuerzo ventilatorio aumentado."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el tratamiento inicial de elección para una agudización leve de EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncodilatadores de acción corta inhalados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides sistémicos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Teofilina intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia a alto flujo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los broncodilatadores de acción corta son la primera línea para revertir la obstrucción bronquial."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué antibiótico está indicado en exacerbación de EPOC con esputo purulento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La amoxicilina-ácido clavulánico es de elección frente a patógenos respiratorios frecuentes como H. influenzae."
+    },
+    {
+      "numero": "8",
+      "texto": "El uso de corticoides sistémicos en EPOC agudizada tiene como objetivo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la producción de esputo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la inflamación y mejorar la función pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir la frecuencia cardíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar el patógeno infeccioso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la sensibilidad bronquial al oxígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides sistémicos disminuyen la inflamación bronquial y mejoran la respuesta al tratamiento broncodilatador."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué nivel de PaO2 indica necesidad de oxigenoterapia en EPOC descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2 < 80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO2 < 70 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2 < 60 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO2 < 50 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "PaO2 < 40 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una PaO2 menor de 60 mmHg indica hipoxemia significativa y necesidad de oxigenoterapia controlada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación es común durante la descompensación de la EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercapnia y acidosis respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar cardiogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embolia pulmonar masiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía por aspiración"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoventilación causa acumulación de CO2 y acidosis respiratoria en pacientes con EPOC avanzada."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué gasometría orienta a una descompensación grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH 7.45, pCO2 35 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "pH 7.40, pCO2 45 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH 7.30, pCO2 60 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH 7.55, pCO2 30 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH 7.35, pCO2 40 mmHg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pH bajo con pCO2 elevado indica acidosis respiratoria aguda por hipoventilación severa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué porcentaje de oxígeno se recomienda en la oxigenoterapia inicial en EPOC descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "60%"
+        },
+        {
+          "opcion": "C",
+          "texto": "40%"
+        },
+        {
+          "opcion": "D",
+          "texto": "24-28%"
+        },
+        {
+          "opcion": "E",
+          "texto": "10%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Se usa oxígeno al 24-28% para evitar depresión del estímulo respiratorio mediado por hipoxia crónica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo clínico indica insuficiencia respiratoria inminente en EPOC descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquipnea leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de músculos accesorios y confusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la diuresis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos productiva eficaz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritmo respiratorio regular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de músculos accesorios junto a alteración del sensorio indica fatiga respiratoria y fallo ventilatorio."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué microorganismo se asocia frecuentemente a exacerbaciones bacterianas de EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Staphylococcus aureus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "H. influenzae es uno de los patógenos más frecuentes en las agudizaciones bacterianas de EPOC."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tratamiento se indica ante hipercapnia con acidosis respiratoria descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación no invasiva con presión positiva (BiPAP)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del flujo de oxígeno al 100%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedación con benzodiacepinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatadores orales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ventilación no invasiva mejora la ventilación alveolar y corrige la hipercapnia sin intubación."
+    },
+    {
+      "numero": "16",
+      "texto": "En una exacerbación grave, el uso de antibióticos está indicado si hay:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo aumento de la tos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la disnea, volumen y purulencia del esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de fiebre aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evidencia radiográfica normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxemia leve sin síntomas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada de Anthonisen indica infección bacteriana y necesidad de antibióticos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes fármacos no tiene utilidad en la crisis de EPOC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salbutamol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ipratropio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amoxicilina-ácido clavulánico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La furosemida no tiene indicación en EPOC descompensada salvo coexistencia de insuficiencia cardíaca."
+    },
+    {
+      "numero": "18",
+      "texto": "En la EPOC descompensada, el objetivo de la saturación de oxígeno debe mantenerse entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "94-98%"
+        },
+        {
+          "opcion": "C",
+          "texto": "88-92%"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-84%"
+        },
+        {
+          "opcion": "E",
+          "texto": "70-75%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se busca mantener la SpO2 entre 88-92% para evitar depresión del impulso respiratorio por hipercapnia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el hallazgo radiográfico típico en EPOC descompensada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campos pulmonares hiperlúcidos y diafragma aplanado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrados alveolares bilaterales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia lobar superior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural masivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento pleural basal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperinsuflación pulmonar y el aplanamiento diafragmático reflejan atrapamiento aéreo característico de EPOC."
+    },
+    {
+      "numero": "20",
+      "texto": "En un paciente con EPOC descompensada que no responde a terapia convencional, se debe considerar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sedación profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intubación orotraqueal y ventilación mecánica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar dosis de broncodilatadores orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el oxígeno suplementario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si no hay respuesta a broncodilatadores, corticoides y ventilación no invasiva, se requiere ventilación mecánica invasiva."
+    }
+  ]
+}

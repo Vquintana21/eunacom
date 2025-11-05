@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.5.010",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Punción suprapúbica",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación de la punción suprapúbica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar obstrucción intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obtener muestra estéril de orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratar retención urinaria crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar reflujo vesicoureteral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar volumen vesical residual"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La punción suprapúbica se utiliza para obtener una muestra de orina estéril cuando otros métodos no son adecuados."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué pacientes está más indicada la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niños mayores de 10 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes con control de esfínteres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lactantes menores de 1 año con sospecha de infección urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adolescentes con disuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niños con malformaciones renales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Es el método diagnóstico más confiable en lactantes pequeños para obtener orina estéril."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio anatómico correcto para realizar la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 cm por debajo del ombligo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre sínfisis púbica y ombligo, sobre la línea media"
+        },
+        {
+          "opcion": "C",
+          "texto": "A nivel del flanco derecho"
+        },
+        {
+          "opcion": "D",
+          "texto": "Encima de la espina ilíaca anterior superior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lateral a la línea media abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse en la línea media, justo sobre la sínfisis púbica, donde la vejiga es accesible."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el ángulo de inserción de la aguja en la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "90° respecto a la piel"
+        },
+        {
+          "opcion": "B",
+          "texto": "30° respecto al abdomen"
+        },
+        {
+          "opcion": "C",
+          "texto": "10° dirigido hacia el ombligo"
+        },
+        {
+          "opcion": "D",
+          "texto": "45° dirigido hacia la pelvis"
+        },
+        {
+          "opcion": "E",
+          "texto": "60° hacia el pubis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El ángulo de 45° hacia la pelvis reduce el riesgo de perforar estructuras vecinas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal contraindicación de la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vejiga llena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coagulopatía severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso reciente de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coagulopatía severa aumenta el riesgo de hemorragia durante la punción."
+    },
+    {
+      "numero": "6",
+      "texto": "Antes de realizar la punción suprapúbica, ¿qué condición debe cumplirse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El paciente debe estar en ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "La vejiga debe estar llena"
+        },
+        {
+          "opcion": "C",
+          "texto": "Debe realizarse con anestesia general"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debe colocarse en decúbito lateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se requiere catéter vesical previo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vejiga debe estar llena para facilitar la aspiración del contenido urinario."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué instrumento se utiliza para la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Catéter Foley Nº 10"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aguja hipodérmica Nº 21 o 22"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trocár quirúrgico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aguja espinal gruesa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catéter venoso central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se utiliza una aguja hipodérmica fina para minimizar trauma y obtener muestra estéril."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué maniobra ayuda a confirmar que la vejiga está llena antes de la punción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Percusión abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Auscultación suprapúbica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía vesical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palpación renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inspección perineal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía permite confirmar la distensión vesical y guía el procedimiento."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué complicación inmediata puede ocurrir durante la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematuria transitoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retención urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock hipovolémico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Puede presentarse hematuria leve y autolimitada tras el procedimiento."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la ventaja principal de la punción suprapúbica frente al cateterismo vesical?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor dolor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor rapidez"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor riesgo de contaminación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor volumen obtenido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor facilidad técnica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Permite obtener muestras de orina totalmente estériles sin contaminación perineal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué posición debe adoptar el paciente para el procedimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito dorsal con piernas extendidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito lateral izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Decúbito supino con leve extensión de caderas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedente con tronco inclinado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prono con caderas elevadas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El decúbito supino con ligera extensión facilita el acceso suprapúbico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la principal razón para evitar múltiples intentos de punción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor excesivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor riesgo de contaminación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor riesgo de perforación vesical o intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dificultad técnica acumulada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de material estéril"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Múltiples intentos aumentan el riesgo de lesionar la vejiga o el intestino."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de muestra se obtiene mediante punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orina estéril"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orina contaminada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina residual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Orina mezclada con sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Orina de catéter"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El procedimiento garantiza la obtención de una muestra de orina estéril."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué resultado confirma infección urinaria en una muestra por punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cualquier crecimiento bacteriano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Más de 10⁵ UFC/ml"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de piocitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitritos positivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteínas elevadas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Cualquier crecimiento bacteriano en una muestra estéril confirma infección urinaria."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué se debe hacer si no se obtiene orina durante la punción?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Repetir inmediatamente en el mismo sitio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esperar 10 minutos y repetir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidratar y reevaluar con ecografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insertar catéter vesical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar diurético intravenoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vejiga puede no estar suficientemente llena; se recomienda hidratar y reevaluar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación tardía puede aparecer tras la punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección del sitio de punción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Absceso hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritonitis química"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sepsis urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fístula vesical"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Raramente puede presentarse infección superficial del sitio de punción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida de asepsia es esencial antes del procedimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lavado con agua y jabón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Limpieza con alcohol isopropílico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antisepsia con povidona yodada o clorhexidina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cobertura con campo estéril seco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicación de anestesia tópica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe realizarse antisepsia cuidadosa con povidona o clorhexidina para prevenir infección."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué profesional puede realizar la punción suprapúbica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cualquier enfermero entrenado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Médico residente o pediatra con formación en técnica estéril"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo urólogo pediátrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Técnico paramédico bajo supervisión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Interno de medicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarla personal médico capacitado para garantizar seguridad y asepsia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué estudio se puede realizar con la muestra obtenida por punción suprapúbica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo uroanálisis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo cultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uroanálisis y cultivo bacteriano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Citología urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La muestra sirve tanto para uroanálisis como para cultivo bacteriano confiable."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.002",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Radiografía de abdomen simple",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la proyección radiográfica estándar para evaluar un abdomen pediátrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anteroposterior en decúbito dorsal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lateral izquierda en decúbito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Posteroanterior en bipedestación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oblicua anterior derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía de abdomen"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La proyección anteroposterior en decúbito dorsal es la más usada para evaluar gas intestinal y órganos abdominales."
+    },
+    {
+      "numero": "2",
+      "texto": "La radiografía de abdomen en bipedestación permite identificar mejor:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos y neumoperitoneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Masas hepáticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Engrosamiento de asas del colon"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la densidad renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificaciones pancreáticas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En bipedestación se evidencian niveles hidroaéreos y aire libre subdiafragmático."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo de asas dilatadas con niveles hidroaéreos múltiples sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apendicitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Íleo adinámico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción intestinal mecánica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumoperitoneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los niveles hidroaéreos múltiples son característicos de obstrucción intestinal mecánica."
+    },
+    {
+      "numero": "4",
+      "texto": "En un recién nacido con vómitos biliosos, una radiografía con signo de doble burbuja indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Íleo paralítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción yeyunal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malrotación intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía basal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El signo de doble burbuja es típico de atresia duodenal o malrotación con vólvulo."
+    },
+    {
+      "numero": "5",
+      "texto": "En la radiografía de abdomen, el aire libre bajo el diafragma indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perforación de víscera hueca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Íleo paralítico"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El aire subdiafragmático es signo de perforación de víscera hueca y requiere cirugía urgente."
+    },
+    {
+      "numero": "6",
+      "texto": "El patrón en panal de abejas en abdomen sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumatosis intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Íleo adinámico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obstrucción alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascaridiasis masiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La neumatosis intestinal muestra burbujas de gas en la pared intestinal, patrón en panal de abejas."
+    },
+    {
+      "numero": "7",
+      "texto": "En la obstrucción intestinal alta, el gas se observa principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asas del colon distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estómago y duodeno proximal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colon ascendente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sigmoides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obstrucción alta muestra dilatación gástrica y duodenal con escaso gas distal."
+    },
+    {
+      "numero": "8",
+      "texto": "Un abdomen en tablero de ajedrez con múltiples niveles hidroaéreos es típico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Íleo mecánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Íleo paralítico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascitis masiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Invaginación intestinal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El patrón en tablero de ajedrez indica obstrucción mecánica con asas distendidas y niveles múltiples."
+    },
+    {
+      "numero": "9",
+      "texto": "La ausencia de gas rectal en una radiografía abdominal neonatal sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enterocolitis necrosante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia intestinal distal o íleo meconial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumatosis intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vólvulo del intestino medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Íleo paralítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de gas distal sugiere obstrucción distal como íleo meconial o atresia."
+    },
+    {
+      "numero": "10",
+      "texto": "El signo del neumoperitoneo en decúbito lateral se identifica por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Línea radiolúcida subdiafragmática derecha"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gas libre sobre el hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Burbujas submucosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de asas intestinales"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El gas libre se acumula sobre el hígado y produce una delgada línea radiolúcida en decúbito lateral."
+    },
+    {
+      "numero": "11",
+      "texto": "El hallazgo de calcificaciones en línea media abdominal en RN sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atresia intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ileo meconial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritonitis meconial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascitis quilosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apendicitis perforada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las calcificaciones en línea media son típicas de peritonitis meconial secundaria a perforación intrauterina."
+    },
+    {
+      "numero": "12",
+      "texto": "En la invaginación intestinal, la radiografía simple puede mostrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos altos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de gas distal y masa de partes blandas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gas libre subdiafragmático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Múltiples asas distendidas sin niveles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento de asas yeyunales"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La invaginación suele mostrar ausencia de gas distal y una masa de partes blandas en cuadrante derecho."
+    },
+    {
+      "numero": "13",
+      "texto": "La visualización de gas en la vena porta en RN indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ileo paralítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumatosis intestinal avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apendicitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia intestinal proximal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis bacteriana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El gas en la vena porta es signo de enterocolitis necrosante grave con isquemia intestinal."
+    },
+    {
+      "numero": "14",
+      "texto": "El gas en estómago y recto simultáneamente sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obstrucción completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Íleo adinámico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malrotación intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ascitis masiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de gas difuso indica íleo funcional con tránsito conservado."
+    },
+    {
+      "numero": "15",
+      "texto": "Un patrón en vidrio esmerilado abdominal puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enterocolitis necrosante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sepsis neonatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumatosis intestinal avanzada"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El patrón granular difuso se asocia a neumatosis intestinal y gas en pared intestinal."
+    },
+    {
+      "numero": "16",
+      "texto": "El signo de la doble burbuja sin gas distal es diagnóstico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ileo meconial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malrotación intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción ileal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perforación intestinal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La doble burbuja sin gas distal es típica de atresia duodenal completa."
+    },
+    {
+      "numero": "17",
+      "texto": "En el íleo meconial, la radiografía muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos en asas delgadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asas dilatadas con patrón granular y escaso gas distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vidrio esmerilado difuso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gas libre subdiafragmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento parietal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El íleo meconial cursa con asas distendidas y patrón granular por contenido espeso."
+    },
+    {
+      "numero": "18",
+      "texto": "La presencia de burbujas de gas en la pared intestinal se denomina:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumatosis intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumoperitoneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterocolitis mecánica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ileo adinámico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción funcional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El gas en pared intestinal es característico de neumatosis intestinal, marcador de isquemia."
+    },
+    {
+      "numero": "19",
+      "texto": "En la perforación intestinal neonatal avanzada, el signo radiográfico más temprano es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles hidroaéreos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumoperitoneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aire subdiafragmático bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gas portal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atelectasia basal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El gas portal suele preceder al neumoperitoneo en perforación intestinal neonatal."
+    },
+    {
+      "numero": "20",
+      "texto": "El signo del abdomen en mosaico en lactantes con distensión importante sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Íleo mecánico avanzado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascitis severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vólvulo de intestino medio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción colónica baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumatosis intestinal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El vólvulo se asocia a asas dilatadas con desplazamiento y patrón en mosaico de gas."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.3.007",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes modificaciones dietéticas tiene mayor impacto en la prevención de dislipidemias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del consumo de grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción de grasas trans y saturadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento del consumo de carnes rojas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminación total de carbohidratos complejos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del consumo de bebidas azucaradas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Reducir grasas trans y saturadas disminuye el colesterol LDL y previene la formación de placas ateroscleróticas."
+    },
+    {
+      "numero": "2",
+      "texto": "El consumo de ácidos grasos omega-3 contribuye a prevenir dislipidemias porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta los niveles de LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce los triglicéridos plasmáticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementa la síntesis hepática de colesterol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye el HDL plasmático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la lipólisis visceral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los omega-3 reducen la síntesis hepática de VLDL, disminuyendo los triglicéridos y el riesgo cardiovascular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes patrones alimentarios se asocia con menor riesgo de dislipidemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta rica en ultraprocesados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dieta mediterránea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta alta en grasas trans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta carnívora estricta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta occidental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dieta mediterránea, rica en grasas insaturadas y fibra, mejora el perfil lipídico y reduce el riesgo aterosclerótico."
+    },
+    {
+      "numero": "4",
+      "texto": "El aumento del colesterol HDL se favorece con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio físico regular y grasas monoinsaturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dietas ricas en azúcares simples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo elevado de alcohol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ingesta de grasas trans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sedentarismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ejercicio y las grasas monoinsaturadas aumentan el HDL, reduciendo el riesgo cardiovascular."
+    },
+    {
+      "numero": "5",
+      "texto": "El exceso de carbohidratos refinados se asocia principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de triglicéridos y VLDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la insulina plasmática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de la lipogénesis hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de carbohidratos refinados eleva la producción hepática de VLDL y los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "6",
+      "texto": "El ejercicio aeróbico en la prevención de dislipidemias tiene el efecto de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir HDL y aumentar LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir triglicéridos y aumentar HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el colesterol total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la lipogénesis hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevar los niveles de VLDL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio aeróbico mejora el perfil lipídico, reduciendo triglicéridos y aumentando HDL."
+    },
+    {
+      "numero": "7",
+      "texto": "En la prevención de dislipidemias, se recomienda que las grasas saturadas no superen:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5% del valor calórico total"
+        },
+        {
+          "opcion": "B",
+          "texto": "10% del valor calórico total"
+        },
+        {
+          "opcion": "C",
+          "texto": "20% del valor calórico total"
+        },
+        {
+          "opcion": "D",
+          "texto": "25% del valor calórico total"
+        },
+        {
+          "opcion": "E",
+          "texto": "30% del valor calórico total"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las grasas saturadas deben aportar menos del 10% de las calorías diarias para prevenir dislipidemias."
+    },
+    {
+      "numero": "8",
+      "texto": "La fibra soluble ayuda a reducir el colesterol LDL porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la absorción intestinal de lípidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye la excreción de ácidos biliares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Interfiere con la absorción de colesterol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula la síntesis hepática de colesterol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementa la liberación de quilomicrones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fibra soluble capta ácidos biliares y colesterol en el intestino, reduciendo su absorción."
+    },
+    {
+      "numero": "9",
+      "texto": "El consumo moderado de alcohol puede aumentar el HDL, pero se desaconseja como estrategia preventiva porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta el riesgo de pancreatitis y hepatopatía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye el metabolismo lipídico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta el colesterol LDL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reduce la glucogenólisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorece la absorción intestinal de lípidos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Aunque puede elevar el HDL, el alcohol incrementa el riesgo de daño hepático y pancreático."
+    },
+    {
+      "numero": "10",
+      "texto": "El control del peso corporal previene dislipidemias principalmente porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la síntesis hepática de VLDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la resistencia insulínica y la lipogénesis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta la absorción intestinal de colesterol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la secreción de ácidos biliares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El peso saludable mejora la sensibilidad insulínica y reduce la producción hepática de triglicéridos."
+    },
+    {
+      "numero": "11",
+      "texto": "La sustitución de grasas saturadas por poliinsaturadas tiene como efecto principal:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el colesterol total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir el LDL y el colesterol total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar los triglicéridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir el HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevar la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las grasas poliinsaturadas reducen el colesterol total y LDL, mejorando el perfil lipídico."
+    },
+    {
+      "numero": "12",
+      "texto": "La práctica de actividad física regular debería ser al menos:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 minutos, 3 veces por semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "150 minutos semanales de intensidad moderada"
+        },
+        {
+          "opcion": "C",
+          "texto": "60 minutos semanales"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 minutos diarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Una vez por semana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "150 minutos de ejercicio moderado semanal reducen el riesgo de dislipidemias y enfermedades cardiovasculares."
+    },
+    {
+      "numero": "13",
+      "texto": "Los esteroles vegetales contribuyen a prevenir dislipidemias porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhiben la síntesis hepática de colesterol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloquean parcialmente la absorción intestinal de colesterol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentan la secreción de lipoproteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuyen la excreción fecal de lípidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incrementan la lipólisis muscular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los fitoesteroles compiten con el colesterol intestinal, reduciendo su absorción y niveles séricos."
+    },
+    {
+      "numero": "14",
+      "texto": "El tabaquismo afecta el metabolismo lipídico principalmente porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta el HDL y reduce triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuye el HDL y aumenta LDL oxidado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la síntesis de ácidos biliares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reduce la oxidación de lípidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la absorción intestinal de colesterol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo reduce el HDL y promueve la oxidación del LDL, acelerando la aterogénesis."
+    },
+    {
+      "numero": "15",
+      "texto": "La pérdida de peso corporal del 5-10% produce:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de LDL"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducción significativa de triglicéridos y aumento de HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del colesterol total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la lipogénesis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una pérdida de peso moderada mejora el perfil lipídico, reduciendo triglicéridos y aumentando HDL."
+    },
+    {
+      "numero": "16",
+      "texto": "En la prevención de dislipidemias, el consumo de azúcares simples debe limitarse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos del 5% del aporte calórico total"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-15% del aporte calórico total"
+        },
+        {
+          "opcion": "C",
+          "texto": "20% del aporte calórico total"
+        },
+        {
+          "opcion": "D",
+          "texto": "25% del aporte calórico total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin restricción específica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Reducir azúcares simples a menos del 5% de las calorías diarias mejora el perfil lipídico y metabólico."
+    },
+    {
+      "numero": "17",
+      "texto": "El consumo excesivo de alcohol se relaciona con dislipidemia debido a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de síntesis de VLDL y triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de lipogénesis hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la oxidación de ácidos grasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del HDL exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de la síntesis hepática de colesterol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El alcohol estimula la síntesis hepática de VLDL y aumenta los triglicéridos plasmáticos."
+    },
+    {
+      "numero": "18",
+      "texto": "La relación óptima colesterol total/HDL para bajo riesgo cardiovascular debe ser menor a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "7"
+        },
+        {
+          "opcion": "B",
+          "texto": "6"
+        },
+        {
+          "opcion": "C",
+          "texto": "5"
+        },
+        {
+          "opcion": "D",
+          "texto": "4.5"
+        },
+        {
+          "opcion": "E",
+          "texto": "3.5"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Una relación colesterol total/HDL menor a 3.5 se asocia con bajo riesgo de enfermedad cardiovascular."
+    },
+    {
+      "numero": "19",
+      "texto": "La dislipidemia secundaria a resistencia insulínica se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de triglicéridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de HDL"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de triglicéridos y LDL pequeñas y densas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de LDL grandes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocolesterolemia aislada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La resistencia a la insulina eleva los triglicéridos y genera LDL pequeñas, más aterogénicas."
+    },
+    {
+      "numero": "20",
+      "texto": "El control de dislipidemias en diabéticos incluye preferentemente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de fibratos en todos los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estatinas asociadas a intervención dietética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensión de carbohidratos complejos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminación total de grasas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monoterapia con suplementos antioxidantes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las estatinas son la primera línea en el control lipídico, junto a cambios dietéticos y de estilo de vida."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.009",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Prevención de conductas de riesgo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo de la prevención de conductas de riesgo en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar cualquier conducta desafiante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Promover la autonomía y decisiones saludables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar totalmente el entorno del joven"
+        },
+        {
+          "opcion": "D",
+          "texto": "Limitar las interacciones sociales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fomentar la obediencia ciega"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El objetivo es favorecer la autonomía responsable mediante información, contención y promoción de hábitos saludables."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué factor se considera protector frente al consumo de drogas en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permisividad familiar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de límites claros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Comunicación abierta y afectiva con los padres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entorno escolar competitivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de supervisión adulta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La comunicación positiva con los padres reduce la probabilidad de consumo de sustancias en la adolescencia."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes conductas constituye un factor de riesgo psicosocial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Participación en actividades extracurriculares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia escolar recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apoyo emocional familiar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Redes de amistad saludables"
+        },
+        {
+          "opcion": "E",
+          "texto": "Práctica de deporte regular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ausentismo escolar puede reflejar problemas de adaptación o conductas de riesgo emergentes."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de intervención es más efectiva en la prevención de embarazo adolescente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Charlas esporádicas sobre anticonceptivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Programas integrales de educación sexual en la escuela"
+        },
+        {
+          "opcion": "C",
+          "texto": "Campañas mediáticas sin seguimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entrevistas individuales con el médico tratante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restricción del acceso a métodos anticonceptivos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los programas escolares integrales combinan educación, valores y acceso a anticonceptivos eficaces."
+    },
+    {
+      "numero": "5",
+      "texto": "El consumo de alcohol en adolescentes se asocia principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducción del rendimiento escolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejora del sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la autoestima"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del apetito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Control del estrés"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El consumo de alcohol en adolescentes se relaciona con bajo rendimiento y mayor exposición a otros riesgos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes factores familiares aumenta el riesgo de conductas antisociales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Límites claros y consistentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supervisión parental adecuada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Violencia intrafamiliar o negligencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Buena comunicación con los padres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Apoyo emocional estable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La violencia intrafamiliar es un factor de riesgo importante para conductas agresivas o delictivas."
+    },
+    {
+      "numero": "7",
+      "texto": "En la prevención del suicidio adolescente, la intervención más efectiva incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ignorar señales leves de depresión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acceso rápido a atención de salud mental y apoyo familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento temporal del entorno escolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar hablar del tema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mantener confidencialidad absoluta sin evaluar riesgo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El acceso temprano a atención profesional y apoyo familiar reduce el riesgo suicida en adolescentes."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué estrategia comunitaria ayuda a reducir la violencia juvenil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspensiones escolares frecuentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Programas de mentoría y participación comunitaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Castigos físicos moderados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de horas de recreo escolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar hablar sobre violencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los programas de mentoría fortalecen habilidades sociales y reducen la probabilidad de conductas violentas."
+    },
+    {
+      "numero": "9",
+      "texto": "El uso problemático de internet en adolescentes puede prevenirse mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prohibir el acceso total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supervisión y límites de tiempo razonables"
+        },
+        {
+          "opcion": "C",
+          "texto": "Permitir uso libre sin control"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar hablar del tema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incentivar el aislamiento digital"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control parental razonable y el diálogo previenen el uso excesivo o riesgoso de internet."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el enfoque adecuado ante el inicio de consumo de tabaco en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sancionar sin diálogo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educar sobre consecuencias y ofrecer apoyo para cesar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Minimizar el problema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fomentar el uso controlado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislar al adolescente del grupo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La educación y acompañamiento permiten una intervención temprana y efectiva en el cese del consumo."
+    },
+    {
+      "numero": "11",
+      "texto": "Un factor de riesgo importante para la conducta sexual precoz es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta autoestima"
+        },
+        {
+          "opcion": "B",
+          "texto": "Educación sexual integral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo de alcohol y drogas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Supervisión parental constante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Buena relación familiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El consumo de alcohol y drogas se asocia a desinhibición y conductas sexuales tempranas no protegidas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes comportamientos requiere evaluación de riesgo suicida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dificultades escolares leves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento social, tristeza y verbalización de deseos de morir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irritabilidad transitoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambios de humor leves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las verbalizaciones sobre muerte y aislamiento social requieren evaluación inmediata de riesgo suicida."
+    },
+    {
+      "numero": "13",
+      "texto": "El rol del pediatra frente a conductas de riesgo incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo derivar a psiquiatría"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar precozmente, orientar y coordinar apoyo familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar hablar de temas sensibles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tratar exclusivamente con los padres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prescribir fármacos sin evaluación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pediatra cumple un rol clave en la detección precoz y acompañamiento integral del adolescente y su familia."
+    },
+    {
+      "numero": "14",
+      "texto": "Una característica de la adolescencia que favorece las conductas de riesgo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Madurez emocional completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmadurez del control de impulsos y búsqueda de sensaciones nuevas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio del pensamiento lógico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor planificación a largo plazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción de la influencia del grupo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La búsqueda de nuevas experiencias y el escaso control de impulsos aumentan la vulnerabilidad a conductas de riesgo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes factores escolares actúa como protector?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desvinculación de actividades extracurriculares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relación positiva con profesores y compañeros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bajo compromiso académico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento social"
+        },
+        {
+          "opcion": "E",
+          "texto": "Competencia excesiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El vínculo escolar positivo reduce el riesgo de abandono, consumo y violencia adolescente."
+    },
+    {
+      "numero": "16",
+      "texto": "Una estrategia preventiva efectiva frente al bullying es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ignorar los conflictos entre pares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fomentar programas de convivencia escolar y mediación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dejar que los niños resuelvan solos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sancionar sin acompañamiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la participación de padres"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los programas escolares de convivencia y mediación disminuyen la violencia y promueven ambientes seguros."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida reduce el riesgo de accidentes asociados a conducción en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permitir conducir sin supervisión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prohibir conducir hasta los 25 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Programas de educación vial y cero alcohol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de motocicletas desde los 14 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminación de normas de tránsito"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La educación vial y la política de cero alcohol en conductores jóvenes previenen siniestros viales graves."
+    },
+    {
+      "numero": "18",
+      "texto": "La exposición a redes sociales sin control puede favorecer:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desarrollo empático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento, ansiedad y exposición a riesgos digitales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor rendimiento escolar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Autocontrol emocional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mejor comunicación familiar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso excesivo de redes sin control puede generar dependencia, ansiedad y exposición a ciberacoso o grooming."
+    },
+    {
+      "numero": "19",
+      "texto": "Una intervención preventiva en salud mental eficaz en adolescentes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Promover espacios de participación y escucha activa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar hablar sobre emociones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reforzar el aislamiento frente al estrés"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fomentar la competitividad extrema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la comunicación familiar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El acompañamiento empático y la escucha activa promueven salud mental y previenen conductas autodestructivas."
+    },
+    {
+      "numero": "20",
+      "texto": "La prevención primaria en conductas de riesgo se orienta a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar que aparezcan los factores de riesgo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rehabilitar al joven afectado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratar secuelas psicológicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar recaídas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Restringir libertades"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prevención primaria busca intervenir antes de que aparezcan las conductas de riesgo, fortaleciendo factores protectores."
+    }
+  ]
+}

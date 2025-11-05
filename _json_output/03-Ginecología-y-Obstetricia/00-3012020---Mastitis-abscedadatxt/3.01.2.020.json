@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.2.020",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.2.020 - Mastitis abscedada.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La mastitis abscedada se diferencia de la mastitis puerperal simple porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se acompaña de dolor abdominal difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presenta una colección purulenta localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "No se asocia a fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "No altera el estado general"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se resuelve espontáneamente sin tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mastitis abscedada se caracteriza por la formación de un absceso con colección purulenta localizada."
+    },
+    {
+      "numero": "2",
+      "texto": "El agente causal más frecuente de la mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus agalactiae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteus mirabilis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Staphylococcus aureus es el principal agente causal de mastitis y abscesos mamarios."
+    },
+    {
+      "numero": "3",
+      "texto": "El síntoma más característico de la mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor focalizado y fluctuante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre prolongada sin dolor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción sanguinolenta del pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento difuso del tamaño mamario sin dolor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema en extremidades"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El dolor localizado con fluctuación en la zona de la mama es característico de absceso mamario."
+    },
+    {
+      "numero": "4",
+      "texto": "La complicación más frecuente de la mastitis puerperal mal tratada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Absceso mamario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer de mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fístula entero-cutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenoma hipofisario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Galactorrea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El absceso mamario es la complicación más común de la mastitis puerperal no tratada oportunamente."
+    },
+    {
+      "numero": "5",
+      "texto": "El diagnóstico de confirmación de mastitis abscedada se realiza mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mamografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía mamaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía mamaria permite identificar la colección purulenta y guiar drenaje si es necesario."
+    },
+    {
+      "numero": "6",
+      "texto": "El tratamiento de elección de la mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos orales solamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresas calientes y reposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Drenaje quirúrgico o aspiración más antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender la lactancia de inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radioterapia localizada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo requiere drenaje del absceso más antibióticos efectivos contra Staphylococcus aureus."
+    },
+    {
+      "numero": "7",
+      "texto": "El antibiótico de primera elección en mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clindamicina o dicloxacilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Clindamicina o dicloxacilina son de primera elección, considerando cobertura frente a S. aureus."
+    },
+    {
+      "numero": "8",
+      "texto": "En la mastitis abscedada, la lactancia materna:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Debe suspenderse por completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Debe continuar salvo contraindicación absoluta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Está prohibida hasta terminar el antibiótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se sustituye siempre por fórmula"
+        },
+        {
+          "opcion": "E",
+          "texto": "No tiene ninguna recomendación clara"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lactancia puede continuar en la mayoría de los casos, salvo contraindicación médica."
+    },
+    {
+      "numero": "9",
+      "texto": "La zona más frecuentemente afectada por mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cuadrante superior externo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuadrante inferior interno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aréola y pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuadrante inferior externo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toda la mama de forma difusa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cuadrante superior externo es la localización más común de abscesos mamarios."
+    },
+    {
+      "numero": "10",
+      "texto": "El principal factor predisponente de mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estasis láctea y fisuras del pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antecedentes de cáncer de mama"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estasis láctea y las fisuras en el pezón facilitan la entrada de bacterias y abscesificación."
+    },
+    {
+      "numero": "11",
+      "texto": "En la mastitis abscedada, el drenaje quirúrgico se indica cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El absceso es menor a 2 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Existe colección purulenta grande o recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "La paciente no presenta fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se trata de mastitis subclínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "La paciente rechaza antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje quirúrgico se realiza en colecciones purulentas grandes o refractarias a punción."
+    },
+    {
+      "numero": "12",
+      "texto": "Un hallazgo clínico característico de mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fluctuación a la palpación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retracción del pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificaciones en mamografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Galactorrea bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mastalgia cíclica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fluctuación a la palpación refleja presencia de colección purulenta subyacente."
+    },
+    {
+      "numero": "13",
+      "texto": "El diagnóstico diferencial más importante de mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cáncer inflamatorio de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibroadenoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Galactocele"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ectasia ductal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quiste simple de mama"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cáncer inflamatorio puede simular mastitis abscedada y debe descartarse cuidadosamente."
+    },
+    {
+      "numero": "14",
+      "texto": "La complicación más grave de una mastitis abscedada no tratada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Galactocele"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibroadenoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplasia medular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipogalactia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sepsis es la complicación más grave de un absceso mamario no drenado oportunamente."
+    },
+    {
+      "numero": "15",
+      "texto": "La recurrencia de mastitis abscedada se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspensión temprana de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de anticonceptivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carencia de vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menopausia precoz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio intenso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La suspensión prematura de antibióticos favorece recurrencias del proceso infeccioso."
+    },
+    {
+      "numero": "16",
+      "texto": "El manejo quirúrgico preferido de la mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mastectomía parcial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incisión y drenaje"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resección segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuadrantectomía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histerectomía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento quirúrgico estándar es incisión y drenaje del absceso mamario."
+    },
+    {
+      "numero": "17",
+      "texto": "La vía más frecuente de infección en mastitis abscedada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por fisuras del pezón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por vía urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transplacentaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las fisuras del pezón facilitan la entrada de bacterias causantes de mastitis abscedada."
+    },
+    {
+      "numero": "18",
+      "texto": "La conducta frente a un absceso mamario pequeño y superficial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos solamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punción aspirativa guiada por ecografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mastectomía radical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión definitiva de lactancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación sin tratamiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En abscesos pequeños y superficiales se puede realizar punción aspirativa guiada por ecografía."
+    },
+    {
+      "numero": "19",
+      "texto": "La principal medida preventiva de mastitis abscedada en puerperio es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactancia a libre demanda con vaciamiento completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos profilácticos de rutina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suspensión temprana de lactancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de ropa ajustada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dieta rica en hierro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El vaciamiento completo y frecuente de la mama evita la estasis láctea, previniendo mastitis y abscesos."
+    }
+  ]
+}

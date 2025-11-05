@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.013",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.013 - Cancer cervicouterino.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal factor de riesgo para cáncer cervicouterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección persistente por VPH de alto riesgo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso prolongado de anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menarquia precoz"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La infección persistente por VPH oncogénico (16 y 18 principalmente) es el principal factor de riesgo."
+    },
+    {
+      "numero": "2",
+      "texto": "El método más eficaz para prevenir cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de anticonceptivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación contra VPH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papanicolaou anual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de preservativo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacunación contra VPH previene la infección persistente, principal causa del cáncer cervicouterino."
+    },
+    {
+      "numero": "3",
+      "texto": "El cáncer cervicouterino se origina con mayor frecuencia en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endometrio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zona de transformación del cuello uterino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Istmo uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vagina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de los cánceres se originan en la zona de transformación, donde ocurre la metaplasia escamosa."
+    },
+    {
+      "numero": "4",
+      "texto": "El síntoma más común en cáncer cervicouterino invasor es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia postcoital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secreción vaginal espesa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hemorragia postcoital es el síntoma más frecuente y orientador en etapas iniciales invasoras."
+    },
+    {
+      "numero": "5",
+      "texto": "El tipo histológico más frecuente de cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adenocarcinoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma escamoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinosarcoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Melanoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El carcinoma escamoso representa alrededor del 70-80% de los casos de cáncer cervicouterino."
+    },
+    {
+      "numero": "6",
+      "texto": "La prueba de tamizaje más utilizada para cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colposcopia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Papanicolaou"
+        },
+        {
+          "opcion": "C",
+          "texto": "Biopsia dirigida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA-125"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Papanicolaou es el método de tamizaje más usado para detectar lesiones precancerosas."
+    },
+    {
+      "numero": "7",
+      "texto": "El virus del papiloma humano tipo 16 se asocia principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones de bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Condilomas acuminados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer escamoso de cérvix"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenocarcinoma gástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma de ovario"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VPH 16 es el tipo más oncogénico, asociado a carcinoma escamoso de cérvix."
+    },
+    {
+      "numero": "8",
+      "texto": "El hallazgo colposcópico típico en lesión de alto grado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epitelio acetoblanco denso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Punteado fino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epitelio normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quistes de Naboth"
+        },
+        {
+          "opcion": "E",
+          "texto": "Úlceras extensas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El epitelio acetoblanco denso y mosaico grosero orientan a lesiones intraepiteliales de alto grado."
+    },
+    {
+      "numero": "9",
+      "texto": "El cáncer cervicouterino en etapa temprana se trata principalmente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radioterapia exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quimioterapia exclusiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Histerectomía radical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Examen expectante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia hormonal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En etapas tempranas, el tratamiento de elección es la histerectomía radical con linfadenectomía pélvica."
+    },
+    {
+      "numero": "10",
+      "texto": "La FIGO clasifica el cáncer cervicouterino principalmente según:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imagenología"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hallazgos quirúrgicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación clínica y extensión tumoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcadores tumorales"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La clasificación FIGO se basa en criterios clínicos y extensión tumoral, complementada con imágenes y patología."
+    },
+    {
+      "numero": "11",
+      "texto": "La invasión parametrial corresponde a qué etapa FIGO:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IA1"
+        },
+        {
+          "opcion": "B",
+          "texto": "IB2"
+        },
+        {
+          "opcion": "C",
+          "texto": "IIA"
+        },
+        {
+          "opcion": "D",
+          "texto": "IIB"
+        },
+        {
+          "opcion": "E",
+          "texto": "IIIB"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La invasión parametrial sin llegar a pared pélvica corresponde a estadio IIB según FIGO."
+    },
+    {
+      "numero": "12",
+      "texto": "La principal vía de diseminación del cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hematógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritoneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transcelómica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Directa al ovario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diseminación inicial más frecuente es linfática hacia ganglios pélvicos y paraaórticos."
+    },
+    {
+      "numero": "13",
+      "texto": "Una complicación tardía frecuente de la radioterapia en cáncer de cérvix es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cistitis actínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peritonitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perforación uterina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cistitis actínica y la proctitis son complicaciones tardías comunes de la radioterapia pélvica."
+    },
+    {
+      "numero": "14",
+      "texto": "El adenocarcinoma de cérvix se origina en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epitelio escamoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epitelio glandular endocervical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epitelio vaginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epitelio endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epitelio transicional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El adenocarcinoma cervical surge del epitelio glandular endocervical."
+    },
+    {
+      "numero": "15",
+      "texto": "La edad pico de incidencia de cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20-30 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "30-40 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "40-50 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "60-70 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adolescencia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayor incidencia ocurre entre los 40 y 50 años de edad."
+    },
+    {
+      "numero": "16",
+      "texto": "La técnica de diagnóstico confirmatorio para cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colposcopia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia dirigida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citología exfoliativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de VPH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía transvaginal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diagnóstico definitivo se establece mediante biopsia dirigida de la lesión sospechosa."
+    },
+    {
+      "numero": "17",
+      "texto": "La principal medida de salud pública para disminuir la mortalidad por cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia hormonal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación y tamizaje sistemático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia temprana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía preventiva en adolescentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quimioterapia profiláctica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de vacunación y programas de tamizaje ha demostrado reducir la mortalidad."
+    },
+    {
+      "numero": "18",
+      "texto": "La metástasis a distancia más frecuente del cáncer cervicouterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ovario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El pulmón es el sitio más común de metástasis a distancia en cáncer cervicouterino."
+    },
+    {
+      "numero": "19",
+      "texto": "Una mujer con cáncer de cérvix estadio IA1 puede ser tratada con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Histerectomía radical obligatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vigilancia sin intervención"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En enfermedad muy inicial (IA1), la conización es tratamiento suficiente en mujeres jóvenes."
+    }
+  ]
+}

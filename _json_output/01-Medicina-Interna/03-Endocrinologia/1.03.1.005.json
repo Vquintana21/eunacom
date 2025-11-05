@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.005",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hipotiroidismo permanente en áreas con ingesta adecuada de yodo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis subaguda de De Quervain"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroiditis posparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis infecciosa aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis fibrosa de Riedel"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tiroiditis de Hashimoto es la causa más común de hipotiroidismo crónico en zonas sin déficit de yodo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué anticuerpo es más característico de la tiroiditis de Hashimoto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anti-TPO"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antitiroglobulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antirreceptor de TSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticuerpos bloqueantes de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anti-T3"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los anticuerpos anti-peroxidasa tiroidea (anti-TPO) son los más específicos y frecuentes en Hashimoto."
+    },
+    {
+      "numero": "3",
+      "texto": "La tiroiditis subaguda de De Quervain se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroides indolora"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroides dolorosa tras infección viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroides pétrea no dolorosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis purulenta bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis asociada a hipertiroidismo persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiroiditis subaguda suele seguir a una infección viral y cursa con dolor tiroideo intenso y fiebre."
+    },
+    {
+      "numero": "4",
+      "texto": "En la tiroiditis de Hashimoto, la ecografía muestra típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glándula hiperecogénica homogénea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glándula hipoecogénica heterogénea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulo único cálido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microcalcificaciones difusas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia con patrón anecoico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La infiltración linfocitaria genera una glándula hipoecogénica y heterogénea al ultrasonido."
+    },
+    {
+      "numero": "5",
+      "texto": "La fase inicial de la tiroiditis subaguda cursa con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eutiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo permanente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo transitorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crisis mixedematosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de TSH con T4 alta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La liberación de hormona tiroidea preformada por destrucción folicular genera un hipertiroidismo transitorio."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la característica distintiva de la tiroiditis aguda supurativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Causa viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor intenso y fiebre con leucocitosis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de síntomas sistémicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asociación con anticuerpos anti-TPO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evolución a hipertiroidismo crónico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiroiditis aguda bacteriana produce fiebre, dolor intenso y signos de infección localizada con leucocitosis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de tiroiditis se asocia a fibrosis densa que invade estructuras adyacentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hashimoto"
+        },
+        {
+          "opcion": "B",
+          "texto": "De Quervain"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riedel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pós-parto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crónica linfocitaria leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tiroiditis de Riedel se caracteriza por fibrosis tiroidea extensa que puede infiltrar tejidos vecinos."
+    },
+    {
+      "numero": "8",
+      "texto": "La tiroiditis posparto es una forma de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis autoinmune"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroiditis viral aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroiditis infecciosa bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma diferenciado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis inducida por litio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiroiditis posparto es una forma autoinmune similar a Hashimoto, que ocurre meses después del parto."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alteración hormonal se observa en la fase final de la tiroiditis subaguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eutiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo transitorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "TSH suprimida"
+        },
+        {
+          "opcion": "E",
+          "texto": "T3 elevada con T4 baja"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Tras la fase de hipertiroidismo, puede presentarse hipotiroidismo transitorio antes de la recuperación funcional."
+    },
+    {
+      "numero": "10",
+      "texto": "La PAAF en tiroiditis de Hashimoto muestra típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrófilos y abscesos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células de Hürthle y linfocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis extensa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células epiteliales malignas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cristales de colesterol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La infiltración linfocitaria y las células de Hürthle son hallazgos citológicos típicos en Hashimoto."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento principal de la tiroiditis subaguda de De Quervain?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides y AINES"
+        },
+        {
+          "opcion": "C",
+          "texto": "Levotiroxina crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yodo radiactivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antitiroideos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antiinflamatorios y corticoides alivian el dolor y reducen la inflamación en la tiroiditis subaguda."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de las siguientes tiroiditis NO es autoinmune?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroiditis posparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroiditis de Riedel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis subaguda granulomatosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis silenciosa"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La tiroiditis subaguda es de origen viral y no autoinmune, a diferencia de las otras formas."
+    },
+    {
+      "numero": "13",
+      "texto": "El cuadro de fiebre, dolor cervical y elevación de VSG con hipertiroidismo transitorio sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroiditis subaguda de De Quervain"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroiditis posparto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis de Riedel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis aguda supurativa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cuadro clásico de dolor y VSG elevada es típico de tiroiditis subaguda granulomatosa (De Quervain)."
+    },
+    {
+      "numero": "14",
+      "texto": "En la tiroiditis posparto, el tratamiento generalmente consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Levotiroxina permanente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antitiroideos y corticoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Manejo sintomático y observación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía tiroidea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yodo radiactivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tiroiditis posparto suele ser autolimitada, requiriendo solo tratamiento sintomático y vigilancia."
+    },
+    {
+      "numero": "15",
+      "texto": "En la tiroiditis infecciosa bacteriana, el germen más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "E. coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Staphylococcus aureus es el agente causal más habitual en tiroiditis bacteriana aguda."
+    },
+    {
+      "numero": "16",
+      "texto": "La tiroiditis de Riedel puede confundirse clínicamente con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma anaplásico de tiroides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bocio simple difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis subaguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma tiroideo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Ambas cursan con tiroides dura e infiltrante, pero Riedel es benigna con fibrosis extensa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la alteración hematológica frecuente en tiroiditis de Hashimoto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Policitemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia normocítica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitosis marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipotiroidismo crónico por Hashimoto se asocia a anemia normocítica por menor eritropoyesis."
+    },
+    {
+      "numero": "18",
+      "texto": "La gammagrafía en la tiroiditis subaguda muestra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Captación aumentada difusa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Captación disminuida o ausente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Captación heterogénea con nódulos calientes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Captación normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Captación periférica irregular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La destrucción folicular impide la captación de yodo radiactivo, resultando en imagen hipocaptante."
+    },
+    {
+      "numero": "19",
+      "texto": "En la tiroiditis posparto, la evolución clínica típica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertiroidismo crónico progresivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo permanente inmediato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fase de hipertiroidismo seguida de hipotiroidismo y recuperación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eutiroidismo persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fase única de hipotiroidismo leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Suele cursar con hipertiroidismo inicial, hipotiroidismo posterior y retorno al eutiroidismo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué característica histológica distingue la tiroiditis subaguda de De Quervain?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado linfocitario difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Granulomas con células gigantes multinucleadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrosis extensa con atrofia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microabscesos bacterianos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de células de Hürthle"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiroiditis subaguda muestra granulomas con células gigantes multinucleadas que engloban coloide roto."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.3.007",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Lactancia materna",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la recomendación de la OMS sobre la duración de la lactancia materna exclusiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hasta los 3 meses de vida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta los 4 meses de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hasta los 6 meses de vida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hasta el año de vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hasta los 2 años de vida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La OMS recomienda lactancia materna exclusiva hasta los 6 meses, sin otros alimentos ni líquidos, salvo medicamentos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hormona es responsable de la producción de leche en la glándula mamaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxitocina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estrógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cortisol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prolactina, secretada por la hipófisis anterior, estimula la síntesis y secreción de leche."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hormona estimula la eyección de la leche durante la succión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxitocina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La oxitocina provoca la contracción de las células mioepiteliales, expulsando la leche hacia los conductos galactóforos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes es un beneficio inmunológico de la lactancia materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del colesterol plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la inmunidad pasiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de inmunoglobulina A secretora"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del riesgo de alergias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Supresión de la flora intestinal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La leche materna contiene IgA secretora que protege las mucosas contra infecciones."
+    },
+    {
+      "numero": "5",
+      "texto": "El calostro se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alto contenido de grasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajo contenido proteico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alto contenido de inmunoglobulinas y proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción a partir de la tercera semana posparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Color blanquecino"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El calostro es rico en inmunoglobulinas y proteínas, con bajo contenido graso y color amarillento."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes componentes de la leche materna favorece el desarrollo del sistema nervioso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácidos grasos poliinsaturados de cadena larga"
+        },
+        {
+          "opcion": "C",
+          "texto": "Caseína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoglobulinas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los ácidos grasos poliinsaturados, especialmente DHA y ARA, son esenciales para la maduración cerebral y visual."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué beneficio materno se asocia a la lactancia exclusiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del riesgo de cáncer de mama"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de peso sostenido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del riesgo de cáncer de ovario y mama"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor incidencia de depresión posparto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor densidad ósea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lactancia prolongada reduce el riesgo de cáncer de mama y ovario en la madre."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué reflejo del lactante facilita el agarre al pecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo de prensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo de Moro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo de búsqueda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo tónico-cervical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflejo plantar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El reflejo de búsqueda orienta al lactante hacia el pezón, facilitando el inicio de la succión."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes fármacos contraindica la lactancia materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Paracetamol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penicilina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Litio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ibuprofeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amoxicilina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El litio pasa a la leche materna y puede provocar toxicidad en el lactante."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué técnica favorece la producción de leche en madres con hipogalactia funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir las tomas diarias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ofrecer agua entre las tomas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la frecuencia de succión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar pezoneras siempre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar contacto piel con piel"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La estimulación frecuente del pezón mediante succión favorece la secreción de prolactina y oxitocina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el signo de un agarre correcto al pecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El pezón queda deformado tras la toma"
+        },
+        {
+          "opcion": "B",
+          "texto": "El bebé succiona solo el pezón"
+        },
+        {
+          "opcion": "C",
+          "texto": "La barbilla toca el pecho y el labio inferior está evertido"
+        },
+        {
+          "opcion": "D",
+          "texto": "El bebé hace ruidos de chasquido"
+        },
+        {
+          "opcion": "E",
+          "texto": "La madre siente dolor constante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En un agarre correcto, el bebé abarca buena parte de la areola y la barbilla toca el pecho."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué componente de la leche materna favorece el desarrollo de la microbiota intestinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteínas séricas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oligosacáridos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácidos grasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los oligosacáridos promueven el crecimiento de bifidobacterias beneficiosas en el intestino del lactante."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes NO es una contraindicación absoluta para lactancia materna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Galactosemia clásica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección materna por VIH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso materno de litio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mastitis en tratamiento antibiótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quimioterapia antineoplásica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La mastitis tratada no contraindica la lactancia; al contrario, continuar amamantando favorece el drenaje."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el contenido aproximado de grasa en la leche materna madura?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0,5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "1%"
+        },
+        {
+          "opcion": "C",
+          "texto": "3-5%"
+        },
+        {
+          "opcion": "D",
+          "texto": "8%"
+        },
+        {
+          "opcion": "E",
+          "texto": "10%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La leche madura contiene entre 3 y 5% de grasa, fundamental para el crecimiento y aporte calórico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué patología puede presentarse en el recién nacido alimentado con leche de vaca antes de los 6 meses?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergia alimentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de vitamina D"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La introducción precoz de proteínas heterólogas puede inducir alergia alimentaria mediada por IgE o no IgE."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es una señal de hambre temprana en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Llanto intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Movimientos de succión o búsqueda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agitación generalizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coloración rojiza de la piel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotonía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los movimientos de búsqueda o succión indican hambre temprana y facilitan un amamantamiento tranquilo."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de leche se produce en mayor cantidad al final de la toma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leche inicial rica en agua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leche intermedia con bajo contenido graso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leche final rica en grasa y calorías"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leche transicional baja en lactosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calostro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La leche final tiene más grasa y energía, favoreciendo la saciedad y ganancia de peso."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuándo se recomienda iniciar la lactancia materna tras el parto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dentro de las primeras 30 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "A las 6 horas de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después del alta hospitalaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "A las 12 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuando la madre se recupere completamente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La OMS recomienda iniciar la lactancia dentro de la primera media hora posparto para estimular la oxitocina y el vínculo."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes prácticas favorece la lactancia materna exitosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Separación prolongada madre-hijo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso precoz de chupete"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contacto piel con piel inmediato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alimentación con horarios estrictos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso rutinario de biberones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El contacto piel con piel inmediato promueve la succión temprana y estimula la lactogénesis."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué elemento de la leche materna facilita la absorción del hierro?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Caseína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fosfato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoglobulina G"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lactosa y factores bioactivos aumentan la biodisponibilidad del hierro en la leche humana."
+    }
+  ]
+}

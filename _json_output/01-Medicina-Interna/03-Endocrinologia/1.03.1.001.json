@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de bocio en el mundo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de yodo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Autoinmunidad tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de litio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neoplasia tiroidea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de yodo es la causa más común de bocio a nivel mundial, especialmente en áreas con baja ingesta de este elemento."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de las siguientes hormonas estimula directamente el crecimiento tiroideo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TRH"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "T3"
+        },
+        {
+          "opcion": "D",
+          "texto": "T4"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somatostatina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TSH, secretada por la hipófisis, estimula la captación de yodo y la proliferación del epitelio folicular tiroideo, favoreciendo el crecimiento glandular."
+    },
+    {
+      "numero": "3",
+      "texto": "El bocio multinodular tóxico se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación de TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción autónoma de hormona tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo clínico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de captación en gammagrafía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de anticuerpos anti-TPO"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bocio multinodular tóxico presenta nódulos que secretan hormona tiroidea en forma autónoma, con TSH suprimida y síntomas de hipertiroidismo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico del bocio simple endémico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de anticuerpos antitiroideos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mutaciones en el receptor de TSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulación crónica por TSH elevada por déficit de yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Destrucción autoinmune del tiroides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la organificación del yodo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En áreas con deficiencia de yodo, la TSH se eleva crónicamente para compensar, estimulando la hipertrofia e hiperplasia tiroidea."
+    },
+    {
+      "numero": "5",
+      "texto": "En el bocio nodular, la gammagrafía tiroidea se utiliza principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar el tamaño del tiroides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar metástasis a distancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Determinar la función de los nódulos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Confirmar tiroiditis subaguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir niveles séricos de tiroglobulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La gammagrafía permite clasificar los nódulos en calientes, tibios o fríos según su actividad funcional en la captación de radioisótopos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo orienta a bocio tóxico difuso (enfermedad de Graves)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "TSH elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "TSH suprimida y TSI positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Captación tiroidea disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulo único frío"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroglobulina baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En Graves, la TSH está suprimida por exceso de T3/T4 y se detectan anticuerpos estimulantes del receptor de TSH (TSI)."
+    },
+    {
+      "numero": "7",
+      "texto": "En un bocio de larga evolución, ¿qué hallazgo ecográfico sugiere malignidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulo anecoico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcificaciones micro puntiformes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Márgenes bien definidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta vascularización periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de crecimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las microcalcificaciones se asocian con carcinoma papilar de tiroides y son un signo ecográfico de sospecha de malignidad."
+    },
+    {
+      "numero": "8",
+      "texto": "El tratamiento de elección para un bocio simple no tóxico por deficiencia leve de yodo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cirugía tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Yodo suplementario en la dieta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antitiroideos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ablación con radioyodo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La corrección del déficit con suplementos o sal yodada suele revertir el bocio en etapas iniciales."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la complicación más temida de un bocio muy grande?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresión traqueal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exoftalmos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis tiroidea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los bocios grandes pueden causar síntomas compresivos como disnea o disfagia por compresión traqueal y esofágica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes fármacos puede inducir bocio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Litio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prednisona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El litio interfiere con la liberación de hormona tiroidea y puede inducir bocio o hipotiroidismo."
+    },
+    {
+      "numero": "11",
+      "texto": "En un paciente con bocio multinodular y TSH normal, la conducta inicial más adecuada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratamiento con antitiroideos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiroidectomía inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía y PAAF de nódulos sospechosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yodo radiactivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación sin estudios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ecografía permite identificar características sospechosas y dirigir la punción aspirativa con aguja fina (PAAF)."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el objetivo del tratamiento con levotiroxina en bocio simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar TSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir la estimulación tiroidea por TSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimular el crecimiento glandular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suprimir T3 y T4"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibir la absorción intestinal de yodo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La levotiroxina reduce la secreción de TSH, lo que puede disminuir el tamaño del bocio si es dependiente de TSH."
+    },
+    {
+      "numero": "13",
+      "texto": "En áreas sin deficiencia de yodo, la causa más frecuente de bocio difuso es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiroiditis de Hashimoto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de yodo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exceso de yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bocio multinodular tóxico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carcinoma medular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiroiditis de Hashimoto causa bocio difuso por infiltración linfocitaria y estimulación autoinmune del tejido tiroideo."
+    },
+    {
+      "numero": "14",
+      "texto": "El bocio retroesternal puede diagnosticarse mejor con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gammagrafía tiroidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "PAAF"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La tomografía computarizada permite evaluar la extensión retroesternal del bocio y su efecto compresivo sobre estructuras mediastínicas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo clínico sugiere bocio tóxico nodular en comparación con Graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de exoftalmos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Captación homogénea en gammagrafía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nódulos hiperfuncionantes múltiples"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edad joven de presentación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos TSI positivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El bocio multinodular tóxico se caracteriza por la presencia de varios nódulos calientes con captación heterogénea."
+    },
+    {
+      "numero": "16",
+      "texto": "En la evaluación del bocio, la determinación de tiroglobulina es útil porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Distingue entre hipertiroidismo y hipotiroidismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evalúa la reserva tiroidea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se eleva en bocios por deficiencia de yodo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Es marcador específico de Graves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Permite medir TSI indirectamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En la deficiencia de yodo, la tiroglobulina aumenta por hiperestimulación de la glándula tiroidea."
+    },
+    {
+      "numero": "17",
+      "texto": "En un paciente con bocio y TSH baja, el siguiente paso diagnóstico debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "PAAF"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gammagrafía tiroidea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación de anti-TPO"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tomografía de cuello"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La gammagrafía permite identificar nódulos autónomos hiperfuncionantes responsables de la supresión de TSH."
+    },
+    {
+      "numero": "18",
+      "texto": "Una complicación postoperatoria temprana de tiroidectomía por bocio es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis tiroidea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocalcemia por hipoparatiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tiroiditis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Horner"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lesión o resección accidental de paratiroides puede producir hipocalcemia postoperatoria inmediata."
+    },
+    {
+      "numero": "19",
+      "texto": "El término 'bocio eutiroideo' implica que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Existe hipertiroidismo leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "El tamaño tiroideo es normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hay aumento del tamaño sin alteración hormonal"
+        },
+        {
+          "opcion": "D",
+          "texto": "La TSH está elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se produce por tumor tiroideo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El bocio eutiroideo describe una glándula aumentada de tamaño pero con función hormonal normal (T3, T4 y TSH normales)."
+    },
+    {
+      "numero": "20",
+      "texto": "Una dieta rica en goitrógenos puede contribuir al desarrollo de bocio porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimula directamente la secreción de T3"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inhibe la captación o organificación del yodo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la degradación de T4"
+        },
+        {
+          "opcion": "D",
+          "texto": "Activa receptores de TSH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la síntesis de tiroglobulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Goitrógenos como los del repollo o mandioca inhiben la captación o utilización del yodo, favoreciendo la hiperestimulación tiroidea."
+    }
+  ]
+}

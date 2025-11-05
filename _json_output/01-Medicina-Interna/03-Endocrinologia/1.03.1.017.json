@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.017",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la alteración principal en el síndrome de secreción inapropiada de ADH (SIADH)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de secreción de aldosterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de ADH con retención de agua libre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de ADH con pérdida de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de secreción de cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del sodio plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SIADH se caracteriza por una liberación excesiva de ADH que produce retención de agua libre e hiponatremia dilucional."
+    },
+    {
+      "numero": "2",
+      "texto": "El hallazgo de laboratorio más característico del SIADH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipernatremia con osmolaridad urinaria baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia con osmolaridad urinaria elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipernatremia con osmolaridad plasmática alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia con osmolaridad urinaria baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normonatremia con poliuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de ADH causa retención de agua, hiponatremia y orina inapropiadamente concentrada con osmolaridad alta."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes fármacos puede inducir SIADH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Demeclociclina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Carbamazepina puede aumentar la liberación o potenciar la acción de la ADH, provocando SIADH."
+    },
+    {
+      "numero": "4",
+      "texto": "La causa paraneoplásica más frecuente de SIADH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carcinoma hepatocelular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Carcinoma microcítico de pulmón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfoma no Hodgkin"
+        },
+        {
+          "opcion": "E",
+          "texto": "Adenocarcinoma de colon"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El carcinoma microcítico de pulmón produce ADH ectópica, siendo la causa paraneoplásica más común de SIADH."
+    },
+    {
+      "numero": "5",
+      "texto": "En el SIADH, el volumen extracelular se encuentra generalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal o ligeramente aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentado con edema marcado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muy disminuido con hipotensión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable dependiendo del sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Aunque hay retención de agua, se establece un equilibrio con natriuresis compensatoria, manteniendo el volumen casi normal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el síntoma neurológico más frecuente en la hiponatremia aguda del SIADH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperreflexia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea y confusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Temblores y sudoración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alucinaciones auditivas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipo persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiponatremia aguda provoca edema cerebral con síntomas como cefalea, confusión y alteración del nivel de conciencia."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el hallazgo característico de laboratorio en el SIADH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Osmolaridad plasmática alta y urinaria baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Osmolaridad plasmática baja y urinaria alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osmolaridad plasmática y urinaria iguales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipernatremia con orina diluida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipernatremia con osmolaridad urinaria alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ADH excesiva concentra la orina (alta osmolaridad) pese a una osmolaridad plasmática baja."
+    },
+    {
+      "numero": "8",
+      "texto": "El diagnóstico de SIADH requiere demostrar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiponatremia con hipovolemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia hipoosmolar con función renal, tiroidea y suprarrenal normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipernatremia y poliuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo secundario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El SIADH se diagnostica por hiponatremia hipoosmolar sin alteraciones en riñón, tiroides o suprarrenales."
+    },
+    {
+      "numero": "9",
+      "texto": "Una característica clave del SIADH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de edema periférico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia con orina diluida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina concentrada pese a hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipernatremia por diuresis osmótica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria con hipervolemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En SIADH, la ADH mantiene la orina concentrada incluso en presencia de hiponatremia plasmática."
+    },
+    {
+      "numero": "10",
+      "texto": "El tratamiento inicial del SIADH leve y asintomático consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infusión de suero salino hipertónico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción hídrica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administración de desmopresina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diálisis de urgencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En casos leves, la restricción hídrica suele ser suficiente para corregir la hiponatremia."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de solución debe utilizarse en casos graves de hiponatremia sintomática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suero fisiológico 0,9%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suero glucosado 5%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suero salino hipertónico 3%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ringer lactato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua libre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En hiponatremia sintomática severa se usa solución salina hipertónica al 3% para elevar el sodio con precaución."
+    },
+    {
+      "numero": "12",
+      "texto": "La corrección rápida de la hiponatremia en SIADH puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mielinólisis pontina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia suprarrenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una corrección rápida del sodio puede provocar desmielinización osmótica o mielinólisis pontina central."
+    },
+    {
+      "numero": "13",
+      "texto": "En el SIADH, el sodio urinario típicamente se encuentra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 10 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 20 y 40 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 40 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Variable según la dieta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de ADH causa natriuresis compensatoria con sodio urinario alto (>40 mEq/L)."
+    },
+    {
+      "numero": "14",
+      "texto": "Una causa farmacológica conocida de SIADH es el uso de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiazidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anfetaminas"
+        },
+        {
+          "opcion": "C",
+          "texto": "ISRS como sertralina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los inhibidores selectivos de recaptación de serotonina pueden inducir SIADH al aumentar la liberación de ADH."
+    },
+    {
+      "numero": "15",
+      "texto": "El SIADH debe diferenciarse principalmente de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes insípida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo y falla suprarrenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "D",
+          "texto": "Feocromocitoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acromegalia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Antes de diagnosticar SIADH deben descartarse hipotiroidismo y deficiencia de cortisol, que también cursan con hiponatremia."
+    },
+    {
+      "numero": "16",
+      "texto": "La osmolaridad plasmática típica en el SIADH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor de 300 mOsm/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 275-295 mOsm/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 275 mOsm/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variable según el pH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Normal en todos los casos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La retención de agua diluye el plasma, reduciendo la osmolaridad por debajo de 275 mOsm/kg."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el efecto de la ADH en el túbulo colector renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la excreción de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estimula la secreción de potasio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la reabsorción de agua libre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye la permeabilidad al agua"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibe la secreción de urea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ADH estimula la inserción de acuaporinas en el túbulo colector, aumentando la reabsorción de agua libre."
+    },
+    {
+      "numero": "18",
+      "texto": "En el manejo del SIADH refractario, se puede utilizar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vaptanes (antagonistas de receptores V2)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Furosemida sola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desmopresina intranasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina de acción rápida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los vaptanes bloquean los receptores V2 de ADH, corrigiendo la retención de agua libre en casos resistentes."
+    },
+    {
+      "numero": "19",
+      "texto": "En pacientes con SIADH, la presión arterial suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta por retención de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muy baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fluctuante con la posición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentada por hipervolemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El equilibrio entre la retención de agua y la natriuresis mantiene la presión arterial dentro de rangos normales."
+    },
+    {
+      "numero": "20",
+      "texto": "En el SIADH, la concentración de ácido úrico sérico suele estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indetectable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fluctuante según el sodio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El SIADH produce hipouricemia por aumento de la excreción renal de ácido úrico debido a expansión de volumen intracelular."
+    }
+  ]
+}

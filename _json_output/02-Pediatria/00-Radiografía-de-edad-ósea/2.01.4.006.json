@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.006",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Radiografía de edad ósea",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el propósito principal de una radiografía de edad ósea en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar el crecimiento craneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Determinar la madurez esquelética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar enfermedades metabólicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Analizar la edad dental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir la densidad ósea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite estimar el grado de madurez del esqueleto y compararlo con la edad cronológica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué proyección radiográfica se utiliza para evaluar la edad ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelvis AP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mano y muñeca izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cráneo lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Columna lumbar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rodilla derecha"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mano y muñeca izquierda incluyen múltiples núcleos de osificación útiles para la estimación de edad ósea."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué método se usa más frecuentemente para interpretar la radiografía de edad ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Risser"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fels"
+        },
+        {
+          "opcion": "C",
+          "texto": "Greulich y Pyle"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silverman"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tanner-Whitehouse"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método de Greulich y Pyle compara la radiografía con un atlas de referencia estándar."
+    },
+    {
+      "numero": "4",
+      "texto": "En el método de Tanner-Whitehouse, la edad ósea se calcula a partir de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Comparación visual con atlas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Puntuación numérica de huesos específicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición del tamaño óseo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación del perímetro craneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinación del crecimiento dental"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se asignan puntuaciones a huesos de la mano y muñeca que se traducen en una edad ósea estimada."
+    },
+    {
+      "numero": "5",
+      "texto": "Una edad ósea retrasada suele observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pubertad precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obesidad exógena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Klinefelter"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hipotiroidismo retrasa la maduración esquelética y el cierre epifisario."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué condición causa una edad ósea adelantada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso constitucional del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pubertad precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de GH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pubertad precoz acelera la maduración ósea debido a la exposición temprana a hormonas sexuales."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el último hueso carpiano en osificarse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grande"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trapecio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pisiforme"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trapezoide"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ganchoso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pisiforme es el último hueso carpiano en aparecer, aproximadamente entre los 9 y 12 años."
+    },
+    {
+      "numero": "8",
+      "texto": "En la radiografía de edad ósea, la fusión de epífisis y metáfisis indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retraso del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio de la pubertad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Madurez esquelética completa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fusión epifisaria completa marca el fin del crecimiento longitudinal del hueso."
+    },
+    {
+      "numero": "9",
+      "texto": "El método de Risser evalúa la madurez ósea a través de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La clavícula medial"
+        },
+        {
+          "opcion": "B",
+          "texto": "El fémur distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "La cresta ilíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "El radio proximal"
+        },
+        {
+          "opcion": "E",
+          "texto": "El húmero distal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Evalúa la osificación de la cresta ilíaca, útil para valorar el crecimiento en adolescentes."
+    },
+    {
+      "numero": "10",
+      "texto": "¿En qué casos se recomienda solicitar radiografía de edad ósea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla baja o pubertad anómala"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad infantil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otitis media aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Está indicada en estudios de talla baja, pubertad precoz o retraso puberal."
+    },
+    {
+      "numero": "11",
+      "texto": "Un niño con edad ósea dos años menor a la cronológica podría tener:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pubertad precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retraso constitucional del crecimiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de vitamina D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperandrogenismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El retraso constitucional cursa con edad ósea inferior, pero crecimiento armónico y benigno."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estructura indica el final del crecimiento longitudinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epífisis distal del radio fusionada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epífisis proximal del fémur abierta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falange proximal sin núcleo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cresta ilíaca inmadura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epífisis de cúbito proximal visible"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fusión completa de la epífisis distal del radio marca el fin del crecimiento."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué atlas fue elaborado con población infantil norteamericana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atlas de Tanner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atlas de Risser"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atlas de Fels"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atlas de Greulich y Pyle"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atlas de Dubowitz"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El atlas de Greulich y Pyle se basa en población infantil caucásica estadounidense."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro radiográfico sugiere crecimiento activo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epífisis fusionadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metáfisis ensanchada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Línea epifisaria abierta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento cortical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suturas cerradas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presencia de línea epifisaria abierta indica que el hueso aún está en crecimiento."
+    },
+    {
+      "numero": "15",
+      "texto": "En niños con hipercortisolismo, la edad ósea suele estar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acelerada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retrasada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Incongruente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de cortisol retrasa la maduración epifisaria y la edad ósea."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes condiciones puede mostrar edad ósea normal pese a talla baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla baja familiar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso constitucional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de GH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La talla baja familiar cursa con edad ósea acorde a la edad cronológica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hueso epifisario suele cerrar primero en la mano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metacarpiano del pulgar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Falange distal del índice"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epífisis del cúbito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Falange distal del meñique"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metacarpiano del anular"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La falange distal del meñique suele fusionarse antes que otras estructuras de la mano."
+    },
+    {
+      "numero": "18",
+      "texto": "La radiografía de edad ósea NO se recomienda realizar en forma repetida cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se ha alcanzado la madurez esquelética"
+        },
+        {
+          "opcion": "B",
+          "texto": "El niño está en crecimiento acelerado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Existen dudas endocrinológicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se sospecha retraso puberal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hay discrepancia entre peso y talla"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe evitarse repetir el examen cuando ya se alcanzó la madurez ósea por exposición innecesaria a radiación."
+    },
+    {
+      "numero": "19",
+      "texto": "El método más preciso para investigación endocrina es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Greulich y Pyle"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tanner-Whitehouse"
+        },
+        {
+          "opcion": "C",
+          "texto": "Risser"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dubowitz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fels"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El método de Tanner-Whitehouse proporciona un análisis cuantitativo reproducible y detallado."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estructura suele usarse como referencia final para madurez esquelética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fémur proximal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epífisis distal del radio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cresta ilíaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clavícula medial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epífisis proximal del húmero"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El cierre de la epífisis proximal del húmero suele coincidir con la madurez esquelética completa."
+    }
+  ]
+}

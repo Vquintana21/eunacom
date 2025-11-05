@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.023",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Shock",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de shock en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anafiláctico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipovolémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neurogénico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El shock hipovolémico es el tipo más frecuente en pediatría, usualmente secundario a deshidratación o hemorragia."
+    },
+    {
+      "numero": "2",
+      "texto": "El signo más precoz de shock en niños es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración del sensorio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La taquicardia es el signo más temprano de shock compensado en niños."
+    },
+    {
+      "numero": "3",
+      "texto": "La presión arterial baja en un niño con shock indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio del shock compensado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shock descompensado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fase de recuperación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estado de ansiedad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración del sistema parasimpático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipotensión es un signo tardío de shock en pediatría y señala descompensación hemodinámica."
+    },
+    {
+      "numero": "4",
+      "texto": "En el shock hipovolémico pediátrico, la reposición inicial con cristaloides debe ser de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 mL/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 mL/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "20 mL/kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "30 mL/kg"
+        },
+        {
+          "opcion": "E",
+          "texto": "40 mL/kg"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El manejo inicial del shock hipovolémico incluye bolos de 20 mL/kg de cristaloides isotónicos."
+    },
+    {
+      "numero": "5",
+      "texto": "En el shock séptico pediátrico, la fisiopatología inicial incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasoconstricción sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasodilatación generalizada y aumento de permeabilidad capilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipovolemia absoluta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shock séptico cursa con vasodilatación sistémica y extravasación capilar que reducen la perfusión efectiva."
+    },
+    {
+      "numero": "6",
+      "texto": "El signo clínico más útil para valorar perfusión periférica en shock es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso femoral palpable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiempo de llenado capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión arterial diastólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temperatura corporal central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tiempo de llenado capilar mayor a 2 segundos es un indicador precoz de mala perfusión periférica."
+    },
+    {
+      "numero": "7",
+      "texto": "En el shock anafiláctico, el fármaco de elección es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salbutamol inhalado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antihistamínico oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hidrocortisona IV"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La adrenalina intramuscular es el tratamiento de primera línea en el shock anafiláctico."
+    },
+    {
+      "numero": "8",
+      "texto": "En el shock cardiogénico pediátrico, el tratamiento inicial debe evitar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de oxígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Expansión rápida con líquidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vasopresores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inotrópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilación mecánica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La expansión rápida con líquidos puede empeorar la congestión pulmonar en el shock cardiogénico."
+    },
+    {
+      "numero": "9",
+      "texto": "El objetivo de la resucitación en shock pediátrico es mantener una diuresis de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.5 mL/kg/h"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mL/kg/h"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 mL/kg/h"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 mL/kg/h"
+        },
+        {
+          "opcion": "E",
+          "texto": "4 mL/kg/h"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diuresis mayor a 1 mL/kg/h indica una perfusión renal adecuada tras la reanimación."
+    },
+    {
+      "numero": "10",
+      "texto": "El shock distributivo incluye principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shock séptico y anafiláctico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shock hipovolémico y cardiogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock obstructivo y neurogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shock hemorrágico y hipoglucémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock adrenal y metabólico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El shock distributivo se caracteriza por vasodilatación sistémica, típico del shock séptico y anafiláctico."
+    },
+    {
+      "numero": "11",
+      "texto": "En el shock séptico refractario, el vasopresor de primera elección es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Noradrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dobutamina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasopresina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La noradrenalina es el vasopresor preferido en el shock séptico refractario tras la reanimación inicial."
+    },
+    {
+      "numero": "12",
+      "texto": "El shock obstructivo pediátrico puede ser causado por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taponamiento cardíaco o neumotórax a tensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sepsis generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intoxicación por beta bloqueadores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El taponamiento cardíaco y el neumotórax a tensión son causas típicas de shock obstructivo."
+    },
+    {
+      "numero": "13",
+      "texto": "El signo de piel moteada con extremidades frías es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Shock séptico caliente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shock séptico frío"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock hipovolémico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shock anafiláctico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock neurogénico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shock séptico frío cursa con vasoconstricción periférica y mala perfusión cutánea."
+    },
+    {
+      "numero": "14",
+      "texto": "En el manejo del shock hipovolémico, se recomienda usar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cristaloides isotónicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Soluciones hipotónicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coloides sintéticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glucosa al 5%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua destilada estéril"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los cristaloides isotónicos como el Ringer Lactato o suero fisiológico son de elección para reposición inicial."
+    },
+    {
+      "numero": "15",
+      "texto": "El parámetro más sensible para detectar hipoperfusión tisular en shock pediátrico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactato sérico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Color de la piel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento del lactato sérico indica hipoperfusión tisular y metabolismo anaerobio temprano."
+    },
+    {
+      "numero": "16",
+      "texto": "La reposición de líquidos debe reevaluarse después de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 2 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada bolo de 20 mL/kg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 10 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Al terminar la reanimación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cada 4 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se debe reevaluar la perfusión después de cada bolo de 20 mL/kg administrado."
+    },
+    {
+      "numero": "17",
+      "texto": "En el shock neurogénico, se observa típicamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia y vasoconstricción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia e hipotensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquipnea y cianosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión y fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso filiforme y extremidades frías"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El shock neurogénico cursa con bradicardia e hipotensión por pérdida del tono simpático."
+    },
+    {
+      "numero": "18",
+      "texto": "El objetivo principal del tratamiento del shock pediátrico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalizar la frecuencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la presión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Restablecer la perfusión tisular adecuada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la diuresis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la taquicardia compensatoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento busca restablecer la perfusión tisular y la oxigenación celular adecuadas."
+    },
+    {
+      "numero": "19",
+      "texto": "El shock compensado se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia y perfusión periférica alterada con presión normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradicardia y apnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia y acidosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Paro cardiorrespiratorio inminente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el shock compensado, la presión se mantiene normal a expensas de taquicardia y vasoconstricción."
+    },
+    {
+      "numero": "20",
+      "texto": "El mejor marcador clínico de respuesta al tratamiento en shock es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuresis y mejoría del sensorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tono muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Temperatura corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de la diuresis y la recuperación del sensorio son indicadores de perfusión efectiva."
+    }
+  ]
+}

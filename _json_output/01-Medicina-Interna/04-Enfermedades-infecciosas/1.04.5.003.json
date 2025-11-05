@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.5.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de sembrar una muestra para cultivo microbiológico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar la resistencia bacteriana a antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar el agente etiológico de una infección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la concentración de leucocitos en la muestra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar la respuesta inmunológica del huésped"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar anticuerpos específicos en suero"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo permite identificar el microorganismo causante de una infección mediante su crecimiento en medios específicos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes medios se utiliza para el cultivo de bacterias Gram negativas entéricas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar chocolate"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar Sabouraud"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar Thayer-Martin"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El agar MacConkey selecciona bacterias Gram negativas y diferencia las lactosa positivas de las negativas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué precaución es esencial antes de sembrar una muestra de orina para cultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agregar antibióticos al recipiente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desinfectar la uretra con alcohol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recolectar la muestra en ayunas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar muestra del chorro medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Centrifugar la orina previamente"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La muestra del chorro medio reduce la contaminación por flora uretral y mejora la validez del cultivo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué instrumento se usa comúnmente para sembrar una muestra en un medio sólido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pipeta graduada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asa bacteriológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tubo de ensayo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Micropipeta automática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Jeringa estéril"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El asa bacteriológica permite distribuir la muestra en el medio para obtener colonias aisladas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la razón principal para usar el método de estriado en placa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Conservar la muestra por más tiempo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obtener crecimiento rápido de bacterias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obtener colonias aisladas para identificación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la concentración bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Facilitar la tinción de Gram"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El método de estriado busca aislar colonias individuales para su posterior identificación y pruebas de sensibilidad."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué condición es indispensable durante la siembra de muestras clínicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ambiente seco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temperatura ambiente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Condiciones asépticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de guantes de látex sin esterilizar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La siembra debe realizarse en condiciones asépticas para evitar contaminación del cultivo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tipo de muestra debe sembrarse inmediatamente tras su obtención?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Líquido cefalorraquídeo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sangre venosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Secreción nasal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El LCR es estéril y su siembra inmediata es crucial para evitar falsos negativos o pérdida de viabilidad bacteriana."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué medio se utiliza para cultivar hongos patógenos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar Sabouraud"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar chocolate"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar manitol salado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El agar Sabouraud favorece el crecimiento de hongos gracias a su pH ácido y alta concentración de glucosa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué parámetro debe controlarse estrictamente durante la incubación de cultivos bacterianos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión atmosférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temperatura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Humedad ambiental"
+        },
+        {
+          "opcion": "D",
+          "texto": "Luz ultravioleta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Concentración de glucosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La temperatura debe mantenerse constante, generalmente a 35-37 °C, para favorecer el crecimiento bacteriano óptimo."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Por qué se utiliza el agar sangre en microbiología clínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permite identificar bacterias hemolíticas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detecta la presencia de hongos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibe bacterias Gram negativas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Selecciona bacterias anaerobias estrictas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorece el crecimiento viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El agar sangre permite observar hemólisis y diferenciar especies bacterianas como estreptococos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el propósito del control de calidad en cultivos bacterianos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Confirmar el diagnóstico clínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Verificar pureza y condiciones de los medios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Identificar microorganismos resistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Probar nuevos antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el tiempo de incubación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control de calidad asegura que los medios y equipos sean adecuados para el crecimiento y aislamiento bacteriano confiable."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de atmósfera requiere Neisseria gonorrhoeae para su cultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aerobia estricta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anaerobia estricta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microaerófila"
+        },
+        {
+          "opcion": "D",
+          "texto": "Capnófila"
+        },
+        {
+          "opcion": "E",
+          "texto": "Facultativa anaerobia"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Neisseria gonorrhoeae necesita una atmósfera rica en CO₂ (capnófila) para crecer adecuadamente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué indica la presencia de colonias puras en una placa de cultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación cruzada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento de múltiples especies"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento exitoso de un microorganismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error en el proceso de siembra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muerte celular por antibióticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las colonias puras reflejan el crecimiento de una sola especie bacteriana, permitiendo una identificación confiable."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el riesgo principal de no respetar la asepsia durante la siembra?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuir el crecimiento bacteriano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Favorecer el crecimiento de hongos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contaminación del cultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción del pH del medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inactivación de enzimas bacterianas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Romper la asepsia permite la contaminación con flora ambiental o de la piel, invalidando los resultados."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué volumen de muestra es ideal para sembrar orina en cultivo cuantitativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.01 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "0.1 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 mL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se usan 0.1 mL de orina para cuantificar el número de colonias por mililitro mediante el asa calibrada."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué indica la ausencia de crecimiento bacteriano tras 48 horas de incubación en un cultivo apropiado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación del medio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Muestra mal conservada o antibióticos previos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exceso de nutrientes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta humedad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso previo de antibióticos o una muestra inadecuadamente conservada pueden impedir el crecimiento bacteriano."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medio se utiliza preferentemente para aislar Staphylococcus aureus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar manitol salado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agar MacConkey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agar Sabouraud"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agar chocolate"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agar sangre de cordero"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El agar manitol salado selecciona estafilococos por su alta concentración de sal y diferencia S. aureus por fermentación de manitol."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Por qué se recomienda sembrar las muestras lo antes posible tras la recolección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Para aumentar la cantidad de microorganismos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Para evitar la muerte o sobrecrecimiento bacteriano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Para mantener la temperatura ambiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Para evitar la evaporación del medio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Para conservar los glóbulos blancos intactos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El retraso en la siembra altera la flora original y puede provocar falsos negativos o contaminación."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué material se utiliza comúnmente para el asa bacteriológica moderna?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Madera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vidrio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Platino o nicromo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plástico rígido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acero inoxidable no esterilizable"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las asas de platino o nicromo permiten calentamiento rápido y repetido para la esterilización por flama."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué se busca lograr con el uso de medios diferenciales en cultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar crecimiento bacteriano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar características metabólicas específicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar el pH del medio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producir esporas bacterianas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Favorecer el crecimiento de hongos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los medios diferenciales distinguen especies según su metabolismo, como la fermentación de azúcares o producción de enzimas."
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.2.010",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico de la intoxicación por monóxido de carbono (CO)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bloqueo de la cadena respiratoria mitocondrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Competencia con el oxígeno por la hemoglobina formando carboxihemoglobina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimulación del centro respiratorio bulbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Destrucción directa del epitelio alveolar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibición de la anhidrasa carbónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El CO se une a la hemoglobina con afinidad 200 veces mayor que el oxígeno, formando carboxihemoglobina y reduciendo el transporte de oxígeno."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la fuente más común de exposición al monóxido de carbono?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cigarrillos electrónicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gases de escape de motores de combustión interna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aerosoles domésticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disolventes orgánicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pesticidas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los gases de escape de motores son una fuente frecuente de CO, especialmente en ambientes cerrados o con mala ventilación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de hipoxia produce la intoxicación por monóxido de carbono?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxia anémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia histotóxica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia hipoxémica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoxia circulatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxia por difusión"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La intoxicación por CO produce hipoxia anémica al reducir la capacidad de transporte de oxígeno de la hemoglobina."
+    },
+    {
+      "numero": "4",
+      "texto": "El color característico de la piel en intoxicaciones graves por CO es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pálido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rosado cereza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ictérico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Moteado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El color rosado cereza se debe a la formación de carboxihemoglobina, que da un tono brillante a la sangre y piel."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el síntoma más frecuente en intoxicaciones leves por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La cefalea es el síntoma más común en intoxicaciones leves por CO y puede acompañarse de náuseas y mareos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué concentración de carboxihemoglobina suele encontrarse en fumadores crónicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2%"
+        },
+        {
+          "opcion": "B",
+          "texto": "5-10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "15-20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "20-30%"
+        },
+        {
+          "opcion": "E",
+          "texto": "0%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los fumadores crónicos pueden tener niveles basales de carboxihemoglobina entre 5 y 10%."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la prueba diagnóstica confirmatoria en la intoxicación por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasometría arterial con oximetría de CO"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma completo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La medición de carboxihemoglobina mediante cooximetría arterial confirma el diagnóstico de intoxicación por CO."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué valor de carboxihemoglobina indica intoxicación grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": ">5%"
+        },
+        {
+          "opcion": "B",
+          "texto": ">10%"
+        },
+        {
+          "opcion": "C",
+          "texto": ">25%"
+        },
+        {
+          "opcion": "D",
+          "texto": ">50%"
+        },
+        {
+          "opcion": "E",
+          "texto": ">70%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una concentración superior al 25% se asocia a síntomas neurológicos y cardiovasculares graves."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el tratamiento inicial más importante en la intoxicación por monóxido de carbono?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar oxígeno al 100%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inducir vómito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar suero glucosado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar diuréticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El oxígeno al 100% desplaza rápidamente al CO de la hemoglobina y acelera su eliminación."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la vida media de la carboxihemoglobina en aire ambiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "2-3 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vida media del CO en aire ambiente es de 2 a 3 horas, reduciéndose a 30-90 minutos con oxígeno al 100%."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué población es más susceptible a los efectos del monóxido de carbono?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adultos jóvenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Niños y embarazadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Personas con anemia falciforme"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deportistas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancianos sedentarios"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El feto y los niños son más vulnerables debido a su mayor tasa metabólica y afinidad fetal por el CO."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el mecanismo por el cual el CO produce lesión tisular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inhibe la citocromo oxidasa mitocondrial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la afinidad de la hemoglobina por el oxígeno restante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reduce la perfusión periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Genera radicales libres tóxicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibe la anhidrasa carbónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El CO aumenta la afinidad de la hemoglobina por el oxígeno, impidiendo su liberación tisular y produciendo hipoxia celular."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué manifestación neurológica puede persistir tras una intoxicación severa por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia postraumática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome neuropsiquiátrico tardío"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceguera cortical reversible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis química"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuralgia periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome neuropsiquiátrico tardío incluye trastornos cognitivos, parkinsonismo y alteraciones de conducta post intoxicación."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo ECG puede observarse en la intoxicación por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bloqueo de rama derecha"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación del ST simulando infarto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas U prominentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia miocárdica por CO puede generar alteraciones tipo infarto con elevación del ST."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tratamiento está indicado en intoxicaciones graves por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenoterapia hiperbárica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoterapia intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antioxidantes orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diuréticos de asa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncodilatadores inhalados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El oxígeno hiperbárico acelera la disociación del CO de la hemoglobina y reduce complicaciones neurológicas."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica diferencia la intoxicación por CO de la cianosis central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La cianosis es más intensa en CO"
+        },
+        {
+          "opcion": "B",
+          "texto": "En CO la piel puede verse rosada pese a la hipoxia"
+        },
+        {
+          "opcion": "C",
+          "texto": "En CO la sangre es oscura y viscosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "En CO hay hipotensión marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "En CO hay aumento del hematocrito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "A diferencia de la cianosis, en la intoxicación por CO la piel puede tener color rosado brillante a pesar de la hipoxia."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué órgano es más sensible al daño por hipoxia inducida por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculo esquelético"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cerebro es el más sensible a la hipoxia, por su alta demanda de oxígeno y metabolismo aeróbico dependiente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes NO es un síntoma típico de intoxicación leve por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mareos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Náuseas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis marcada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fatiga"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La cianosis no se observa en intoxicaciones por CO debido al color brillante de la carboxihemoglobina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la complicación cardíaca más frecuente en intoxicaciones moderadas por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Arritmias ventriculares y isquemia miocárdica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiomiopatía dilatada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El CO produce hipoxia miocárdica que puede desencadenar arritmias o signos de isquemia coronaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué método reduce más rápidamente la vida media de la carboxihemoglobina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilación mecánica convencional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxígeno hiperbárico a 2-3 atmósferas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxígeno al 40% por mascarilla Venturi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxígeno nasal a bajo flujo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo en aire ambiente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El oxígeno hiperbárico reduce la vida media del CO a menos de 30 minutos, siendo el tratamiento más eficaz."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué hallazgo en la gasometría puede inducir a error en la intoxicación por CO?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pH normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaO2 normal con hipoxia tisular"
+        },
+        {
+          "opcion": "C",
+          "texto": "pCO2 disminuida"
+        },
+        {
+          "opcion": "D",
+          "texto": "HCO3 elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis respiratoria leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PaO2 puede ser normal porque mide oxígeno disuelto, no el oxígeno transportado por hemoglobina, lo que oculta la hipoxia real."
+    }
+  ]
+}

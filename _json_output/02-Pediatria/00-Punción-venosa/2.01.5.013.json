@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.5.013",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Punción venosa",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el sitio más utilizado para la punción venosa en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena safena externa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vena yugular interna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vena cubital mediana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vena radial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vena poplítea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vena safena externa, en el tobillo, es de fácil acceso y segura en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de aguja se recomienda para punción venosa en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "16G"
+        },
+        {
+          "opcion": "B",
+          "texto": "18G"
+        },
+        {
+          "opcion": "C",
+          "texto": "22-24G"
+        },
+        {
+          "opcion": "D",
+          "texto": "14G"
+        },
+        {
+          "opcion": "E",
+          "texto": "20G"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las agujas 22-24G son adecuadas para las venas pequeñas del neonato."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué medida básica debe tomarse antes de realizar la punción venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar hidratación oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar torniquete y verificar flujo venoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir temperatura corporal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar monitorización cardíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocar anestesia local siempre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe aplicarse un torniquete para visualizar y distender la vena antes de puncionar."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué acción se recomienda si la punción venosa no tiene retorno sanguíneo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar la aguja inmediatamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambiar el ángulo de inserción y aspirar suavemente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar más presión con el torniquete"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retirar y volver a puncionar en el mismo sitio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inyectar suero fisiológico para permeabilizar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Modificar levemente el ángulo y aspirar puede permitir el ingreso al lumen venoso."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué complicación es más frecuente tras una punción venosa fallida en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección local inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necrosis tisular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flebitis supurada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hematoma es la complicación más común por extravasación de sangre."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué posición debe adoptar un lactante para la punción venosa en extremidad superior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito lateral izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito supino con brazo extendido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Decúbito prono con brazo flexionado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sedente con brazo colgando"
+        },
+        {
+          "opcion": "E",
+          "texto": "Decúbito lateral derecho"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El decúbito supino con el brazo extendido facilita el acceso a venas superficiales."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué técnica de asepsia debe emplearse antes de la punción venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Limpieza con agua y jabón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcohol isopropílico o clorhexidina al 2%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Povidona yodada diluida en agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasas secas estériles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solución salina simple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe realizarse asepsia con alcohol o clorhexidina para reducir riesgo de infección."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el mejor sitio de punción venosa en un niño deshidratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena yugular externa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vena antecubital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vena temporal superficial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vena femoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vena poplítea"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La vena femoral mantiene su llenado en estados de hipovolemia severa."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué debe hacerse tras la retirada de la aguja luego de una punción venosa fallida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cubrir con gasas estériles y aplicar presión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar hielo inmediatamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masajear para dispersar el hematoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dejar sangrar para drenar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar compresa caliente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe aplicarse presión con gasa estéril para evitar hematomas o sangrado."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes es un signo de extravasación durante la punción venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor leve en el sitio de punción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retorno sanguíneo rápido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación y palidez alrededor del sitio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coloración azulada distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del flujo de suero"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La extravasación produce inflamación, palidez y resistencia al flujo del líquido."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué longitud de aguja se prefiere en recién nacidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.5 pulgadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 pulgada"
+        },
+        {
+          "opcion": "C",
+          "texto": "¾ de pulgada"
+        },
+        {
+          "opcion": "D",
+          "texto": "2 pulgadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "0.5 pulgadas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una aguja de ¾ de pulgada reduce el riesgo de perforación venosa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué acción mejora la visualización venosa antes de puncionar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar torniquete y calor local"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aplicar frío"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevar la extremidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar presión distal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masajear el sitio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El calor local dilata los vasos y el torniquete aumenta el llenado venoso."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación puede causar el uso prolongado de un catéter venoso periférico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flebitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Isquemia distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La flebitis ocurre por irritación venosa o contaminación del catéter."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué calibre de catéter se recomienda para infusiones rápidas en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "24G"
+        },
+        {
+          "opcion": "B",
+          "texto": "22G"
+        },
+        {
+          "opcion": "C",
+          "texto": "20G"
+        },
+        {
+          "opcion": "D",
+          "texto": "18G"
+        },
+        {
+          "opcion": "E",
+          "texto": "26G"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El catéter 20G permite buen flujo sin comprometer la integridad venosa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la mejor medida para prevenir infecciones en la punción venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambio diario del catéter"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de guantes estériles y antiséptico adecuado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicación de hielo antes de puncionar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cubrir con apósito oclusivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La asepsia con antiséptico y el uso de guantes estériles previenen infecciones locales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el signo más temprano de flebitis en un sitio de punción venosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor y enrojecimiento local"
+        },
+        {
+          "opcion": "C",
+          "texto": "Supuración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema generalizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Palidez distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor y eritema local son los primeros signos de flebitis en el sitio de punción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué debe hacerse inmediatamente después de confirmar la posición venosa correcta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar la aguja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Iniciar la infusión lentamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fijar el catéter con apósito estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar presión negativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lavar con suero fisiológico"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Debe lavarse con suero fisiológico para confirmar permeabilidad y evitar coágulos."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal diferencia técnica en la punción venosa entre un adulto y un lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de aguja más gruesa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor profundidad y ángulo de inserción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de mayor presión al aspirar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar torniquete"
+        },
+        {
+          "opcion": "E",
+          "texto": "Preferencia por venas profundas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes se utiliza un ángulo más superficial y menor profundidad por el calibre venoso."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué debe hacerse si aparece dolor y edema durante una infusión intravenosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Continuar la infusión con menor velocidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender la infusión inmediatamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevar la extremidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambiar el tipo de suero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar calor local"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor y edema sugieren extravasación; se debe suspender la infusión de inmediato."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué material se debe utilizar para fijar un catéter venoso periférico en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cinta adhesiva común"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gasas secas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apósito estéril transparente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Venda elástica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tela microporosa sin cobertura"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El apósito estéril transparente permite controlar visualmente el sitio de inserción."
+    }
+  ]
+}

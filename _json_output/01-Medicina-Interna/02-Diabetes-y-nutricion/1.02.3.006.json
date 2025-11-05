@@ -1,0 +1,600 @@
+{
+  "codigo": "1.02.3.006",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el factor modificable más importante para prevenir la diabetes mellitus tipo 2 en población general?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad avanzada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obesidad abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antecedentes familiares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sexo masculino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Etnia asiática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obesidad abdominal es el principal factor modificable asociado a resistencia insulínica y desarrollo de DM2."
+    },
+    {
+      "numero": "2",
+      "texto": "En individuos con prediabetes, la intervención más eficaz para prevenir la progresión a DM2 es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de metformina en todos los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Modificación intensiva del estilo de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control anual de glicemia sin intervención"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta cetogénica estricta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del consumo proteico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La modificación intensiva del estilo de vida reduce hasta 58% el riesgo de progresión a diabetes tipo 2."
+    },
+    {
+      "numero": "3",
+      "texto": "Según los estudios del Diabetes Prevention Program (DPP), el objetivo mínimo de reducción de peso para prevenir DM2 es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1% del peso corporal inicial"
+        },
+        {
+          "opcion": "B",
+          "texto": "3% del peso corporal inicial"
+        },
+        {
+          "opcion": "C",
+          "texto": "5-7% del peso corporal inicial"
+        },
+        {
+          "opcion": "D",
+          "texto": "10% del peso corporal inicial"
+        },
+        {
+          "opcion": "E",
+          "texto": "15% del peso corporal inicial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una reducción del 5-7% del peso corporal disminuye significativamente la incidencia de diabetes tipo 2."
+    },
+    {
+      "numero": "4",
+      "texto": "El consumo regular de cereales integrales contribuye a la prevención de DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la glucemia postprandial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la absorción de fibra soluble"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye la resistencia insulínica y la inflamación crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementa el índice glicémico de la dieta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la secreción de glucagón"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los cereales integrales mejoran la sensibilidad insulínica y modulan la respuesta glucémica postprandial."
+    },
+    {
+      "numero": "5",
+      "texto": "El ejercicio físico más recomendado para prevenir la aparición de DM2 es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anaeróbico de alta intensidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aeróbico moderado y regular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio en ayuno prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo entrenamiento de fuerza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercicio intermitente ocasional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio aeróbico moderado y constante mejora la sensibilidad a la insulina y el metabolismo de la glucosa."
+    },
+    {
+      "numero": "6",
+      "texto": "El exceso de grasa visceral favorece la resistencia insulínica por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la liberación de adiponectina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir la secreción de leptina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Liberar citoquinas proinflamatorias y ácidos grasos libres"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar el metabolismo muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir el cortisol plasmático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La grasa visceral libera mediadores inflamatorios que interfieren con la señalización insulínica."
+    },
+    {
+      "numero": "7",
+      "texto": "Una dieta preventiva frente a la DM2 debe caracterizarse por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en grasas saturadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bajo consumo de fibra y frutas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predominio de carbohidratos complejos y grasas insaturadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminación total de carbohidratos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Predominio de proteínas animales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las dietas con carbohidratos complejos y grasas insaturadas favorecen el control metabólico y previenen DM2."
+    },
+    {
+      "numero": "8",
+      "texto": "El tabaquismo se relaciona con el desarrollo de DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la resistencia insulínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce el estrés oxidativo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la inflamación sistémica y resistencia a la insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estimula la secreción de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la captación de glucosa muscular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tabaco induce inflamación crónica y estrés oxidativo, lo que agrava la resistencia a la insulina."
+    },
+    {
+      "numero": "9",
+      "texto": "La privación crónica del sueño aumenta el riesgo de DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la secreción de cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce el apetito y gasto energético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta cortisol y resistencia insulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuye la síntesis de glucógeno hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la lipólisis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sueño insuficiente eleva el cortisol y la resistencia a la insulina, favoreciendo la disglucemia."
+    },
+    {
+      "numero": "10",
+      "texto": "El control del peso corporal en prevención de DM2 se considera exitoso cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se alcanza IMC menor de 30"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se mantiene el peso por al menos 1 año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se logra pérdida de peso rápida en 1 mes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se obtiene IMC menor de 25 de inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se sustituyen carbohidratos por proteínas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La estabilidad ponderal mantenida a largo plazo es clave para reducir el riesgo de diabetes tipo 2."
+    },
+    {
+      "numero": "11",
+      "texto": "La reducción del consumo de bebidas azucaradas ayuda a prevenir DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la resistencia a la leptina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la secreción de insulina basal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reduce los picos hiperglucémicos y la carga calórica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta el metabolismo hepático"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye el colesterol HDL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Menos bebidas azucaradas reduce los picos de glicemia y el exceso calórico, previniendo resistencia insulínica."
+    },
+    {
+      "numero": "12",
+      "texto": "El aumento de la actividad física contribuye a prevenir DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la secreción pancreática de glucagón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la utilización de glucosa muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mejora la captación de glucosa mediada por GLUT4"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta los depósitos de grasa visceral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la oxidación de ácidos grasos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ejercicio activa transportadores GLUT4 que mejoran la captación de glucosa en el músculo."
+    },
+    {
+      "numero": "13",
+      "texto": "En personas con alto riesgo de DM2, el uso de metformina se considera cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IMC <25 y normopeso"
+        },
+        {
+          "opcion": "B",
+          "texto": "IMC ≥35 o edad <60 años con prediabetes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes sin resistencia insulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo con antecedente de hipoglicemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "En ausencia de factores de riesgo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La metformina se indica en personas jóvenes con obesidad y prediabetes persistente para prevenir DM2."
+    },
+    {
+      "numero": "14",
+      "texto": "El patrón alimentario tipo mediterráneo previene DM2 debido a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Su bajo contenido en fibra"
+        },
+        {
+          "opcion": "B",
+          "texto": "El alto consumo de carnes rojas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Su riqueza en grasas monoinsaturadas y antioxidantes"
+        },
+        {
+          "opcion": "D",
+          "texto": "El exceso de sal y alcohol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Su bajo contenido de frutas y verduras"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dieta mediterránea mejora la sensibilidad a la insulina y reduce la inflamación sistémica."
+    },
+    {
+      "numero": "15",
+      "texto": "En la prevención poblacional de DM2, se recomienda un tamizaje de glicemia en ayuno cada:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 meses en toda la población"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 año en mayores de 45 años o con factores de riesgo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 5 años sin importar edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo ante síntomas clínicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en pacientes obesos mórbidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamizaje anual en mayores de 45 años o con riesgo permite detectar prediabetes temprana."
+    },
+    {
+      "numero": "16",
+      "texto": "El estrés crónico favorece el desarrollo de DM2 al:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuir la liberación de cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la secreción de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar cortisol y gluconeogénesis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la resistencia insulínica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibir la lipólisis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cortisol elevado por estrés crónico promueve la gluconeogénesis y resistencia a la insulina."
+    },
+    {
+      "numero": "17",
+      "texto": "El consumo excesivo de grasas trans se asocia a DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la glucemia en ayuno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Promueve inflamación y resistencia insulínica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta el colesterol HDL"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estimula la secreción de incretinas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las grasas trans generan inflamación crónica que favorece la resistencia insulínica y disfunción metabólica."
+    },
+    {
+      "numero": "18",
+      "texto": "El consumo adecuado de fibra diaria recomendado para prevenir DM2 es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 g/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 g/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "25-30 g/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "50 g/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "70 g/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una ingesta de 25-30 g de fibra al día mejora la respuesta glucémica y previene DM2."
+    },
+    {
+      "numero": "19",
+      "texto": "El principal marcador bioquímico utilizado para detectar prediabetes es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glicemia en ayuno de 70 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "HbA1c entre 5.7% y 6.4%"
+        },
+        {
+          "opcion": "C",
+          "texto": "Triglicéridos elevados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cortisol basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina posprandial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una HbA1c entre 5.7% y 6.4% indica alteración del metabolismo glucídico compatible con prediabetes."
+    },
+    {
+      "numero": "20",
+      "texto": "El consumo moderado de café sin azúcar podría asociarse con menor riesgo de DM2 porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la sensibilidad a la insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la inflamación y mejora el metabolismo hepático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la glucemia postprandial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Induce resistencia a la leptina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la secreción de incretinas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El café contiene antioxidantes que reducen la inflamación y mejoran la función hepática y metabólica."
+    },
+    {
+      "numero": "21",
+      "texto": "En la prevención de DM2, se recomienda limitar el tiempo sedentario porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye el gasto calórico y sensibilidad insulínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la lipólisis muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reduce la secreción de glucagón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorece la termogénesis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la oxidación de glucosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El sedentarismo reduce el gasto energético y la sensibilidad insulínica, aumentando el riesgo de DM2."
+    }
+  ]
+}

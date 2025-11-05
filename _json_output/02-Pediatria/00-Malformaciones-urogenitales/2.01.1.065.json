@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.1.065",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Malformaciones urogenitales",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la malformación urogenital más frecuente en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Criptorquidia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocele"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipospadias"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epispadias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vejiga neurogénica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hipospadias es la malformación urogenital más frecuente en varones, caracterizada por la apertura uretral en posición ventral."
+    },
+    {
+      "numero": "2",
+      "texto": "En el hipospadias, ¿qué estructura está desplazada de su posición normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meato uretral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testículo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pene"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escroto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vejiga"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En el hipospadias el meato uretral se localiza en la cara ventral del pene."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la conducta inicial ante el diagnóstico de hipospadias al nacimiento?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Circuncidar inmediatamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esperar corrección espontánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar circuncisión y derivar a urología"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar hormonas masculinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Indicar sondaje uretral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe evitarse la circuncisión, ya que el prepucio puede ser utilizado para la corrección quirúrgica."
+    },
+    {
+      "numero": "4",
+      "texto": "¿A qué edad se recomienda la corrección quirúrgica del hipospadias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antes de los 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 6 y 18 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "A los 3 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "En la pubertad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de los 10 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cirugía debe realizarse entre los 6 y 18 meses para optimizar los resultados funcionales y estéticos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué es la criptorquidia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de testículos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testículo no descendido al escroto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Torsión testicular intrauterina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia testicular bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de hernia escrotal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La criptorquidia es la ausencia del testículo en el escroto por falta de descenso."
+    },
+    {
+      "numero": "6",
+      "texto": "¿A qué edad se considera anormal la persistencia de criptorquidia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 año"
+        },
+        {
+          "opcion": "D",
+          "texto": "2 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "5 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si el testículo no ha descendido espontáneamente antes del año, debe derivarse para corrección quirúrgica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué riesgo a largo plazo presenta la criptorquidia no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hernia umbilical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia prostática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infertilidad y cáncer testicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Varicocele"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La criptorquidia no tratada se asocia a infertilidad y mayor riesgo de cáncer testicular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el estudio de elección para localizar un testículo no palpable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía escrotal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Laparoscopía diagnóstica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gammagrafía testicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "TAC abdominopélvico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La laparoscopía diagnóstica permite localizar y tratar el testículo no palpable."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué caracteriza a la epispadias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apertura uretral en cara dorsal del pene"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de meato uretral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de doble uretra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apertura uretral en el escroto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fimosis severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la epispadias el meato uretral se localiza en la cara dorsal del pene."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué malformación se asocia con mayor frecuencia a la epispadias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Criptorquidia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Extrofia vesical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidrocele"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hernia inguinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipospadias distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La epispadias suele formar parte del complejo de extrofia vesical-epispadias."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de las siguientes es una anomalía renal asociada a malformaciones urogenitales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón poliquístico autosómico recesivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñón en herradura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidronefrosis congénita"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia renal multicística"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Las malformaciones urogenitales pueden coexistir con distintas anomalías renales congénitas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estudio debe realizarse ante una malformación genital ambigua?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía abdominal y pélvica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cariotipo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dosaje hormonal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exploración física detallada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El estudio de genitales ambiguos requiere evaluación multidisciplinaria con cariotipo, ecografía y perfil hormonal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué caracteriza a la extrofia vesical?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Apertura de la uretra en el dorso del pene"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salida de la mucosa vesical por la pared abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de vejiga"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duplicación uretral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción uretral posterior"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La extrofia vesical es la exposición de la mucosa vesical a través de la pared abdominal inferior."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la principal manifestación de la obstrucción uretral posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enuresis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oliguria y vejiga distendida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incontinencia urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria macroscópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal agudo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obstrucción uretral posterior produce dificultad para orinar con distensión vesical y oliguria."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estudio permite confirmar una obstrucción uretral posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecografía renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cistografía miccional"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de pelvis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Urografía excretora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cistografía miccional demuestra el reflujo y la obstrucción uretral posterior."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo ecográfico sugiere válvulas uretrales posteriores en el feto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñones pequeños hiperecogénicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vejiga distendida y dilatación de uréteres"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de líquido amniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñones fusionados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de quistes corticales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vejiga distendida y los uréteres dilatados sugieren obstrucción uretral fetal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué anomalía testicular puede confundirse con hernia inguinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Criptorquidia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocele comunicante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Torsión testicular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Varicocele"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epididimitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hidrocele comunicante puede aumentar de tamaño con el esfuerzo, asemejando una hernia inguinal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué característica es típica de la hipospadias proximal severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curvatura ventral del pene"
+        },
+        {
+          "opcion": "B",
+          "texto": "Apertura uretral en el glande"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de curvatura peneana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meato desplazado al escroto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prepucio completo dorsal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En hipospadias proximal se observa curvatura ventral marcada del pene (chordee)."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes malformaciones urogenitales se asocia a insuficiencia renal crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidrocele simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipospadias distal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Válvulas uretrales posteriores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Criptorquidia unilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epispadias aislado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las válvulas uretrales posteriores pueden causar daño renal progresivo por obstrucción urinaria."
+    }
+  ]
+}

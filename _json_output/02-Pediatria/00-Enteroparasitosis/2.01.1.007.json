@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.007",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Enteroparasitosis",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el parásito más frecuentemente implicado en diarrea crónica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Strongyloides stercoralis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Giardia lamblia causa diarrea crónica con malabsorción y pérdida de peso en niños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué parásito se asocia a prurito anal nocturno en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancylostoma duodenale"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Enterobius vermicularis provoca prurito anal nocturno debido a la migración de las hembras al periné."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué método diagnóstico es más adecuado para detectar Giardia lamblia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Examen de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de Graham"
+        },
+        {
+          "opcion": "C",
+          "texto": "Examen seriado de deposiciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Biopsia duodenal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El examen seriado de deposiciones permite identificar quistes o trofozoítos de Giardia lamblia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tratamiento de elección para giardiasis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mebendazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albendazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitazoxanida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinidazol"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El metronidazol es el tratamiento de elección para giardiasis, efectivo contra trofozoítos y quistes."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes parásitos se transmite principalmente por penetración cutánea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ancylostoma duodenale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hymenolepis nana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ancylostoma duodenale penetra activamente la piel, especialmente en pies descalzos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué manifestación clínica es característica de la infección por Ascaris lumbricoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos y eosinofilia durante fase de migración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea sanguinolenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor epigástrico crónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Erupción cutánea generalizada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Durante la fase de migración pulmonar, Ascaris produce tos seca y eosinofilia (síndrome de Löeffler)."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el principal mecanismo de transmisión de Enterobius vermicularis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingesta de carne cruda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contacto directo persona-persona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Picadura de insectos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agua contaminada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transmisión transplacentaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Enterobius se transmite por autoinoculación o contacto directo con huevos infectantes."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué prueba diagnóstica es más útil para Enterobius vermicularis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coproparasitoscópico simple"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de Graham (cinta adhesiva)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serología ELISA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Examen de sangre periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de abdomen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test de Graham detecta huevos perianales depositados durante la noche por Enterobius."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué antihelmíntico es de elección para Enterobius vermicularis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Praziquantel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mebendazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitazoxanida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloroquina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Mebendazol es el fármaco de elección por su eficacia y baja toxicidad en infecciones por Enterobius."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué parásito se asocia a prolapso rectal en infecciones severas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taenia saginata"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Trichuris trichiura puede causar prolapso rectal en infecciones intensas por irritación del colon."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué característica clínica es típica de la giardiasis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea con sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor abdominal tipo cólico y heces espumosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta y vómitos persistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tenesmo rectal intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prurito anal nocturno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La giardiasis produce diarrea crónica con heces grasosas, espumosas y malolientes."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación puede causar una infección masiva por Ascaris lumbricoides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción intestinal o biliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Úlcera gástrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis autoinmune"
+        },
+        {
+          "opcion": "E",
+          "texto": "Peritonitis química"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los Ascaris pueden causar obstrucción intestinal o migrar a la vía biliar y producir ictericia obstructiva."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué fármaco se usa en el tratamiento de amebiasis intestinal en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mebendazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ivermectina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Praziquantel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Albendazol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El metronidazol es el tratamiento de elección para la amebiasis intestinal causada por Entamoeba histolytica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué signo clínico sugiere infección por Strongyloides stercoralis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urticaria lineal pruriginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea sanguinolenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prolapso rectal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre tifoidea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La larva migrans cutánea de Strongyloides produce urticaria lineal pruriginosa en extremidades."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué medida es clave para prevenir enteroparasitosis en zonas endémicas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de repelentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavado frecuente de manos y frutas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar vacunas vivas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de probióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de mascarilla"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El lavado de manos y alimentos reduce la transmisión fecal-oral de enteroparásitos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parásito intestinal puede causar anemia ferropénica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichuris trichiura"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ancylostoma duodenale"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterobius vermicularis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Ancylostoma duodenale provoca anemia por pérdida crónica de sangre en mucosa intestinal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué examen se utiliza para detectar quistes de Entamoeba histolytica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coproantígeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen de deposiciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serología IgG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia rectal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El examen microscópico de deposiciones permite observar quistes de Entamoeba histolytica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parásito intestinal tiene transmisión por autoinfección interna y externa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Giardia lamblia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobius vermicularis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hymenolepis nana"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Strongyloides stercoralis puede perpetuar la infección por autoinfección interna y externa prolongada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué manifestación clínica puede observarse en infestaciones mixtas por helmintos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anemia, desnutrición y retraso del crecimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea y fiebre alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia colestásica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor óseo generalizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poliuria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las infecciones mixtas por helmintos provocan anemia y malabsorción, generando desnutrición y bajo peso."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué fármaco se utiliza como antiparasitario de amplio espectro en campañas escolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Praziquantel"
+        },
+        {
+          "opcion": "C",
+          "texto": "Albendazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nitazoxanida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clindamicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El albendazol es de amplio espectro y se usa en desparasitación masiva escolar por su seguridad y eficacia."
+    }
+  ]
+}

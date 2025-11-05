@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.2.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué vitamina corresponde a la tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina B1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B3"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina B6"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina B12"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tiamina es la vitamina B1, esencial para el metabolismo energético y la función neurológica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal función metabólica de la tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síntesis de ácidos grasos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cofactor en la descarboxilación de alfa-cetoácidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transporte de electrones en la mitocondria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síntesis de purinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conversión de amoníaco en urea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tiamina actúa como cofactor enzimático en la descarboxilación de alfa-cetoácidos en el metabolismo de carbohidratos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué enfermedad clásica se asocia con el déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pelagra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Beriberi"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escorbuto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia perniciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Raquitismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El beriberi es causado por deficiencia de tiamina y puede presentarse en formas seca (neuropática) o húmeda (cardiaca)."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la forma cerebral del déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Guillain-Barré"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Wernicke"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalopatía hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Korsakoff"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polineuropatía diabética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La encefalopatía de Wernicke es una urgencia neurológica por déficit agudo de tiamina, caracterizada por confusión, ataxia y oftalmoplejía."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tríada clínica define el síndrome de Wernicke?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ataxia, confusión, oftalmoplejía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre, rigidez, temblor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Debilidad, parestesias, hiperreflexia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miosis, ptosis, anhidrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Somnolencia, rigidez, convulsiones"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tríada clásica de Wernicke incluye ataxia, confusión mental y oftalmoplejía, por afectación talámica y mesencefálica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el principal grupo de riesgo para desarrollar déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes obesos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes alcohólicos crónicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atletas de alto rendimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Individuos con hipercolesterolemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El alcoholismo crónico reduce la absorción intestinal y el almacenamiento hepático de tiamina."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estructura cerebral se afecta principalmente en la encefalopatía de Wernicke?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corteza prefrontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipocampo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tálamo y cuerpos mamilares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corteza occipital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerebelo posterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La deficiencia de tiamina daña los cuerpos mamilares y el tálamo medial, esenciales para la memoria y coordinación."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la causa más común del déficit de tiamina en pacientes hospitalizados?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nutrición parenteral sin suplementación vitamínica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exceso de vitamina C"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo elevado de proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de corticoides prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipocalcemia aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La nutrición parenteral prolongada sin tiamina puede causar déficit agudo y encefalopatía de Wernicke."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué alteración metabólica se asocia al déficit de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El déficit de tiamina impide la oxidación del piruvato, acumulando lactato y causando acidosis láctica."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la manifestación cardiovascular del déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Beriberi húmedo con insuficiencia cardíaca de alto gasto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis constrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertrofia concéntrica del ventrículo izquierdo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El beriberi húmedo cursa con insuficiencia cardíaca de alto gasto y edema generalizado por déficit de tiamina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué manifestación neurológica se observa en el beriberi seco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parestesias y debilidad distal simétrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temblores de reposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceguera cortical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones tónico-clónicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemiparesia espástica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El beriberi seco produce neuropatía periférica sensitivo-motora simétrica en extremidades."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué examen confirma el diagnóstico de déficit de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dosificación plasmática de tiamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dosificación de vitamina B12"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dosificación de ácido fólico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La medición directa de tiamina plasmática o la actividad de la transcetolasa eritrocitaria confirman el déficit."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué debe administrarse antes de glucosa en un paciente alcohólico con sospecha de déficit de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiamina intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido fólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bicarbonato de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Administrar glucosa antes de tiamina puede precipitar encefalopatía de Wernicke en pacientes deficientes."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué enzima dependiente de tiamina participa en el ciclo de Krebs?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Piruvato deshidrogenasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hexoquinasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa-6-fosfatasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fumarasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Succinato deshidrogenasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La piruvato deshidrogenasa requiere tiamina como cofactor para convertir piruvato en acetil-CoA."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué órgano tiene mayor demanda de tiamina por su alta actividad metabólica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El cerebro depende del metabolismo aeróbico de la glucosa, por lo que requiere tiamina para su función normal."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el tratamiento del déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tiamina intravenosa 100 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido fólico oral 5 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vitamina B12 intramuscular semanal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riboflavina oral 50 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianocobalamina intravenosa 1 mg/día"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La administración de tiamina IV 100 mg/día es el tratamiento estándar en el déficit agudo."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué tipo de pacientes críticos tienen mayor riesgo de déficit agudo de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes en hemodiálisis o con sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con asma leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pacientes con hipotiroidismo controlado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pacientes con litiasis renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes con artritis reumatoide"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los pacientes sépticos o en hemodiálisis pierden tiamina por catabolismo acelerado y eliminación renal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo en neuroimagen puede observarse en la encefalopatía de Wernicke?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones hipodensas en sustancia blanca frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones en tálamo y cuerpos mamilares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia cortical difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia cerebelosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infarto parietal bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La RM muestra hiperseñales en tálamo y cuerpos mamilares, típicas de la encefalopatía por déficit de tiamina."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué complicación neurológica puede desarrollarse si no se trata el síndrome de Wernicke?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Korsakoff"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epilepsia focal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esclerosis múltiple"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalitis autoinmune"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La falta de tratamiento progresa a síndrome de Korsakoff, con amnesia anterógrada y confabulaciones persistentes."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes alimentos es fuente importante de tiamina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Arroz blanco pulido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carne de cerdo y cereales integrales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aceite vegetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leche descremada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azúcar refinada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La carne de cerdo, legumbres y cereales integrales son fuentes ricas en tiamina."
+    }
+  ]
+}

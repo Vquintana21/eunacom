@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.015",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la medición de glicemia capilar en pacientes con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Monitorear el control glucémico diario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar hiperlipidemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuantificar insulina plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir hemoglobina glicosilada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glicemia capilar permite monitorear las variaciones diarias de glucosa y ajustar la terapia en tiempo real."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué método utilizan los glucómetros para medir la glicemia capilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fotometría enzimática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Potenciometría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amperometría enzimática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espectrofotometría de masa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electroforesis capilar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los glucómetros modernos utilizan el principio de amperometría enzimática con glucosa oxidasa o deshidrogenasa."
+    },
+    {
+      "numero": "3",
+      "texto": "El valor normal de glicemia capilar en ayunas es aproximadamente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40–70 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "70–100 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "100–130 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "130–160 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": ">200 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los valores normales en ayunas oscilan entre 70 y 100 mg/dL en individuos sin diabetes."
+    },
+    {
+      "numero": "4",
+      "texto": "Una glicemia capilar mayor a 200 mg/dL en cualquier momento del día con síntomas clásicos sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome metabólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetoacidosis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prediabetes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una glicemia casual ≥200 mg/dL con síntomas clásicos establece el diagnóstico clínico de diabetes mellitus."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué precaución es importante antes de medir la glicemia capilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frotar el sitio de punción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar el uso de alcohol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavar y secar correctamente las manos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar cualquier tipo de lanceta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Comer inmediatamente antes de la prueba"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Lavar y secar las manos evita falsos resultados por residuos de glucosa o contaminantes."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué rango de glicemia capilar se considera hipoglucemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<60 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "<70 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "<80 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "<90 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "<100 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera hipoglucemia una glicemia capilar inferior a 70 mg/dL, con o sin síntomas."
+    },
+    {
+      "numero": "7",
+      "texto": "La glicemia capilar posprandial debe ser idealmente inferior a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "120 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "140 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "160 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "180 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El valor posprandial recomendado es menor de 140 mg/dL en pacientes bien controlados."
+    },
+    {
+      "numero": "8",
+      "texto": "Un error común que puede alterar los resultados de glicemia capilar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de lanceta estéril"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba en ayunas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presionar excesivamente el dedo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de tiras reactivas nuevas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir después de ejercicio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Presionar el dedo en exceso diluye la muestra con líquido intersticial, generando resultados falsamente bajos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿En qué lugar se recomienda realizar la punción para medir glicemia capilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulpejo central del dedo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zona lateral del dedo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palma de la mano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antebrazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Talón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda el lateral del dedo para reducir el dolor y mejorar el flujo capilar."
+    },
+    {
+      "numero": "10",
+      "texto": "La medición capilar de glucosa difiere de la venosa en que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Siempre es menor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Siempre es mayor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Es equivalente en todos los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depende del momento del día"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depende del nivel de insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glicemia capilar suele ser 10–15 mg/dL mayor que la venosa, especialmente posprandialmente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hormona contrarreguladora puede elevar la glicemia capilar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Somatostatina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Melatonina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcitonina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cortisol estimula la gluconeogénesis y disminuye la sensibilidad a la insulina, elevando la glicemia."
+    },
+    {
+      "numero": "12",
+      "texto": "La variabilidad glicémica en pacientes diabéticos puede evaluarse mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glicemia capilar repetida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil lipídico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoglobina glicosilada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina sérica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La glicemia capilar en diferentes momentos del día permite identificar variaciones significativas en el control glucémico."
+    },
+    {
+      "numero": "13",
+      "texto": "La medición de glicemia capilar es especialmente útil en pacientes tratados con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estatinas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Beta bloqueadores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los pacientes en terapia con insulina requieren controles frecuentes para evitar hipoglucemia o hiperglucemia."
+    },
+    {
+      "numero": "14",
+      "texto": "Una glicemia capilar en ayunas de 110–125 mg/dL corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normalidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prediabetes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diabetes tipo 1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetoacidosis incipiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia reactiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Valores de 110–125 mg/dL en ayunas son compatibles con prediabetes según la ADA."
+    },
+    {
+      "numero": "15",
+      "texto": "El control capilar preprandial en un diabético tipo 2 debe estar idealmente entre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "60–90 mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "70–130 mg/dL"
+        },
+        {
+          "opcion": "C",
+          "texto": "130–180 mg/dL"
+        },
+        {
+          "opcion": "D",
+          "texto": "180–200 mg/dL"
+        },
+        {
+          "opcion": "E",
+          "texto": "200–250 mg/dL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La meta preprandial en diabetes tipo 2 es mantener la glicemia entre 70 y 130 mg/dL."
+    },
+    {
+      "numero": "16",
+      "texto": "Una glicemia capilar persistentemente >250 mg/dL requiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender insulina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumentar la ingesta de azúcares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ajuste del tratamiento y evaluación médica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidratación con soluciones azucaradas"
+        },
+        {
+          "opcion": "E",
+          "texto": "No realizar cambios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Valores >250 mg/dL requieren revisión terapéutica por riesgo de descompensación metabólica o cetoacidosis."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué condición puede generar una glicemia capilar falsamente baja?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoperfusión periférica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección urinaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de esteroides"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoperfusión periférica reduce el flujo sanguíneo capilar y puede subestimar los valores de glucosa."
+    },
+    {
+      "numero": "18",
+      "texto": "Durante el ejercicio, la glicemia capilar puede disminuir por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de glucogenólisis hepática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor sensibilidad a la insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del gasto energético"
+        },
+        {
+          "opcion": "D",
+          "texto": "Liberación de cortisol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del glucagón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ejercicio mejora la sensibilidad insulínica y el uso muscular de glucosa, reduciendo la glicemia."
+    },
+    {
+      "numero": "19",
+      "texto": "En caso de hipoglucemia documentada por glicemia capilar, la conducta inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar 15 g de carbohidratos rápidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar más insulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esperar 2 horas y repetir medición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ejercitar al paciente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de los 15 indica administrar 15 g de carbohidratos simples y reevaluar en 15 minutos."
+    },
+    {
+      "numero": "20",
+      "texto": "El control regular de glicemia capilar contribuye principalmente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir nefropatía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar cáncer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir complicaciones agudas y crónicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mejorar el colesterol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prevenir anemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El monitoreo frecuente permite prevenir complicaciones agudas (hipo/hiperglucemia) y reducir el riesgo de daño microvascular crónico."
+    }
+  ]
+}

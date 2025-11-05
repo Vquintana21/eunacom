@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.1.015",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis venosa profunda de miembros inferiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombos intracardíacos del ventrículo izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Émbolos de líquido amniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombos arteriales coronarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Émbolos grasos por fractura ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mayoría de las embolias pulmonares se originan por trombos desprendidos de las venas profundas de las extremidades inferiores."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal en la embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción del flujo sanguíneo pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del tono bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la presión venosa pulmonar izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vasodilatación pulmonar difusa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trombo obstruye el flujo sanguíneo en la circulación pulmonar, generando hipoxemia y sobrecarga del ventrículo derecho."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma más frecuente de la embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico pleurítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síncope"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea súbita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La disnea súbita es el síntoma más común, resultado de la alteración brusca del intercambio gaseoso."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse en la embolia pulmonar aguda masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Patrón S1Q3T3"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo completo de rama izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación difusa del ST"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas U prominentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El patrón S1Q3T3 refleja sobrecarga aguda del ventrículo derecho, aunque no es específico de embolia pulmonar."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué prueba diagnóstica tiene mayor sensibilidad para embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecocardiografía transtorácica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Angiotomografía pulmonar con contraste"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gammagrafía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La angiotomografía pulmonar con contraste es la prueba de elección por su alta sensibilidad y especificidad."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es un hallazgo clásico en la gasometría arterial de un paciente con embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia e hipocapnia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia e hipercapnia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normoxia e hipercapnia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis metabólica pura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxemia con hipocapnia se debe a hiperventilación secundaria a la alteración del intercambio gaseoso."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el signo radiológico de Westermark en la embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la vascularización pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoperfusión focal distal al émbolo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado alveolar difuso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo de Westermark indica área de hipoperfusión distal al trombo, reflejo de obstrucción vascular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo ecocardiográfico sugiere embolia pulmonar masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia del ventrículo izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación del ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia mitral severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pericárdico leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dilatación del ventrículo derecho refleja sobrecarga de presión por obstrucción del flujo pulmonar."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes factores de riesgo se asocia con embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertermia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticonceptivos orales aumentan la coagulabilidad sanguínea y el riesgo de trombosis venosa profunda."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial recomendado en la embolia pulmonar hemodinámicamente estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombólisis sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticoagulación con heparina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolectomía quirúrgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocación de filtro de vena cava"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia exclusiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anticoagulación con heparina previene la extensión del trombo y nuevas embolias."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la tríada clásica de presentación de la embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor pleurítico, tos y fiebre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea, dolor torácico y hemoptisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síncope, palpitaciones y edema"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis, tos y expectoración purulenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre, ortopnea y disnea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tríada clásica de embolia pulmonar incluye disnea, dolor torácico pleurítico y hemoptisis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué marcador biológico se utiliza para descartar embolia pulmonar en pacientes de bajo riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "B",
+          "texto": "BNP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dímero D"
+        },
+        {
+          "opcion": "D",
+          "texto": "Procalcitonina"
+        },
+        {
+          "opcion": "E",
+          "texto": "LDH"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El dímero D tiene alta sensibilidad; su valor normal permite descartar embolia en pacientes de bajo riesgo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo radiográfico es típico de un infarto pulmonar secundario a embolia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Signo de Westermark"
+        },
+        {
+          "opcion": "B",
+          "texto": "Opacidad en cuña periférica (signo de Hampton)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar completa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax espontáneo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Hampton representa un infarto pulmonar periférico en forma de cuña causado por embolia."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la complicación más grave de la embolia pulmonar masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoxemia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Shock obstructivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía secundaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obstrucción masiva del flujo pulmonar puede causar shock obstructivo y colapso cardiovascular."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué prueba de laboratorio puede elevarse en embolia pulmonar con daño ventricular derecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Troponina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Procalcitonina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transaminasas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La troponina puede elevarse por sobrecarga aguda del ventrículo derecho y daño miocárdico."
+    },
+    {
+      "numero": "16",
+      "texto": "En pacientes con contraindicación a la anticoagulación, ¿qué medida puede prevenir embolias recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embolectomía pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Filtro en vena cava inferior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia antiplaquetaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia prolongada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El filtro en la vena cava inferior evita que los trombos lleguen a la circulación pulmonar."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo hemodinámico puede observarse en la embolia pulmonar masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión arterial pulmonar elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión capilar pulmonar baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión venosa central baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resistencia vascular sistémica baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción del flujo genera hipertensión pulmonar aguda con aumento de la presión arterial pulmonar."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la forma más eficaz de prevención primaria de embolia pulmonar en pacientes quirúrgicos de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de medias de compresión y heparina profiláctica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Movilización temprana únicamente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia con corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxigenoterapia posoperatoria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de heparina de bajo peso molecular y compresión mecánica reduce significativamente el riesgo tromboembólico."
+    },
+    {
+      "numero": "19",
+      "texto": "En la escala de Wells, ¿qué puntaje corresponde a una alta probabilidad clínica de embolia pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 2 puntos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 2 y 4 puntos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor de 6 puntos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exactamente 3 puntos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayor de 10 puntos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un puntaje superior a 6 puntos en la escala de Wells indica alta probabilidad de embolia pulmonar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico orienta a embolia pulmonar masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión y taquicardia severas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta y tos productiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico pleurítico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea leve sin cambios hemodinámicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal aislada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La embolia pulmonar masiva produce colapso cardiovascular con hipotensión y taquicardia severa."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué tratamiento está indicado en embolia pulmonar masiva con inestabilidad hemodinámica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticoagulación oral inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombólisis sistémica con alteplasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heparina subcutánea profiláctica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspirina a altas dosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ventilación mecánica sin anticoagulación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La trombólisis sistémica con alteplasa es el tratamiento de elección en embolia pulmonar masiva con shock o hipotensión."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hirsutismo en mujeres en edad reproductiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tumor ovárico virilizante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de ovario poliquístico (SOP)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia suprarrenal congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de andrógenos exógenos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de ovario poliquístico es la causa más común de hirsutismo, asociado a hiperandrogenismo funcional ovárico."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hormona se encuentra típicamente elevada en el síndrome de ovario poliquístico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estradiol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Progesterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolactina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El SOP cursa con aumento relativo de LH respecto a FSH, lo que estimula la producción de andrógenos ováricos."
+    },
+    {
+      "numero": "3",
+      "texto": "El hirsutismo se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento difuso de vello corporal fino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento excesivo de vello terminal en áreas dependientes de andrógenos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alopecia generalizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de vello en cuero cabelludo grueso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Despigmentación del vello corporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hirsutismo es el crecimiento excesivo de vello terminal en zonas masculinas, debido al exceso de andrógenos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes fármacos puede inducir hirsutismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciclosporina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flutamida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Finasteride"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ciclosporina es un inmunosupresor que puede causar hirsutismo como efecto adverso."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué escala se utiliza para cuantificar el grado de hirsutismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escala de Tanner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escala de Ferriman-Gallwey"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escala de Rotterdam"
+        },
+        {
+          "opcion": "D",
+          "texto": "Índice de Andrógenos Libres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Puntaje de Rotterdam"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La escala de Ferriman-Gallwey evalúa el grado de vello terminal en nueve áreas corporales específicas."
+    },
+    {
+      "numero": "6",
+      "texto": "El hirsutismo con virilización rápida sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hirsutismo idiopático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de ovario poliquístico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tumor secretor de andrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La aparición rápida de hirsutismo y virilización orienta a un tumor ovárico o suprarrenal productor de andrógenos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué enzima está deficiente en la hiperplasia suprarrenal congénita clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "21-hidroxilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "11β-hidroxilasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "17α-hidroxilasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "3β-hidroxiesteroide deshidrogenasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aromatasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de 21-hidroxilasa es la causa más frecuente de hiperplasia suprarrenal congénita y de hirsutismo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué andrógeno se produce principalmente en la glándula suprarrenal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testosterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "DHEA-S"
+        },
+        {
+          "opcion": "C",
+          "texto": "Androstenediona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dihidrotestosterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "17-hidroxiprogesterona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El sulfato de dehidroepiandrosterona (DHEA-S) es el principal andrógeno secretado por la corteza suprarrenal."
+    },
+    {
+      "numero": "9",
+      "texto": "El hirsutismo idiopático se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de testosterona sérica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciclo menstrual irregular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ovulación anormal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Producción normal de andrógenos con sensibilidad aumentada del folículo piloso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevación de DHEA-S"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En el hirsutismo idiopático hay niveles normales de andrógenos, pero sensibilidad folicular aumentada a estos."
+    },
+    {
+      "numero": "10",
+      "texto": "El hallazgo de testosterona total >200 ng/dL sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "SOP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hirsutismo idiopático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tumor productor de andrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia suprarrenal congénita leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de anticonceptivos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una testosterona total >200 ng/dL sugiere origen tumoral ovárico o suprarrenal del exceso de andrógenos."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento farmacológico inicial del hirsutismo en el SOP incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticonceptivos orales combinados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Andrógenos exógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clomifeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibidores de la aromatasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los anticonceptivos orales combinados reducen la producción ovárica de andrógenos y aumentan la SHBG."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué antiandrógeno puede usarse en el tratamiento del hirsutismo severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prednisona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espironolactona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tamoxifeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estradiol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La espironolactona bloquea los receptores de andrógenos y reduce la conversión periférica de testosterona activa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hormona transporta la mayor parte de la testosterona plasmática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Albúmina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Globulina fijadora de hormonas sexuales (SHBG)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Globulina fijadora de cortisol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transtiretina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prealbúmina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La SHBG transporta la mayor parte de la testosterona circulante, regulando su biodisponibilidad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes no se considera una causa de hirsutismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El síndrome de Turner cursa con hipogonadismo y baja producción de andrógenos, no con hirsutismo."
+    },
+    {
+      "numero": "15",
+      "texto": "En el hirsutismo de origen suprarrenal, el marcador más útil es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "C",
+          "texto": "17-hidroxiprogesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insulina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La 17-hidroxiprogesterona elevada orienta a hiperplasia suprarrenal congénita por déficit de 21-hidroxilasa."
+    },
+    {
+      "numero": "16",
+      "texto": "La enzima 5α-reductasa convierte la testosterona en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DHEA-S"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dihidrotestosterona (DHT)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Androstenediona"
+        },
+        {
+          "opcion": "D",
+          "texto": "17-hidroxiprogesterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estradiol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La 5α-reductasa transforma testosterona en DHT, el andrógeno más potente a nivel de folículos pilosos."
+    },
+    {
+      "numero": "17",
+      "texto": "El hirsutismo idiopático se diferencia del SOP porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cursa con amenorrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hay elevación de LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "No hay alteraciones menstruales ni ováricas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Existe resistencia a la insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presenta obesidad central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el hirsutismo idiopático, los ciclos menstruales y los ovarios son normales, sin hiperandrogenismo bioquímico."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué método diagnóstico puede identificar tumores secretores de andrógenos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ultrasonido pélvico o suprarrenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de tolerancia a la glucosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dosificación de estradiol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de GnRH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Densitometría ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ultrasonido o la tomografía pueden detectar masas ováricas o suprarrenales productoras de andrógenos."
+    },
+    {
+      "numero": "19",
+      "texto": "El tratamiento cosmético más efectivo y permanente para el hirsutismo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Depilación con cera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cremas depilatorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rasurado frecuente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depilación láser"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos tópicos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La depilación láser destruye los folículos pilosos de forma más duradera y efectiva que los métodos convencionales."
+    },
+    {
+      "numero": "20",
+      "texto": "En el SOP, la resistencia a la insulina contribuye al hirsutismo porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye la producción de andrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la SHBG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estimula la producción ovárica de andrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibe la LH"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la progesterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperinsulinemia potencia la síntesis ovárica de andrógenos y reduce la SHBG, aumentando la testosterona libre."
+    }
+  ]
+}

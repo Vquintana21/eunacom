@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.015",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "El principal agente causal de las infecciones asociadas a catéteres vasculares es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella pneumoniae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus, especialmente las cepas resistentes a meticilina, es el principal agente asociado a infecciones por catéter."
+    },
+    {
+      "numero": "2",
+      "texto": "El microorganismo más frecuente en infecciones relacionadas con catéteres venosos centrales es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus coagulasa negativo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pseudomonas fluorescens"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acinetobacter baumannii"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los estafilococos coagulasa negativos son los más comunes por su capacidad de formar biopelículas en el catéter."
+    },
+    {
+      "numero": "3",
+      "texto": "La formación de biopelícula en el catéter facilita:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La eliminación del microorganismo por antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "La fagocitosis eficaz por neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "La persistencia bacteriana y resistencia antimicrobiana"
+        },
+        {
+          "opcion": "D",
+          "texto": "La rápida degradación del material plástico"
+        },
+        {
+          "opcion": "E",
+          "texto": "La neutralización del sistema inmune"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las biopelículas permiten la adhesión bacteriana y dificultan la acción de antibióticos y del sistema inmunitario."
+    },
+    {
+      "numero": "4",
+      "texto": "El método diagnóstico más específico para confirmar infección de catéter es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo periférico positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo del extremo del catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de aglutinación en látex"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR de sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemograma con leucocitosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cultivo cuantitativo del extremo del catéter es el método más específico para confirmar infección relacionada."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo clínico más sugestivo de infección asociada a catéter es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre y escalofríos sin otro foco aparente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquipnea persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre y los escalofríos en pacientes con catéter sin otro foco evidente sugieren infección asociada al dispositivo."
+    },
+    {
+      "numero": "6",
+      "texto": "El tiempo diferencial de positividad entre hemocultivos de catéter y periférico >2 horas indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fallo en la toma de muestras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección sistémica no relacionada al catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección relacionada al catéter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contaminación por flora cutánea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endocarditis infecciosa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un hemocultivo positivo antes de 2 horas en muestra del catéter sugiere infección relacionada con el dispositivo."
+    },
+    {
+      "numero": "7",
+      "texto": "Entre los factores de riesgo para infección de catéter se incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de guantes estériles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Duración prolongada del catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inserción en extremidad inferior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cambio frecuente de apósitos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de catéteres impregnados en antimicrobianos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tiempo prolongado de permanencia del catéter aumenta el riesgo de colonización e infección."
+    },
+    {
+      "numero": "8",
+      "texto": "El manejo inicial ante sospecha de infección asociada a catéter incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retiro del catéter y toma de hemocultivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del flujo de infusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cambio inmediato de antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento respiratorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicación de antisépticos tópicos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El retiro del catéter y la obtención de hemocultivos son pasos clave para diagnóstico y tratamiento inicial."
+    },
+    {
+      "numero": "9",
+      "texto": "El microorganismo más relacionado con infecciones severas y complicadas de catéter es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus epidermidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Candida tropicalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bacillus subtilis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Staphylococcus aureus puede causar bacteriemia persistente, endocarditis y sepsis grave en infecciones de catéter."
+    },
+    {
+      "numero": "10",
+      "texto": "El principal reservorio de los patógenos en infecciones de catéteres es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El material del catéter"
+        },
+        {
+          "opcion": "B",
+          "texto": "La piel del paciente en el sitio de inserción"
+        },
+        {
+          "opcion": "C",
+          "texto": "El equipo médico"
+        },
+        {
+          "opcion": "D",
+          "texto": "El aire ambiente del hospital"
+        },
+        {
+          "opcion": "E",
+          "texto": "La solución intravenosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La flora cutánea del sitio de inserción es la fuente más común de contaminación del catéter."
+    },
+    {
+      "numero": "11",
+      "texto": "El uso de clorhexidina en la antisepsia cutánea tiene como objetivo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reducir la fiebre postinserción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir la colonización bacteriana en el punto de inserción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la cicatrización cutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar la necesidad de profilaxis antibiótica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la trombosis del catéter"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La clorhexidina es el antiséptico más eficaz para reducir la colonización cutánea y prevenir infección de catéter."
+    },
+    {
+      "numero": "12",
+      "texto": "El tratamiento antibiótico empírico debe cubrir principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilos gramnegativos entéricos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocos grampositivos, especialmente Staphylococcus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hongos oportunistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anaerobios intestinales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium tuberculosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento empírico debe incluir cobertura para cocos grampositivos como Staphylococcus aureus y coagulasa negativos."
+    },
+    {
+      "numero": "13",
+      "texto": "La presencia de pus en el sitio de inserción del catéter sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección local del punto de inserción"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sepsis urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colonización sin infección"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción alérgica al material"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El exudado purulento en el punto de inserción es un signo de infección local del catéter."
+    },
+    {
+      "numero": "14",
+      "texto": "La duración recomendada del tratamiento antibiótico en bacteriemia por catéter sin complicaciones es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "7 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "10-14 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "21 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 30 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La duración del tratamiento suele ser de 10 a 14 días en infecciones no complicadas tras retirar el catéter."
+    },
+    {
+      "numero": "15",
+      "texto": "El manejo conservador sin retirar el catéter puede considerarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección por Staphylococcus aureus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre sin bacteriemia documentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de absceso en sitio de inserción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección por Candida spp."
+        },
+        {
+          "opcion": "E",
+          "texto": "Bacteriemia persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En casos sin bacteriemia y sin signos locales, puede optarse por manejo conservador y vigilancia estrecha."
+    },
+    {
+      "numero": "16",
+      "texto": "En pacientes con infección por Candida asociada a catéter, la conducta principal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mantener el catéter y usar fluconazol oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retirar el catéter y administrar antifúngico sistémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aplicar antifúngico tópico en el sitio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reemplazar el catéter por otro en la misma vena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspender temporalmente líquidos intravenosos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La candidemia asociada a catéter requiere retirar el dispositivo y administrar antifúngicos sistémicos."
+    },
+    {
+      "numero": "17",
+      "texto": "El uso de catéteres impregnados con antibióticos o antisépticos está indicado en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes con fiebre prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Unidades con alta incidencia de infecciones asociadas a catéter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Todos los pacientes hospitalizados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Casos de sepsis sin foco claro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pacientes pediátricos exclusivamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En entornos con alta incidencia de infecciones, el uso de catéteres impregnados reduce significativamente el riesgo."
+    },
+    {
+      "numero": "18",
+      "texto": "La localización con menor riesgo de infección en catéter venoso central es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subclavia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Yugular interna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Femoral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Basílica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Axilar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vía subclavia tiene menor riesgo de infección comparada con yugular o femoral, aunque mayor riesgo de neumotórax."
+    },
+    {
+      "numero": "19",
+      "texto": "La complicación sistémica más grave de las infecciones asociadas a catéter es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Flebitis superficial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematoma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Celulitis pericatéter"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diseminación hematógena puede causar endocarditis, siendo la complicación sistémica más grave."
+    },
+    {
+      "numero": "20",
+      "texto": "Para prevenir infecciones en catéteres, se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rotar los catéteres cada 48 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar técnica estéril estricta durante la inserción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Limpiar solo con alcohol al 70%"
+        },
+        {
+          "opcion": "D",
+          "texto": "No utilizar apósitos transparentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar antibióticos profilácticos en todos los pacientes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de técnica estéril rigurosa durante la inserción y el mantenimiento del catéter es esencial para prevenir infecciones."
+    }
+  ]
+}

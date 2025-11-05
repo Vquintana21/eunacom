@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.016",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.016 - Enfermedad preinvasora del cuello uterino-Lesiones genitales intraepiteliales (NIE-HPV).txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal agente etiológico de las lesiones intraepiteliales del cuello uterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus Epstein-Barr"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus del papiloma humano (VPH)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Citomegalovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Herpes simple tipo 2"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis B"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El VPH, especialmente los tipos de alto riesgo como 16 y 18, es el principal agente en lesiones intraepiteliales cervicales."
+    },
+    {
+      "numero": "2",
+      "texto": "Las lesiones intraepiteliales escamosas de bajo grado (NIE I/LSIL) se caracterizan por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afectación de todo el espesor epitelial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Involucran solo el tercio inferior del epitelio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transformación glandular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de la membrana basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de metástasis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las lesiones de bajo grado afectan el tercio inferior del epitelio cervical."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo histológico característico de la infección por VPH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Koilocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metaplasia escamosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disqueratosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperplasia glandular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necrosis tisular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La koilocitosis es una alteración nuclear citopática típica de la infección por VPH."
+    },
+    {
+      "numero": "4",
+      "texto": "El cáncer cervicouterino in situ corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "NIE I"
+        },
+        {
+          "opcion": "B",
+          "texto": "NIE II"
+        },
+        {
+          "opcion": "C",
+          "texto": "NIE III"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión de bajo grado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesión benigna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El NIE III equivale a carcinoma in situ porque compromete todo el espesor epitelial sin invadir la membrana basal."
+    },
+    {
+      "numero": "5",
+      "texto": "La prueba de tamizaje más utilizada para lesiones preinvasoras del cuello uterino es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Biopsia dirigida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colposcopía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papanicolaou"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía transvaginal"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA-125"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Papanicolaou es la prueba de tamizaje más difundida y efectiva en la detección temprana de lesiones cervicales."
+    },
+    {
+      "numero": "6",
+      "texto": "El test de VPH es útil porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permite diferenciar entre adenocarcinoma y carcinoma escamoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detecta infección por tipos de alto riesgo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sustituye completamente al Papanicolaou"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identifica lesiones de bajo grado únicamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sirve para estadificación del cáncer"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test de VPH detecta infección por genotipos de alto riesgo, identificando mujeres con riesgo de lesiones precancerosas."
+    },
+    {
+      "numero": "7",
+      "texto": "La lesión intraepitelial de alto grado (HSIL/NIE II-III) se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afectar solo el tercio basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comprometer más de dos tercios del epitelio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ser autolimitada y reversible siempre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nunca progresar a cáncer invasor"
+        },
+        {
+          "opcion": "E",
+          "texto": "No requerir seguimiento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En HSIL el compromiso es de más de dos tercios del espesor epitelial, con alto riesgo de progresión."
+    },
+    {
+      "numero": "8",
+      "texto": "La conducta inicial en una paciente con PAP reportado como ASC-US es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir PAP en 6-12 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conización inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radioterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conducta habitual frente a ASC-US es repetir el PAP o realizar test de VPH para estratificar riesgo."
+    },
+    {
+      "numero": "9",
+      "texto": "El tratamiento de elección para NIE III en una mujer joven con deseo de fertilidad es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radioterapia externa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Expectante sin control"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La conización permite diagnóstico y tratamiento conservador, preservando fertilidad en NIE III."
+    },
+    {
+      "numero": "10",
+      "texto": "Una indicación de colposcopía inmediata es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Papanicolaou normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección vaginal leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resultado de LSIL"
+        },
+        {
+          "opcion": "D",
+          "texto": "Embarazo confirmado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado uterino disfuncional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un reporte de LSIL en PAP justifica colposcopía inmediata para descartar lesiones de mayor grado."
+    },
+    {
+      "numero": "11",
+      "texto": "El VPH de alto riesgo más frecuentemente asociado a lesiones intraepiteliales y cáncer es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tipo 6"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tipo 11"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tipo 16"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tipo 31"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tipo 42"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El VPH 16 es el más oncogénico y se asocia a la mayoría de lesiones de alto grado y cáncer."
+    },
+    {
+      "numero": "12",
+      "texto": "En una paciente con HSIL confirmada, la opción terapéutica inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Histerectomía radical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escisión local (conización)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia exclusiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación prolongada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La escisión local permite diagnóstico definitivo y tratamiento adecuado de HSIL."
+    },
+    {
+      "numero": "13",
+      "texto": "La vacunación contra el VPH previene principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones intraepiteliales de alto y bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cáncer de endometrio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cáncer de ovario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miomas uterinos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cáncer de mama"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vacuna contra VPH previene lesiones intraepiteliales y cáncer cervical causado por VPH de alto riesgo."
+    },
+    {
+      "numero": "14",
+      "texto": "El término LSIL corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión intraepitelial escamosa de bajo grado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión intraepitelial escamosa de alto grado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia escamosa leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cáncer microinvasor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Citología negativa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "LSIL corresponde a lesión intraepitelial escamosa de bajo grado, relacionada a infección por VPH transitoria."
+    },
+    {
+      "numero": "15",
+      "texto": "La progresión de LSIL a cáncer invasor ocurre en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La mayoría de los casos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un bajo porcentaje"
+        },
+        {
+          "opcion": "C",
+          "texto": "El 100% de las pacientes"
+        },
+        {
+          "opcion": "D",
+          "texto": "En 6 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en mujeres mayores de 60 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de LSIL regresan espontáneamente; solo un pequeño porcentaje progresa a cáncer invasor."
+    },
+    {
+      "numero": "16",
+      "texto": "La principal diferencia entre HSIL y carcinoma invasor es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La presencia de mitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "El compromiso del epitelio superficial"
+        },
+        {
+          "opcion": "C",
+          "texto": "La ruptura de la membrana basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "La atipia nuclear"
+        },
+        {
+          "opcion": "E",
+          "texto": "La inflamación perilesional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En HSIL el epitelio está afectado pero la membrana basal permanece intacta; su ruptura define invasión."
+    },
+    {
+      "numero": "17",
+      "texto": "La prueba combinada PAP + VPH se recomienda principalmente en mujeres:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 21 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 25 y 65 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante el embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayores de 70 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con sangrado uterino anormal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El co-test (PAP+VPH) se recomienda en mujeres de 25-65 años para mejor detección de lesiones."
+    },
+    {
+      "numero": "18",
+      "texto": "La principal utilidad de la colposcopía es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Confirmar diagnóstico histológico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orientar la toma de biopsias en lesiones sospechosas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sustituir el Papanicolaou"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar metástasis linfáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinar invasión a distancia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colposcopía permite visualizar lesiones sospechosas y orientar biopsias dirigidas."
+    }
+  ]
+}

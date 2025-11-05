@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.1.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de insuficiencia renal crónica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión arterial esencial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus tipo 2"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lupus eritematoso sistémico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nefropatía obstructiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diabetes mellitus tipo 2 es la principal causa de insuficiencia renal crónica en adultos, debido a la nefropatía diabética progresiva."
+    },
+    {
+      "numero": "2",
+      "texto": "En un paciente diabético con insuficiencia renal, ¿qué parámetro nutricional debe ajustarse primero?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grasa total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingesta de proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta de fibra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ingesta de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ingesta de vitamina C"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La restricción proteica es fundamental para reducir la progresión de la insuficiencia renal y disminuir la carga nitrogenada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal marcador clínico de nefropatía diabética incipiente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteinuria >500 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Microalbuminuria persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Creatinina sérica elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Filtrado glomerular <60 ml/min"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión arterial >140/90 mmHg"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La microalbuminuria persistente es el primer signo de daño renal diabético antes del deterioro del filtrado glomerular."
+    },
+    {
+      "numero": "4",
+      "texto": "En pacientes con nefropatía diabética avanzada, ¿cuál es la meta de ingesta proteica recomendada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1.5 g/kg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.2 g/kg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "0.8 g/kg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": "0.5 g/kg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": "0.3 g/kg/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una dieta con 0.8 g/kg/día de proteínas ayuda a preservar la función renal sin generar desnutrición."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el mecanismo principal del daño renal en la diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltración linfocitaria del glomérulo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Depósito de inmunocomplejos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicosilación no enzimática de proteínas glomerulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Activación del complemento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Isquemia renal crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glicosilación no enzimática de proteínas altera la permeabilidad glomerular y causa daño progresivo."
+    },
+    {
+      "numero": "6",
+      "texto": "En la nefropatía diabética, ¿qué hallazgo histológico es característico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Necrosis fibrinoide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Glomeruloesclerosis nodular (lesión de Kimmelstiel-Wilson)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depósitos subendoteliales de IgA"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia tubular con cilindros hialinos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infiltrado linfoplasmocitario intersticial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La glomeruloesclerosis nodular es patognomónica de la nefropatía diabética avanzada."
+    },
+    {
+      "numero": "7",
+      "texto": "En pacientes diabéticos con insuficiencia renal, ¿qué fármaco debe ajustarse cuidadosamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amlodipino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Losartán"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La metformina se acumula en insuficiencia renal y puede causar acidosis láctica; requiere ajuste o suspensión."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué mineral debe controlarse especialmente en la dieta del paciente diabético con insuficiencia renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zinc"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hierro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cobre"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El potasio se acumula en insuficiencia renal y puede causar arritmias graves, especialmente con hiperglucemia o fármacos IECAs."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de dieta se recomienda en la insuficiencia renal diabética avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alta en proteínas y baja en grasas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moderada en proteínas y baja en sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alta en fibra y sodio restringido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetogénica con control de glucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperproteica con restricción de carbohidratos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una dieta moderada en proteínas y baja en sodio ayuda a controlar la progresión renal y la presión arterial."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes factores acelera la progresión de la nefropatía diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Control estricto de la glucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión arterial no controlada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción de la ingesta de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de IECAs"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pérdida de peso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión no controlada aumenta la presión intraglomerular y acelera el daño renal diabético."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el valor umbral para definir microalbuminuria en 24 horas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<10 mg/día"
+        },
+        {
+          "opcion": "B",
+          "texto": "10–30 mg/día"
+        },
+        {
+          "opcion": "C",
+          "texto": "30–300 mg/día"
+        },
+        {
+          "opcion": "D",
+          "texto": ">300 mg/día"
+        },
+        {
+          "opcion": "E",
+          "texto": ">500 mg/día"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La microalbuminuria se define entre 30 y 300 mg/día y refleja daño glomerular inicial."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes alimentos debe limitarse por su alto contenido de potasio en insuficiencia renal diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Manzana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plátano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arroz blanco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pan integral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pechuga de pollo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El plátano contiene alto potasio, lo cual puede causar hipercalemia en pacientes con función renal disminuida."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué efecto tiene la hiperglucemia crónica sobre el filtrado glomerular inicial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lo disminuye por daño tubular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lo aumenta por hiperfiltración glomerular"
+        },
+        {
+          "opcion": "C",
+          "texto": "No lo modifica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lo reduce transitoriamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lo normaliza"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperglucemia causa hiperfiltración glomerular inicial, lo que precede al daño estructural renal."
+    },
+    {
+      "numero": "14",
+      "texto": "En la nefropatía diabética, ¿cuál es el objetivo terapéutico principal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la diuresis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuir la proteinuria y preservar función renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incrementar la filtración glomerular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eliminar glucosa por orina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el colesterol plasmático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento busca disminuir la proteinuria y preservar la función renal mediante control metabólico y farmacológico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué fármaco tiene efecto protector renal en pacientes con diabetes tipo 2?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidroclorotiazida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Losartán"
+        },
+        {
+          "opcion": "C",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atenolol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nifedipino"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Losartán, un antagonista del receptor de angiotensina II, reduce la proteinuria y retrasa la progresión de la nefropatía."
+    },
+    {
+      "numero": "16",
+      "texto": "En insuficiencia renal diabética, ¿qué parámetro es más confiable para ajustar dosis de fármacos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Urea plasmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina sérica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Filtrado glomerular estimado (eGFR)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Albumina sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Osmolalidad plasmática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El eGFR refleja mejor la función renal real y orienta ajustes de dosis medicamentosas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes grupos de alimentos debe controlarse por su contenido de fósforo en insuficiencia renal diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lácteos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Verduras verdes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frutas cítricas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cereales integrales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carnes rojas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los lácteos contienen alto fósforo, que puede acumularse en insuficiencia renal y causar hiperfosfatemia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué cambio metabólico favorece la acidosis metabólica en la insuficiencia renal diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de excreción de bicarbonato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de excreción de amonio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la síntesis hepática de lactato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del metabolismo de glucosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la reabsorción de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incapacidad renal para excretar amonio limita la eliminación de ácido, generando acidosis metabólica."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes estrategias nutricionales ayuda a controlar la progresión de la insuficiencia renal diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la ingesta proteica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reducir el consumo de sodio y fósforo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar el consumo de frutas ricas en potasio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incrementar la ingesta de calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir la ingesta de carbohidratos complejos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Reducir sodio y fósforo disminuye la sobrecarga renal y previene complicaciones cardiovasculares."
+    },
+    {
+      "numero": "20",
+      "texto": "En pacientes diabéticos dializados, ¿qué nutriente debe suplementarse con mayor atención?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vitamina B12"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido fólico y complejo B"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vitamina A"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina D"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La vitamina D debe suplementarse por la pérdida de su activación renal y el riesgo de osteodistrofia."
+    }
+  ]
+}

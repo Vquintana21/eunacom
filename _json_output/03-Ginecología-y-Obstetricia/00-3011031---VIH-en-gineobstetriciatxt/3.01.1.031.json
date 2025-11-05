@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.031",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.031 - VIH en gineobstetricia.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "La principal vía de transmisión del VIH en mujeres embarazadas es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso compartido de agujas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transmisión vertical madre-hijo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Relaciones sexuales entre mujeres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactancia cruzada entre mujeres"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La transmisión vertical madre-hijo es la principal vía en obstetricia y puede ocurrir intraútero, durante el parto o por lactancia."
+    },
+    {
+      "numero": "2",
+      "texto": "El momento de mayor riesgo de transmisión vertical del VIH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primer trimestre del embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Segundo trimestre del embarazo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tercer trimestre y parto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Periodo posparto inmediato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactancia tardía"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El mayor riesgo de transmisión se produce durante el tercer trimestre y el parto."
+    },
+    {
+      "numero": "3",
+      "texto": "El uso de terapia antirretroviral (TAR) en el embarazo tiene como principal objetivo:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curar la infección en la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar infecciones oportunistas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la transmisión vertical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentar la fertilidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir el riesgo de preeclampsia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La TAR reduce significativamente el riesgo de transmisión vertical del VIH."
+    },
+    {
+      "numero": "4",
+      "texto": "El examen de tamizaje recomendado en embarazadas para VIH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR de VIH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "C",
+          "texto": "ELISA de cuarta generación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunofluorescencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba rápida exclusiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ELISA de cuarta generación detecta antígeno p24 y anticuerpos, siendo la prueba más recomendada para tamizaje."
+    },
+    {
+      "numero": "5",
+      "texto": "El mecanismo de transmisión vertical que puede prevenirse con cesárea electiva es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Transmisión intrauterina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transmisión periparto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transmisión postnatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transmisión por lactancia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transmisión hematógena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cesárea electiva reduce la transmisión periparto, sobre todo si la carga viral es alta."
+    },
+    {
+      "numero": "6",
+      "texto": "La indicación de cesárea electiva en gestante VIH positiva es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toda paciente con VIH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo con CD4 menor a 200"
+        },
+        {
+          "opcion": "C",
+          "texto": "Si carga viral es mayor de 1000 copias/ml"
+        },
+        {
+          "opcion": "D",
+          "texto": "En embarazos múltiples"
+        },
+        {
+          "opcion": "E",
+          "texto": "En pacientes con coinfección por VHC"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cesárea electiva se indica si la carga viral es >1000 copias/ml al final del embarazo."
+    },
+    {
+      "numero": "7",
+      "texto": "En relación a la lactancia en madres VIH positivas, la recomendación más aceptada en países desarrollados es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactancia materna exclusiva hasta los 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactancia mixta con fórmula"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contraindicar la lactancia y usar fórmula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo lactancia nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactancia solo los primeros 2 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En países con acceso seguro a fórmulas, se contraindica la lactancia materna para evitar transmisión postnatal."
+    },
+    {
+      "numero": "8",
+      "texto": "El inicio de TAR en embarazadas con VIH debe realizarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo después de la semana 36"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al confirmarse el diagnóstico, independiente del CD4"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo si CD4 < 350"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante el segundo trimestre"
+        },
+        {
+          "opcion": "E",
+          "texto": "En posparto inmediato"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La TAR debe iniciarse al confirmarse el diagnóstico de VIH en el embarazo, sin esperar el recuento de CD4."
+    },
+    {
+      "numero": "9",
+      "texto": "El antirretroviral contraindicado en el primer trimestre de embarazo por teratogenicidad es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zidovudina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nevirapina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Efavirenz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lamivudina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tenofovir"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El efavirenz se asocia a defectos del tubo neural y está contraindicado en el primer trimestre."
+    },
+    {
+      "numero": "10",
+      "texto": "La profilaxis en recién nacidos de madre VIH positiva consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Zidovudina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nevirapina tópica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lamivudina intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Profilaxis con cefalosporinas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos monoclonales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis estándar es zidovudina oral durante las primeras semanas de vida."
+    },
+    {
+      "numero": "11",
+      "texto": "En relación al control prenatal en mujeres con VIH, es indispensable realizar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de glucosa basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recuento de CD4 y carga viral periódica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estudio de función tiroidea mensual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Examen de anticuerpos antinucleares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control prenatal incluye seguimiento con CD4 y carga viral periódica para ajustar manejo."
+    },
+    {
+      "numero": "12",
+      "texto": "El riesgo de transmisión vertical sin tratamiento puede alcanzar hasta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "25-30%"
+        },
+        {
+          "opcion": "D",
+          "texto": "40%"
+        },
+        {
+          "opcion": "E",
+          "texto": "50%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Sin tratamiento, la transmisión vertical alcanza 25-30%, reduciéndose a <2% con TAR."
+    },
+    {
+      "numero": "13",
+      "texto": "El uso de zidovudina en la gestante VIH positiva reduce principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El riesgo de preeclampsia"
+        },
+        {
+          "opcion": "B",
+          "texto": "El riesgo de parto pretérmino"
+        },
+        {
+          "opcion": "C",
+          "texto": "El riesgo de transmisión vertical"
+        },
+        {
+          "opcion": "D",
+          "texto": "El riesgo de aborto espontáneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "El riesgo de macrosomía fetal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La zidovudina disminuye la transmisión vertical del VIH."
+    },
+    {
+      "numero": "14",
+      "texto": "El método de parto recomendado en gestante VIH positiva con carga viral indetectable es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parto vaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto instrumentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cesárea urgente en todo caso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parto inducido precoz"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si la carga viral es indetectable, se puede realizar parto vaginal seguro."
+    },
+    {
+      "numero": "15",
+      "texto": "Una coinfección frecuente en gestantes con VIH que aumenta riesgo de transmisión vertical es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sífilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Varicela"
+        },
+        {
+          "opcion": "C",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rubeola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxoplasmosis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La sífilis es una coinfección frecuente y aumenta riesgo de transmisión perinatal."
+    },
+    {
+      "numero": "16",
+      "texto": "En el contexto obstétrico, una medida que incrementa el riesgo de transmisión vertical del VIH es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de fórceps"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parto vaginal programado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ruptura prolongada de membranas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos intraparto"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La ruptura prolongada de membranas aumenta la exposición fetal y el riesgo de transmisión."
+    },
+    {
+      "numero": "17",
+      "texto": "El tratamiento antirretroviral preferido en embarazadas incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Efavirenz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tenofovir + Lamivudina + Dolutegravir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ritonavir solo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Interferón alfa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zidovudina en monoterapia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esquema Tenofovir + Lamivudina + Dolutegravir es preferido por eficacia y seguridad."
+    },
+    {
+      "numero": "18",
+      "texto": "El recién nacido de madre VIH positiva debe ser alimentado con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lactancia materna exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactancia mixta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fórmula láctea artificial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lactancia materna intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lactancia donada sin tamizaje"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fórmula láctea artificial se indica para evitar transmisión postnatal cuando es accesible y segura."
+    },
+    {
+      "numero": "19",
+      "texto": "La recomendación de inicio de TAR en mujeres con VIH en edad reproductiva es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo si planean embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Al presentar síntomas"
+        },
+        {
+          "opcion": "C",
+          "texto": "En toda mujer diagnosticada, independiente de CD4"
+        },
+        {
+          "opcion": "D",
+          "texto": "Si CD4 < 500"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Toda mujer con VIH debe iniciar TAR, independiente del recuento de CD4, incluso antes del embarazo."
+    }
+  ]
+}

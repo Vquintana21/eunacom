@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.4.026",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Test del sudor",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación para realizar el test del sudor en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnóstico de asma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sospecha de fibrosis quística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación de deshidratación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diagnóstico de enfermedad celíaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detección de alergias respiratorias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test del sudor es el examen confirmatorio para el diagnóstico de fibrosis quística."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principio del test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Medición de glucosa en el sudor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detección de proteínas plasmáticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cuantificación de cloruro en el sudor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluación de pH sudoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinación de sodio plasmático"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El test mide la concentración de cloruro en el sudor inducido por iontoforesis con pilocarpina."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué método se utiliza para inducir la sudoración en el test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estimulación térmica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ejercicio físico controlado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Iontoforesis con pilocarpina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicación de adrenalina tópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de corriente alterna seca"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La iontoforesis con pilocarpina estimula localmente las glándulas sudoríparas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el valor de cloro en sudor considerado diagnóstico de fibrosis quística?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥30 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥40 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥50 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥60 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "≥70 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un valor de cloro ≥60 mmol/L confirma el diagnóstico de fibrosis quística."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué valor de cloro en sudor se considera normal en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "<20 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "<30 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "<40 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "<50 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "<60 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Valores de cloro <30 mmol/L se consideran normales y descartan fibrosis quística."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué resultado de test del sudor se considera indeterminado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cloro <30 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloro entre 30-59 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloro >70 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cloro <20 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloro >90 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Valores entre 30 y 59 mmol/L son indeterminados y requieren estudios genéticos complementarios."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué fármaco se utiliza en la iontoforesis del test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acetilcolina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pilocarpina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histamina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pilocarpina induce la sudoración mediante estimulación colinérgica."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la complicación más frecuente del test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción alérgica severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quemadura leve en la piel"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección local"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deshidratación leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglicemia transitoria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Puede ocurrir una leve irritación o quemadura en el sitio de iontoforesis."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el tipo de muestra utilizada en el test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sangre venosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suero capilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sudor recogido en papel filtro o microtubos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Orina de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Muestra de saliva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sudor se recolecta en microtubos o papel filtro tras la iontoforesis con pilocarpina."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué sustancia se cuantifica para la interpretación del test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Potasio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloruro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Magnesio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El análisis cuantifica la concentración de cloruro, marcador de la función del canal CFTR."
+    },
+    {
+      "numero": "11",
+      "texto": "El test del sudor mide la función de qué canal iónico:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Canal de potasio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Canal de sodio epitelial (ENaC)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Canal de cloro CFTR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Canal de calcio dependiente de voltaje"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bomba de sodio-potasio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Evalúa la función del canal CFTR, alterado en fibrosis quística."
+    },
+    {
+      "numero": "12",
+      "texto": "¿En qué parte del cuerpo se realiza habitualmente el test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espalda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antebrazo o muslo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Abdomen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tórax"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El antebrazo o el muslo son las zonas más usadas para aplicar la iontoforesis y recolectar el sudor."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué resultado descarta prácticamente fibrosis quística?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cloro <20 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloro <30 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloro <40 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cloro <50 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloro <60 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un resultado <30 mmol/L hace improbable el diagnóstico de fibrosis quística."
+    },
+    {
+      "numero": "14",
+      "texto": "¿En qué edad mínima puede realizarse el test del sudor de manera confiable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desde la primera semana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de las 2 semanas de vida y con peso >2 kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después del primer mes de vida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo en mayores de 6 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se realiza después de 2 semanas y con peso >2 kg para obtener suficiente sudor."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué resultado obliga a repetir el test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cloro >70 mmol/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloro <20 mmol/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cloro entre 30 y 59 mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cloro <10 mmol/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloro >90 mmol/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Valores intermedios requieren repetir el test o realizar estudio genético de CFTR."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de los siguientes factores puede alterar falsamente el resultado del test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio reciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura ambiente baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación reciente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deshidratación puede concentrar el sudor y elevar falsamente los niveles de cloro."
+    },
+    {
+      "numero": "17",
+      "texto": "El resultado del test del sudor debe confirmarse mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Examen de esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Análisis genético del gen CFTR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de inmunorreactividad tripsinógena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electrocardiograma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico definitivo requiere confirmación genética del gen CFTR."
+    },
+    {
+      "numero": "18",
+      "texto": "Un resultado normal de test del sudor en un paciente con sospecha fuerte de fibrosis quística puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Error en el gen CFTR no clásico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Muestra contaminada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad avanzada del paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error en la cuantificación del sudor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos previos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Algunas mutaciones atípicas del CFTR cursan con valores de cloro normales o limítrofes."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué técnica analítica se emplea más frecuentemente para cuantificar el cloruro sudoral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electroforesis capilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colorimetría manual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Potenciometría con electrodo selectivo de cloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espectrofotometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "Titulación argentométrica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La potenciometría con electrodo selectivo permite cuantificar el cloro con alta precisión."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico típico orienta a solicitar el test del sudor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infecciones respiratorias recurrentes y malabsorción"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre prolongada sin foco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenomegalias generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de infecciones respiratorias recurrentes y malabsorción sugiere fibrosis quística."
+    }
+  ]
+}

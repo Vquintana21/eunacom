@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.027",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichinella spiralis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toxocara canis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ascaris lumbricoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Strongyloides stercoralis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ancylostoma duodenale"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La triquinosis es causada por el nematodo Trichinella spiralis, que se transmite por el consumo de carne infectada."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal fuente de infección para el ser humano en la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carne de vacuno mal cocida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carne de cerdo o jabalí contaminada y mal cocida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Verduras crudas contaminadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leche sin pasteurizar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua contaminada con larvas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ser humano se infecta al ingerir carne de cerdo o jabalí cruda o mal cocida que contiene larvas de Trichinella."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Dónde se alojan inicialmente las larvas de Trichinella spiralis en el organismo humano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intestino delgado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pulmones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cerebro"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las larvas primero maduran en el intestino delgado, donde las hembras liberan nuevas larvas que migran a los músculos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿En qué tejido se enquistan las larvas de Trichinella spiralis durante la fase crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Músculo esquelético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmón"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la fase crónica, las larvas se enquistan en fibras musculares estriadas, donde pueden permanecer viables por años."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el síntoma más característico de la fase muscular de la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea intensa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor muscular y edema periorbitario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ictericia y coluria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Erupción vesicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor muscular, acompañado de edema periorbitario, es característico de la fase muscular de la enfermedad."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo hematológico es típico en la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neutrofilia con desviación izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Linfopenia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pancitopenia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La eosinofilia es un hallazgo característico debido a la respuesta inmunológica frente a las larvas migratorias."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el periodo de incubación promedio de la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "2-5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "1-2 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "3-4 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 2 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de incubación suele ser de 1 a 2 semanas, dependiendo de la carga parasitaria ingerida."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué examen es más útil para confirmar el diagnóstico de triquinosis en fases iniciales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coprocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Serología para anticuerpos antitrichinella"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de aglutinación febril"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La detección de anticuerpos antitrichinella por ELISA es el método más usado para confirmar el diagnóstico."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué prueba diagnóstica permite visualizar directamente las larvas en el tejido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Mantoux"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de orina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La biopsia muscular permite observar las larvas enquistadas en las fibras musculares en fases avanzadas."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento de elección para la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Albendazol o mebendazol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ivermectina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Praziquantel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nitazoxanida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Albendazol y mebendazol son los antiparasitarios de elección para eliminar las larvas intestinales y musculares."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué manifestación clínica puede indicar una triquinosis grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Erupción cutánea localizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Encefalitis o miocarditis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal pasajero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La afectación cardíaca o neurológica, como miocarditis o encefalitis, indica una forma grave de triquinosis."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué medida es más eficaz para prevenir la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación de cerdos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Congelación y cocción adecuada de la carne de cerdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado de frutas y verduras"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desparasitación rutinaria del ganado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cocinar bien la carne y evitar el consumo de carne de cerdo cruda o mal cocida previene la infección."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo enzimático suele elevarse en la fase muscular de la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fosfatasa alcalina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Creatinfosfokinasa (CPK)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transaminasas hepáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipasa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La elevación de la CPK refleja daño muscular causado por la invasión larvaria en la triquinosis."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de las siguientes especies de Trichinella es más frecuente en humanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trichinella nativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trichinella pseudospiralis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trichinella spiralis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trichinella britovi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trichinella murrelli"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Trichinella spiralis es la especie más común en humanos y la principal responsable de brotes alimentarios."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué manifestación clínica corresponde a la fase intestinal de la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea y dolor abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor muscular intenso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema periorbitario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neuralgia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la fase intestinal inicial se presentan síntomas digestivos como diarrea y dolor abdominal por invasión mucosa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué órgano puede verse comprometido en formas severas de triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmón"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El corazón puede afectarse por larvas migratorias, provocando miocarditis potencialmente fatal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes síntomas suele aparecer primero en la triquinosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mialgia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre y malestar general"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema periorbitario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor ocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre y el malestar general preceden a la fase muscular, apareciendo antes del edema o la mialgia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué tipo de inmunoglobulina se eleva inicialmente en la infección por Trichinella spiralis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgE"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgG"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgD"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La IgE se eleva como respuesta inicial frente a la infección helmíntica y se asocia con eosinofilia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico puede orientar al diagnóstico en zonas endémicas con brotes familiares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ictericia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor muscular y edema facial tras comer carne de cerdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea sin dolor muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca y fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Náuseas aisladas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El antecedente de ingesta de carne de cerdo seguido de mialgias y edema facial orienta al diagnóstico de triquinosis."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de las siguientes complicaciones puede causar la triquinosis severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocarditis y encefalitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis fulminante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía bacteriana secundaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Shock séptico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las formas severas pueden afectar el sistema nervioso y el corazón, causando miocarditis o encefalitis potencialmente mortal."
+    }
+  ]
+}

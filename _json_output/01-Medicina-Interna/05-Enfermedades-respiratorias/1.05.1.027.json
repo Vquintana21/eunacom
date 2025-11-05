@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.027",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "Según la clasificación de la Sociedad Chilena de Enfermedades Respiratorias, ¿qué caracteriza a una neumonía tipo 4 adquirida en la comunidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía leve manejada ambulatoriamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumonía grave que requiere manejo en UCI con ventilación mecánica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía en pacientes inmunocompetentes con comorbilidades leves"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía en menores de 15 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía asociada a bronquiectasias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neumonía tipo 4 corresponde a cuadros graves que requieren manejo en UCI y, frecuentemente, soporte ventilatorio."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el patógeno más frecuente en las neumonías tipo 4 de la clasificación chilena?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus (incluyendo MRSA)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydophila pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Legionella pneumophila"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En neumonías graves tipo 4, S. aureus, especialmente MRSA, y bacilos Gram negativos son patógenos relevantes."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el criterio más importante para clasificar una NAC como tipo 4 según la Sociedad Chilena?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tener más de 65 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Requerir hospitalización en sala básica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Requerir ventilación mecánica o presentar shock séptico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de comorbilidades leves"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ser portador de asma"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La necesidad de ventilación mecánica o el shock séptico definen la neumonía adquirida en la comunidad tipo 4."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo gasométrico es característico en una neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2 > 80 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO2 < 35 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "PaO2/FiO2 < 250"
+        },
+        {
+          "opcion": "D",
+          "texto": "pH > 7.45"
+        },
+        {
+          "opcion": "E",
+          "texto": "HCO3 elevado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una relación PaO2/FiO2 menor de 250 indica hipoxemia grave compatible con neumonía tipo 4."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué esquema antibiótico inicial se recomienda en una neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona más azitromicina intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona más levofloxacino intravenoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefepime más vancomicina intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amoxicilina oral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El tratamiento empírico debe cubrir Gram negativos y S. aureus resistente, como cefepime más vancomicina."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué patógeno debe considerarse en una NAC tipo 4 posterior a influenza?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Haemophilus influenzae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El S. aureus, especialmente el MRSA, puede causar neumonías graves postinfluenza."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué característica clínica sugiere neumonía grave tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca y febrícula"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea leve al esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión y taquipnea severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor pleurítico leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saturación de O2 > 94%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipotensión y la taquipnea intensa reflejan compromiso sistémico y respiratorio grave, propios de NAC tipo 4."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué puntaje CURB-65 suele corresponder a una neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0-1"
+        },
+        {
+          "opcion": "B",
+          "texto": "2"
+        },
+        {
+          "opcion": "C",
+          "texto": "3 o más"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo 1"
+        },
+        {
+          "opcion": "E",
+          "texto": "No aplica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un CURB-65 ≥ 3 indica alta mortalidad y necesidad de manejo en UCI, compatible con neumonía tipo 4."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de los siguientes microorganismos se asocia con neumonía necrosante tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Legionella pneumophila"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Chlamydia psittaci"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "S. aureus puede provocar neumonía necrosante con cavitación y shock séptico, típica de formas graves tipo 4."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la mortalidad aproximada de la NAC tipo 4 sin tratamiento adecuado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "10%"
+        },
+        {
+          "opcion": "C",
+          "texto": "20%"
+        },
+        {
+          "opcion": "D",
+          "texto": "30-50%"
+        },
+        {
+          "opcion": "E",
+          "texto": "80%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las neumonías graves tipo 4 pueden alcanzar mortalidad entre 30% y 50% sin manejo intensivo apropiado."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué examen es prioritario al ingreso de un paciente con sospecha de NAC tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivos y gasometría arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "TAC cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de función pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electromiografía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopía digestiva alta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En NAC grave tipo 4 se deben realizar hemocultivos y gasometría arterial para definir gravedad y etiología."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el patrón radiológico característico de una NAC tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulos miliares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Consolidaciones multilobares o bilaterales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrado apical único"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vidrio esmerilado periférico aislado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las neumonías graves muestran consolidaciones multilobares o bilaterales, indicativas de afectación extensa y severa."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué parámetro define insuficiencia respiratoria aguda en neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PaO2/FiO2 < 300"
+        },
+        {
+          "opcion": "B",
+          "texto": "PaCO2 < 35 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH > 7.45"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO2 > 80 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "FiO2 > 0.4"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una relación PaO2/FiO2 menor de 300 define insuficiencia respiratoria, siendo <200 en casos graves tipo 4."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué co-infección viral puede agravar una neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus sincicial respiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Influenza"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adenovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coronavirus estacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metapneumovirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coinfección por influenza puede facilitar sobreinfección bacteriana grave y evolución a NAC tipo 4."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes criterios no pertenece a los de gravedad para neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión con necesidad de vasopresores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Confusión mental aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frecuencia respiratoria < 20"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaO2/FiO2 < 250"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falla multiorgánica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una frecuencia respiratoria menor a 20 no es criterio de gravedad; lo es cuando supera 30 rpm."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué antibiótico cubre Pseudomonas en una neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefepime"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cefazolina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Cefepime es una cefalosporina de cuarta generación con cobertura efectiva contra Pseudomonas aeruginosa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la medida de soporte más utilizada en la NAC tipo 4 con hipoxemia refractaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxígeno por cánula nasal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilación no invasiva (BIPAP)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilación mecánica invasiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oxigenoterapia hiperbárica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoterapia exclusiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ventilación mecánica invasiva se utiliza cuando existe hipoxemia severa o fracaso ventilatorio."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la principal causa de ingreso a UCI en pacientes con neumonía tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxemia refractaria y shock séptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertermia persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxemia refractaria y el shock séptico son las principales causas de ingreso a UCI en NAC tipo 4."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué medida preventiva reduce la incidencia de NAC tipo 4?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacunación antineumocócica e influenza"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso prolongado de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oxigenoterapia domiciliaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoterapia preventiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento social permanente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas antineumocócica e influenza reducen las formas graves de neumonía comunitaria."
+    },
+    {
+      "numero": "20",
+      "texto": "En un paciente con NAC tipo 4 y sospecha de MRSA, ¿qué fármaco se recomienda agregar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amikacina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vancomicina o linezolid"
+        },
+        {
+          "opcion": "C",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cefuroxima"
+        },
+        {
+          "opcion": "E",
+          "texto": "Piperacilina sola"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Vancomicina o linezolid son los antibióticos de elección para cubrir MRSA en NAC tipo 4."
+    }
+  ]
+}

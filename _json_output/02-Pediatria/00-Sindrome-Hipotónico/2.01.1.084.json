@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.084",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Sindrome Hipotónico",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por síndrome hipotónico en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tono muscular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pérdida de fuerza por lesión medular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución anormal del tono muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rigidez generalizada de las extremidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de los reflejos osteotendíneos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome hipotónico se caracteriza por una disminución del tono muscular, con resistencia reducida al movimiento pasivo."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es una causa central frecuente de hipotonía neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miastenia neonatal transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión del nervio periférico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalopatía hipóxico-isquémica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Guillain-Barré"
+        },
+        {
+          "opcion": "E",
+          "texto": "Distrofia muscular congénita"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La encefalopatía hipóxico-isquémica produce daño cerebral difuso y es causa común de hipotonía central en el recién nacido."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué signo clínico sugiere hipotonía de origen central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos tendíneos abolidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fasciculaciones linguales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejos primitivos anormales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Debilidad distal aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia muscular severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La persistencia o ausencia anormal de reflejos primitivos sugiere un origen central de la hipotonía."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes signos es típico de hipotonía periférica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos vivos o aumentados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Respuesta plantar extensora"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejos osteotendíneos abolidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Preservación de la fuerza muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertonía axial con hipotonía apendicular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La abolición de reflejos es característica de hipotonía periférica por afectación de neurona motora inferior o nervio."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo clínico se observa en el lactante hipotónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cabeza erguida precozmente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Postura en rana con abducción de caderas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resistencia marcada a la flexión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Movimientos espontáneos vigorosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Llanto fuerte y sostenido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La postura en rana, con extremidades extendidas y abducidas, es típica de hipotonía axial y apendicular."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué examen complementario es más útil en hipotonía central sospechada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Electromiografía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estudio de conducción nerviosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Biopsia muscular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dosificación de creatinfosfoquinasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La resonancia magnética cerebral permite identificar lesiones estructurales del sistema nervioso central."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué etiología periférica produce hipotonía y arreflexia en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Parálisis cerebral espástica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miastenia neonatal transitoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia intraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxia perinatal leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miastenia neonatal transitoria se debe a anticuerpos maternos anti-receptor de acetilcolina que causan hipotonía y arreflexia."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué diferencia la hipotonía central de la periférica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de fasciculaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración del nivel de conciencia en la central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejos abolidos en la central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia muscular precoz en la central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Movimientos voluntarios conservados en la periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipotonía central suele acompañarse de alteración del estado de conciencia y reflejos conservados o vivos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es una causa genética de hipotonía neonatal severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "B",
+          "texto": "Parálisis cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esclerosis múltiple"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Down se presenta frecuentemente con hipotonía neonatal como signo inicial característico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué maniobra evalúa el tono axial en el lactante?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba del pañuelo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspensión horizontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo plantar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo de Moro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de tracción o 'pull to sit'"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La prueba de tracción evalúa el tono cervical y axial observando el control de la cabeza y tronco."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo es típico de hipotonía muscular primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fasciculaciones linguales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejos aumentados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arreflexia con debilidad proximal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espasticidad en extremidades"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Babinski positivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipotonía muscular primaria presenta arreflexia y debilidad muscular proximal sin alteración del nivel de conciencia."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué signo se asocia a la hipotonía por lesión del asta anterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos vivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Babinski positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fasciculaciones y atrofia muscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteración de la marcha atáxica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertonía espástica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las lesiones del asta anterior como en la atrofia muscular espinal cursan con fasciculaciones y atrofia muscular."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de reflejos se observa en la hipotonía central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abolidos completamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Normales o aumentados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausentes y con clonus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mioclónicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pendulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la hipotonía central los reflejos suelen estar conservados o aumentados, a diferencia de la periférica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo sugiere hipotonía de origen muscular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos aumentados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conciencia alterada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Debilidad proximal con reflejos abolidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fasciculaciones linguales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Signo de Babinski positivo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipotonía muscular cursa con debilidad proximal y arreflexia, sin afectación del sistema nervioso central."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué característica tiene la hipotonía cerebelosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fasciculaciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ataxia y temblor intencional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arreflexia profunda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rigidez en rueda dentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espasmos clónicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipotonía cerebelosa se asocia a ataxia, dismetría y temblor intencional debido a daño del cerebelo."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la causa más probable de hipotonía neonatal con afectación respiratoria grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotiroidismo congénito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miastenia neonatal transitoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Prader-Willi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Distrofia muscular congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalopatía hipóxico-isquémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miastenia neonatal transitoria puede producir debilidad respiratoria severa por bloqueo neuromuscular."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio confirma diagnóstico de atrofia muscular espinal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Biopsia muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estudio genético del gen SMN1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electromiografía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de lactato en sangre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mutación o deleción del gen SMN1 confirma el diagnóstico de atrofia muscular espinal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es la primera medida terapéutica en hipotonía central diagnosticada en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de relajantes musculares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisioterapia motora precoz"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos intravenosos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementación de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticonvulsivantes profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fisioterapia motora temprana mejora el desarrollo neuromotor y previene contracturas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué característica clínica diferencia hipotonía periférica de central?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos aumentados en la periférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fasciculaciones en la central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arreflexia en la periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteración del sensorio en la periférica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espasticidad axial en la periférica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipotonía periférica presenta arreflexia y fasciculaciones, mientras la central mantiene reflejos conservados."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo clínico orienta a un síndrome hipotónico congénito de origen genético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejos vivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Facies característica y succión débil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clonus plantar positivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rigidez axial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conciencia alterada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En síndromes genéticos como Prader-Willi o Down, se observa facies característica y debilidad de la succión desde el nacimiento."
+    }
+  ]
+}

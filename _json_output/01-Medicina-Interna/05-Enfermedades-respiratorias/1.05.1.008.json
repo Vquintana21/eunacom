@@ -1,0 +1,544 @@
+{
+  "codigo": "1.05.1.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca izquierda secundaria a hipertensión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia y dilatación del ventrículo derecho por enfermedad pulmonar crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiopatía congénita con cortocircuito derecha-izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia tricuspídea primaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia pulmonar aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El corazón pulmonar crónico es la hipertrofia y dilatación del ventrículo derecho por aumento sostenido de la presión pulmonar secundaria a enfermedad pulmonar."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrosis pulmonar idiopática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquitis crónica y enfisema (EPOC)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embolia pulmonar crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apnea del sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esclerosis sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El EPOC es la causa más común del corazón pulmonar crónico debido a la hipoxia crónica y vasoconstricción pulmonar sostenida."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la poscarga sistémica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vasoconstricción pulmonar hipóxica sostenida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sobrecarga de volumen del ventrículo izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducción de la contractilidad ventricular izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipovolemia crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia crónica induce vasoconstricción pulmonar sostenida, lo que eleva la presión pulmonar y la carga del ventrículo derecho."
+    },
+    {
+      "numero": "4",
+      "texto": "En el corazón pulmonar crónico, ¿qué hallazgo electrocardiográfico es más característico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desviación del eje a la izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crecimiento auricular izquierdo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación del eje a la derecha"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrilación auricular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La desviación del eje a la derecha es típica por la hipertrofia del ventrículo derecho."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes signos clínicos sugiere corazón pulmonar crónico descompensado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis central aislada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema periférico y hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquipnea sin disnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ruidos cardíacos apagados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo mitral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falla derecha secundaria a hipertensión pulmonar produce edema periférico, hepatomegalia y distensión yugular."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo ecocardiográfico confirma el diagnóstico de corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia ventricular izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia y dilatación del ventrículo derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pericárdico leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fracción de eyección reducida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento septal asimétrico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ecocardiograma muestra hipertrofia y dilatación del ventrículo derecho, junto con signos de hipertensión pulmonar."
+    },
+    {
+      "numero": "7",
+      "texto": "El segundo ruido cardíaco acentuado en foco pulmonar se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia tricuspídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sobrecarga de volumen del ventrículo derecho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la presión sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión pulmonar aumenta la presión en la arteria pulmonar, intensificando el componente pulmonar del segundo ruido cardíaco."
+    },
+    {
+      "numero": "8",
+      "texto": "En la radiografía de tórax de un paciente con corazón pulmonar crónico se observa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tamaño del ventrículo izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ensanchamiento del mediastino superior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prominencia del tronco de la arteria pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificación pericárdica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corazón en forma de botella"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipertensión pulmonar produce prominencia del tronco de la arteria pulmonar y aumento del ventrículo derecho."
+    },
+    {
+      "numero": "9",
+      "texto": "El tratamiento fundamental del corazón pulmonar crónico consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de oxígeno prolongado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos en altas dosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticoagulación sistemática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunosupresores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La oxigenoterapia continua reduce la vasoconstricción hipóxica y mejora la supervivencia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes fármacos está contraindicado en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncodilatadores beta-2 agonistas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diuréticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueadores de los canales de calcio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Betabloqueadores no selectivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oxígeno suplementario"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los betabloqueadores no selectivos pueden inducir broncoconstricción y agravar la insuficiencia respiratoria."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la complicación más temida del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embolia pulmonar aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia cardíaca derecha avanzada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arritmias supraventriculares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pericárdico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombosis venosa profunda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La progresión hacia insuficiencia cardíaca derecha avanzada determina el pronóstico y puede causar muerte súbita."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué gasometría es típica en el corazón pulmonar crónico descompensado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocapnia e hipoxia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia e hipercapnia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Normoxia con acidosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxia con alcalosis metabólica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoventilación alveolar crónica produce hipoxia e hipercapnia en la gasometría arterial."
+    },
+    {
+      "numero": "13",
+      "texto": "El signo de Rivero-Carvallo positivo se asocia con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del soplo mitral en inspiración"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del soplo tricuspídeo en inspiración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desaparición del soplo sistólico en espiración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desdoblamiento fijo del segundo ruido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frote pericárdico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El signo de Rivero-Carvallo consiste en aumento del soplo de insuficiencia tricuspídea durante la inspiración, típico de corazón pulmonar."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el cambio morfológico más característico del ventrículo derecho en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atrofia del miocardio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia concéntrica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatación sin hipertrofia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia excéntrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis subendocárdica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ventrículo derecho desarrolla hipertrofia concéntrica debido al aumento crónico de la poscarga pulmonar."
+    },
+    {
+      "numero": "15",
+      "texto": "En el contexto del corazón pulmonar crónico, la policitemia secundaria ocurre por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Producción ectópica de eritropoyetina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión venosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipoxia crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención de líquidos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoxia crónica estimula la producción de eritropoyetina y causa policitemia secundaria compensadora."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parámetro hemodinámico define hipertensión pulmonar en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión pulmonar media ≥ 25 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión capilar pulmonar > 18 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión diastólica pulmonar > 10 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión auricular derecha > 8 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión sistólica pulmonar < 20 mmHg"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se considera hipertensión pulmonar cuando la presión media en la arteria pulmonar es ≥ 25 mmHg en reposo."
+    },
+    {
+      "numero": "17",
+      "texto": "El uso de diuréticos en el corazón pulmonar crónico debe ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitado completamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "De primera línea y en dosis altas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cauteloso para evitar hipovolemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Combinado con betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo durante la oxigenoterapia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los diuréticos alivian la congestión, pero su uso debe ser cuidadoso para no reducir excesivamente el gasto cardíaco."
+    },
+    {
+      "numero": "18",
+      "texto": "La prueba diagnóstica de elección para cuantificar la presión pulmonar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecocardiografía Doppler"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cateterismo cardíaco derecho"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El cateterismo cardíaco derecho permite medir directamente las presiones en cavidades derechas y arteria pulmonar."
+    },
+    {
+      "numero": "19",
+      "texto": "El pronóstico del corazón pulmonar crónico depende principalmente de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Respuesta a broncodilatadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grado de hipertensión pulmonar y control de la hipoxia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edad del paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tamaño del ventrículo derecho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nivel de hemoglobina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El grado de hipertensión pulmonar y la eficacia del tratamiento de la hipoxia determinan la evolución y el pronóstico."
+    }
+  ]
+}

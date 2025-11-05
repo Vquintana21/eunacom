@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.133",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Malformaciones congénitas más frecuentes",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la malformación congénita más frecuente a nivel mundial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiopatías congénitas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hernia diafragmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Labio leporino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espina bífida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atresia esofágica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las cardiopatías congénitas son las malformaciones más frecuentes, con una incidencia de 8-10 por 1000 nacidos vivos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de cardiopatía congénita es la más común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tetralogía de Fallot"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comunicación interventricular (CIV)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Transposición de grandes vasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Canal auriculoventricular completo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La comunicación interventricular es la cardiopatía congénita más frecuente, representando aproximadamente el 30% de los casos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de las siguientes malformaciones del tubo neural es más frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anencefalia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningocele"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espina bífida oculta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mielomeningocele"
+        },
+        {
+          "opcion": "E",
+          "texto": "Encefalocele"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El mielomeningocele es la forma más común de defecto del tubo neural clínicamente significativo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal causa de defectos del tubo neural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de ácido fólico materno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exposición a alcohol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección por citomegalovirus"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de hierro prenatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diabetes gestacional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La deficiencia de ácido fólico materno se asocia directamente con un mayor riesgo de defectos del tubo neural."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué malformación congénita gastrointestinal es la más común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atresia esofágica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Onfalocele"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastroquisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernia diafragmática congénita"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La atresia esofágica es la anomalía gastrointestinal más frecuente, usualmente asociada a fístula traqueoesofágica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la malformación renal congénita más frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Riñón poliquístico autosómico dominante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agenesia renal unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duplicación pieloureteral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidronefrosis congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñón en herradura"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hidronefrosis congénita, por obstrucción de la unión pieloureteral, es la anomalía renal más frecuente detectada prenatalmente."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la malformación congénita craneofacial más común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microtia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisura labio-palatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroglosia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertelorismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Micrognatia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fisura labio-palatina es la malformación craneofacial más frecuente, con una incidencia de 1 por cada 700 nacidos vivos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la anomalía cromosómica más frecuente asociada a malformaciones congénitas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Edwards"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Patau"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Klinefelter"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El síndrome de Down es la anomalía cromosómica más común y se asocia a múltiples malformaciones, especialmente cardíacas."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué defecto congénito se asocia más a polihidroamnios en el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atresia esofágica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Onfalocele"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastroquisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agenesia renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espina bífida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La atresia esofágica impide la deglución del líquido amniótico, provocando polihidroamnios."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes es una malformación del sistema nervioso central más frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hidrocefalia congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Holoprosencefalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agenesia del cuerpo calloso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Arnold-Chiari tipo II"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hidrocefalia congénita es una de las anomalías más frecuentes del sistema nervioso central."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la malformación músculo-esquelética más común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Displasia de cadera"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pie bot (equino varo)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Luxación congénita de rodilla"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escoliosis congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sindactilia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La displasia del desarrollo de la cadera es la malformación músculo-esquelética más frecuente en recién nacidos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué factor aumenta el riesgo de defectos del tubo neural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deficiencia de vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes materna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo materno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de ácido fólico preconcepcional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edad paterna avanzada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La diabetes materna mal controlada aumenta el riesgo de defectos del tubo neural y cardíacos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué malformación se asocia con oligohidroamnios severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atresia duodenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agenesia renal bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anencefalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Onfalocele"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fisura palatina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La agenesia renal bilateral provoca ausencia de orina fetal, generando oligohidroamnios severo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué malformación se asocia más comúnmente con el síndrome de Down?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tetralogía de Fallot"
+        },
+        {
+          "opcion": "B",
+          "texto": "Comunicación auriculoventricular completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transposición de grandes vasos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ductus arterioso persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El defecto auriculoventricular completo es característico del síndrome de Down."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la anomalía congénita más frecuente del aparato digestivo superior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis pilórica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia esofágica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Onfalocele"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atresia intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gastroquisis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La estenosis pilórica es una de las anomalías más frecuentes del aparato digestivo superior."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál de las siguientes malformaciones se detecta más fácilmente en la ecografía prenatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura palatina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atresia anal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espina bífida abierta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coartación de aorta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hernia umbilical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La espina bífida abierta se detecta fácilmente por ecografía prenatal debido a defectos óseos visibles."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué síndrome se asocia a la presencia de micrognatia, glosoptosis y fisura palatina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Edwards"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Patau"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secuencia de Pierre Robin"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Noonan"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Turner"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La secuencia de Pierre Robin combina micrognatia, glosoptosis y fisura palatina en una secuencia embriológica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué malformación congénita está más relacionada con el uso de ácido valproico en el embarazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Defectos del tubo neural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Agenesia renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fisura palatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Polidactilia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ácido valproico es teratógeno y se asocia con un aumento en defectos del tubo neural."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál de las siguientes anomalías congénitas se presenta más en hijos de madres añosas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Klinefelter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Noonan"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Edwards"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El riesgo de síndrome de Down aumenta con la edad materna avanzada, especialmente después de los 35 años."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal causa de muerte en el primer año de vida por malformaciones congénitas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Malformaciones digestivas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Malformaciones del sistema nervioso central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardiopatías congénitas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Malformaciones renales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Malformaciones esqueléticas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las cardiopatías congénitas son la principal causa de mortalidad infantil por malformaciones estructurales."
+    }
+  ]
+}

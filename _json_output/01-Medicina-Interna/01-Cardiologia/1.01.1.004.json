@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca izquierda secundaria a valvulopatía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertrofia y dilatación del ventrículo derecho por enfermedad pulmonar crónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Miocardiopatía restrictiva de origen pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis de la arteria pulmonar congénita"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia cardíaca global por causas sistémicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El corazón pulmonar crónico se define como la alteración estructural y funcional del ventrículo derecho secundaria a hipertensión pulmonar por enfermedad pulmonar crónica."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tromboembolismo pulmonar agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis pulmonar idiopática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoventilación por obesidad"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad pulmonar obstructiva crónica (EPOC) es la causa más frecuente de corazón pulmonar crónico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué mecanismo fisiopatológico conduce al desarrollo del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasoconstricción pulmonar hipóxica sostenida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del gasto cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Isquemia coronaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis del endocardio derecho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dilatación del ventrículo izquierdo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxia crónica provoca vasoconstricción pulmonar, aumentando la resistencia vascular y la sobrecarga del ventrículo derecho."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué signo clínico es típico del corazón pulmonar crónico descompensado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema agudo de pulmón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatomegalia dolorosa y edema periférico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis central sin disnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ritmo de galope S3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo diastólico aórtico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La congestión sistémica por falla del ventrículo derecho genera hepatomegalia y edema de miembros inferiores."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes hallazgos es típico en el ECG de un paciente con corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eje izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "P pulmonale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo de rama izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "QT prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas T negativas en DI y aVL"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La P pulmonale (onda P picuda en DII) refleja hipertrofia auricular derecha secundaria a sobrecarga del ventrículo derecho."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo radiográfico es característico del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiomegalia izquierda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dilatación de arterias pulmonares y redistribución vascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulmones hiperclaros con hilios delgados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento del pericardio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía muestra dilatación de arterias pulmonares y redistribución vascular por hipertensión pulmonar crónica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes es un signo de hipertensión pulmonar en el ecocardiograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tamaño del ventrículo izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo tricuspídeo con presión sistólica pulmonar elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pericárdico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento del tabique interventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción del tracto de salida izquierdo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflujo tricuspídeo con presión sistólica pulmonar elevada en el eco es un signo de hipertensión pulmonar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué manifestación clínica sugiere sobrecarga del ventrículo derecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ortopnea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo hepatoyugular positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea paroxística nocturna"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo de insuficiencia mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritmo de galope S4"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflujo hepatoyugular positivo indica elevación de la presión venosa sistémica por falla del ventrículo derecho."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el tratamiento más importante para prevenir la progresión del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Oxigenoterapia crónica domiciliaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticoagulación oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vasodilatadores coronarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcapasos bicameral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La oxigenoterapia crónica corrige la hipoxia sostenida y reduce la vasoconstricción pulmonar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo de laboratorio puede encontrarse en el corazón pulmonar crónico descompensado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Policitemia secundaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiponatremia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercalcemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoxia crónica estimula la eritropoyesis, generando policitemia compensatoria."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué soplo puede aparecer en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia tricuspídea funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estenosis mitral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estenosis aórtica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soplo continuo de ductus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dilatación del ventrículo derecho causa insuficiencia tricuspídea funcional, con soplo holosistólico que aumenta con la inspiración."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo ecocardiográfico confirma la presencia de hipertrofia del ventrículo derecho?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del grosor de la pared libre del ventrículo derecho"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento del tabique interventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aneurisma ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fracción de eyección baja del VI"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dilatación auricular izquierda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aumento del grosor de la pared libre del ventrículo derecho indica hipertrofia secundaria a sobrecarga crónica de presión."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué complicación cardíaca puede desarrollarse en pacientes con corazón pulmonar crónico avanzado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taponamiento cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bloqueo completo de rama izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocardiopatía restrictiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolapso mitral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dilatación auricular derecha puede predisponer a la aparición de arritmias como la fibrilación auricular."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro hemodinámico se encuentra elevado en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión capilar pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión de arteria pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión de aurícula izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión venosa central baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión de enclavamiento normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presión de la arteria pulmonar aumenta por la vasoconstricción hipóxica y la remodelación vascular pulmonar."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes factores agrava la hipertensión pulmonar en el corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oxigenoterapia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tabaquismo activo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida de peso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio moderado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de broncodilatadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tabaquismo perpetúa la inflamación y la hipoxia, agravando la vasoconstricción y el daño pulmonar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo del examen físico orienta a hipertensión pulmonar severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Soplo aórtico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desdoblamiento amplio y fijo del segundo ruido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la intensidad de P2"
+        },
+        {
+          "opcion": "D",
+          "texto": "Soplo de insuficiencia mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritmo de galope S3"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aumento de la intensidad de P2 refleja una presión pulmonar elevada que cierra bruscamente la válvula pulmonar."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué signo clínico refleja descompensación derecha avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pulso celer"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síncope vasovagal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ortopnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso alternante"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ascitis es un signo de congestión venosa sistémica por falla derecha crónica descompensada."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué prueba diagnóstica permite cuantificar la presión de la arteria pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cateterismo cardíaco derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiografía transtorácica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cateterismo derecho es el estándar para medir presiones pulmonares y confirmar hipertensión pulmonar."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué cambio morfológico ocurre en las arterias pulmonares durante la evolución del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dilatación capilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Engrosamiento de la media y fibrosis de la íntima"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia de la media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificación del endotelio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aneurisma pulmonar múltiple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipertensión pulmonar crónica produce engrosamiento de la media y fibrosis de la íntima, aumentando la resistencia vascular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué estrategia terapéutica es fundamental en el manejo del corazón pulmonar crónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso rutinario de vasodilatadores sistémicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tratamiento de la causa pulmonar subyacente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la precarga con líquidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de antiarrítmicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de marcapasos permanente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento del corazón pulmonar crónico requiere abordar la enfermedad pulmonar causante para reducir la hipertensión pulmonar secundaria."
+    }
+  ]
+}

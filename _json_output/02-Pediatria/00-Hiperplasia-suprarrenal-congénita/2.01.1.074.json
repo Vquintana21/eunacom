@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.074",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hiperplasia suprarrenal congénita",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el defecto enzimático más frecuente en la hiperplasia suprarrenal congénita (HSC)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de 11-beta-hidroxilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de 21-hidroxilasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de 17-alfa-hidroxilasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de 3-beta-hidroxiesteroide deshidrogenasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit de colesterol desmolasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de 21-hidroxilasa representa aproximadamente el 90-95% de los casos de HSC."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hormona está aumentada en la HSC por déficit de 21-hidroxilasa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aldosterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Renina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El déficit de cortisol produce aumento de ACTH por falta de retroalimentación negativa."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué metabolito se encuentra elevado en la HSC clásica por déficit de 21-hidroxilasa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "17-hidroxiprogesterona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aldosterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticosterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Renina plasmática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La 17-hidroxiprogesterona se acumula por el bloqueo enzimático y constituye un marcador diagnóstico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué alteración electrolítica es característica de la forma perdedora de sal de la HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipernatremia e hipopotasemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia e hiperkalemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia e hipocalcemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperkalemia e hiperglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipokalemia e hiperglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida de sal produce hiponatremia e hiperkalemia por déficit de aldosterona."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la principal manifestación clínica en niñas con HSC clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amenorrea secundaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambigüedad genital al nacer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pubertad retrasada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hirsutismo leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las niñas con HSC clásica presentan virilización prenatal con ambigüedad genital."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo clínico sugiere HSC no clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis de sal en la primera semana de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hirsutismo y pubarquia precoz"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ambigüedad genital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de peso y talla baja"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La forma no clásica suele manifestarse con pubarquia precoz, acné e hirsutismo en niñas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la base del tratamiento de la HSC clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administración de cortisol exógeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de bloqueadores androgénicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposición con mineralocorticoides y sal"
+        },
+        {
+          "opcion": "D",
+          "texto": "A y C correctas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía correctiva temprana"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El tratamiento incluye glucocorticoides para suprimir ACTH y mineralocorticoides si hay pérdida de sal."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué gen está mutado en el déficit de 21-hidroxilasa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CYP21A2"
+        },
+        {
+          "opcion": "B",
+          "texto": "CYP11B1"
+        },
+        {
+          "opcion": "C",
+          "texto": "CYP17A1"
+        },
+        {
+          "opcion": "D",
+          "texto": "HSD3B2"
+        },
+        {
+          "opcion": "E",
+          "texto": "NR5A1"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El gen CYP21A2 codifica la enzima 21-hidroxilasa y sus mutaciones causan la forma más común de HSC."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué signo clínico es común en los varones con HSC perdedora de sal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ambigüedad genital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deshidratación y vómitos a la semana de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Feminización"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pubertad retrasada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los varones presentan crisis de pérdida de sal con deshidratación e hiperkalemia neonatal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hormona se utiliza para monitorizar el tratamiento de la HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ACTH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "C",
+          "texto": "17-hidroxiprogesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Renina plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aldosterona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La 17-hidroxiprogesterona es útil para ajustar la dosis de glucocorticoides en el seguimiento."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué forma de HSC se asocia a hipertensión arterial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de 21-hidroxilasa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de 11-beta-hidroxilasa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de 3-beta-hidroxiesteroide deshidrogenasa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de 17-alfa-hidroxilasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Déficit combinado de enzimas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit de 11-beta-hidroxilasa produce acumulación de desoxicorticosterona, con efecto mineralocorticoide e hipertensión."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué prueba diagnóstica confirma la sospecha de HSC en el recién nacido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol plasmático basal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de estimulación con ACTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición de aldosterona basal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Determinación de insulina sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test con ACTH muestra elevación excesiva de 17-hidroxiprogesterona en HSC."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica define la HSC no clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio neonatal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis de pérdida de sal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síntomas leves posnatales por exceso androgénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ambigüedad genital al nacimiento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La forma no clásica se manifiesta en la infancia o adolescencia con exceso androgénico leve."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal objetivo del tratamiento con glucocorticoides en la HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el cortisol plasmático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suprimir la secreción de ACTH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la producción de mineralocorticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la secreción de insulina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la producción de andrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los glucocorticoides suprimen la secreción de ACTH, reduciendo el estímulo sobre la corteza suprarrenal."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una complicación común del tratamiento excesivo con glucocorticoides en la HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talla alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Cushing iatrogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipopotasemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiponatremia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exceso de glucocorticoides puede provocar síndrome de Cushing iatrogénico con obesidad y retraso del crecimiento."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo ecográfico se puede observar en la HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suprarrenales pequeñas y homogéneas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suprarrenales agrandadas con aspecto lobulado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de glándulas suprarrenales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quistes adrenales múltiples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificación suprarrenal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las suprarrenales están agrandadas y lobuladas por hiperplasia cortical difusa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el manejo inicial en una crisis suprarrenal aguda por HSC no diagnosticada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bicarbonato y potasio IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insulina y glucosa IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidrocortisona IV y suero salino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prednisona oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo y líquidos por vía oral"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La crisis suprarrenal se maneja con hidrocortisona intravenosa y rehidratación con suero salino."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro se evalúa en el tamizaje neonatal para HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cortisol"
+        },
+        {
+          "opcion": "B",
+          "texto": "17-hidroxiprogesterona"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aldosterona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Renina plasmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La determinación de 17-hidroxiprogesterona en sangre de talón permite el diagnóstico precoz de HSC."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué manifestación puede presentarse en adolescentes con tratamiento inadecuado de HSC?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pubertad retrasada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amenorrea secundaria y virilización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crecimiento excesivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipopigmentación cutánea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control insuficiente causa exceso androgénico con amenorrea y virilización en adolescentes."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse en una recién nacida con genitales ambiguos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperplasia suprarrenal congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Klinefelter"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Cushing"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de GH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La HSC es la causa más frecuente de genitales ambiguos en recién nacidas."
+    }
+  ]
+}

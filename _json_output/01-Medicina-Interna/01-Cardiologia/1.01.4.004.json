@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.4.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué mide principalmente la ventriculografía radioisotópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El flujo coronario regional"
+        },
+        {
+          "opcion": "B",
+          "texto": "La perfusión miocárdica"
+        },
+        {
+          "opcion": "C",
+          "texto": "La fracción de eyección ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "El gasto cardíaco total"
+        },
+        {
+          "opcion": "E",
+          "texto": "La presión intracavitaria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Permite medir la fracción de eyección ventricular izquierda y derecha de forma no invasiva y reproducible."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué radioisótopo se utiliza más comúnmente en la ventriculografía radioisotópica en equilibrio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talio-201"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tecnecio-99m"
+        },
+        {
+          "opcion": "C",
+          "texto": "Yodo-123"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flúor-18"
+        },
+        {
+          "opcion": "E",
+          "texto": "Galio-67"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Tecnecio-99m marcado a glóbulos rojos permite una visualización estable del volumen ventricular."
+    },
+    {
+      "numero": "3",
+      "texto": "La ventriculografía radioisotópica de equilibrio se realiza durante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una sola contracción cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un ciclo cardíaco completo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Múltiples ciclos cardíacos sincronizados con el ECG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Durante apnea voluntaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "En esfuerzo máximo solamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Promedia múltiples ciclos cardíacos sincronizados con el ECG para obtener imágenes estables y precisas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la principal indicación clínica de una ventriculografía radioisotópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar perfusión coronaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir presiones intracardíacas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar la función ventricular global y segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar trombos intracavitarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Identificar calcificaciones valvulares"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se usa para evaluar la función ventricular global y segmentaria de manera precisa y no invasiva."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué parámetro se calcula directamente a partir de la curva tiempo-actividad ventricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión diastólica final"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fracción de eyección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gasto cardíaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Precarga"
+        },
+        {
+          "opcion": "E",
+          "texto": "Poscarga"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fracción de eyección se obtiene dividiendo la diferencia entre volúmenes telediastólico y telesistólico por el volumen telediastólico."
+    },
+    {
+      "numero": "6",
+      "texto": "La fracción de eyección ventricular izquierda normal medida por ventriculografía radioisotópica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "20–30%"
+        },
+        {
+          "opcion": "B",
+          "texto": "30–40%"
+        },
+        {
+          "opcion": "C",
+          "texto": "45–55%"
+        },
+        {
+          "opcion": "D",
+          "texto": "55–70%"
+        },
+        {
+          "opcion": "E",
+          "texto": "70–85%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Una fracción de eyección normal oscila entre 55% y 70% en adultos sanos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué método se utiliza para sincronizar la ventriculografía radioisotópica con la actividad cardíaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Curva de presión arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Señal de saturación de oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fonocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulso carotídeo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se sincroniza con el ECG, generalmente con la onda R, para promediar múltiples ciclos cardíacos."
+    },
+    {
+      "numero": "8",
+      "texto": "La ventriculografía radioisotópica es especialmente útil para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diagnosticar isquemia transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evaluar la función ventricular durante el tratamiento con quimioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar estenosis aórtica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir el flujo pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Valorar la hipertensión arterial sistémica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite seguimiento no invasivo de la función ventricular en pacientes en quimioterapia cardiotóxica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es una ventaja de la ventriculografía radioisotópica frente a la ecocardiografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mejor resolución espacial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mayor disponibilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor exposición a radiación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor reproducibilidad en la medición de fracción de eyección"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluación de válvulas cardíacas en tiempo real"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Su principal ventaja es la alta reproducibilidad para medir la fracción de eyección ventricular."
+    },
+    {
+      "numero": "10",
+      "texto": "En la ventriculografía radioisotópica, la región de interés se dibuja sobre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocardio izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cavidad ventricular izquierda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aurícula izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventrículo derecho"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aorta ascendente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se delimita la cavidad ventricular izquierda para obtener la curva tiempo-actividad correspondiente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de cámaras se utilizan para registrar la señal en ventriculografía radioisotópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cámaras gamma de centelleo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cámaras de rayos X digitales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cámaras de infrarrojo cercano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cámaras PET de coincidencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cámaras de resonancia magnética"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se utilizan cámaras gamma que detectan la radiación emitida por el Tecnecio-99m en los glóbulos rojos."
+    },
+    {
+      "numero": "12",
+      "texto": "Una fracción de eyección ventricular izquierda menor a 40% indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Función normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfunción leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfunción moderada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disfunción severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipercinesia global"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Valores menores de 40% son compatibles con disfunción ventricular moderada."
+    },
+    {
+      "numero": "13",
+      "texto": "En un estudio en esfuerzo, la ventriculografía radioisotópica permite evaluar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambios en el flujo coronario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Variación de la fracción de eyección con el ejercicio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión arterial media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contractilidad auricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tono vagal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Evalúa la respuesta de la fracción de eyección ventricular ante el ejercicio, útil en isquemia inducible."
+    },
+    {
+      "numero": "14",
+      "texto": "El hallazgo de discinesia segmentaria focal en una ventriculografía radioisotópica sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertrofia ventricular concéntrica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocardiopatía restrictiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aneurisma ventricular postinfarto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia valvular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cardiopatía hipertensiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La discinesia segmentaria focal corresponde a un aneurisma ventricular postinfarto."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es una contraindicación relativa para realizar ventriculografía radioisotópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Marcapasos definitivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alergia al medio de contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia renal leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión ortostática"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Por exposición a radiación ionizante, el embarazo se considera contraindicación relativa."
+    },
+    {
+      "numero": "16",
+      "texto": "El método más adecuado para etiquetar los glóbulos rojos en ventriculografía es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "In vivo con Sn-PYP"
+        },
+        {
+          "opcion": "B",
+          "texto": "In vitro con yodo radiactivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "In vivo con gadolinio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ex vivo con talio-201"
+        },
+        {
+          "opcion": "E",
+          "texto": "In vitro con galio-67"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El método in vivo con pirofosfato de estaño (Sn-PYP) permite marcar glóbulos rojos con Tc-99m."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es una limitación principal de la ventriculografía radioisotópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Baja reproducibilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Necesidad de cateterismo cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "No valora válvulas ni estructuras anatómicas detalladas"
+        },
+        {
+          "opcion": "D",
+          "texto": "No puede medir fracción de eyección"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición prolongada a radiación alta"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "No brinda información anatómica detallada sobre válvulas o paredes cardíacas, solo función global y segmentaria."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el valor clínico de la ventriculografía radioisotópica seriada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar progresión de estenosis aórtica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Controlar función ventricular durante tratamientos cardiotóxicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Detectar isquemia subendocárdica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar función valvular mitral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medir gasto cardíaco central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Permite el seguimiento preciso de la función ventricular durante terapias cardiotóxicas como antraciclinas."
+    },
+    {
+      "numero": "19",
+      "texto": "Una caída de la fracción de eyección >10% respecto al basal indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Error técnico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejoría funcional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disfunción ventricular inducida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Isquemia reversible"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoquinesia compensada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una reducción significativa de la fracción de eyección durante el seguimiento sugiere disfunción ventricular inducida."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es la principal diferencia entre la ventriculografía radioisotópica en equilibrio y la de primer paso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de radioisótopos distintos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medición de volumen diastólico final"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluación de ambos ventrículos simultáneamente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duración de la exposición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Necesidad de medio de contraste"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La técnica de primer paso evalúa ambos ventrículos, mientras que la de equilibrio se centra en el izquierdo."
+    }
+  ]
+}

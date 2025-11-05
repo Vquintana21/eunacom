@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.002",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Absceso amigdalino",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de absceso amigdalino en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Haemophilus influenzae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycoplasma pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El Streptococcus beta hemolítico del grupo A es el principal agente etiológico del absceso periamigdalino."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué antecedente clínico suele preceder al absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Faringoamigdalitis bacteriana mal tratada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringitis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mononucleosis resuelta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso periamigdalino suele complicar una faringoamigdalitis bacteriana mal tratada o incompletamente resuelta."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el síntoma más característico del absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfonía metálica (voz de papa caliente)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinorrea purulenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epistaxis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otalgia sin fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La voz apagada o ‘voz de papa caliente’ es típica por la inflamación periamigdalina que afecta la fonación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el signo físico más característico del absceso periamigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uvula centrada sin edema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desviación de la úvula hacia el lado contralateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema de labios y lengua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agrandamiento simétrico de amígdalas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placas blanquecinas bilaterales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desviación de la úvula al lado opuesto y el abombamiento del pilar anterior son hallazgos clásicos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la edad más frecuente de presentación del absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menores de 2 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre 5 y 15 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre 16 y 25 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Entre 1 y 3 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mayores de 30 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso periamigdalino ocurre principalmente en niños mayores y adolescentes entre 5 y 15 años."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes síntomas sugiere un absceso y no una amigdalitis simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor de garganta bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trismo y sialorrea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Odinofagia moderada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disfonía aislada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trismo y la sialorrea son signos de extensión del proceso infeccioso a tejidos profundos periamigdalinos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el examen de elección para confirmar el diagnóstico de absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía lateral de cuello"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada con contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía cervical"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nasofibroscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía con contraste permite confirmar la presencia y extensión del absceso periamigdalino."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el tratamiento principal del absceso amigdalino confirmado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos orales y reposo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Drenaje quirúrgico y antibióticos intravenosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nebulizaciones con solución salina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gargarismos antisépticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tratamiento incluye drenaje del absceso y antibioterapia intravenosa dirigida a Streptococcus y anaerobios."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué antibiótico se recomienda como primera línea en absceso amigdalino pediátrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina-ácido clavulánico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona sola"
+        },
+        {
+          "opcion": "C",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clindamicina oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Azitromicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación amoxicilina-ácido clavulánico cubre Streptococcus pyogenes y flora anaerobia asociada."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación local puede derivar de un absceso periamigdalino no tratado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media serosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Absceso parafaríngeo o retrofaríngeo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringotraqueitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis purulenta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El absceso periamigdalino puede extenderse al espacio parafaríngeo o retrofaríngeo, complicando el cuadro clínico."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el síntoma más útil para diferenciar un absceso periamigdalino de una faringitis viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Odinofagia leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rinorrea y tos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trismo y desviación de úvula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperemia faríngea difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre vespertina leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La desviación de úvula y el trismo son signos característicos de absceso periamigdalino, ausentes en faringitis viral."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué síntoma orienta a compromiso de vía aérea en un absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sialorrea leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea o estridor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea frontal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoacusia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de disnea o estridor indica compromiso de vía aérea superior y requiere atención urgente."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo clínico es más frecuente en el examen físico de un absceso periamigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa fluctuante cervical media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Abombamiento del pilar anterior con desviación de úvula"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placas amigdalares bilaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Úlceras aftosas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lengua saburral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El abombamiento del pilar anterior y la desviación de la úvula son hallazgos clásicos del absceso periamigdalino."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes es un factor de riesgo para desarrollar absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratamiento antibiótico completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Faringitis viral recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tabaquismo pasivo y mala higiene oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso regular de enjuague bucal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo frecuente de líquidos fríos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tabaquismo pasivo y la mala higiene oral predisponen a infecciones bacterianas orofaríngeas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo de laboratorio se espera en un absceso periamigdalino bacteriano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucopenia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucocitosis con desviación a izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Linfocitosis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plaquetopenia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los cuadros bacterianos presentan leucocitosis con predominio de neutrófilos segmentados y desviación a izquierda."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la medida inmediata en caso de sospecha de absceso con compromiso respiratorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar corticoides orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intubación preventiva y drenaje urgente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reposo domiciliario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Observación ambulatoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nebulización con adrenalina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manejo debe asegurar la vía aérea mediante intubación y drenaje quirúrgico urgente."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes síntomas NO es típico del absceso periamigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Odinofagia intensa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación de la úvula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómitos biliosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sialorrea"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los vómitos biliosos no forman parte del cuadro clínico del absceso periamigdalino."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse ante un absceso periamigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epiglotitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sinusitis maxilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Faringitis viral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La epiglotitis puede simular absceso amigdalino y requiere manejo urgente por riesgo de obstrucción aérea."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo orienta a recurrencia y posible indicación de amigdalectomía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dos episodios leves al año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tres episodios graves con drenaje previo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un solo episodio tratado con antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección viral concomitante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tres o más episodios de absceso periamigdalino son indicación de amigdalectomía electiva."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué examen físico adicional debe realizarse en todo niño con absceso amigdalino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otoscopía y exploración cervical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fondo de ojo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Auscultación pulmonar exclusiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Palpación abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Percusión torácica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe realizarse otoscopía y examen cervical para descartar extensión infecciosa o adenitis asociada."
+    }
+  ]
+}

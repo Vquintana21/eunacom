@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.029",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Sinusitis",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico bacteriano más frecuente en la sinusitis aguda infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Haemophilus influenzae no tipificable"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pseudomonas aeruginosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Streptococcus pneumoniae es el principal agente bacteriano en la sinusitis aguda infantil."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico en la sinusitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión intracraneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Obstrucción del drenaje sinusal y retención de secreciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del flujo sanguíneo nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteración del sistema inmunitario humoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflujo gastroesofágico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obstrucción del drenaje sinusal permite la proliferación bacteriana en las secreciones retenidas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué criterio clínico permite sospechar sinusitis bacteriana tras un cuadro de resfrío común?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinorrea serosa intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Persistencia de síntomas por más de 10 días sin mejoría"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos leve de corta duración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Congestión nasal matinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre leve autolimitada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La persistencia de síntomas respiratorios por más de 10 días sugiere infección bacteriana secundaria."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué seno paranasal se afecta con mayor frecuencia en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etmoidal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esfenoidal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Maxilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Todos por igual"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El seno maxilar es el más afectado en la infancia por su desarrollo temprano y drenaje deficiente."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué signo clínico orienta a sinusitis bacteriana en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Halitosis y rinorrea purulenta persistente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Faringitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disfonía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otalgia refleja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La halitosis y rinorrea purulenta prolongada son indicativos de infección bacteriana sinusal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la duración mínima de síntomas para sospechar sinusitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Más de 4 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Más de 8 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Más de 12 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 2 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 24 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La sinusitis crónica se define por síntomas persistentes por más de 12 semanas."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es el tratamiento antibiótico de primera elección en sinusitis aguda bacteriana infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciprofloxacino"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La amoxicilina es el antibiótico de elección en la sinusitis aguda no complicada."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo clínico sugiere sinusitis etmoidal complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema palpebral unilateral y fiebre alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea frontal leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otalgia bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinorrea acuosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor cervical posterior"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El edema palpebral unilateral con fiebre sugiere complicación orbitarias de origen etmoidal."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué examen es más útil para confirmar complicaciones orbitarias o intracraneales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de senos paranasales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computada con contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nasofibroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ultrasonido nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Examen de fondo de ojo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía con contraste permite evaluar complicaciones orbitarias e intracraneales."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación es más frecuente en la sinusitis etmoidal aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Absceso cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trombosis del seno cavernoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Celulitis periorbitaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otitis media"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La celulitis periorbitaria es la complicación más común de la sinusitis etmoidal."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo radiológico caracteriza la sinusitis maxilar aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel hidroaéreo en seno maxilar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotransparencia difusa de senos frontales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la neumatización"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento del tabique nasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de pólipos nasales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El nivel hidroaéreo en seno maxilar es un hallazgo típico de sinusitis aguda bacteriana."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes síntomas no es típico de sinusitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinorrea purulenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos nocturna persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disnea inspiratoria"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La disnea inspiratoria no es característica de sinusitis, sino de laringitis o crup."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el principal diagnóstico diferencial del cuadro inicial de sinusitis aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Otitis media aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resfrío común viral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amigdalitis bacteriana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epiglotitis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El resfrío común viral puede simular sinusitis en las primeras fases del cuadro."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué medida terapéutica adyuvante puede mejorar el drenaje sinusal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Descongestionantes tópicos por más de 10 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavados nasales con solución salina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antihistamínicos orales prolongados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides sistémicos de rutina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los lavados con solución salina ayudan a limpiar secreciones y mejorar el drenaje sinusal."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el criterio para iniciar antibióticos de inmediato en sinusitis infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síntomas leves por menos de 7 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio súbito con fiebre alta y rinorrea purulenta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Congestión nasal aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rinorrea acuosa sin fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca nocturna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre alta y rinorrea purulenta de inicio súbito sugiere infección bacteriana y requiere antibióticos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué microorganismo se asocia con sinusitis recurrente o crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Moraxella catarrhalis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Virus parainfluenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Pseudomonas aeruginosa se encuentra en casos de sinusitis crónica o recurrente, especialmente post antibióticos."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estructura anatómica inmadura predispone a sinusitis etmoidal en menores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seno frontal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Seno esfenoidal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Celdillas etmoidales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cornetes inferiores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabique nasal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las celdillas etmoidales están presentes desde el nacimiento y predisponen a sinusitis etmoidal temprana."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico sugiere sinusitis frontal en un escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor retroocular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor localizado en la frente y sensibilidad a la palpación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinorrea serosa intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor cervical posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El dolor frontal y sensibilidad sobre el seno frontal son signos típicos de sinusitis frontal."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué examen es de elección para el diagnóstico de sinusitis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía computada de senos paranasales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nasofibroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia magnética cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía facial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tomografía computada es el estudio de elección en sinusitis crónica o refractaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el factor predisponente más común para sinusitis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alergia respiratoria y obstrucción nasal crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de hierro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumo excesivo de lácteos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La alergia respiratoria y la obstrucción nasal son factores que predisponen a sinusitis recurrente."
+    }
+  ]
+}

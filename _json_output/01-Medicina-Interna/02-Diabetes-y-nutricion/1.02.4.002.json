@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo de la ecotomografía abdominal en pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función pancreática exocrina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detectar complicaciones hepáticas, renales y vasculares asociadas a la diabetes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la densidad ósea abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Identificar neuropatías periféricas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinar la masa muscular corporal total"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía abdominal permite evaluar hígado, riñones y vasos, detectando esteatosis, nefropatía y aterosclerosis."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo ecográfico es característico de la esteatosis hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado hiperecogénico con pérdida de definición vascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado hipoecogénico con aumento del flujo portal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del tamaño hepático con bordes irregulares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de múltiples quistes hepáticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificaciones difusas en el parénquima"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La esteatosis hepática se presenta con ecogenicidad aumentada y menor visualización de estructuras vasculares."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la utilidad de la ecografía abdominal en el síndrome metabólico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar neuropatía periférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cuantificar grasa visceral y hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir glucemia capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evaluar presión arterial media"
+        },
+        {
+          "opcion": "E",
+          "texto": "Determinar niveles séricos de insulina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía abdominal permite estimar la cantidad de grasa visceral y hepática, útiles en el síndrome metabólico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el principal órgano evaluado para detectar complicaciones metabólicas mediante ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Páncreas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vesícula biliar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intestino delgado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hígado es clave en la ecografía metabólica para detectar esteatosis, fibrosis o cambios asociados a resistencia insulínica."
+    },
+    {
+      "numero": "5",
+      "texto": "En la ecografía abdominal, la nefropatía diabética puede manifestarse como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tamaño renal y ecogenicidad cortical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñones hipoecogénicos con cavitación central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de tamaño renal con pérdida corticomedular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de quistes simples múltiples"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcificación de la pelvis renal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La nefropatía diabética avanzada muestra riñones pequeños con aumento de ecogenicidad y pérdida de diferenciación corticomedular."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes hallazgos puede observarse en pacientes con pancreatitis asociada a diabetes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Páncreas agrandado e hipoecogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Páncreas atrófico e hiperecogénico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Páncreas con múltiples microquistes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Páncreas calcificado con grasa peripancreática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Páncreas con aumento del flujo arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pancreatitis crónica o atrofia pancreática diabética se asocia a un páncreas pequeño e hiperecogénico."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué parámetro ecográfico permite evaluar indirectamente la resistencia a la insulina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Grosor de la pared vesicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Índice de grasa visceral hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tamaño del bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo venoso portal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Volumen pancreático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aumento de grasa visceral hepática se correlaciona con resistencia a la insulina y riesgo metabólico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la frecuencia del transductor recomendada para una ecografía abdominal en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1–2 MHz"
+        },
+        {
+          "opcion": "B",
+          "texto": "3–5 MHz"
+        },
+        {
+          "opcion": "C",
+          "texto": "6–9 MHz"
+        },
+        {
+          "opcion": "D",
+          "texto": "10–12 MHz"
+        },
+        {
+          "opcion": "E",
+          "texto": "13–15 MHz"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los transductores de 3–5 MHz permiten adecuada penetración y resolución en estudios abdominales profundos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué estructura debe visualizarse adecuadamente como referencia en la ecografía hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena porta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesícula seminal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Arteria renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colon descendente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Páncreas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La vena porta sirve como referencia anatómica principal en la evaluación del parénquima hepático."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es una ventaja de la ecografía abdominal frente a la tomografía computarizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor sensibilidad para lesiones pequeñas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de radiación ionizante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mayor resolución espacial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detección precisa de microcalcificaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Visualización ósea detallada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía no utiliza radiación ionizante, siendo segura y útil para seguimiento de patologías metabólicas."
+    },
+    {
+      "numero": "11",
+      "texto": "En pacientes diabéticos obesos, una limitación técnica frecuente de la ecografía abdominal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de líquido peritoneal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atenuación del ultrasonido por grasa subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipermovilidad intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoacusia del operador"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alta presión intrabdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El exceso de grasa subcutánea atenúa las ondas ultrasónicas, dificultando la visualización profunda de órganos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo ecográfico sugiere nefropatía diabética temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del tamaño renal y ecogenicidad cortical leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Riñones atróficos con calcificaciones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la diferenciación corticomedular severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoecogenicidad del seno renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dilatación de la pelvis renal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fase inicial muestra aumento del tamaño renal y ligera ecogenicidad cortical por hiperfiltración y cambios glomerulares."
+    },
+    {
+      "numero": "13",
+      "texto": "Durante la ecografía abdominal, la esteatosis hepática se clasifica según:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Niveles séricos de AST y ALT"
+        },
+        {
+          "opcion": "B",
+          "texto": "Grado de hiperecogenicidad y visualización vascular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diámetro de la vena cava inferior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de hepatomegalia palpable"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tamaño del bazo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La clasificación se basa en la intensidad del brillo hepático y la pérdida progresiva de la visualización vascular."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo puede observarse en la ecografía abdominal de pacientes con resistencia insulínica severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del espesor endotelial de la aorta abdominal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución del flujo mesentérico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calcificación de arterias renales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento cortical renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atrofia esplénica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La resistencia insulínica se asocia con aterosclerosis precoz, visible como engrosamiento de la íntima media arterial."
+    },
+    {
+      "numero": "15",
+      "texto": "El hallazgo de una vesícula biliar con lodo biliar en diabéticos puede indicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colecistitis acalculosa incipiente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Litiasis renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefritis intersticial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancreatitis autoinmune"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatitis viral aguda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El lodo biliar es frecuente en diabéticos y puede preceder una colecistitis acalculosa o formación de cálculos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué debe realizarse antes de una ecografía abdominal para optimizar la visualización de la vesícula biliar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ingesta abundante de líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ayuno de 6–8 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio físico intenso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administración de contraste oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de diuréticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ayuno de 6–8 horas permite la distensión adecuada de la vesícula y reduce la cantidad de gas intestinal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo ecográfico puede observarse en la aorta abdominal de un paciente diabético con aterosclerosis avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pared lisa y homogénea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de placas ecogénicas y posible dilatación aneurismática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia total de flujo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aorta colapsada con flujo retrógrado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la distensibilidad arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las placas ateromatosas ecogénicas y la dilatación son manifestaciones típicas de aterosclerosis avanzada en diabéticos."
+    },
+    {
+      "numero": "18",
+      "texto": "En la ecografía abdominal, la fibrosis hepática avanzada se sospecha cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El parénquima hepático es homogéneo e hiperecogénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se observa superficie irregular y signos de hipertensión portal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hay aumento del flujo portal"
+        },
+        {
+          "opcion": "D",
+          "texto": "La vesícula biliar está distendida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se visualiza disminución del tamaño esplénico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrosis hepática avanzada se caracteriza por superficie irregular y signos de hipertensión portal como esplenomegalia."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué estructura abdominal es útil para valorar la hipertensión portal mediante ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena porta y esplénica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aorta abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vena cava inferior"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arteria renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vesícula biliar"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La dilatación de la vena porta y esplénica son hallazgos ecográficos sugestivos de hipertensión portal."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo ecográfico abdominal puede relacionarse con el uso prolongado de insulina?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatomegalia grasa leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lipodistrofia localizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del volumen pancreático"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atrofia hepática difusa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esplenomegalia congestiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lipodistrofia localizada puede observarse en tejidos subcutáneos abdominales por inyecciones repetidas de insulina."
+    }
+  ]
+}

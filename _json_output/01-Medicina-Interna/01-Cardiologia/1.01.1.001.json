@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.1.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza a la angina crónica estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor torácico de aparición súbita y prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor torácico predecible con el esfuerzo y aliviado con el reposo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor torácico nocturno sin causa aparente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor persistente que no responde a nitroglicerina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor punzante que irradia al abdomen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La angina estable se caracteriza por dolor torácico predecible, desencadenado por el esfuerzo o estrés y aliviado con el reposo o nitroglicerina."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal de la angina crónica estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vasoespasmo coronario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del consumo de oxígeno miocárdico por fiebre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desequilibrio entre demanda y aporte de oxígeno por aterosclerosis coronaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución del retorno venoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión arterial severa"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La causa principal es el desequilibrio entre la oferta y demanda de oxígeno debido a la obstrucción aterosclerótica coronaria fija."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica del dolor es típica de la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor localizado en la punta del dedo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor que dura segundos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor opresivo retroesternal que irradia al brazo izquierdo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor que aumenta con la palpación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor que mejora al inspirar profundamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El dolor anginoso típico es opresivo, retroesternal, irradiado al brazo izquierdo o mandíbula, de duración corta y desencadenado por esfuerzo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo electrocardiográfico puede observarse durante un episodio de angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Elevación del ST"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inversión de la onda P"
+        },
+        {
+          "opcion": "C",
+          "texto": "Depresión del ST"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo completo de rama derecha"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ondas Q patológicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Durante un episodio de angina estable puede observarse depresión transitoria del segmento ST, reflejo de isquemia subendocárdica."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué fármaco se utiliza para el alivio inmediato de la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Betabloqueador"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nitroglicerina sublingual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "AAS"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La nitroglicerina sublingual produce vasodilatación coronaria rápida, aliviando el dolor anginoso en pocos minutos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué medicamento reduce la mortalidad en pacientes con angina estable y enfermedad coronaria documentada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bloqueadores de calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nitratos de acción prolongada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antiagregantes plaquetarios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diuréticos tiazídicos"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El ácido acetilsalicílico (AAS) disminuye la mortalidad y el riesgo de eventos coronarios al reducir la agregación plaquetaria."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba diagnóstica es más útil para confirmar el diagnóstico de angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecocardiograma en reposo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coronariografía de urgencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Holter de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética cardíaca"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El test de esfuerzo permite inducir isquemia en condiciones controladas y confirmar el diagnóstico de angina estable."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la duración habitual del episodio anginoso en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menos de 30 segundos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 a 5 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "15 a 30 minutos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 1 hora"
+        },
+        {
+          "opcion": "E",
+          "texto": "Constante por días"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El episodio de angina estable dura entre 1 y 5 minutos, cediendo con el reposo o nitroglicerina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el efecto de los betabloqueadores en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentan la contractilidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminuyen la frecuencia cardíaca y el consumo de oxígeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Producen vasodilatación coronaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumentan el retorno venoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevan la presión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los betabloqueadores reducen la frecuencia cardíaca y la contractilidad, disminuyendo la demanda de oxígeno miocárdico."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué clase de angina describe el dolor con esfuerzo intenso, pero no con actividad cotidiana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clase I"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clase II"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clase III"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clase IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clase V"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La clase I según la clasificación de la Sociedad Canadiense describe angina solo con esfuerzos intensos o prolongados."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo en el ecocardiograma puede sugerir isquemia inducible en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipocinesia regional inducida por esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del grosor ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dilatación auricular izquierda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia mitral leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taponamiento cardíaco"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipocinesia regional durante el esfuerzo es signo de isquemia miocárdica reversible."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué intervención reduce la progresión de la enfermedad coronaria en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ejercicio extenuante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cese del tabaquismo y control lipídico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta rica en grasas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspensión de betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar la actividad física"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El control de factores de riesgo como el tabaquismo, la hipertensión y la dislipidemia es fundamental para evitar progresión aterosclerótica."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo clínico NO es característico de la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor opresivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Relación con el esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alivio con reposo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duración prolongada mayor a 30 minutos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Irradiación al cuello"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un dolor prolongado mayor de 30 minutos sugiere angina inestable o infarto agudo de miocardio, no angina estable."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué combinación terapéutica se considera de primera línea en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nitratos y betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA y calcioantagonistas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticoagulantes y diuréticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estatinas y fibratos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueadores alfa y nitratos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los nitratos alivian los síntomas y los betabloqueadores reducen la demanda de oxígeno, siendo una combinación eficaz."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué marcador se usa para descartar infarto agudo en un paciente con dolor anginoso estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Troponina I"
+        },
+        {
+          "opcion": "B",
+          "texto": "LDH"
+        },
+        {
+          "opcion": "C",
+          "texto": "AST"
+        },
+        {
+          "opcion": "D",
+          "texto": "CK total"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mioglobina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La troponina I o T se eleva en el infarto, pero permanece normal en la angina estable."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la prueba más específica para evaluar la anatomía coronaria en angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coronariografía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiograma doppler"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia nuclear magnética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de esfuerzo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La coronariografía permite visualizar directamente las arterias coronarias y definir el grado de obstrucción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué fármaco está indicado en pacientes con angina estable e intolerancia a los betabloqueadores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Verapamilo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hidralazina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amiodarona"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El verapamilo, un bloqueador de calcio no dihidropiridínico, reduce la frecuencia cardíaca y la demanda miocárdica de oxígeno."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué estrategia de prevención secundaria es esencial en la angina estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar la ingesta de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender el ejercicio físico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso diario de AAS y estatinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar antihipertensivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Consumir suplementos de hierro"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El uso de AAS y estatinas reduce la mortalidad y previene eventos coronarios recurrentes en pacientes con angina estable."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué intervención se recomienda en angina estable con obstrucción significativa del tronco coronario izquierdo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratamiento médico conservador"
+        },
+        {
+          "opcion": "B",
+          "texto": "Angioplastía o cirugía de revascularización"
+        },
+        {
+          "opcion": "C",
+          "texto": "Monitoreo ambulatorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio controlado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambio dietético exclusivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La revascularización coronaria mediante angioplastía o cirugía está indicada en obstrucciones severas del tronco coronario izquierdo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué síntoma asociado al dolor anginoso es más frecuente en pacientes ancianos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síncope"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disnea de esfuerzo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Palidez cutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En ancianos y diabéticos, la angina puede manifestarse como disnea de esfuerzo en lugar de dolor torácico típico."
+    }
+  ]
+}

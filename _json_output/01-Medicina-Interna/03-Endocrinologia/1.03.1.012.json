@@ -1,0 +1,572 @@
+{
+  "codigo": "1.03.1.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Endocrinologia",
+  "subcategoria_id": "03",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza al hipogonadismo primario masculino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH y LH bajas con testosterona baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH y LH elevadas con testosterona baja"
+        },
+        {
+          "opcion": "C",
+          "texto": "FSH y LH normales con testosterona alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "FSH alta con testosterona normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH baja con testosterona alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipogonadismo primario hay daño testicular directo, con pérdida de retroalimentación negativa y elevación de gonadotropinas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa genética más común de hipogonadismo primario masculino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Kallmann"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Klinefelter"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Turner"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Prader-Willi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Noonan"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Klinefelter (47,XXY) es la causa genética más frecuente de hipogonadismo primario masculino."
+    },
+    {
+      "numero": "3",
+      "texto": "En el hipogonadismo hipogonadotrófico se encuentran:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH y LH elevadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH y LH bajas"
+        },
+        {
+          "opcion": "C",
+          "texto": "FSH alta y LH baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "FSH baja y LH normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH normal y LH alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipogonadismo hipogonadotrófico se caracteriza por niveles bajos de FSH, LH y testosterona por fallo hipotalámico o hipofisario."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hormona es el marcador más específico de la función testicular de Leydig?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Testosterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibina B"
+        },
+        {
+          "opcion": "E",
+          "texto": "SHBG"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La testosterona, producida por las células de Leydig en respuesta a LH, refleja la función androgénica testicular."
+    },
+    {
+      "numero": "5",
+      "texto": "El síndrome de Kallmann se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anosmia y déficit de GnRH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ginecomastia y cromosoma XXY"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macroorquidismo y exceso de FSH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperpigmentación e hipercortisolismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Micropene y FSH elevada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de Kallmann asocia hipogonadismo hipogonadotrófico con anosmia por alteración en la migración neuronal de GnRH."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué manifestación es típica del hipogonadismo de inicio prepuberal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disfunción eréctil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atrofia testicular progresiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Falta de desarrollo de caracteres sexuales secundarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ginecomastia aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de masa muscular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El inicio antes de la pubertad impide el desarrollo de caracteres sexuales secundarios y el crecimiento del pene."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de las siguientes no es una causa de hipogonadismo primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Orquitis por parotiditis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de Kallmann"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia testicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trauma testicular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de Kallmann produce hipogonadismo hipogonadotrófico (secundario), no primario."
+    },
+    {
+      "numero": "8",
+      "texto": "La inhibina B es secretada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Células de Leydig"
+        },
+        {
+          "opcion": "B",
+          "texto": "Células de Sertoli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Células germinales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células intersticiales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Células del epidídimo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las células de Sertoli secretan inhibina B, que regula la secreción de FSH por retroalimentación negativa."
+    },
+    {
+      "numero": "9",
+      "texto": "El síndrome de Klinefelter se asocia a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testículos grandes y fértiles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ginecomastia y azoospermia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de testosterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anosmia y talla baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH baja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Klinefelter presenta hipogonadismo, testículos pequeños, infertilidad y ginecomastia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de los siguientes fármacos puede inducir hipogonadismo secundario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ketoconazol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Levotiroxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metformina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atorvastatina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Omeprazol"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El ketoconazol inhibe la esteroidogénesis, reduciendo la producción de testosterona y causando hipogonadismo secundario."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el método más preciso para medir testosterona biodisponible?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testosterona total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cálculo de testosterona libre mediante SHBG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medición urinaria de andrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH basal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolactina plasmática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cálculo de testosterona libre a partir de testosterona total y SHBG refleja mejor la fracción activa."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hormona estimula directamente las células de Leydig?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH"
+        },
+        {
+          "opcion": "B",
+          "texto": "LH"
+        },
+        {
+          "opcion": "C",
+          "texto": "GnRH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prolactina"
+        },
+        {
+          "opcion": "E",
+          "texto": "TSH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La LH estimula las células de Leydig para la producción de testosterona testicular."
+    },
+    {
+      "numero": "13",
+      "texto": "El hipogonadismo tardío del adulto se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH y LH bajas con testosterona alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Testosterona total baja con síntomas de deficiencia androgénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevación marcada de prolactina"
+        },
+        {
+          "opcion": "D",
+          "texto": "FSH elevada y testosterona normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de síntomas sexuales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hipogonadismo tardío cursa con testosterona baja y síntomas como disfunción eréctil, fatiga y pérdida de masa muscular."
+    },
+    {
+      "numero": "14",
+      "texto": "En el hipogonadismo hipogonadotrófico, ¿cuál es el tratamiento de elección para la fertilidad?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Testosterona exógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH y LH exógenas o hCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Danazol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Finasteride"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhibidores de aromatasa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La administración de gonadotropinas (hCG y FSH) estimula la espermatogénesis en el hipogonadismo hipogonadotrófico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo es característico del hipogonadismo primario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Azoospermia con testículos pequeños y FSH elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "FSH baja con testículos normales"
+        },
+        {
+          "opcion": "C",
+          "texto": "LH baja con testosterona normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Testosterona alta con espermatogénesis aumentada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prolactina baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hipogonadismo primario produce atrofia testicular, azoospermia y elevación de FSH y LH."
+    },
+    {
+      "numero": "16",
+      "texto": "La administración de testosterona exógena puede causar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de espermatogénesis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Supresión de LH y FSH endógenas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Incremento de la fertilidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del volumen testicular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperprolactinemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La testosterona exógena inhibe la secreción de gonadotropinas, suprimiendo la espermatogénesis y reduciendo la fertilidad."
+    },
+    {
+      "numero": "17",
+      "texto": "El déficit androgénico prolongado puede producir:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de masa ósea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de masa muscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteopenia y osteoporosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertrofia prostática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperpigmentación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La deficiencia androgénica causa pérdida de masa ósea y riesgo aumentado de fracturas."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo de laboratorio sugiere hipogonadismo hipogonadotrófico secundario a hiperprolactinemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prolactina elevada con testosterona baja"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prolactina baja con testosterona alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "LH alta con prolactina normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Testosterona alta con FSH baja"
+        },
+        {
+          "opcion": "E",
+          "texto": "FSH elevada con prolactina baja"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperprolactinemia suprime GnRH, reduciendo FSH, LH y testosterona."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la manifestación sexual más común del hipogonadismo en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eyaculación precoz"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfunción eréctil y disminución de libido"
+        },
+        {
+          "opcion": "C",
+          "texto": "Priapismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de libido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anorgasmia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La disminución de libido y la disfunción eréctil son síntomas frecuentes del déficit de testosterona."
+    },
+    {
+      "numero": "20",
+      "texto": "El hipogonadismo hipogonadotrófico congénito se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resistencia testicular a LH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Defecto en la secreción de GnRH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alteración cromosómica XY"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión de células de Leydig"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutación del receptor de andrógenos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el hipogonadismo hipogonadotrófico congénito, hay defecto en la secreción o acción de GnRH, como en Kallmann."
+    }
+  ]
+}

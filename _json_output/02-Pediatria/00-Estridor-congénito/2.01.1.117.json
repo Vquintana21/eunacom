@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.117",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Estridor congénito",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de estridor congénito en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Laringomalacia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traqueomalacia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Parálisis de cuerdas vocales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemangioma subglótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estenosis subglótica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La laringomalacia representa más del 60% de los casos de estridor congénito, debido a la flacidez de las estructuras supraglóticas."
+    },
+    {
+      "numero": "2",
+      "texto": "¿A qué edad suele manifestarse el estridor congénito por laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al nacimiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Entre las 2 y 4 semanas de vida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Después de los 6 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 2 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "En la adolescencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estridor aparece típicamente entre la segunda y cuarta semana de vida y se agrava con el llanto o la alimentación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el tipo de estridor característico de la laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bifásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sibilante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Silente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El estridor inspiratorio es típico de lesiones supraglóticas como la laringomalacia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué examen confirma el diagnóstico de laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cuello"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrolaringoscopía flexible"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tomografía computarizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopía rígida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía cervical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fibrolaringoscopía flexible permite visualizar el colapso supraglótico durante la inspiración."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el tratamiento inicial de la mayoría de los casos de laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traqueostomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cirugía inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento conservador y observación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia con corticoides orales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mayoría de los casos se resuelven espontáneamente antes de los 18 a 24 meses sin necesidad de cirugía."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué signo clínico obliga a derivación urgente en un lactante con estridor congénito?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estridor leve al llanto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo gastroesofágico asociado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis o apneas con la alimentación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ronquido nocturno leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Llanto débil ocasional"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cianosis o apnea durante la alimentación sugiere obstrucción significativa y requiere evaluación urgente."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué anomalía se asocia frecuentemente a laringomalacia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cardiopatía congénita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Displasia broncopulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotiroidismo congénito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El reflujo gastroesofágico agrava el colapso laríngeo y empeora los síntomas respiratorios."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la característica del estridor en estenosis subglótica congénita?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bifásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo con el llanto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La estenosis subglótica produce un estridor bifásico debido a la obstrucción fija de la vía aérea inferior."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué malformación congénita puede causar estridor por compresión extrínseca de la vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vascular ring"
+        },
+        {
+          "opcion": "B",
+          "texto": "Micrognatia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia de coanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cistadenoma tiroideo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Quiste broncogénico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los anillos vasculares o doble arco aórtico pueden comprimir la tráquea y causar estridor persistente."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué estudio permite confirmar la presencia de un anillo vascular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía lateral de cuello"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía computarizada con contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nasofibroscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoscopía rígida sin contraste"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tomografía con contraste define la anatomía vascular y su relación con la tráquea y el esófago."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué tipo de estridor produce la parálisis bilateral de cuerdas vocales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiratorio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bifásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sibilante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Silente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La parálisis bilateral produce un estridor bifásico por obstrucción fija a nivel glótico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué anomalía neurológica se asocia frecuentemente a la parálisis congénita de cuerdas vocales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Malformación de Arnold-Chiari tipo II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Down"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microcefalia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Pierre Robin"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La malformación de Arnold-Chiari II es una causa reconocida de parálisis bilateral congénita de cuerdas vocales."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo orienta a hemangioma subglótico como causa de estridor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estridor intermitente y cianosis con esfuerzo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estridor progresivo con hemangioma cutáneo facial asociado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estridor bifásico con disfonía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estridor solo durante el sueño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estridor que mejora con posición prono"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los hemangiomas subglóticos se asocian con lesiones faciales y estridor progresivo a los pocos meses de vida."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento de elección del hemangioma subglótico sintomático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticoides orales prolongados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Propranolol sistémico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirugía inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia local"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antibióticos profilácticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El propranolol es el tratamiento de elección, promoviendo la regresión del hemangioma subglótico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué estudio permite diferenciar entre laringomalacia y traqueomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrobroncoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía simple"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC craneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oximetría de pulso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecocardiografía"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fibrobroncoscopía evalúa directamente el sitio y grado de colapso de la vía aérea."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué maniobra empeora el estridor en laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Posición prono"
+        },
+        {
+          "opcion": "B",
+          "texto": "Llanto y decúbito supino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sueño profundo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Posición vertical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante la alimentación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estridor se agrava con el llanto y en posición supina por el aumento del colapso supraglótico."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué signo sugiere compromiso respiratorio severo en un niño con estridor?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estridor solo al llanto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfonía leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tiraje supraclavicular y retracción esternal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos húmeda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinorrea persistente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tiraje y las retracciones indican aumento del esfuerzo respiratorio y obstrucción significativa."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el curso clínico típico de la laringomalacia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Progresivo y fatal sin cirugía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estable durante toda la infancia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Empeora hasta los 6 meses y mejora espontáneamente hacia los 18-24 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intermitente durante la adolescencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requiere siempre tratamiento quirúrgico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La laringomalacia empeora durante los primeros meses y se resuelve espontáneamente en la mayoría hacia los 2 años."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la cirugía indicada en laringomalacia severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traqueostomía definitiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epiglotoplastía o supraglotoplastía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resección laríngea total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Microcirugía de cuerdas vocales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Laringectomía parcial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La supraglotoplastía corrige el colapso de las estructuras supraglóticas en casos severos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse en estridor congénito persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis asmática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Displasia broncopulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atresia de coanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Obstrucción nasal por pólipos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de aspiración recurrente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La atresia de coanas produce dificultad respiratoria y ruido inspiratorio en el neonato."
+    }
+  ]
+}

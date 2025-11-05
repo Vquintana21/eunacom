@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.109",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Ectoparasitosis",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la pediculosis capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sarcoptes scabiei"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pediculus humanus capitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pthirus pubis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Demodex folliculorum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cimex lectularius"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pediculosis capitis es causada por Pediculus humanus capitis, un ectoparásito hematófago que afecta principalmente el cuero cabelludo infantil."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la forma de transmisión más común de la escabiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Picadura de insectos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contacto piel a piel prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de agua contaminada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inhalación de esporas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La escabiosis se transmite por contacto directo piel a piel prolongado con una persona infestada."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo es característico de la escabiosis en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vesículas en palmas y plantas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pápulas costrosas en cuero cabelludo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesiones ulceradas en mucosas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ampollas hemorrágicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema en mejillas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vesículas y surcos en palmas, plantas y espacios interdigitales son típicos en escabiosis infantil."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el tratamiento de elección para la escabiosis en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permetrina al 5% tópica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ivermectina oral como primera línea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Malatión al 0,5%"
+        },
+        {
+          "opcion": "D",
+          "texto": "Benzil benzoato al 25%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crotamitón al 10%"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La permetrina al 5% es el tratamiento tópico de elección por su eficacia y seguridad."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué manifestación clínica se asocia con la pediculosis capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito intenso en cuero cabelludo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eritema facial difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placas descamativas en extremidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alopecia cicatricial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pústulas en espalda"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El prurito intenso en cuero cabelludo es la manifestación principal por reacción a la saliva del piojo."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tratamiento se recomienda para la pediculosis capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Permetrina al 1% tópica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ivermectina oral en dosis única"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lindano tópico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcohol bencílico al 10%"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crotamitón oral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La permetrina al 1% es el tratamiento tópico de primera línea para la pediculosis capitis."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la localización típica de los huevos de Pediculus humanus capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Raíz del cabello, firmemente adheridos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Extremo distal del cabello"
+        },
+        {
+          "opcion": "C",
+          "texto": "Superficie del cuero cabelludo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dentro de los folículos pilosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sobre las glándulas sebáceas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los huevos (liendres) se adhieren firmemente a la base del cabello cerca del cuero cabelludo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación puede derivarse de una pediculosis no tratada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección bacteriana secundaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiña capitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escabiosis nodular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritema multiforme"
+        },
+        {
+          "opcion": "E",
+          "texto": "Psoriasis infantil"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El rascado puede causar impétigo secundario por Staphylococcus aureus o Streptococcus pyogenes."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida complementaria es necesaria en el tratamiento de la escabiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratar solo al paciente sintomático"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lavar ropa y sábanas con agua caliente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar el baño diario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso prolongado de corticoides tópicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar el contacto solar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe lavarse la ropa y ropa de cama con agua caliente para eliminar los ácaros."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué agente causa la escabiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Demodex folliculorum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sarcoptes scabiei var. hominis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pediculus humanus capitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pthirus pubis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tunga penetrans"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Sarcoptes scabiei var. hominis es el ácaro responsable de la escabiosis humana."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la forma de contagio más frecuente en pediculosis escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Por aerosoles respiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Por compartir peines y gorros"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por contacto con animales domésticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por transmisión transplacentaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Por picadura de mosquitos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La transmisión se produce por contacto directo o al compartir objetos personales como peines o gorros."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes ectoparásitos puede causar prurito púbico en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sarcoptes scabiei"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pthirus pubis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pediculus humanus corporis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Demodex folliculorum"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cimex lectularius"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Pthirus pubis es el piojo del pubis, causante del prurito y lesiones por rascado."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es una medida preventiva efectiva contra la pediculosis capitis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corte de cabello completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Revisión periódica en colegios y evitar compartir artículos personales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicación diaria de insecticidas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar el lavado del cabello"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La revisión periódica y evitar compartir objetos personales son medidas preventivas efectivas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo distingue la escabiosis nodular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nódulos pruriginosos persistentes en genitales o axilas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pústulas en cuero cabelludo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eritema generalizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vesículas en mucosa oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Costras melicéricas extensas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La escabiosis nodular presenta nódulos persistentes pruriginosos, especialmente en zonas genitales y axilares."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el tratamiento alternativo a la permetrina en pacientes mayores de 15 kg?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ivermectina oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Benzil benzoato tópico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ácido salicílico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cloranfenicol oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metronidazol tópico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ivermectina oral es una opción segura y eficaz en mayores de 15 kg cuando la permetrina no es posible."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué lesión se considera patognomónica de la escabiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Surco acarino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Costra hemorrágica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampolla con líquido claro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pápula con necrosis central"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nódulo inflamatorio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El surco acarino es una línea fina y serpenteante producida por el desplazamiento del ácaro."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida es necesaria para evitar reinfección en la escabiosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratar a todos los convivientes simultáneamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cambiar la dieta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar el baño por tres días"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aplicar talco medicado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dormir en habitaciones ventiladas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe tratarse a todos los convivientes al mismo tiempo para evitar reinfestación."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué lesión típica produce Pthirus pubis en la piel?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pápulas eritematosas con prurito intenso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesículas con exudado seroso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Máculas azuladas en zonas de picadura"
+        },
+        {
+          "opcion": "D",
+          "texto": "Costras melicéricas en cuero cabelludo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ampollas hemorrágicas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El Pthirus pubis puede producir máculas azuladas (“máculas cerúleas”) por hemoglobina degradada."
+    },
+    {
+      "numero": "19",
+      "texto": "En la escabiosis costrosa (noruega), ¿qué característica la diferencia de la forma clásica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afecta solo la cara"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiene mínima carga parasitaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Se presenta en inmunodeprimidos con costras gruesas y alta infestación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Produce lesiones vesiculares sin prurito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Responde rápidamente al tratamiento con antihistamínicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La escabiosis costrosa se presenta en inmunodeprimidos con costras gruesas y gran número de ácaros."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué diagnóstico diferencial debe considerarse en un lactante con prurito nocturno y lesiones interdigitales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dermatitis seborreica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Escabiosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eccema alérgico de contacto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Psoriasis en gotas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiña corporis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El prurito nocturno y las lesiones interdigitales son características clásicas de la escabiosis."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.4.003",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.4.003 - Ecotomografía obstétrica normal.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la utilidad principal de la ecografía obstétrica en el primer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar el peso fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir el líquido amniótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Confirmar localización e integridad del embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Valorar la placenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Detectar malformaciones mayores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En el primer trimestre la ecografía permite confirmar la ubicación intrauterina del embarazo y su viabilidad."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué estructura se visualiza primero en una ecografía obstétrica normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embrión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vesícula vitelina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cordón umbilical"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El saco gestacional es la primera estructura visible, generalmente desde la quinta semana de gestación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la medida más precisa para estimar la edad gestacional en el primer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diámetro biparietal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Longitud cráneo-caudal (LCC)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Circunferencia abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Longitud del fémur"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro cefálico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La longitud cráneo-caudal (LCC) es la medida más precisa para determinar la edad gestacional antes de las 14 semanas."
+    },
+    {
+      "numero": "4",
+      "texto": "¿A partir de qué semana se observa actividad cardíaca embrionaria por ecografía transvaginal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "4 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "7 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "8 semanas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La actividad cardíaca embrionaria se detecta normalmente a partir de la sexta semana de gestación."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el rango normal de frecuencia cardíaca fetal en el primer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "60-80 lpm"
+        },
+        {
+          "opcion": "B",
+          "texto": "90-110 lpm"
+        },
+        {
+          "opcion": "C",
+          "texto": "110-160 lpm"
+        },
+        {
+          "opcion": "D",
+          "texto": "160-200 lpm"
+        },
+        {
+          "opcion": "E",
+          "texto": "200-220 lpm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La frecuencia cardíaca fetal normal varía entre 110 y 160 latidos por minuto."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estructura define el diagnóstico ecográfico de embarazo intrauterino?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesícula vitelina dentro del saco gestacional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embrión visible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta incipiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón umbilical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de una vesícula vitelina dentro del saco gestacional confirma un embarazo intrauterino."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué parámetro se utiliza principalmente para evaluar el crecimiento fetal en el segundo trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LCC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diámetro biparietal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Circunferencia abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Longitud femoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro cefálico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El diámetro biparietal (DBP) es el parámetro más útil en el segundo trimestre para evaluar crecimiento fetal."
+    },
+    {
+      "numero": "8",
+      "texto": "¿A partir de qué semana se visualiza la placenta por ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "6 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "8 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "14 semanas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La placenta puede identificarse como estructura diferenciada a partir de las 12 semanas de gestación."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué significa placenta grado 0 en la clasificación de Grannum?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta madura"
+        },
+        {
+          "opcion": "B",
+          "texto": "Calcificaciones dispersas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Homogénea sin calcificaciones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de lagunas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Múltiples lobulaciones"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El grado 0 corresponde a una placenta homogénea, sin calcificaciones ni lobulaciones, típica del segundo trimestre temprano."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el método de elección para evaluar la cantidad de líquido amniótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diámetro biparietal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Índice de líquido amniótico (ILA)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Volumen uterino total"
+        },
+        {
+          "opcion": "D",
+          "texto": "Circunferencia abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía Doppler"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El índice de líquido amniótico (ILA) es la medida estándar para cuantificar el volumen de líquido amniótico."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué estructura ecográfica delimita el polo cefálico fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seno venoso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tercer ventrículo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Huesos parietales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cerebelo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cisterna magna"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los huesos parietales delimitan el polo cefálico fetal y se utilizan para medir el diámetro biparietal."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estructura debe observarse en una ecografía de 12 semanas para evaluar integridad fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cavidades cardíacas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesícula vitelina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Translucencia nucal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón umbilical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La medición de la translucencia nucal entre 11-14 semanas permite evaluar riesgo de aneuploidías."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la utilidad principal del Doppler umbilical en embarazos normales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Determinar sexo fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Medir flujo placentario y bienestar fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar edad gestacional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar malformaciones cardíacas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Calcular volumen amniótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El Doppler umbilical evalúa la resistencia placentaria y la oxigenación fetal, indicadores del bienestar fetal."
+    },
+    {
+      "numero": "14",
+      "texto": "¿A partir de qué semana se identifica el sexo fetal con alta precisión ecográfica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "12 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "14 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "16 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "20 semanas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El sexo fetal puede determinarse con buena precisión a partir de la semana 16 por desarrollo genital externo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la función del líquido amniótico evaluable por ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nutrir al feto"
+        },
+        {
+          "opcion": "B",
+          "texto": "Facilitar el movimiento y crecimiento fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Regular el flujo uterino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Favorecer la implantación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la frecuencia cardíaca fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido amniótico permite el movimiento fetal libre y protege al feto, siendo indicador indirecto de bienestar."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo corresponde a una ecografía obstétrica normal en el tercer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "B",
+          "texto": "ILA mayor de 24 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Flujo umbilical reverso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento fetal acorde a edad gestacional"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de movimientos fetales"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un crecimiento fetal acorde a la edad gestacional refleja un desarrollo normal en el tercer trimestre."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la posición normal del cordón umbilical en ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rodeando cuello fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inserción marginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inserción central en la placenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inserción velamentosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inserción central del cordón umbilical en la placenta es la posición normal y más frecuente."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro ecográfico permite estimar el peso fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "LCC"
+        },
+        {
+          "opcion": "B",
+          "texto": "Circunferencia abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diámetro biparietal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Índice de líquido amniótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Longitud humeral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La circunferencia abdominal se correlaciona fuertemente con el peso fetal y se usa para estimarlo junto a otras medidas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo indica madurez pulmonar fetal en ecografía con Doppler?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de líquido amniótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flujo umbilical bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de movimiento respiratorio fetal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento fetal acelerado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta grado III"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los movimientos respiratorios fetales son signo de madurez pulmonar y bienestar fetal en la ecografía."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué valor de translucencia nucal se considera normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Menor de 1 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Menor de 2.5 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Menor de 3.5 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mayor de 3.5 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cualquiera mientras haya latido fetal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una translucencia nucal menor de 2.5 mm se considera dentro del rango normal para la edad gestacional."
+    }
+  ]
+}

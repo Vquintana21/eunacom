@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.5.001",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo de administrar medicamentos por tubo orotraqueal durante una reanimación cardiopulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar el volumen pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permitir la administración de fármacos cuando no hay acceso venoso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la resistencia vascular pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acelerar la intubación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar el uso de adrenalina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vía orotraqueal se utiliza cuando no es posible un acceso venoso o intraóseo rápido durante la reanimación."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuáles son los fármacos que pueden administrarse por vía orotraqueal durante RCP según recomendaciones actuales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Naloxona, atropina, adrenalina, lidocaína"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amiodarona, dopamina, calcio, insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nitroglicerina, adenosina, furosemida, atropina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Heparina, lidocaína, morfina, dobutamina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atropina, adenosina, amiodarona, dopamina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los fármacos recordados con el acrónimo 'NAVEL' (Naloxona, Atropina, Vasopresina, Epinefrina, Lidocaína) pueden administrarse por esta vía."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el acrónimo usado para recordar los fármacos administrables por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ABCDE"
+        },
+        {
+          "opcion": "B",
+          "texto": "NAVEL"
+        },
+        {
+          "opcion": "C",
+          "texto": "MARCH"
+        },
+        {
+          "opcion": "D",
+          "texto": "DRABC"
+        },
+        {
+          "opcion": "E",
+          "texto": "CABCDE"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El acrónimo NAVEL corresponde a Naloxona, Atropina, Vasopresina, Epinefrina y Lidocaína."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué modificación de dosis se recomienda al administrar un medicamento por vía orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar la misma dosis IV"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar la mitad de la dosis IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Usar 2 a 2.5 veces la dosis IV diluida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar dosis sublingual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Usar dosis pediátrica estándar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fármacos deben administrarse en una dosis de 2 a 2.5 veces la IV, diluidos en 10 ml de solución salina o agua destilada."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el volumen recomendado para diluir el fármaco antes de administrarlo por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1–2 ml"
+        },
+        {
+          "opcion": "B",
+          "texto": "3–5 ml"
+        },
+        {
+          "opcion": "C",
+          "texto": "5–10 ml"
+        },
+        {
+          "opcion": "D",
+          "texto": "10–20 ml"
+        },
+        {
+          "opcion": "E",
+          "texto": "20–30 ml"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los medicamentos deben diluirse en aproximadamente 10 ml de solución salina o agua estéril antes de su administración."
+    },
+    {
+      "numero": "6",
+      "texto": "Tras la administración del medicamento por tubo orotraqueal, se debe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esperar 5 minutos sin ventilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar 5 ventilaciones forzadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aspirar el contenido del tubo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Interrumpir la RCP durante un minuto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevar el tubo para facilitar difusión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomienda realizar 5 ventilaciones rápidas y profundas para dispersar el fármaco en el árbol bronquial."
+    },
+    {
+      "numero": "7",
+      "texto": "La adrenalina administrada por tubo orotraqueal debe darse a una dosis de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "0.1 mg/kg"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 mg diluido en 2 ml"
+        },
+        {
+          "opcion": "C",
+          "texto": "2–2.5 mg diluidos en 10 ml"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 mg sin diluir"
+        },
+        {
+          "opcion": "E",
+          "texto": "0.5 mg cada minuto"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La dosis recomendada es 2–2.5 veces la IV (2–2.5 mg) diluida en 10 ml de solución salina o agua estéril."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué vía de administración se prefiere actualmente por sobre la vía orotraqueal durante reanimación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vía sublingual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vía intraósea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vía intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vía intranasal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vía subcutánea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vía intraósea es preferida cuando no se logra un acceso venoso rápido, por su absorción más predecible."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Por qué la vía orotraqueal es menos recomendada actualmente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Produce arritmias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiene absorción impredecible y menor concentración plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta la presión intracraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causa hipoxia prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requiere equipo especializado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La absorción de los fármacos por la mucosa traqueal es variable y genera concentraciones plasmáticas poco confiables."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué tipo de solución debe usarse para diluir el fármaco administrado por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dextrosa al 5%"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solución hipertónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solución salina o agua estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plasma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Líquido de Ringer lactato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda diluir los fármacos en 10 ml de solución salina o agua estéril para mejorar su dispersión."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes medicamentos NO debe administrarse por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Adrenalina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Naloxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lidocaína"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La amiodarona no se recomienda por vía orotraqueal debido a su absorción impredecible y viscosidad."
+    },
+    {
+      "numero": "12",
+      "texto": "La lidocaína administrada por tubo orotraqueal se usa principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Torsades de pointes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular o taquicardia ventricular sin pulso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asistolia prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La lidocaína se utiliza como antiarrítmico en fibrilación o taquicardia ventricular cuando la amiodarona no está disponible."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué fármaco administrado por tubo orotraqueal se usa en la reversión de depresión respiratoria por opioides?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Naloxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flumazenil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atropina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epinefrina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lidocaína"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La naloxona puede administrarse por vía orotraqueal para revertir la depresión respiratoria inducida por opioides."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal sitio de absorción de los fármacos administrados por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alvéolos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquios principales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tráquea y bronquiolos proximales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Capilares pulmonares"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mucosa nasal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fármacos se absorben principalmente a través de la mucosa traqueal y bronquial proximal."
+    },
+    {
+      "numero": "15",
+      "texto": "La atropina por vía orotraqueal se administra en casos de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradicardia extrema durante RCP"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión refractaria"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La atropina se utiliza para tratar la bradicardia severa cuando no es posible el acceso IV o IO."
+    },
+    {
+      "numero": "16",
+      "texto": "Tras la administración de un fármaco por tubo orotraqueal, es importante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aspirar el tubo para evitar sobredosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ventilar para distribuir el medicamento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Elevar el tórax del paciente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esperar 2 minutos sin RCP"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar masaje abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ventilación inmediata ayuda a distribuir el medicamento por el árbol respiratorio y mejorar la absorción."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué vía alternativa se recomienda si la absorción orotraqueal es inefectiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Intramuscular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intraósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rectal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sublingual"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vía intraósea proporciona absorción similar a la intravenosa y es preferida si falla la orotraqueal."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué consideraciones deben tenerse al usar el tubo orotraqueal para administración farmacológica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Debe retirarse el tubo antes de la dosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "El medicamento debe administrarse sin diluir"
+        },
+        {
+          "opcion": "C",
+          "texto": "El tubo debe estar conectado a ventilación positiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se debe evitar ventilar después de la administración"
+        },
+        {
+          "opcion": "E",
+          "texto": "La absorción aumenta si se usa oxígeno al 50%"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ventilación positiva posterior a la administración facilita la dispersión del fármaco en la mucosa bronquial."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué complicación puede ocurrir por administración inadecuada de fármacos por tubo orotraqueal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoespasmo o irritación de mucosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La administración inadecuada puede causar irritación bronquial, broncoespasmo o distribución ineficiente del fármaco."
+    },
+    {
+      "numero": "20",
+      "texto": "La principal limitación de la vía orotraqueal en reanimación es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Falta de disponibilidad de fármacos compatibles"
+        },
+        {
+          "opcion": "B",
+          "texto": "Variabilidad en la absorción y eficacia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Riesgo de sobredosis inmediata"
+        },
+        {
+          "opcion": "D",
+          "texto": "Interferencia con la ventilación mecánica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Requiere monitoreo electrocardiográfico continuo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La absorción variable y menor eficacia hacen que esta vía sea una opción secundaria cuando no hay acceso IV o IO."
+    }
+  ]
+}

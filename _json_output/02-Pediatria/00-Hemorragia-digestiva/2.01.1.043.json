@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.043",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hemorragia digestiva",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de hemorragia digestiva alta en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gastritis erosiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esofagitis erosiva por reflujo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Várices esofágicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Mallory-Weiss"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La esofagitis por reflujo gastroesofágico es la causa más frecuente en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "En un niño con vómitos con sangre, ¿cuál es el diagnóstico más probable si presenta dolor epigástrico y melena?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Úlcera gástrica o duodenal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorroides internas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis ulcerosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Intususcepción"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de hematemesis, dolor epigástrico y melena sugiere úlcera péptica."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más común de hemorragia digestiva baja en niños mayores de 2 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pólipos juveniles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Divertículo de Meckel"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los pólipos juveniles son la causa más frecuente de rectorragia indolora en niños."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo clínico sugiere hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Heces negras alquitranadas (melena)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces con sangre roja brillante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal bajo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Moco en las deposiciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tenesmo rectal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La melena es indicativa de sangrado proximal al ángulo de Treitz."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la prueba inicial más útil para localizar el origen del sangrado digestivo alto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tránsito intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía simple de abdomen"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La endoscopía permite localizar y tratar la fuente del sangrado digestivo alto."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo sugiere hemorragia digestiva baja masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melena intermitente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Heces con sangre fresca y coágulos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Heces marrones blandas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor epigástrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos con sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de sangre roja y coágulos indica sangrado distal e importante."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué causa se debe sospechar ante hematoquecia en un niño sin dolor abdominal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pólipo juvenil"
+        },
+        {
+          "opcion": "D",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Divertículo de Meckel"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pólipo juvenil causa sangrado indoloro intermitente sin otros síntomas digestivos."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el examen más sensible para diagnosticar divertículo de Meckel?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Gammagrafía con pertecnetato (scan de Meckel)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tránsito intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La gammagrafía con pertecnetato detecta mucosa gástrica ectópica en el divertículo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de las siguientes NO es una causa de hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esofagitis erosiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Várices esofágicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastritis erosiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pólipo colónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Mallory-Weiss"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los pólipos colónicos causan sangrado digestivo bajo, no alto."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la causa más frecuente de hemorragia digestiva baja en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Colitis alérgica a la proteína de leche de vaca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Divertículo de Meckel"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colitis infecciosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Invaginación intestinal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La colitis alérgica es la principal causa de rectorragia en lactantes sanos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo clínico se asocia a hemorragia digestiva baja de origen colónico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Melena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hematoquecia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hematemesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vómito con sangre digerida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor epigástrico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hematoquecia (sangre roja en heces) indica origen distal, habitualmente colónico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estudio es útil en sangrado digestivo bajo recurrente sin causa evidente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopía total"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test de sangre oculta en heces"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tránsito intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopía alta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La colonoscopía permite identificar pólipos, colitis o malformaciones vasculares."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el manejo inicial de un niño con hemorragia digestiva aguda y signos de shock?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Endoscopía inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reposición con cristaloides y estabilización hemodinámica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de vasopresores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transfusión sin evaluación previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La reanimación con fluidos es la primera medida en sangrado agudo con shock."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la causa más común de hematemesis en un adolescente con vómitos repetidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Mallory-Weiss"
+        },
+        {
+          "opcion": "B",
+          "texto": "Várices esofágicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Úlcera duodenal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gastritis erosiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reflujo gastroesofágico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El desgarro mucoso del esófago distal (Mallory-Weiss) ocurre tras vómitos intensos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo de laboratorio sugiere hemorragia digestiva crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia microcítica hipocrómica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de bilirrubina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pérdida crónica de sangre genera anemia ferropénica microcítica e hipocrómica."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo físico sugiere una hemorragia digestiva masiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia y palidez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ictericia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Distensión abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor localizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del apetito"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Taquicardia y palidez indican hipovolemia secundaria a pérdida sanguínea significativa."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la primera medida diagnóstica ante melena en un niño estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colonoscopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gammagrafía con pertecnetato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tránsito intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "TAC abdominal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La endoscopía alta es el estudio inicial en presencia de melena."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es una causa importante de hemorragia digestiva alta en pacientes con hepatopatía crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Várices esofágicas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Esofagitis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastritis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pólipo duodenal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Mallory-Weiss"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipertensión portal secundaria produce várices esofágicas que pueden sangrar."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la causa más frecuente de rectorragia leve en lactantes sanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fisura anal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pólipo juvenil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colitis ulcerosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Invaginación intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Divertículo de Meckel"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las fisuras anales son frecuentes en lactantes con constipación o deposiciones duras."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué parámetro permite evaluar la gravedad del sangrado digestivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nivel de bilirrubina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoglobina y hematocrito"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcemia sérica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Gasometría venosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoglobina y el hematocrito permiten estimar la magnitud de la pérdida sanguínea."
+    }
+  ]
+}

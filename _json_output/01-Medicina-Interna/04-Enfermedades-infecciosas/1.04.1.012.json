@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.012",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella enterica serotipo Typhi"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salmonella enterica serotipo Paratyphi A"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli enteroinvasiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Shigella dysenteriae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yersinia enterocolitica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fiebre tifoidea es causada por Salmonella enterica serotipo Typhi, un bacilo gramnegativo exclusivo del ser humano."
+    },
+    {
+      "numero": "2",
+      "texto": "La vía de transmisión más frecuente de la fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto directo con secreciones respiratorias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fecal-oral por agua o alimentos contaminados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transmisión vectorial por insectos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición cutánea a heces infectadas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La transmisión ocurre principalmente por vía fecal-oral, a través de alimentos o agua contaminados con heces humanas."
+    },
+    {
+      "numero": "3",
+      "texto": "El periodo de incubación habitual de la fiebre tifoidea es de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 a 3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 a 5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7 a 14 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "21 a 30 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 45 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El periodo de incubación de la fiebre tifoidea suele ser de 7 a 14 días, dependiendo de la dosis infectante."
+    },
+    {
+      "numero": "4",
+      "texto": "El signo clínico característico de la fiebre tifoidea en la segunda semana es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Erupción vesicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bradicardia relativa (signo de Faget)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos productiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artralgias migratorias"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema petequial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bradicardia relativa o signo de Faget es característica de la segunda semana de fiebre tifoidea."
+    },
+    {
+      "numero": "5",
+      "texto": "La lesión intestinal característica en la fiebre tifoidea se localiza principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colon descendente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Íleon terminal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Duodeno"
+        },
+        {
+          "opcion": "E",
+          "texto": "Yeyuno medio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las lesiones ulceradas se desarrollan principalmente en las placas de Peyer del íleon terminal."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la prueba diagnóstica de elección en la primera semana de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coprocultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Urocultivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Widal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Serología ELISA"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hemocultivo es el método más sensible durante la primera semana de enfermedad para aislar Salmonella Typhi."
+    },
+    {
+      "numero": "7",
+      "texto": "La prueba de Widal detecta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antígenos bacterianos en sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anticuerpos contra antígenos O y H de Salmonella Typhi"
+        },
+        {
+          "opcion": "C",
+          "texto": "ADN bacteriano por PCR"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endotoxinas circulantes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anticuerpos IgM contra lipopolisacáridos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prueba de Widal mide anticuerpos frente a los antígenos O (somático) y H (flagelar) de Salmonella Typhi."
+    },
+    {
+      "numero": "8",
+      "texto": "El tratamiento antibiótico de elección para la fiebre tifoidea no complicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina G"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doxiciclina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ciprofloxacino es el tratamiento de elección en cepas sensibles, aunque la resistencia está aumentando."
+    },
+    {
+      "numero": "9",
+      "texto": "En áreas con alta resistencia a fluoroquinolonas, el antibiótico recomendado es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloranfenicol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gentamicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rifampicina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Ceftriaxona es eficaz frente a cepas multirresistentes de Salmonella Typhi en regiones con resistencia a fluoroquinolonas."
+    },
+    {
+      "numero": "10",
+      "texto": "La complicación intestinal más grave de la fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colitis pseudomembranosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia digestiva alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Apendicitis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ileo paralítico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La perforación intestinal por necrosis de las placas de Peyer es la complicación intestinal más grave."
+    },
+    {
+      "numero": "11",
+      "texto": "El reservorio natural de Salmonella Typhi es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aves domésticas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rumiantes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ser humano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reptiles"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mosquitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ser humano es el único reservorio natural de Salmonella Typhi y Paratyphi."
+    },
+    {
+      "numero": "12",
+      "texto": "Las manchas rosadas (“rose spots”) de la fiebre tifoidea suelen aparecer:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Durante la primera semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "En la segunda semana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante la convalecencia"
+        },
+        {
+          "opcion": "D",
+          "texto": "En la fase de incubación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Al final de la tercera semana"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las manchas rosadas o “rose spots” aparecen típicamente en el tronco durante la segunda semana de enfermedad."
+    },
+    {
+      "numero": "13",
+      "texto": "El hallazgo hematológico típico de la fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis con neutrofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucopenia con linfocitosis relativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pancitopenia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neutrofilia con desviación a la izquierda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre tifoidea cursa con leucopenia y linfocitosis relativa, a diferencia de otras infecciones bacterianas."
+    },
+    {
+      "numero": "14",
+      "texto": "La vacuna Ty21a contra fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna inactivada parenteral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna de subunidades proteicas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacuna oral de microorganismo vivo atenuado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna de polisacáridos conjugados"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacuna recombinante de ADN"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacuna oral Ty21a contiene cepas vivas atenuadas de Salmonella Typhi y proporciona inmunidad prolongada."
+    },
+    {
+      "numero": "15",
+      "texto": "Las cepas de Salmonella Paratyphi causan:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre tifoidea clásica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre paratifoidea, cuadro clínico similar pero más leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastroenteritis aguda autolimitada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea secretora crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bacteriemia sin foco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las cepas Paratyphi A, B y C producen fiebre paratifoidea, clínicamente más leve que la tifoidea."
+    },
+    {
+      "numero": "16",
+      "texto": "Una característica clínica distintiva de la fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio súbito con exantema generalizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre continua con bradicardia relativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal con diarrea sanguinolenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatías generalizadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatomegalia dolorosa con ictericia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre tifoidea se caracteriza por fiebre continua y bradicardia relativa (signo de Faget)."
+    },
+    {
+      "numero": "17",
+      "texto": "El estado de portador crónico de Salmonella Typhi se asocia con colonización de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intestino delgado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vesícula biliar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Colon ascendente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hígado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estado de portador crónico se asocia a colonización persistente de la vesícula biliar, especialmente en pacientes con litiasis."
+    },
+    {
+      "numero": "18",
+      "texto": "La medida preventiva más eficaz para evitar fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejorar saneamiento y agua potable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar contacto con animales domésticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de repelentes de insectos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacunación masiva infantil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El saneamiento básico y el acceso a agua potable son las medidas más efectivas para prevenir la transmisión fecal-oral."
+    },
+    {
+      "numero": "19",
+      "texto": "El antibiótico históricamente utilizado pero actualmente con alta resistencia en fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cloranfenicol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amikacina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Eritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El cloranfenicol fue el tratamiento estándar histórico, pero su uso ha disminuido por resistencia y toxicidad."
+    },
+    {
+      "numero": "20",
+      "texto": "Una complicación extraintestinal importante de la fiebre tifoidea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis purulenta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Miocarditis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Absceso hepático amebiano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glomerulonefritis postinfecciosa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miocarditis es una complicación extraintestinal poco frecuente pero grave de la fiebre tifoidea."
+    }
+  ]
+}

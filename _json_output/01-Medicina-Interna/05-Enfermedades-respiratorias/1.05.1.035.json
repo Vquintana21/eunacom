@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.035",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de tos crónica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos de más de 1 semana de duración"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos de más de 3 semanas de duración"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos de más de 8 semanas de duración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos que aparece solo por las noches"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos persistente con fiebre"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se considera tos crónica cuando dura más de 8 semanas en adultos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la causa más frecuente de tos crónica en no fumadores con radiografía normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquiectasias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Goteo nasal posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fibrosis pulmonar"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El síndrome de goteo nasal posterior es la causa más común en no fumadores con radiografía normal."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica sugiere tos de origen asmático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca nocturna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos productiva matinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos con sangre fresca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos asociada a disfagia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos con dolor pleurítico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tos seca nocturna que mejora con broncodilatadores sugiere asma o variante tusígena del asma."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estudio inicial se recomienda en todo paciente con tos crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "TC de tórax de alta resolución"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrobroncoscopia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de esputo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética torácica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La radiografía de tórax es el examen inicial para descartar causas estructurales o infecciosas."
+    },
+    {
+      "numero": "5",
+      "texto": "Un paciente con tos crónica y pirosis podría tener:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "C",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumonía intersticial"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El reflujo gastroesofágico es una causa frecuente de tos crónica asociada a pirosis y regurgitación."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes fármacos puede causar tos crónica como efecto adverso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Betabloqueadores"
+        },
+        {
+          "opcion": "B",
+          "texto": "IECA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corticoides inhalados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antihistamínicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diuréticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los inhibidores de la enzima convertidora de angiotensina (IECA) inducen tos seca en hasta un 20% de los pacientes."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo orienta a tos psicógena?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio nocturno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos ausente durante el sueño"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos productiva persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asociación con fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos psicógena típicamente desaparece durante el sueño y no responde a tratamiento médico."
+    },
+    {
+      "numero": "8",
+      "texto": "La tos asociada a bronquitis crónica suele ser:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seca, persistente y nocturna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Productiva, predominante en la mañana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intermitente y con hemoptisis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo inducida por el ejercicio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con dolor retroesternal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La bronquitis crónica produce tos productiva matinal durante al menos tres meses al año por dos años consecutivos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál de las siguientes pruebas confirma la variante tusígena del asma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test de metacolina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de esputo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrobroncoscopia"
+        },
+        {
+          "opcion": "E",
+          "texto": "TC de senos paranasales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La prueba de provocación bronquial con metacolina confirma hiperreactividad de la vía aérea en asma tusígena."
+    },
+    {
+      "numero": "10",
+      "texto": "La tos crónica asociada a rinorrea y congestión nasal es más probable por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Goteo nasal posterior"
+        },
+        {
+          "opcion": "C",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos psicógena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El goteo nasal posterior produce tos reflejo por irritación de la faringe."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la mejor medida para confirmar el diagnóstico de tos por reflujo gastroesofágico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "pHmetría esofágica de 24 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Manometría esofágica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía esofágica con bario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endoscopía digestiva alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de ureasa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pHmetría esofágica de 24 horas detecta episodios de reflujo ácido asociados a tos."
+    },
+    {
+      "numero": "12",
+      "texto": "La tos crónica inducida por IECA desaparece generalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En 12 horas tras suspender el fármaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "En 1 semana tras suspender el fármaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "En 1 a 4 semanas tras suspender el fármaco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo con tratamiento antibiótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo si se asocia broncodilatador"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tos por IECA desaparece típicamente entre 1 y 4 semanas después de suspender el medicamento."
+    },
+    {
+      "numero": "13",
+      "texto": "En fumadores, la tos crónica más habitual es causada por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos psicógena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En fumadores, la bronquitis crónica dentro del espectro del EPOC es la causa más frecuente."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el mecanismo fisiopatológico de la tos por IECA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Irritación directa de la mucosa bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de bradicinina y sustancia P en vías respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Efecto inmunológico pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipersecreción de moco bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración del reflejo tusígeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los IECA aumentan la bradicinina y sustancia P, estimulando receptores tusígenos en vías aéreas."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el abordaje inicial ante una tos crónica con radiografía normal y sin uso de IECA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar goteo nasal posterior, asma y reflujo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Indicar antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar TC de tórax urgente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Realizar broncoscopía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derivar a cirugía torácica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las tres causas más comunes son goteo nasal, asma tusígena y reflujo, que deben evaluarse secuencialmente."
+    },
+    {
+      "numero": "16",
+      "texto": "Una tos crónica que empeora al hablar o reír sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos psicógena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflujo gastroesofágico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquitis crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Goteo nasal posterior"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tos psicógena suele intensificarse con la atención o emociones, y no se presenta durante el sueño."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo radiográfico se esperaría en la tos crónica por bronquiectasias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campos pulmonares claros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ensanchamiento de bronquios y líneas paralelas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infiltrados alveolares difusos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax apical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las bronquiectasias muestran bronquios dilatados y engrosados, con patrón de ‘raíl de tranvía’."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida terapéutica se indica en tos crónica por reflujo gastroesofágico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncodilatadores de acción corta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antihistamínicos orales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhibidores de bomba de protones y medidas dietéticas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos macrólidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoides sistémicos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento del reflujo se basa en inhibidores de bomba de protones y cambios en el estilo de vida."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué característica de la tos orienta a una causa infecciosa persistente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos seca sin expectoración"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos productiva con esputo purulento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos nocturna intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos asociada a disnea de esfuerzo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos desencadenada por alimentos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos productiva purulenta prolongada orienta a infección persistente o bronquiectasias."
+    },
+    {
+      "numero": "20",
+      "texto": "En la evaluación de la tos crónica, la prueba terapéutica con broncodilatadores y corticoides inhalados busca confirmar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma tusígena"
+        },
+        {
+          "opcion": "B",
+          "texto": "EPOC"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fibrosis pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos psicógena"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mejoría con broncodilatadores y corticoides inhalados confirma diagnóstico de asma tusígena."
+    }
+  ]
+}

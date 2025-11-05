@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.098",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Vicios de refracción",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por vicio de refracción en oftalmología pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cualquier alteración de la retina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desalineación ocular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Defecto óptico que impide el enfoque correcto de la imagen en la retina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inflamación del nervio óptico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección corneal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los vicios de refracción son errores ópticos que impiden que la imagen se forme correctamente sobre la retina."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el vicio de refracción más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipermetropía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Astigmatismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presbicia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anisometropía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipermetropía es el defecto refractivo más común en niños pequeños y puede disminuir con el crecimiento ocular."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes vicios de refracción se caracteriza por visión borrosa de lejos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipermetropía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Astigmatismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presbicia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anisometropía"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En la miopía, el foco de la imagen se forma antes de la retina, dificultando la visión lejana."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de lente corrige la miopía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lente convergente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lente cóncava o divergente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lente cilíndrica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lente bifocal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lente tórica positiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La miopía se corrige con lentes divergentes o cóncavos, que alejan el foco hacia la retina."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué manifestación clínica puede hacer sospechar hipermetropía en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Entrecerrar los ojos para ver de lejos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor de cabeza al leer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación ocular hacia afuera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia constante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nistagmo intermitente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipermetropía no corregida causa cefalea por esfuerzo acomodativo al mirar de cerca."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué instrumento se usa para medir objetivamente los vicios de refracción en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Campímetro"
+        },
+        {
+          "opcion": "B",
+          "texto": "Refractómetro automático"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tonómetro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oftalmoscopio directo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Foróptero"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El refractómetro permite determinar de forma objetiva el tipo y grado de vicio refractivo."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes vicios de refracción puede producir ambliopía si no se corrige tempranamente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Astigmatismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presbicia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anisometropía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miopía leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipermetropía fisiológica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La anisometropía genera imágenes desiguales en ambos ojos, pudiendo causar ambliopía funcional."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de lente se utiliza para corregir la hipermetropía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cóncava"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convexa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cilíndrica negativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tórica negativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bifocal progresiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipermetropía se corrige con lentes convexas que adelantan el foco hacia la retina."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué define al astigmatismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dificultad para ver de lejos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Enfoque desigual por curvatura irregular de la córnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida de la acomodación con la edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento del tamaño ocular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desviación de la fóvea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El astigmatismo se debe a una curvatura irregular de la córnea o el cristalino que distorsiona la visión."
+    },
+    {
+      "numero": "10",
+      "texto": "¿A qué edad se recomienda la primera evaluación oftalmológica completa en niños sin factores de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Al nacer"
+        },
+        {
+          "opcion": "B",
+          "texto": "A los 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Entre los 3 y 4 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "A los 6 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "A los 10 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Entre los 3 y 4 años se recomienda la evaluación completa para detectar vicios refractivos y ambliopía."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál de los siguientes síntomas es más sugestivo de astigmatismo en un niño escolar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Visión borrosa solo de lejos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor ocular al leer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Distorsión visual tanto de lejos como de cerca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia constante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diplopía monocular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El astigmatismo genera visión distorsionada a todas las distancias por curvatura irregular corneal."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué significa anisometropía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desigual refracción entre ambos ojos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del poder dióptrico bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Astigmatismo irregular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución progresiva de la acomodación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteración corneal bilateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anisometropía se define como una diferencia significativa en el poder refractivo entre ambos ojos."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué signo puede observarse en un niño con miopía no corregida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aproximarse mucho a los objetos para verlos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dolor ocular al mirar de cerca"
+        },
+        {
+          "opcion": "C",
+          "texto": "Visión doble intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia y lagrimeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Movimientos oculares erráticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El niño miope tiende a acercarse a los objetos para compensar la dificultad visual de lejos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué prueba se usa para evaluar la agudeza visual en niños mayores de 4 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de Hirschberg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carta de Snellen o figuras LEA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retinoscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Campimetría visual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Prueba de Worth"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La carta de Snellen o figuras LEA permiten cuantificar la agudeza visual según edad y cooperación."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de desarrollar miopía infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor exposición a luz natural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso prolongado de pantallas y lectura cercana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo elevado de azúcares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta estatura"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición a bajas temperaturas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El trabajo visual prolongado de cerca y poco tiempo al aire libre se asocia a mayor riesgo de miopía."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de lente se usa para corregir el astigmatismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cilíndrico o tórico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Convexo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cóncavo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bifocal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plano"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El astigmatismo se corrige con lentes cilíndricas o tóricas que compensan la irregularidad corneal."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál de los siguientes hallazgos debe alertar sobre posible ambliopía refractiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor ocular bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diferencia de más de 2 dioptrías entre ambos ojos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prurito ocular persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fotofobia intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lagrimeo leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una diferencia de más de 2 dioptrías puede generar ambliopía por supresión cortical del ojo más débil."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el principal riesgo de no corregir vicios de refracción en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glaucoma juvenil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambliopía y bajo rendimiento escolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uveítis crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nistagmo adquirido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Catarata precoz"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de corrección puede causar ambliopía funcional y afectar el aprendizaje escolar."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es la alteración refractiva que mejora con el crecimiento ocular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miopía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Astigmatismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipermetropía fisiológica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anisometropía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presbicia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipermetropía fisiológica disminuye con el crecimiento y alargamiento del globo ocular."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué examen se utiliza para confirmar el diagnóstico de un vicio de refracción en niños pequeños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retinoscopía con cicloplejía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Campimetría visual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oftalmoscopía indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prueba de Snellen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Test de Ishihara"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La retinoscopía con cicloplejía es el método más preciso para determinar defectos refractivos en pediatría."
+    }
+  ]
+}

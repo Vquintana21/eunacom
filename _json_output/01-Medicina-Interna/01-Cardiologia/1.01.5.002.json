@@ -1,0 +1,572 @@
+{
+  "codigo": "1.01.5.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Cardiologia",
+  "subcategoria_id": "01",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el objetivo principal de la cardioversión eléctrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restaurar la conducción auriculoventricular normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restaurar el ritmo sinusal en arritmias con pulso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratar arritmias sin pulso como la asistolia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desfibrilar el corazón en fibrilación ventricular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inducir bloqueo auriculoventricular temporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión eléctrica sincronizada se utiliza para restaurar el ritmo sinusal en arritmias con pulso como la FA o flutter."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la diferencia fundamental entre cardioversión y desfibrilación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La cardioversión es asincrónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "La desfibrilación se sincroniza con la onda R"
+        },
+        {
+          "opcion": "C",
+          "texto": "La cardioversión se sincroniza con la onda R"
+        },
+        {
+          "opcion": "D",
+          "texto": "La desfibrilación requiere sedación previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "La cardioversión se usa solo en paro cardiorrespiratorio"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cardioversión se sincroniza con la onda R para evitar descargas durante la repolarización ventricular (onda T)."
+    },
+    {
+      "numero": "3",
+      "texto": "¿En qué momento se indica cardioversión eléctrica urgente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En taquicardia sinusal"
+        },
+        {
+          "opcion": "B",
+          "texto": "En fibrilación auricular estable"
+        },
+        {
+          "opcion": "C",
+          "texto": "En taquiarritmia con inestabilidad hemodinámica"
+        },
+        {
+          "opcion": "D",
+          "texto": "En bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "En asistolia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se realiza de urgencia cuando la taquiarritmia produce hipotensión, angina o edema agudo pulmonar."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el riesgo principal de aplicar una descarga sin sincronización en FA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bloqueo auriculoventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inducción de fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una descarga asincrónica puede coincidir con la onda T y desencadenar fibrilación ventricular."
+    },
+    {
+      "numero": "5",
+      "texto": "Antes de una cardioversión electiva en FA de más de 48 horas se debe:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Iniciar dopamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar ecocardiograma transesofágico o anticoagular por 3 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar atropina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hacer masaje carotídeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar todo tipo de anticoagulación"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Es necesario descartar trombos auriculares mediante ETE o anticoagular al menos 3 semanas antes del procedimiento."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de corriente se utiliza en los desfibriladores modernos para cardioversión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corriente alterna monofásica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corriente continua monofásica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corriente continua bifásica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corriente alterna trifásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corriente variable alternante"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los desfibriladores modernos utilizan corriente bifásica, que es más eficaz con menor energía."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál es la energía inicial recomendada para cardioversión bifásica en fibrilación auricular?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "50 J"
+        },
+        {
+          "opcion": "B",
+          "texto": "100 J"
+        },
+        {
+          "opcion": "C",
+          "texto": "120–200 J"
+        },
+        {
+          "opcion": "D",
+          "texto": "250 J"
+        },
+        {
+          "opcion": "E",
+          "texto": "300 J"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La energía inicial recomendada en FA con desfibriladores bifásicos es entre 120 y 200 J."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué condición requiere cardioversión sincronizada inmediata?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia ventricular con pulso e hipotensión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia sinusal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bloqueo AV completo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La taquicardia ventricular con pulso e inestabilidad hemodinámica se trata con cardioversión sincronizada urgente."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué preparación es indispensable antes de la cardioversión electiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inducir hiperventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sedación o anestesia corta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mantener al paciente despierto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dar atropina profiláctica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se requiere sedación o anestesia breve, ya que la descarga es dolorosa y puede causar ansiedad intensa."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál de las siguientes arritmias NO se trata con cardioversión eléctrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Flutter auricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia supraventricular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asistolia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Taquicardia ventricular con pulso"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La asistolia no responde a cardioversión ni a desfibrilación, requiere RCP y fármacos."
+    },
+    {
+      "numero": "11",
+      "texto": "En cardioversión eléctrica sincronizada, la descarga se aplica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Durante la onda P"
+        },
+        {
+          "opcion": "B",
+          "texto": "Durante el complejo QRS"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante la onda T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Después de la onda U"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante la diástole"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La sincronización se hace con la onda R del complejo QRS para evitar descargas en la onda T."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué complicación puede presentarse tras una cardioversión eléctrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trombosis venosa profunda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrilación ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bloqueo de rama izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bradicardia sinusal transitoria"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Es común una bradicardia o pausa sinusal breve post descarga debido a supresión nodal transitoria."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de los siguientes factores aumenta el riesgo de embolia post cardioversión?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fibrilación auricular de menos de 24 h"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de anticoagulantes previos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrilación auricular prolongada sin anticoagulación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de betabloqueadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión controlada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si la FA es prolongada y no hay anticoagulación, el riesgo de embolia tras cardioversión es alto."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué posición de palas o parches es más eficaz en la cardioversión eléctrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esternal-apical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cervical-dorsal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Apical-lateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Posterior-anterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Occipital-dorsal"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La posición anteroposterior mejora la corriente a través de las aurículas, siendo más eficaz en FA."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la energía inicial recomendada en flutter auricular con desfibrilador bifásico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30–50 J"
+        },
+        {
+          "opcion": "B",
+          "texto": "50–100 J"
+        },
+        {
+          "opcion": "C",
+          "texto": "150–200 J"
+        },
+        {
+          "opcion": "D",
+          "texto": "250 J"
+        },
+        {
+          "opcion": "E",
+          "texto": "300 J"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En flutter auricular, se inicia con 50–100 J en equipos bifásicos por ser más sensible a la cardioversión."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué medicamento debe suspenderse antes de una cardioversión planificada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amiodarona"
+        },
+        {
+          "opcion": "B",
+          "texto": "Digoxina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enalapril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metoprolol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Warfarina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La digoxina aumenta el riesgo de arritmias ventriculares durante la cardioversión y debe suspenderse antes."
+    },
+    {
+      "numero": "17",
+      "texto": "Durante la cardioversión, el operador debe asegurarse de que:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El paciente esté ventilando espontáneamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nadie esté en contacto con el paciente o la cama"
+        },
+        {
+          "opcion": "C",
+          "texto": "El monitor ECG esté apagado"
+        },
+        {
+          "opcion": "D",
+          "texto": "El desfibrilador esté en modo asincrónico"
+        },
+        {
+          "opcion": "E",
+          "texto": "El paciente no esté monitorizado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Es esencial confirmar que nadie esté en contacto con el paciente para evitar lesiones eléctricas al personal."
+    },
+    {
+      "numero": "18",
+      "texto": "En una taquicardia supraventricular resistente a maniobras vagales y adenosina, se indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desfibrilación asincrónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cardioversión eléctrica sincronizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cardioversión asincrónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infusión de atropina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Marcapasos temporal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cardioversión sincronizada está indicada si la TSV persiste y genera compromiso hemodinámico."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro debe verificarse antes de aplicar la descarga sincronizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Frecuencia respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión arterial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sincronización del desfibrilador con el QRS"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temperatura corporal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presión venosa central"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se debe confirmar visualmente que el desfibrilador detecta y sincroniza la descarga con el complejo QRS."
+    },
+    {
+      "numero": "20",
+      "texto": "Si tras varios intentos la cardioversión no es efectiva, se recomienda:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cambiar la posición de los parches o aumentar la energía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Suspender el intento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar adrenalina intravenosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar desfibrilación asincrónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Realizar masaje cardíaco"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe aumentarse la energía o cambiar la posición de las palas para mejorar la eficacia del choque."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.026",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Traumatismo encéfalo- craneano",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de traumatismo encéfalo-craneano (TEC) en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Accidentes automovilísticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caídas accidentales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Agresiones físicas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Práctica deportiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Accidentes escolares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las caídas son la causa más frecuente de TEC en niños, especialmente en menores de 5 años."
+    },
+    {
+      "numero": "2",
+      "texto": "El signo clínico más importante que sugiere fractura de base de cráneo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cefalea leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos aislados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ojos de mapache o signo de Battle"
+        },
+        {
+          "opcion": "D",
+          "texto": "Somnolencia transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epistaxis leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hematoma periorbitario (ojos de mapache) o el signo de Battle son indicativos de fractura de base de cráneo."
+    },
+    {
+      "numero": "3",
+      "texto": "El TEC leve se define por una puntuación en Glasgow de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15"
+        },
+        {
+          "opcion": "B",
+          "texto": "13-15"
+        },
+        {
+          "opcion": "C",
+          "texto": "9-12"
+        },
+        {
+          "opcion": "D",
+          "texto": "8 o menos"
+        },
+        {
+          "opcion": "E",
+          "texto": "10-14"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un Glasgow entre 13 y 15 corresponde a un TEC leve según la clasificación internacional."
+    },
+    {
+      "numero": "4",
+      "texto": "El TEC moderado corresponde a un puntaje de Glasgow de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15"
+        },
+        {
+          "opcion": "B",
+          "texto": "13-15"
+        },
+        {
+          "opcion": "C",
+          "texto": "9-12"
+        },
+        {
+          "opcion": "D",
+          "texto": "7-9"
+        },
+        {
+          "opcion": "E",
+          "texto": "3-8"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un Glasgow entre 9 y 12 corresponde a un TEC moderado, que requiere observación hospitalaria."
+    },
+    {
+      "numero": "5",
+      "texto": "El TEC grave corresponde a una puntuación de Glasgow de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "15"
+        },
+        {
+          "opcion": "B",
+          "texto": "13-15"
+        },
+        {
+          "opcion": "C",
+          "texto": "9-12"
+        },
+        {
+          "opcion": "D",
+          "texto": "≤8"
+        },
+        {
+          "opcion": "E",
+          "texto": "7-10"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El TEC grave se define como un Glasgow igual o menor a 8 puntos."
+    },
+    {
+      "numero": "6",
+      "texto": "En un niño con TEC leve y sin signos de alarma, la conducta más adecuada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hospitalizar 48 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solicitar TAC de cerebro de inmediato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Observación ambulatoria con vigilancia por 24 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Indicar anticonvulsivantes profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar corticoides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En TEC leve sin signos de alarma se indica observación domiciliaria y vigilancia estrecha."
+    },
+    {
+      "numero": "7",
+      "texto": "El signo de Battle se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Equimosis retroauricular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Equimosis periorbitaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemotímpano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Otorragia activa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epistaxis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El signo de Battle corresponde a equimosis retroauricular, típico de fractura de base de cráneo."
+    },
+    {
+      "numero": "8",
+      "texto": "La principal causa de mortalidad en TEC grave pediátrico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemorragia epidural"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia e hipertensión intracraneana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Convulsiones prolongadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fractura lineal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Infección meníngea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoxia y la hipertensión intracraneana son las principales causas de muerte en TEC grave."
+    },
+    {
+      "numero": "9",
+      "texto": "El signo de LCR por otorrea o rinorrea sugiere:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fractura lineal del temporal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fractura de base de cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Contusión frontal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematoma subdural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema cerebral difuso"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La salida de LCR por oído o nariz indica comunicación entre espacio subaracnoideo y vías aéreas, típica de fractura de base de cráneo."
+    },
+    {
+      "numero": "10",
+      "texto": "El hematoma epidural se asocia típicamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ruptura de la arteria meníngea media"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión venosa cortical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis del seno sagital"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesión difusa axonal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contusión frontal bilateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El hematoma epidural se produce por ruptura de la arteria meníngea media tras fractura temporal."
+    },
+    {
+      "numero": "11",
+      "texto": "El hematoma subdural se diferencia porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es de evolución rápida y arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se ubica entre la duramadre y el cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Es venoso y de evolución más lenta"
+        },
+        {
+          "opcion": "D",
+          "texto": "No causa hipertensión intracraneana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se asocia a fractura de base"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El hematoma subdural es de origen venoso y tiene evolución más lenta que el epidural."
+    },
+    {
+      "numero": "12",
+      "texto": "El tratamiento inicial del TEC grave incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sedación profunda y reposo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asegurar vía aérea, oxigenación y perfusión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar diuréticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Iniciar antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solicitar TAC antes de estabilizar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ABC del trauma: mantener vía aérea, oxigenación y perfusión son prioridades iniciales en TEC grave."
+    },
+    {
+      "numero": "13",
+      "texto": "El mejor examen para diagnóstico de lesiones intracraneanas en TEC es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Resonancia magnética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tomografía axial computarizada (TAC)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electroencefalograma"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El TAC de cerebro es el estudio de elección para evaluar lesiones intracraneanas post TEC."
+    },
+    {
+      "numero": "14",
+      "texto": "El síndrome del bebé sacudido se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fracturas craneales lineales múltiples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia subdural y retiniana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia epidural aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fractura de base de cráneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contusión temporal bilateral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome del bebé sacudido presenta hemorragia subdural y retiniana por traumatismo no accidental."
+    },
+    {
+      "numero": "15",
+      "texto": "En un TEC leve con pérdida de conciencia breve, se indica TAC si:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hay vómitos repetidos o amnesia persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hay cefalea leve aislada"
+        },
+        {
+          "opcion": "C",
+          "texto": "El examen neurológico es normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Se trata de un golpe frontal menor"
+        },
+        {
+          "opcion": "E",
+          "texto": "El paciente es mayor de 10 años"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Vómitos repetidos o amnesia prolongada son criterios de imagen en TEC leve."
+    },
+    {
+      "numero": "16",
+      "texto": "El signo de hipertensión intracraneana incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Taquicardia y miosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotensión y taquipnea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradipnea, bradicardia e hipertensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Midriasis bilateral reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nistagmo horizontal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tríada de Cushing —bradicardia, hipertensión y bradipnea— sugiere hipertensión intracraneana."
+    },
+    {
+      "numero": "17",
+      "texto": "El manejo del edema cerebral en TEC grave incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Restricción de líquidos severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Manitol o solución salina hipertónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Analgesia exclusiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El manitol y la solución salina hipertónica se usan para reducir el edema cerebral en TEC grave."
+    },
+    {
+      "numero": "18",
+      "texto": "El signo neurológico que sugiere herniación transtentorial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miosis bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Midriasis unilateral fija"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bradipnea leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pérdida de reflejo nauseoso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Parálisis facial periférica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La midriasis unilateral fija indica compresión del III par craneano por herniación transtentorial."
+    },
+    {
+      "numero": "19",
+      "texto": "En el TEC con fractura deprimida, la conducta inicial es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos y observación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Exploración quirúrgica si hay hundimiento mayor a 5 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "No requiere tratamiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC de control ambulatorio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aspiración del hematoma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las fracturas deprimidas mayores de 5 mm requieren evaluación y reparación quirúrgica."
+    },
+    {
+      "numero": "20",
+      "texto": "El principal objetivo del manejo inicial del TEC es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Controlar el dolor"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar las convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prevenir la hipoxia y la hipotensión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminuir la fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar antibióticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hipoxia y la hipotensión agravan el daño cerebral; su prevención es prioritaria."
+    }
+  ]
+}

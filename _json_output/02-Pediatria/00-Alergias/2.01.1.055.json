@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.055",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Alergias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la alergia alimentaria más frecuente en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Alergia a la proteína de soya"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alergia al huevo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alergia a la proteína de leche de vaca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alergia al maní"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alergia al trigo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La alergia a la proteína de leche de vaca es la causa más frecuente de alergia alimentaria en lactantes."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué inmunoglobulina media las reacciones alérgicas tipo I?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgG"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgE"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgM"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgD"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las reacciones de hipersensibilidad inmediata son mediadas por IgE unida a mastocitos y basófilos."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes alimentos es la causa más común de anafilaxia en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trigo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maní"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pescado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Leche de vaca"
+        },
+        {
+          "opcion": "E",
+          "texto": "Soja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El maní es una de las principales causas de anafilaxia alimentaria en la infancia."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué fármaco es de elección en el tratamiento de anafilaxia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clorfenamina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidrocortisona IV"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epinefrina IM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ranitidina IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "Salbutamol nebulizado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La epinefrina intramuscular es el tratamiento de primera línea en toda anafilaxia."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el mecanismo inmunológico en la dermatitis atópica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipersensibilidad tipo II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipersensibilidad tipo I mediada por IgE"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipersensibilidad tipo III"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipersensibilidad tipo IV retardada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción autoinmune"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dermatitis atópica se asocia a una respuesta IgE mediada y disfunción de la barrera cutánea."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el examen inicial más útil para confirmar alergia alimentaria mediada por IgE?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Test del sudor"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgE sérica total"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prick test (test cutáneo de punción)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de parche"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopía digestiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El prick test detecta sensibilización mediada por IgE a antígenos alimentarios específicos."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Cuál de los siguientes síntomas es característico de una reacción anafiláctica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito localizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoespasmo y compromiso hemodinámico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cefalea aislada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Diarrea leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Urticaria sin otros síntomas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La anafilaxia compromete dos o más sistemas, destacando el respiratorio y el cardiovascular."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el principal factor de riesgo para desarrollar alergias en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones tempranas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antecedente familiar de atopia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Consumo precoz de alimentos sólidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exposición solar insuficiente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de fórmulas hidrolizadas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antecedentes familiares de atopia (asma, rinitis, eczema) aumentan significativamente el riesgo alérgico."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué tipo de reacción alérgica ocurre con mayor frecuencia frente a picaduras de himenópteros?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reacción tipo II"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reacción tipo I mediada por IgE"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reacción tipo III"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reacción tipo IV retardada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción no inmunológica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las reacciones a picaduras de abejas o avispas suelen ser mediadas por IgE (tipo I)."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la medida más eficaz para prevenir la alergia alimentaria en lactantes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evitar todos los alimentos alergénicos en la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactancia materna exclusiva los primeros 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de fórmulas hipoalergénicas desde el nacimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Introducir alimentos sólidos después del año"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar probióticos diariamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La lactancia materna exclusiva es el principal factor protector frente a alergias alimentarias."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué hallazgo orienta a una alergia alimentaria no mediada por IgE?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anafilaxia inmediata"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eczema agudo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síntomas gastrointestinales diferidos como enteropatía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Urticaria aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoespasmo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las enteropatías inducidas por proteínas alimentarias son reacciones retardadas no mediadas por IgE."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de los siguientes medicamentos puede causar una reacción anafilactoide?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sulfas"
+        },
+        {
+          "opcion": "C",
+          "texto": "AINES"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antihistamínicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Macrólidos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los AINES pueden inducir liberación no inmunológica de histamina, provocando una reacción anafilactoide."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué órgano se compromete con más frecuencia en la anafilaxia pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Piel"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistema digestivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sistema respiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sistema cardiovascular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sistema nervioso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El sistema respiratorio es el más afectado en anafilaxia infantil, con broncoespasmo y edema laríngeo."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el tratamiento preventivo de elección para rinitis alérgica persistente moderada-grave?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antihistamínicos orales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides intranasales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Descongestionantes tópicos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunoterapia oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antileucotrienos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides intranasales son los más eficaces para el control sostenido de la rinitis alérgica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué manifestación clínica define una urticaria aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pápulas persistentes >6 semanas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones eritematosas pruriginosas evanescentes <24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ampollas tensas con necrosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nódulos eritematosos dolorosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lesiones costrosas descamativas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La urticaria aguda se caracteriza por lesiones pruriginosas fugaces menores de 24 horas de duración."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es el fármaco de elección para controlar la urticaria aguda en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prednisona oral prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antihistamínico H1 oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Epinefrina IM"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antileucotrienos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Corticoide tópico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antihistamínicos H1 orales son el tratamiento de elección en urticaria aguda infantil."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida reduce el riesgo de sensibilización a ácaros del polvo en niños alérgicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ventilar poco la habitación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar alfombras gruesas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eliminar peluches y fundas antiácaros"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usar humidificadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumentar la temperatura ambiental"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Eliminar objetos que acumulen polvo y usar fundas antiácaros reduce significativamente la exposición."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes síntomas obliga a sospechar alergia a proteína de leche de vaca?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Llanto ocasional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eczema severo y vómitos persistentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Constipación leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gases frecuentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rechazo ocasional de mamadera"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de síntomas cutáneos y gastrointestinales es característica de alergia a proteína de leche."
+    },
+    {
+      "numero": "19",
+      "texto": "En caso de sospecha de alergia alimentaria severa, ¿qué estudio es diagnóstico confirmatorio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgE total elevada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test cutáneo positivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de provocación oral controlada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dieta de eliminación empírica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopía digestiva"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prueba de provocación oral es el estándar de oro para confirmar alergia alimentaria."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué recomendación se da tras un episodio de anafilaxia por alimento en un niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reexposición inmediata al alimento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evitar el alimento solo por una semana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evitar el alimento y prescribir autoinyector de epinefrina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evitar frutas y verduras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar inmunoterapia de inmediato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Debe evitarse el alimento causal y prescribirse autoinyector de epinefrina para emergencias."
+    }
+  ]
+}

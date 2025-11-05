@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.018",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la malaria en humanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trypanosoma cruzi"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leishmania donovani"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plasmodium spp."
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoplasma gondii"
+        },
+        {
+          "opcion": "E",
+          "texto": "Babesia microti"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La malaria es causada por protozoos del género Plasmodium: P. falciparum, P. vivax, P. ovale, P. malariae y P. knowlesi."
+    },
+    {
+      "numero": "2",
+      "texto": "El vector responsable de la transmisión de malaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mosquito Aedes aegypti"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mosquito Anopheles hembra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mosquito Culex pipiens"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mosca tsetsé"
+        },
+        {
+          "opcion": "E",
+          "texto": "Garrapata Ixodes ricinus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La malaria se transmite por la picadura de mosquitos hembra del género Anopheles infectados."
+    },
+    {
+      "numero": "3",
+      "texto": "El Plasmodium más virulento y causante de malaria grave es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plasmodium vivax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plasmodium malariae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plasmodium falciparum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plasmodium ovale"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasmodium knowlesi"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Plasmodium falciparum es responsable de la mayoría de los casos graves y muertes por malaria en el mundo."
+    },
+    {
+      "numero": "4",
+      "texto": "El ciclo exoeritrocítico de Plasmodium ocurre en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Eritrocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Intestino del mosquito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Riñones"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ciclo exoeritrocítico ocurre en hepatocitos, donde los esporozoítos se desarrollan en esquizontes hepáticos."
+    },
+    {
+      "numero": "5",
+      "texto": "La fase eritrocítica del ciclo de Plasmodium es responsable de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La transmisión al mosquito"
+        },
+        {
+          "opcion": "B",
+          "texto": "La fiebre y síntomas clínicos de malaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "La maduración sexual del parásito"
+        },
+        {
+          "opcion": "D",
+          "texto": "La latencia hepática"
+        },
+        {
+          "opcion": "E",
+          "texto": "La inmunidad adquirida"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La destrucción de eritrocitos durante la fase eritrocítica causa fiebre, anemia y otros síntomas clínicos."
+    },
+    {
+      "numero": "6",
+      "texto": "El Plasmodium vivax se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infectar solo eritrocitos maduros"
+        },
+        {
+          "opcion": "B",
+          "texto": "Formar hipnozoítos hepáticos responsables de recaídas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Causar malaria cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presentar ciclo febril cada 72 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ser resistente a cloroquina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Plasmodium vivax y P. ovale forman hipnozoítos hepáticos que pueden reactivarse y causar recaídas."
+    },
+    {
+      "numero": "7",
+      "texto": "El periodo de incubación promedio de la malaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 a 3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "7 a 30 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "40 a 60 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "Más de 3 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El período de incubación varía entre 7 y 30 días, dependiendo de la especie de Plasmodium."
+    },
+    {
+      "numero": "8",
+      "texto": "El diagnóstico de malaria se confirma mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Detección de antígenos en orina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Frotis de sangre periférica y gota gruesa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Serología IgM"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR de esputo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico se confirma mediante examen microscópico de gota gruesa y frotis de sangre periférica."
+    },
+    {
+      "numero": "9",
+      "texto": "La malaria por Plasmodium falciparum se caracteriza clínicamente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre continua sin paroxismos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre terciaria benigna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compromiso multiorgánico con anemia grave y malaria cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recaídas periódicas por hipnozoítos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de anemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "P. falciparum causa formas graves con anemia, acidosis, hipoglucemia y malaria cerebral."
+    },
+    {
+      "numero": "10",
+      "texto": "El patrón febril típico de Plasmodium malariae es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre diaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre cada 48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre cada 72 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre irregular sin patrón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre semanal"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Plasmodium malariae produce un patrón febril cuartano, con fiebre cada 72 horas."
+    },
+    {
+      "numero": "11",
+      "texto": "El hallazgo hematológico más común en malaria es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia hemolítica y trombocitopenia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutrofilia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pancitopenia severa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La malaria produce anemia hemolítica y trombocitopenia por destrucción de eritrocitos y activación inmunitaria."
+    },
+    {
+      "numero": "12",
+      "texto": "La complicación más grave de la malaria por Plasmodium falciparum es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia renal aguda"
+        },
+        {
+          "opcion": "B",
+          "texto": "Malaria cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia gastrointestinal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia hepática"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La malaria cerebral, con alteraciones del nivel de conciencia y convulsiones, es la complicación más temida de P. falciparum."
+    },
+    {
+      "numero": "13",
+      "texto": "El tratamiento de elección para malaria por Plasmodium falciparum no complicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cloroquina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quinina oral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia combinada con artemisinina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Primaquina sola"
+        },
+        {
+          "opcion": "E",
+          "texto": "Doxiciclina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las terapias combinadas con artemisinina son el tratamiento estándar actual para malaria por P. falciparum no complicada."
+    },
+    {
+      "numero": "14",
+      "texto": "La primaquina se utiliza principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tratar la fase eritrocítica de P. falciparum"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevenir recaídas por hipnozoítos de P. vivax y P. ovale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prevenir malaria cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Profilaxis en embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eliminar gametocitos de P. malariae"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La primaquina elimina hipnozoítos hepáticos de P. vivax y P. ovale, previniendo recaídas."
+    },
+    {
+      "numero": "15",
+      "texto": "La resistencia a cloroquina es más frecuente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plasmodium vivax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plasmodium malariae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plasmodium falciparum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plasmodium knowlesi"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasmodium ovale"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Plasmodium falciparum presenta alta resistencia a cloroquina en la mayoría de regiones endémicas."
+    },
+    {
+      "numero": "16",
+      "texto": "El diagnóstico rápido de malaria se puede realizar mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Test inmunocromatográfico de antígenos HRP-2 o pLDH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemocultivo automatizado"
+        },
+        {
+          "opcion": "D",
+          "texto": "ELISA IgG"
+        },
+        {
+          "opcion": "E",
+          "texto": "Western blot"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las pruebas rápidas detectan antígenos específicos de Plasmodium como HRP-2 (P. falciparum) o pLDH."
+    },
+    {
+      "numero": "17",
+      "texto": "La profilaxis recomendada para viajeros a zonas endémicas incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina G benzatina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doxiciclina o mefloquina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina semanal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metronidazol"
+        },
+        {
+          "opcion": "E",
+          "texto": "Clindamicina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La doxiciclina o mefloquina se usan como profilaxis según la zona y resistencia local del Plasmodium."
+    },
+    {
+      "numero": "18",
+      "texto": "El hallazgo de 'formas en banana' en frotis sanguíneo es característico de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plasmodium vivax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Plasmodium ovale"
+        },
+        {
+          "opcion": "C",
+          "texto": "Plasmodium falciparum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Plasmodium malariae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasmodium knowlesi"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las formas gametocíticas falciformes o 'en banana' son típicas de Plasmodium falciparum."
+    },
+    {
+      "numero": "19",
+      "texto": "La malaria congénita ocurre cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El feto es picado por un mosquito infectado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Los parásitos cruzan la placenta desde la madre infectada"
+        },
+        {
+          "opcion": "C",
+          "texto": "El recién nacido es transfundido con sangre infectada"
+        },
+        {
+          "opcion": "D",
+          "texto": "La madre recibe cloroquina durante el embarazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "El padre es portador asintomático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La malaria congénita resulta del paso transplacentario de Plasmodium desde la madre al feto."
+    },
+    {
+      "numero": "20",
+      "texto": "Una complicación metabólica frecuente en malaria grave es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperuricemia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipernatremia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoglucemia es una complicación común, especialmente en pacientes tratados con quinina o con malaria severa."
+    }
+  ]
+}

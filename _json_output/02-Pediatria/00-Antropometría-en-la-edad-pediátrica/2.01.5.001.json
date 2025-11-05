@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.5.001",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Antropometría en la edad pediátrica",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el indicador más utilizado para evaluar el estado nutricional en niños menores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso/Talla"
+        },
+        {
+          "opcion": "B",
+          "texto": "IMC/Edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla/Edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso/Edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro cefálico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El índice peso/talla permite identificar desnutrición aguda o sobrepeso en niños pequeños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué indicador antropométrico evalúa el crecimiento lineal a largo plazo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso/Edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla/Edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "IMC/Edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pliegue tricipital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro braquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La talla/edad refleja el crecimiento acumulado y permite detectar retraso de crecimiento crónico."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué instrumento se utiliza para medir la longitud en lactantes menores de 2 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tallímetro de pared"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infantómetro o tabla horizontal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cinta métrica flexible"
+        },
+        {
+          "opcion": "D",
+          "texto": "Báscula pediátrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Antropómetro metálico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La longitud en menores de 2 años se mide con infantómetro, en posición supina."
+    },
+    {
+      "numero": "4",
+      "texto": "El IMC para la edad es útil principalmente en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Recién nacidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes menores de 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Niños mayores de 2 años y adolescentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prematuros extremos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niños con talla baja"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El IMC/edad es el mejor indicador de exceso o déficit de peso a partir de los 2 años."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué valor de puntaje Z indica sobrepeso según OMS en niños mayores de 5 años?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Z > +1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Z > +1.5"
+        },
+        {
+          "opcion": "C",
+          "texto": "Z > +2"
+        },
+        {
+          "opcion": "D",
+          "texto": "Z > +3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Z > +0.5"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un Z-score mayor a +2 en IMC/edad se considera sobrepeso según OMS."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el perímetro cefálico promedio al nacer?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "33 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "35 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "37 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "39 cm"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El perímetro cefálico promedio al nacer es de aproximadamente 35 cm."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué crecimiento se espera en la longitud durante el primer año de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "10 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "15 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "25 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "30 cm"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Durante el primer año la longitud aumenta aproximadamente 25 cm."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la ganancia de peso promedio en el primer año de vida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Se duplica el peso al año"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se triplica el peso al año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta 5 kg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta 8 kg"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se mantiene estable"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El peso al año suele ser tres veces el peso de nacimiento."
+    },
+    {
+      "numero": "9",
+      "texto": "El perímetro cefálico debe medirse hasta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Los 6 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "El primer año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Los 2 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Los 3 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Los 5 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El perímetro cefálico se mide regularmente hasta los 2 años para vigilar crecimiento cerebral."
+    },
+    {
+      "numero": "10",
+      "texto": "Un puntaje Z de talla/edad menor a -2 DE indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sobrepeso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición aguda"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retraso del crecimiento o talla baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Peso normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento acelerado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Z-score menor a -2 en talla/edad indica talla baja o retraso crónico del crecimiento."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué parámetro antropométrico se usa para detectar emaciación?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Talla/Edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso/Edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Peso/Talla"
+        },
+        {
+          "opcion": "D",
+          "texto": "IMC/Edad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pliegue tricipital"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El peso/talla bajo identifica emaciación o desnutrición aguda."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la ganancia de talla esperada entre el primer y segundo año?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "8 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "12 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "15 cm"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El crecimiento anual en el segundo año de vida puede alcanzar los 15 cm en algunos niños."
+    },
+    {
+      "numero": "13",
+      "texto": "El uso de curvas de crecimiento OMS se recomienda hasta:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 año"
+        },
+        {
+          "opcion": "B",
+          "texto": "2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "18 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las curvas OMS se utilizan hasta los 5 años; luego se aplican referencias CDC u otras locales."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué parámetro permite evaluar la proporción corporal y riesgo metabólico en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso/Talla"
+        },
+        {
+          "opcion": "B",
+          "texto": "IMC/Edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Talla/Edad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pliegue subescapular"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perímetro braquial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El IMC/edad permite estimar riesgo metabólico y obesidad en adolescentes."
+    },
+    {
+      "numero": "15",
+      "texto": "Un lactante con peso para la talla > +3 DE se clasifica como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Normonutrido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sobrepeso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Obeso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riesgo de obesidad"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnutrido leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un Z-score mayor a +3 en peso/talla indica obesidad según OMS."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué indicador refleja mejor el riesgo de desnutrición aguda en emergencias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Peso/Edad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla/Edad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Perímetro braquial medio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pliegue tricipital"
+        },
+        {
+          "opcion": "E",
+          "texto": "IMC/Edad"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El perímetro braquial medio es un indicador rápido de desnutrición aguda en terreno."
+    },
+    {
+      "numero": "17",
+      "texto": "El perímetro cefálico aumenta aproximadamente cuánto durante el primer año de vida:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "8 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "10 cm"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 cm"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Durante el primer año el perímetro cefálico puede aumentar hasta 12 cm según la variabilidad individual."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de las siguientes mediciones se realiza con el niño en posición de pie?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Longitud en lactantes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Talla en mayores de 2 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Perímetro cefálico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Perímetro braquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pliegue tricipital"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En mayores de 2 años se mide talla en posición bípeda utilizando tallímetro de pared."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué factor puede alterar los resultados antropométricos en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación o edemas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Temperatura ambiente alta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de pañal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Color de la piel"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sexo del niño"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Edemas o deshidratación pueden falsear las mediciones de peso y alterar la clasificación nutricional."
+    }
+  ]
+}

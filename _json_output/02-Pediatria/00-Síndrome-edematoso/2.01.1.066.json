@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.1.066",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome edematoso",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de síndrome edematoso en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca congestiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cirrosis hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición proteica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome nefrótico es la causa más frecuente de edema generalizado en niños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el mecanismo fisiopatológico principal del edema en el síndrome nefrótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retención de sodio por hiperaldosteronismo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión oncótica plasmática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de la presión hidrostática capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de la presión oncótica plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del gasto cardíaco"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La pérdida de proteínas urinarias disminuye la presión oncótica, favoreciendo la extravasación de líquido al intersticio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes signos clínicos orienta a síndrome nefrótico como causa de edema?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema duro localizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema blando, palpebral y matutino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema frío y doloroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema con fóvea en extremidades inferiores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema facial nocturno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema palpebral matutino blando es característico del síndrome nefrótico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué examen confirma la presencia de proteinuria significativa en un niño con edema?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tira reactiva de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedimento urinario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Recuento de Addis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Proteinuria de 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Creatinina sérica"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La medición cuantitativa de proteínas en orina de 24 horas confirma la proteinuria significativa."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes mecanismos NO produce edema generalizado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoalbuminemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento de la presión capilar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de la permeabilidad capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipervolemia efectiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción linfática"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La hipervolemia efectiva no produce edema; por el contrario, tiende a mantener el volumen intravascular."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la causa más frecuente de síndrome nefrótico en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Glomerulonefritis postestreptocócica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nefropatía membranosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glomeruloesclerosis focal y segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfermedad por cambios mínimos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lupus eritematoso sistémico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La enfermedad por cambios mínimos es la principal causa de síndrome nefrótico en pediatría."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo de laboratorio es típico del síndrome nefrótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperproteinemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipercolesterolemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Leucocitosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hipoproteinemia estimula la síntesis hepática de lípidos, causando hipercolesterolemia."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué característica tiene el edema de origen cardíaco en el niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Es blando y palpebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Se acompaña de disnea y hepatomegalia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Predomina en la mañana"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aparece en miembros superiores"
+        },
+        {
+          "opcion": "E",
+          "texto": "No presenta fóvea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema de origen cardíaco se asocia a congestión sistémica con disnea y hepatomegalia."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué dato clínico orienta a síndrome edematoso de origen hepático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema duro y caliente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ascitis predominante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema palpebral aislado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria macroscópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteinuria selectiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el origen hepático, el edema suele acompañarse de ascitis y signos de hipertensión portal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es el tratamiento inicial del síndrome nefrótico idiopático?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diuréticos potentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunosupresores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plasma fresco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides son el tratamiento inicial de elección en el síndrome nefrótico idiopático."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué complicación infecciosa es frecuente en el síndrome nefrótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peritonitis bacteriana espontánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía atípica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sepsis por Pseudomonas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La peritonitis bacteriana espontánea por neumococo es una complicación común del síndrome nefrótico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué medida no farmacológica es importante en el manejo del síndrome edematoso?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento del aporte de sodio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restricción de líquidos y sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio intenso diario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aporte proteico elevado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Suspender proteínas en la dieta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La restricción de sodio y líquidos ayuda a controlar la retención hídrica y el edema."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál de las siguientes proteínas plasmáticas se pierde en la orina en el síndrome nefrótico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Globulinas alfa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fibrinógeno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Albúmina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transferrina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceruloplasmina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pérdida masiva de albúmina en orina causa hipoalbuminemia y edema generalizado."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el principal riesgo del uso de diuréticos en un paciente con síndrome nefrótico severo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperglicemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipovolemia y shock"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiponatremia dilucional"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trombocitopenia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención de sodio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso excesivo de diuréticos puede inducir hipovolemia y disminuir la perfusión renal."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de los siguientes hallazgos de laboratorio apoya un origen renal del edema?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteinuria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiponatremia dilucional"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de bilirrubina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevación de transaminasas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de protrombina"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La proteinuria es un hallazgo característico del edema de origen renal."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué característica tiene el edema de origen nutricional en el niño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema localizado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema con ascitis e hipoalbuminemia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema doloroso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema con hipertensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema duro sin fóvea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema por desnutrición es blando, generalizado y asociado a hipoalbuminemia severa."
+    },
+    {
+      "numero": "17",
+      "texto": "En un niño con edema y orina espumosa, ¿qué diagnóstico debe sospecharse?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Insuficiencia cardíaca"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desnutrición proteica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La orina espumosa refleja proteinuria abundante, típica del síndrome nefrótico."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el mecanismo principal del edema en insuficiencia cardíaca pediátrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la presión hidrostática venosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de la presión oncótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pérdida renal de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la permeabilidad capilar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Obstrucción linfática"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La congestión venosa por fallo cardíaco derecho aumenta la presión capilar y produce edema."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo apoya el diagnóstico de síndrome edematoso de causa hepática?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoproteinemia y ascitis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteinuria masiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hematuria microscópica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Orina espumosa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hipoalbuminemia y ascitis son típicas de la insuficiencia hepática con síndrome edematoso."
+    }
+  ]
+}

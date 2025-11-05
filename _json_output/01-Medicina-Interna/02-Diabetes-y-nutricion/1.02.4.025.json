@@ -1,0 +1,576 @@
+{
+  "codigo": "1.02.4.025",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del urocultivo en un paciente con diabetes mellitus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluar la función renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar el agente causal de una infección urinaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Medir la concentración de glucosa urinaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Detectar proteinuria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar la filtración glomerular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El urocultivo permite aislar e identificar microorganismos causantes de infección urinaria, frecuente en pacientes diabéticos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué valor de unidades formadoras de colonias (UFC) define una bacteriuria significativa en una muestra de orina media?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10² UFC/mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "10³ UFC/mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "10⁴ UFC/mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "10⁵ UFC/mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "10⁶ UFC/mL"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La bacteriuria significativa se define como ≥10⁵ UFC/mL en orina de chorro medio."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el microorganismo más frecuentemente aislado en infecciones urinarias de pacientes diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enterococcus faecalis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Proteus mirabilis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "E. coli es el principal agente causal de infecciones urinarias tanto en población general como en diabéticos."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué tipo de muestra es la más adecuada para realizar un urocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Primera orina de la mañana sin aseo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Orina de chorro medio con aseo previo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Orina obtenida del colector externo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Muestra de orina refrigerada por 24 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Orina recogida al azar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La muestra ideal es de chorro medio, posterior a aseo genital, para evitar contaminación bacteriana."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué información proporciona el antibiograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tipo de bacterias presentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Número de colonias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sensibilidad o resistencia a antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cantidad de proteínas en orina"
+        },
+        {
+          "opcion": "E",
+          "texto": "pH urinario"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El antibiograma evalúa la sensibilidad del microorganismo aislado frente a diferentes antibióticos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el método más utilizado para determinar la sensibilidad bacteriana en el antibiograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Difusión en agar por disco (Kirby-Bauer)"
+        },
+        {
+          "opcion": "B",
+          "texto": "ELISA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electroforesis de proteínas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El método de Kirby-Bauer mide halos de inhibición alrededor de discos impregnados con antibióticos."
+    },
+    {
+      "numero": "7",
+      "texto": "En pacientes diabéticos, las infecciones urinarias son más frecuentes debido a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del flujo urinario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alteración del pH gástrico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glicosuria persistente que favorece el crecimiento bacteriano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la osmolaridad plasmática"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoproteinemia crónica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La glucosa en orina favorece el crecimiento bacteriano y altera las defensas locales del tracto urinario."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué microorganismo debe sospecharse ante un urocultivo con bacterias productoras de ureasa en diabéticos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Proteus mirabilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "E. coli"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enterobacter cloacae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Klebsiella oxytoca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Proteus mirabilis produce ureasa, alcaliniza la orina y predispone a la formación de cálculos."
+    },
+    {
+      "numero": "9",
+      "texto": "Una muestra de orina debe procesarse en laboratorio dentro de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "30 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "1 hora"
+        },
+        {
+          "opcion": "C",
+          "texto": "2 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "8 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El procesamiento debe realizarse dentro de las 2 horas para evitar proliferación bacteriana o falsos positivos."
+    },
+    {
+      "numero": "10",
+      "texto": "En un antibiograma, la interpretación de “S” significa:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sensibilidad intermedia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Resistencia parcial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sensibilidad del microorganismo al antibiótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sin crecimiento bacteriano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sensible pero clínicamente ineficaz"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La letra S indica que el microorganismo es sensible y el antibiótico es eficaz para el tratamiento."
+    },
+    {
+      "numero": "11",
+      "texto": "Una infección urinaria recurrente en un diabético puede deberse a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso excesivo de líquidos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mala higiene alimentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Control glucémico deficiente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alta ingesta de sodio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertensión arterial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperglucemia sostenida y la glucosuria perpetúan el ambiente propicio para infecciones urinarias recurrentes."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es el volumen mínimo de muestra requerido para un urocultivo confiable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "5 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "10 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "15 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "20 mL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Generalmente se requieren al menos 10 mL de orina para un procesamiento adecuado en cultivo."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo en el sedimento urinario complementa un resultado positivo de urocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cristales de calcio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucocituria significativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presencia de bilirrubina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cilindros hialinos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematuria microscópica aislada"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de leucocitos en orina sugiere inflamación o infección del tracto urinario."
+    },
+    {
+      "numero": "14",
+      "texto": "En el antibiograma, la medida de la sensibilidad se evalúa según:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Número de colonias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tamaño del halo de inhibición"
+        },
+        {
+          "opcion": "C",
+          "texto": "Concentración mínima inhibitoria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Volumen de orina procesado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Coloración de Gram"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El halo de inhibición mide la eficacia del antibiótico frente al microorganismo en cultivo."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué indica un resultado de urocultivo negativo en presencia de síntomas urinarios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contaminación de muestra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección por bacterias de difícil cultivo o tratamiento previo con antibióticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infección micótica avanzada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Función renal alterada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Puede deberse a bacterias fastidiosas o a la toma reciente de antibióticos que suprimen el crecimiento bacteriano."
+    },
+    {
+      "numero": "16",
+      "texto": "En pacientes diabéticos, una infección urinaria complicada puede evolucionar hacia:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nefrolitiasis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pielonefritis enfisematosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Insuficiencia hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperlipidemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La pielonefritis enfisematosa es una forma grave de infección renal más común en diabéticos mal controlados."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué antibiótico es habitualmente de primera línea para infecciones urinarias no complicadas por E. coli?",
+      "alternativas": [
+        {
+          "opcion": "E",
+          "texto": "coli?"
+        },
+        {
+          "opcion": "A",
+          "texto": "Ampicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nitrofurantoína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vancomicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La nitrofurantoína es de elección en infecciones urinarias bajas no complicadas causadas por E. coli sensibles."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué acción debe tomarse ante una infección urinaria por bacterias multirresistentes según antibiograma?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Usar antibiótico de amplio espectro empírico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Repetir el cultivo sin tratamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Seleccionar antibiótico según sensibilidad específica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suspender antibióticos por 72 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tratar con dos antibióticos simultáneamente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento debe basarse en la sensibilidad específica del microorganismo para evitar resistencia cruzada."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué precaución se recomienda al recolectar una muestra de orina en mujeres diabéticas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de catéter vesical rutinario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aseo genital previo a la recolección"
+        },
+        {
+          "opcion": "D",
+          "texto": "Recolectar la primera orina de la mañana sin limpieza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diluir la orina con agua estéril"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El aseo genital previo evita la contaminación por flora perineal, mejorando la precisión del cultivo."
+    },
+    {
+      "numero": "20",
+      "texto": "El término 'bacteriuria asintomática' se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de bacterias sin leucocitos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de bacterias en orina sin síntomas urinarios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección urinaria aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Orina alcalina sin microorganismos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Contaminación de muestra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Bacteriuria asintomática describe la presencia de bacterias en orina sin síntomas clínicos, común en diabéticos."
+    }
+  ]
+}

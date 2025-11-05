@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.056",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Inmunodeficiencias",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el tipo de inmunodeficiencia primaria más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunodeficiencia combinada severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit selectivo de IgA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "D",
+          "texto": "Agammaglobulinemia de Bruton"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Wiskott-Aldrich"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El déficit selectivo de IgA es la inmunodeficiencia primaria más común en niños y adultos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué tipo de infecciones predominan en los déficits de anticuerpos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virales recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacterianas por gérmenes encapsulados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Micóticas diseminadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Parasitarias intestinales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oportunistas intracelulares"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los déficits de anticuerpos predisponen a infecciones bacterianas por Streptococcus pneumoniae y Haemophilus influenzae."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica clínica sugiere una inmunodeficiencia combinada severa (SCID)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rinitis alérgica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis recurrente leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infecciones severas por gérmenes oportunistas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre ocasional sin foco"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eczema leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las inmunodeficiencias combinadas se manifiestan con infecciones graves, persistentes y oportunistas desde los primeros meses de vida."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué estudio inicial se recomienda ante sospecha de inmunodeficiencia primaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prueba de tuberculina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nivel sérico de inmunoglobulinas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "E",
+          "texto": "Electroforesis de proteínas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cuantificación de inmunoglobulinas orienta el diagnóstico inicial de inmunodeficiencias humorales."
+    },
+    {
+      "numero": "5",
+      "texto": "El síndrome de Bruton se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de linfocitos T"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de linfocitos B y niveles indetectables de inmunoglobulinas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deficiencia de IgA con IgG normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto en fagocitosis neutrofílica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoplasia tímica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La agammaglobulinemia ligada al X cursa con ausencia de linfocitos B funcionales."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo radiológico sugiere inmunodeficiencia combinada severa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corazón agrandado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de sombra tímica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Calcificación ganglionar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmón hiperinsuflado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia de sombra tímica en lactantes sugiere deficiencia de linfocitos T, como en SCID o DiGeorge."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué enfermedad se asocia a trombocitopenia, eczema e infecciones recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Wiskott-Aldrich"
+        },
+        {
+          "opcion": "C",
+          "texto": "SCID"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ataxia-telangiectasia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de complemento"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Wiskott-Aldrich combina trombocitopenia, eczema e inmunodeficiencia combinada leve."
+    },
+    {
+      "numero": "8",
+      "texto": "El síndrome de DiGeorge se debe a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deleción 22q11"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mutación del gen BTK"
+        },
+        {
+          "opcion": "C",
+          "texto": "Defecto en IL-2Rγ"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de NADPH oxidasa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutación en CD40L"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El síndrome de DiGeorge se asocia a deleción 22q11 con hipoplasia tímica y paratiroidea."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué infecciones son más comunes en pacientes con defectos del complemento terminal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus respiratorios"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neisseria meningitidis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candida albicans"
+        },
+        {
+          "opcion": "D",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Citomegalovirus"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los defectos del complemento terminal predisponen a infecciones recurrentes por Neisseria."
+    },
+    {
+      "numero": "10",
+      "texto": "La enfermedad granulomatosa crónica se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Defecto en fagocitosis por neutrófilos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Deficiencia de anticuerpos IgG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de linfocitos T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Defecto en complemento C3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoalbuminemia"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La enfermedad granulomatosa crónica se debe a un defecto en la NADPH oxidasa que impide destruir patógenos intracelulares."
+    },
+    {
+      "numero": "11",
+      "texto": "En un lactante con infecciones graves recurrentes y ausencia de timo, ¿cuál es la sospecha principal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Bruton"
+        },
+        {
+          "opcion": "B",
+          "texto": "SCID"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de IgA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ataxia-telangiectasia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El síndrome de DiGeorge cursa con aplasia tímica y defectos del desarrollo del tercer arco faríngeo."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué parámetro se encuentra alterado en la ataxia-telangiectasia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgA disminuida"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM elevada"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgE aumentada"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgG elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgA aumentada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ataxia-telangiectasia presenta déficit de IgA y aumento de susceptibilidad a infecciones respiratorias."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué inmunodeficiencia se asocia con infecciones recurrentes por Pseudomonas y Staphylococcus?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de complemento C3"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de fagocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de IgA"
+        },
+        {
+          "opcion": "D",
+          "texto": "SCID"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de DiGeorge"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los defectos de fagocitosis predisponen a infecciones por bacterias catalasa positivas como Staphylococcus."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué inmunodeficiencia debe sospecharse en un niño con abscesos hepáticos recurrentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de IgA"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit del complemento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad granulomatosa crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de DiGeorge"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agammaglobulinemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La enfermedad granulomatosa crónica cursa con abscesos profundos por patógenos intracelulares."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el tratamiento definitivo de la inmunodeficiencia combinada severa (SCID)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmunoglobulina intravenosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Profilaxis antibiótica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trasplante de médula ósea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Corticoides sistémicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunoterapia con interferón"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trasplante de médula ósea es la única terapia curativa en inmunodeficiencia combinada severa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tipo de vacunas están contraindicadas en inmunodeficiencias graves?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inactivadas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Conjugadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vivas atenuadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recombinantes"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las vacunas vivas atenuadas pueden causar enfermedad diseminada en inmunodeficiencias severas."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué hallazgo clínico caracteriza el déficit selectivo de IgA?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones graves y recurrentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asintomático o con infecciones leves respiratorias"
+        },
+        {
+          "opcion": "C",
+          "texto": "Candidiasis diseminada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutropenia crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemorragias frecuentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mayoría de los pacientes con déficit de IgA son asintomáticos o tienen infecciones respiratorias leves."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo de laboratorio se asocia a la agammaglobulinemia de Bruton?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgM aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de linfocitos B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de linfocitos T CD4"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgA elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Complemento bajo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la agammaglobulinemia de Bruton hay ausencia de linfocitos B y niveles indetectables de inmunoglobulinas."
+    },
+    {
+      "numero": "19",
+      "texto": "En un niño con infecciones virales recurrentes y linfopenia T, ¿qué inmunodeficiencia sospechar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Déficit de anticuerpos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Déficit de fagocitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Déficit de linfocitos T"
+        },
+        {
+          "opcion": "D",
+          "texto": "Déficit de complemento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome nefrótico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las infecciones virales graves recurrentes son típicas de las inmunodeficiencias mediadas por células T."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué inmunoglobulina se usa como terapia sustitutiva en inmunodeficiencias humorales?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "IgA subcutánea"
+        },
+        {
+          "opcion": "B",
+          "texto": "IgM intravenosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "IgG intravenosa o subcutánea"
+        },
+        {
+          "opcion": "D",
+          "texto": "IgE intravenosa"
+        },
+        {
+          "opcion": "E",
+          "texto": "IgD intramuscular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La terapia con inmunoglobulina G repone la función humoral y reduce infecciones bacterianas recurrentes."
+    }
+  ]
+}

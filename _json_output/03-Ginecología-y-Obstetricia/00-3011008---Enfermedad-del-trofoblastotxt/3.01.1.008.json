@@ -1,0 +1,544 @@
+{
+  "codigo": "3.01.1.008",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.008 - Enfermedad del trofoblasto.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la forma más común de enfermedad trofoblástica gestacional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mola completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mola parcial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Coriocarcinoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tumor del sitio placentario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mola invasora"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La mola completa es la forma más frecuente de enfermedad trofoblástica gestacional."
+    },
+    {
+      "numero": "2",
+      "texto": "En la mola completa el cariotipo más frecuente es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "46,XX de origen paterno"
+        },
+        {
+          "opcion": "B",
+          "texto": "69,XXX"
+        },
+        {
+          "opcion": "C",
+          "texto": "45,X"
+        },
+        {
+          "opcion": "D",
+          "texto": "47,XXY"
+        },
+        {
+          "opcion": "E",
+          "texto": "46,XY de origen materno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El cariotipo habitual de la mola completa es 46,XX derivado exclusivamente de origen paterno."
+    },
+    {
+      "numero": "3",
+      "texto": "El hallazgo ecográfico típico de la mola completa es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Imagen en anillo anexial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imagen en panal de abejas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Feto con restricción de crecimiento"
+        },
+        {
+          "opcion": "D",
+          "texto": "Polihidramnios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ecografía muestra un patrón en panal de abejas característico de mola completa."
+    },
+    {
+      "numero": "4",
+      "texto": "La manifestación clínica más común de mola hidatiforme es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amenorrea prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemorragia uterina anormal en primer trimestre"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal agudo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemorragia uterina en primer trimestre es el síntoma más frecuente en mola."
+    },
+    {
+      "numero": "5",
+      "texto": "El marcador tumoral clave en enfermedad trofoblástica gestacional es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CA-125"
+        },
+        {
+          "opcion": "B",
+          "texto": "CEA"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hCG"
+        },
+        {
+          "opcion": "D",
+          "texto": "AFP"
+        },
+        {
+          "opcion": "E",
+          "texto": "CA 19-9"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La beta-hCG es fundamental para diagnóstico, seguimiento y pronóstico."
+    },
+    {
+      "numero": "6",
+      "texto": "La mola parcial se asocia típicamente a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de tejido fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cariotipo triploide"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia masiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitopenia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mola parcial suele asociarse a cariotipo triploide y presencia de restos fetales."
+    },
+    {
+      "numero": "7",
+      "texto": "El tratamiento inicial de elección de la mola hidatiforme es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Histerectomía radical"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quimioterapia inmediata"
+        },
+        {
+          "opcion": "C",
+          "texto": "Legrado uterino por aspiración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espera expectante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Laparotomía exploradora"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El legrado por aspiración es el tratamiento inicial más recomendado para la mola."
+    },
+    {
+      "numero": "8",
+      "texto": "El signo clínico asociado a altos niveles de beta-hCG en mola es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión portal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperemesis gravídica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia falciforme"
+        },
+        {
+          "opcion": "E",
+          "texto": "Insuficiencia renal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperemesis gravídica es consecuencia de niveles muy elevados de beta-hCG."
+    },
+    {
+      "numero": "9",
+      "texto": "El coriocarcinoma se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ser benigno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Asociarse a niveles bajos de beta-hCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alto potencial metastásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento lento"
+        },
+        {
+          "opcion": "E",
+          "texto": "Siempre se asocia a mola parcial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El coriocarcinoma es muy agresivo, con tendencia a metástasis tempranas."
+    },
+    {
+      "numero": "10",
+      "texto": "La localización metastásica más frecuente del coriocarcinoma es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cerebro"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pulmón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Riñón"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hueso"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El pulmón es el sitio más común de metástasis en coriocarcinoma."
+    },
+    {
+      "numero": "11",
+      "texto": "El seguimiento tras evacuación molar debe hacerse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "CA-125 semanal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ecografía mensual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Beta-hCG seriada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Resonancia pélvica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amniocentesis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El control seriado de beta-hCG es esencial para detectar enfermedad persistente."
+    },
+    {
+      "numero": "12",
+      "texto": "La quimioterapia de primera línea en enfermedad trofoblástica de bajo riesgo es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciclofosfamida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metotrexato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ifosfamida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bleomicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Etopósido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El metotrexato es el tratamiento de elección en enfermedad trofoblástica de bajo riesgo."
+    },
+    {
+      "numero": "13",
+      "texto": "En la mola invasora, el diagnóstico se sospecha por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de vellosidades coriales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Persistencia de beta-hCG elevada y masas miometriales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia leve sin cambios ecográficos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de malformaciones fetales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niveles bajos de progesterona"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La mola invasora cursa con beta-hCG elevada y masas que infiltran miometrio."
+    },
+    {
+      "numero": "14",
+      "texto": "El tumor del sitio placentario se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Altos niveles de beta-hCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Producción de hPL (lactógeno placentario)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ser no invasivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento rápido con necrosis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resolverse espontáneamente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tumor del sitio placentario secreta principalmente hPL y no eleva significativamente beta-hCG."
+    },
+    {
+      "numero": "15",
+      "texto": "Un factor de riesgo para desarrollar enfermedad trofoblástica es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad materna extrema"
+        },
+        {
+          "opcion": "B",
+          "texto": "Multiparidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dieta rica en proteínas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tabaquismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de DIU"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las mujeres muy jóvenes o mayores de 35-40 años tienen mayor riesgo de mola."
+    },
+    {
+      "numero": "16",
+      "texto": "En el sistema FIGO de clasificación, el estadio III corresponde a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfermedad confinada al útero"
+        },
+        {
+          "opcion": "B",
+          "texto": "Metástasis genitales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metástasis pulmonares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Metástasis hepáticas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metástasis cerebrales"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El estadio III se refiere a enfermedad metastásica limitada al pulmón."
+    },
+    {
+      "numero": "17",
+      "texto": "El tratamiento quirúrgico se reserva principalmente para:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mola completa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coriocarcinoma con metástasis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Enfermedad trofoblástica refractaria localizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mola parcial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperemesis gravídica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La cirugía se considera en enfermedad refractaria localizada o hemorragia incontrolable."
+    },
+    {
+      "numero": "18",
+      "texto": "Una complicación inmediata tras evacuación molar es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sepsis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia uterina masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endometritis crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cáncer cervical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hemorragia uterina es la complicación inmediata más temida tras evacuación molar."
+    },
+    {
+      "numero": "19",
+      "texto": "El intervalo recomendado para evitar embarazo tras mola hidatiforme es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda evitar embarazo durante 12 meses tras normalización de beta-hCG."
+    }
+  ]
+}

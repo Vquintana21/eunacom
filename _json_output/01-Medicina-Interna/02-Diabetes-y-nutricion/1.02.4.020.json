@@ -1,0 +1,572 @@
+{
+  "codigo": "1.02.4.020",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Diabetes y nutricion",
+  "subcategoria_id": "02",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué representa el nitrógeno ureico urinario (NUU) en el metabolismo proteico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La síntesis hepática de albúmina"
+        },
+        {
+          "opcion": "B",
+          "texto": "El catabolismo de proteínas corporales"
+        },
+        {
+          "opcion": "C",
+          "texto": "La excreción de ácidos grasos"
+        },
+        {
+          "opcion": "D",
+          "texto": "El metabolismo de carbohidratos"
+        },
+        {
+          "opcion": "E",
+          "texto": "La pérdida de electrolitos renales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El nitrógeno ureico urinario refleja el grado de degradación de proteínas corporales y la eliminación renal de urea."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal forma de excreción del nitrógeno en el ser humano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoníaco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Urea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Creatinina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ácido úrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aminoácidos libres"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La urea es la principal forma de excreción de nitrógeno, representando alrededor del 80-90% del total."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué condición clínica puede disminuir el nitrógeno ureico urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta hiperproteica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición proteica severa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ejercicio intenso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipertermia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La desnutrición proteica reduce el catabolismo proteico y por ende la excreción de nitrógeno ureico."
+    },
+    {
+      "numero": "4",
+      "texto": "¿En qué unidad se expresa comúnmente el nitrógeno ureico urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "mg/dL"
+        },
+        {
+          "opcion": "B",
+          "texto": "g/24h"
+        },
+        {
+          "opcion": "C",
+          "texto": "mmol/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "UI/L"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El nitrógeno ureico urinario se mide típicamente en gramos por 24 horas para evaluar balance proteico."
+    },
+    {
+      "numero": "5",
+      "texto": "Un aumento del nitrógeno ureico urinario puede observarse en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ayuno prolongado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia ferropénica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotiroidismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome nefrótico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatopatía crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Durante el ayuno, aumenta el catabolismo proteico para generar energía, elevando la urea urinaria."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué relación existe entre el nitrógeno ureico urinario y la función renal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "No tiene relación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta con insuficiencia renal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye con insuficiencia renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta con hiperglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo cambia en hepatopatías"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En insuficiencia renal, disminuye la capacidad de excreción de urea, reduciendo el nitrógeno urinario."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué porcentaje del nitrógeno excretado total corresponde a la urea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10-20%"
+        },
+        {
+          "opcion": "B",
+          "texto": "30-40%"
+        },
+        {
+          "opcion": "C",
+          "texto": "50-60%"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Aproximadamente el 80-90% del nitrógeno excretado se elimina en forma de urea."
+    },
+    {
+      "numero": "8",
+      "texto": "En un paciente con diabetes mal controlada, un aumento del nitrógeno ureico urinario indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de la lipogénesis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Catabolismo proteico por déficit energético"
+        },
+        {
+          "opcion": "C",
+          "texto": "Retención de nitrógeno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síntesis aumentada de glucógeno"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falta de insulina provoca catabolismo proteico, aumentando la excreción de urea y nitrógeno urinario."
+    },
+    {
+      "numero": "9",
+      "texto": "El nitrógeno ureico urinario se usa clínicamente para estimar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "El balance de nitrógeno"
+        },
+        {
+          "opcion": "B",
+          "texto": "La concentración plasmática de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "El metabolismo lipídico"
+        },
+        {
+          "opcion": "D",
+          "texto": "La función hepática directa"
+        },
+        {
+          "opcion": "E",
+          "texto": "La tasa de filtración glomerular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El nitrógeno ureico urinario es útil para estimar el balance de nitrógeno en evaluaciones nutricionales."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué proporción aproximada de la proteína ingerida se excreta como nitrógeno urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "16%"
+        },
+        {
+          "opcion": "B",
+          "texto": "30%"
+        },
+        {
+          "opcion": "C",
+          "texto": "50%"
+        },
+        {
+          "opcion": "D",
+          "texto": "70%"
+        },
+        {
+          "opcion": "E",
+          "texto": "90%"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Aproximadamente el 16% del peso de la proteína ingerida corresponde a nitrógeno, que se elimina por orina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué compuesto nitrogenado secundario se elimina por orina además de la urea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ácido acético"
+        },
+        {
+          "opcion": "B",
+          "texto": "Creatinina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Glucosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bilirrubina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Triglicéridos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La creatinina es un producto del metabolismo muscular y contribuye al nitrógeno total urinario."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué indica un balance nitrogenado negativo en un paciente diabético?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síntesis proteica aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Catabolismo proteico excesivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Equilibrio metabólico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperinsulinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución de la lipólisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un balance nitrogenado negativo refleja que el cuerpo está degradando más proteína de la que sintetiza."
+    },
+    {
+      "numero": "13",
+      "texto": "El nitrógeno ureico urinario disminuye en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infecciones agudas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desnutrición proteico-calórica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ejercicio prolongado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Estrés metabólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis diabética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En la desnutrición proteico-calórica, se reduce la disponibilidad de aminoácidos y la formación de urea."
+    },
+    {
+      "numero": "14",
+      "texto": "En pacientes con insuficiencia hepática, el nitrógeno ureico urinario tiende a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumentar significativamente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Permanecer igual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Variar sin patrón definido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Duplicarse cada 24 horas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En hepatopatías, la síntesis de urea se reduce, lo que disminuye el nitrógeno ureico urinario."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es la relación normal entre nitrógeno ureico y nitrógeno total urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10%"
+        },
+        {
+          "opcion": "B",
+          "texto": "25%"
+        },
+        {
+          "opcion": "C",
+          "texto": "50%"
+        },
+        {
+          "opcion": "D",
+          "texto": "80-90%"
+        },
+        {
+          "opcion": "E",
+          "texto": "100%"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El nitrógeno ureico representa entre 80 y 90% del nitrógeno total excretado en orina."
+    },
+    {
+      "numero": "16",
+      "texto": "El aumento del nitrógeno ureico urinario tras iniciar insulina en un diabético indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Empeoramiento metabólico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mejoría en la utilización de proteínas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Deshidratación severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis metabólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La insulina favorece el anabolismo proteico y mejora la eficiencia del metabolismo del nitrógeno."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué método se usa para estimar el nitrógeno total urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Método de Kjeldahl"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espectrofotometría de absorción atómica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cromatografía gaseosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electroforesis de proteínas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reacción de Benedict"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El método de Kjeldahl mide el contenido total de nitrógeno en una muestra biológica."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál de los siguientes factores aumenta artificialmente el nitrógeno ureico urinario?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dieta rica en proteínas animales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hidratación excesiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta baja de sodio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de diuréticos tiazídicos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Actividad física ligera"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una dieta hiperproteica incrementa el catabolismo de aminoácidos, elevando el nitrógeno ureico excretado."
+    },
+    {
+      "numero": "19",
+      "texto": "En pacientes con diabetes tipo 1 descompensada, el nitrógeno ureico urinario aumenta por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mayor síntesis hepática de proteínas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Catabolismo proteico por déficit de insulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducción del flujo renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la glucogénesis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La deficiencia de insulina favorece el catabolismo proteico, elevando la producción y excreción de urea."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué indica un valor persistentemente bajo de nitrógeno ureico urinario en un paciente diabético bien nutrido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Error en la recolección de orina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Función hepática aumentada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síntesis excesiva de urea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Catabolismo proteico acelerado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoglucemia recurrente"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Valores anormalmente bajos pueden reflejar una recolección incompleta o errores en la medición de la muestra."
+    }
+  ]
+}

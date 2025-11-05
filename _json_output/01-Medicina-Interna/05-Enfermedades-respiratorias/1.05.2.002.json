@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.2.002",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la localización más frecuente de los cuerpos extraños aspirados en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bronquio principal izquierdo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquio principal derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tráquea media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Laringe"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquiolos terminales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El bronquio principal derecho es más vertical y amplio, por lo que facilita la entrada de cuerpos extraños."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el síntoma inicial más frecuente tras la aspiración de un cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis súbita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos paroxística"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea progresiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tos paroxística refleja es la respuesta inmediata del cuerpo para intentar expulsar el objeto."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué maniobra se recomienda en un adulto consciente con obstrucción completa de vía aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Golpes interescapulares"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresiones abdominales (Heimlich)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ventilación boca a boca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Masaje cardíaco externo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colocación de cánula orofaríngea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La maniobra de Heimlich genera presión subdiafragmática que expulsa el cuerpo extraño."
+    },
+    {
+      "numero": "4",
+      "texto": "En niños menores de un año, ¿qué maniobra sustituye a la de Heimlich?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compresiones abdominales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Golpes dorsales y compresiones torácicas alternadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compresiones abdominales con el puño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación boca a nariz"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masaje cardiaco continuo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes se realizan golpes interescapulares y compresiones torácicas, no abdominales."
+    },
+    {
+      "numero": "5",
+      "texto": "El signo de obstrucción completa de vía aérea es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos débil y sibilante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Incapacidad para hablar o toser"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estridor leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cianosis distal aislada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dolor retroesternal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La incapacidad para hablar o toser indica obstrucción completa del flujo de aire."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo radiológico es más sugestivo de cuerpo extraño bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado alveolar bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperinsuflación unilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia basal bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax apical"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperinsuflación unilateral aparece por efecto valvular que atrapa aire distal al objeto."
+    },
+    {
+      "numero": "7",
+      "texto": "El diagnóstico de certeza en aspiración de cuerpo extraño se obtiene mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomografía axial computarizada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoscopía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ecografía pulmonar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La broncoscopía permite visualizar y extraer directamente el cuerpo extraño aspirado."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la complicación más grave de la aspiración de cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía aspirativa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atelectasia segmentaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Asfixia y paro cardiorrespiratorio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoespasmo leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemoptisis leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La obstrucción total de vía aérea puede llevar rápidamente a asfixia y paro cardiorrespiratorio."
+    },
+    {
+      "numero": "9",
+      "texto": "En la aspiración parcial, el sonido respiratorio característico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancia unilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Roncus difusos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Estridor bifásico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Silencio auscultatorio bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crepitaciones basales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La sibilancia unilateral indica paso parcial de aire y obstrucción localizada."
+    },
+    {
+      "numero": "10",
+      "texto": "En una aspiración de cuerpo extraño en la laringe, es típico observar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tos húmeda y esputo purulento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estridor inspiratorio y disfonía"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crepitaciones bilaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disnea solo en decúbito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El compromiso laríngeo produce estridor y alteraciones de la voz por obstrucción alta."
+    },
+    {
+      "numero": "11",
+      "texto": "El tratamiento definitivo de la aspiración de cuerpo extraño es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fisioterapia respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Broncoscopía para extracción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ventilación mecánica prolongada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de broncodilatadores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La broncoscopía rígida o flexible es el tratamiento de elección para extraer el objeto."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué tipo de broncoscopía se prefiere en casos agudos de asfixia por cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Broncoscopía flexible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Broncoscopía rígida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fibrolaringoscopía nasal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Broncoscopía virtual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Endoscopía digestiva alta"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La broncoscopía rígida permite mejor control de la vía aérea y extracción segura del cuerpo extraño."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué material es más probable de visualizarse en radiografía simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plástico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Alimento vegetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hueso pequeño"
+        },
+        {
+          "opcion": "E",
+          "texto": "Semilla"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los objetos metálicos son radiopacos y fácilmente visibles en la radiografía de tórax."
+    },
+    {
+      "numero": "14",
+      "texto": "La complicación tardía más frecuente tras una aspiración no diagnosticada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Enfisema subcutáneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bronquiectasias locales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax espontáneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La retención crónica de un cuerpo extraño produce inflamación y bronquiectasias localizadas."
+    },
+    {
+      "numero": "15",
+      "texto": "En el adulto inconsciente con sospecha de cuerpo extraño, la primera maniobra indicada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Abrir la vía aérea y realizar ventilación de rescate"
+        },
+        {
+          "opcion": "B",
+          "texto": "Realizar compresiones torácicas antes de abrir la vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Introducir los dedos a ciegas en la boca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Colocar al paciente en posición lateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aplicar compresiones abdominales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En el adulto inconsciente se inicia RCP con compresiones torácicas antes de verificar la vía aérea."
+    },
+    {
+      "numero": "16",
+      "texto": "Durante una crisis de asfixia por aspiración, la prioridad terapéutica inmediata es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Administrar oxígeno suplementario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Restablecer la permeabilidad de la vía aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Controlar la presión arterial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar broncodilatadores intravenosos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar antibióticos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prioridad es asegurar la vía aérea y permitir el paso de aire, antes de cualquier otra medida."
+    },
+    {
+      "numero": "17",
+      "texto": "El síndrome de obstrucción bronquial unilateral posaspiración se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del murmullo vesicular y timpanismo ipsilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento bilateral de ruidos respiratorios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis generalizada sin asimetría"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crepitaciones difusas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Silencio auscultatorio contralateral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La obstrucción parcial produce atrapamiento aéreo y timpanismo con murmullo vesicular disminuido del lado afectado."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué hallazgo clínico orienta a obstrucción alta por cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sibilancias difusas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estridor inspiratorio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea en decúbito"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis distal leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estridor inspiratorio es característico de obstrucción laríngea o traqueal superior."
+    },
+    {
+      "numero": "19",
+      "texto": "En la radiografía de espiración, ¿qué hallazgo es característico de cuerpo extraño bronquial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperclaridad persistente de un hemitórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atelectasia bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural libre"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infiltrado difuso"
+        },
+        {
+          "opcion": "E",
+          "texto": "Neumotórax basal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La hiperclaridad persistente en espiración indica atrapamiento aéreo por obstrucción parcial bronquial."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué debe evitarse durante el manejo de un paciente consciente con tos efectiva tras aspirar un cuerpo extraño?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Animarlo a seguir tosiendo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Interferir con maniobras de compresión abdominal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Observar de pie o sentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Monitorizar oxigenación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evaluar signos de obstrucción completa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si el paciente tose de forma efectiva no deben realizarse maniobras que interrumpan su esfuerzo tusígeno."
+    }
+  ]
+}

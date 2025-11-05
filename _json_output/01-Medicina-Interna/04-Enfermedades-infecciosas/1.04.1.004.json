@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico más frecuente de la brucelosis humana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Brucella abortus"
+        },
+        {
+          "opcion": "B",
+          "texto": "Brucella suis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Brucella melitensis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Brucella canis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Brucella ovis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Brucella melitensis es la especie más virulenta y la causa más común de brucelosis humana."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la principal vía de transmisión de la brucelosis al ser humano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Picaduras de insectos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta de lácteos no pasteurizados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Contacto sexual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transmisión vertical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La brucelosis se transmite principalmente por el consumo de leche o derivados no pasteurizados."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué característica microbiológica define al género Brucella?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bacilo Gram negativo intracelular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Coco Gram positivo extracelular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacilo Gram positivo anaerobio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coco Gram negativo diplococo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Espiroqueta Gram negativa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Brucella es un bacilo Gram negativo pequeño, aerobio y con capacidad intracelular facultativa."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes grupos ocupacionales presenta mayor riesgo de infección por brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Personal sanitario"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trabajadores de laboratorio y ganaderos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Docentes universitarios"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mineros"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pescadores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los trabajadores expuestos a animales o cultivos de Brucella son los más vulnerables."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué síntoma es característico de la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre intermitente con sudoración profusa y olor característico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Erupción cutánea petequial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tos productiva persistente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor torácico pleurítico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ictericia progresiva"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fiebre ondulante con sudor de olor a moho o heno es típica de la brucelosis."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el órgano más frecuentemente afectado en la brucelosis crónica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hígado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corazón"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Articulaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Pulmones"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Las artralgias y la espondilitis son manifestaciones comunes en la brucelosis crónica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué prueba serológica se utiliza como método diagnóstico de primera línea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prueba de Coombs indirecta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de Rosa de Bengala"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR para Brucella"
+        },
+        {
+          "opcion": "E",
+          "texto": "ELISA IgM"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prueba de Rosa de Bengala es una técnica rápida de aglutinación usada para el tamizaje inicial."
+    },
+    {
+      "numero": "8",
+      "texto": "El diagnóstico definitivo de brucelosis se realiza mediante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemocultivo positivo para Brucella"
+        },
+        {
+          "opcion": "B",
+          "texto": "Elevación de VSG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aglutinación de Wright positiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de IgM elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR negativa con clínica compatible"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El aislamiento de Brucella en hemocultivo confirma el diagnóstico definitivo."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué antibióticos constituyen el tratamiento estándar de la brucelosis no complicada en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina y gentamicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doxiciclina y rifampicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ceftriaxona y azitromicina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clindamicina y ciprofloxacino"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amoxicilina y ácido clavulánico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La combinación de doxiciclina por 6 semanas y rifampicina es el esquema clásico de tratamiento."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué manifestación clínica sugiere brucelosis complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fiebre menor a 38°C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hepatoesplenomegalia y espondilitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor abdominal leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Faringitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rinitis crónica"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La afectación osteoarticular y visceromegalia indican compromiso sistémico por Brucella."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el período de incubación habitual de la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-3 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "5-10 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "1-3 semanas"
+        },
+        {
+          "opcion": "D",
+          "texto": "4-8 semanas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 3 meses"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El período de incubación de la brucelosis suele ser de 2 a 8 semanas."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de las siguientes complicaciones cardiovasculares puede ocurrir en la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Endocarditis infecciosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pericarditis seca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Insuficiencia cardiaca diastólica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aneurisma micótico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La endocarditis por Brucella, aunque rara, es la complicación más grave y letal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de fiebre presenta típicamente la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Continua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Recurrente diaria vespertina (ondulante)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Intermitente con escalofríos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre remitente matinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre periódica con picos semanales"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre ondulante vespertina es característica de la brucelosis."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo de laboratorio es frecuente en pacientes con brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis marcada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anemia y leucopenia moderada"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia elevada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neutrofilia intensa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trombocitosis persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La brucelosis cursa frecuentemente con anemia y leucopenia debido a hiperesplenismo."
+    },
+    {
+      "numero": "15",
+      "texto": "En el diagnóstico serológico, ¿qué título de la prueba de Wright se considera significativo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1:20"
+        },
+        {
+          "opcion": "B",
+          "texto": "1:40"
+        },
+        {
+          "opcion": "C",
+          "texto": "1:80"
+        },
+        {
+          "opcion": "D",
+          "texto": "1:160 o superior"
+        },
+        {
+          "opcion": "E",
+          "texto": "1:640"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Un título de 1:160 o mayor en la prueba de Wright sugiere infección activa."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué complicación osteoarticular es más frecuente en la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Artritis reumatoide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Espondilitis lumbosacra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Artritis séptica de cadera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Osteomielitis femoral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Condritis esternal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La espondilitis lumbosacra es la manifestación osteoarticular más habitual de la brucelosis."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué medida preventiva es más efectiva contra la brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación humana rutinaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pasteurización de leche y control veterinario"
+        },
+        {
+          "opcion": "D",
+          "texto": "Consumo de carne cruda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar contacto social con animales domésticos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prevención depende del control veterinario y del consumo de productos pasteurizados."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué prueba es más sensible en la detección precoz de brucelosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ELISA IgM/IgG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aglutinación de Wright"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rosa de Bengala"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemocultivo clásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Inmunofluorescencia indirecta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "ELISA permite detectar anticuerpos IgM e IgG con mayor sensibilidad que la aglutinación."
+    },
+    {
+      "numero": "19",
+      "texto": "En la brucelosis del sistema nervioso central, la combinación antibiótica recomendada incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Penicilina y gentamicina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Doxiciclina, rifampicina y ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Azitromicina y amoxicilina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cloranfenicol y clindamicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Levofloxacino y metronidazol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neurobrucelosis requiere tratamiento prolongado con doxiciclina, rifampicina y ceftriaxona."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo radiológico puede observarse en la espondilitis brucelar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesión osteolítica en platillo vertebral anterior"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fractura en estallido vertebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de densidad trabecular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esclerosis difusa bilateral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colapso vertebral sin destrucción ósea"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La espondilitis brucelar muestra erosión del platillo vertebral anterior (signo de Pedro Pons)."
+    }
+  ]
+}

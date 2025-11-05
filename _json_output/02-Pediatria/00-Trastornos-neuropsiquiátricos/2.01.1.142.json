@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.142",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos neuropsiquiátricos",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué se entiende por trastorno neuropsiquiátrico en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una alteración transitoria del comportamiento"
+        },
+        {
+          "opcion": "B",
+          "texto": "Una enfermedad infecciosa del sistema nervioso central"
+        },
+        {
+          "opcion": "C",
+          "texto": "Un trastorno con base neurológica que afecta funciones mentales y conductuales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Una reacción emocional ante estrés"
+        },
+        {
+          "opcion": "E",
+          "texto": "Un problema exclusivamente familiar"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los trastornos neuropsiquiátricos combinan disfunciones cerebrales con manifestaciones cognitivas, emocionales y conductuales."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál de los siguientes es un trastorno neuropsiquiátrico del desarrollo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno por déficit atencional con hiperactividad (TDAH)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno depresivo mayor"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno de ansiedad generalizada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Trastorno oposicionista desafiante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno de apego reactivo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El TDAH es un trastorno neuropsiquiátrico del desarrollo que afecta la atención, impulsividad y control motor."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué neurotransmisor está principalmente implicado en el TDAH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Serotonina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acetilcolina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dopamina"
+        },
+        {
+          "opcion": "D",
+          "texto": "GABA"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glutamato"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El TDAH se asocia con disfunción dopaminérgica y noradrenérgica en corteza prefrontal."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál de los siguientes medicamentos es de primera línea para el TDAH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sertralina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Haloperidol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Metilfenidato"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diazepam"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El metilfenidato es un estimulante que mejora la atención al aumentar dopamina y noradrenalina prefrontales."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué criterio diagnóstico es necesario para el TDAH según DSM-5?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inicio antes de los 12 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de ansiedad secundaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperactividad exclusiva en el hogar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síntomas posteriores a los 16 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Episodios de irritabilidad aislados"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El DSM-5 establece inicio de síntomas antes de los 12 años y en al menos dos contextos."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué trastorno neuropsiquiátrico se caracteriza por movimientos o vocalizaciones involuntarias repetitivas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno de ansiedad social"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome de Tourette"
+        },
+        {
+          "opcion": "C",
+          "texto": "TDAH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia focal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mutismo selectivo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Tourette implica tics motores y vocales múltiples que persisten más de un año."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué tratamiento farmacológico es más utilizado en el síndrome de Tourette?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Metilfenidato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Risperidona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sertralina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clonazepam"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bupropión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los antipsicóticos atípicos como la risperidona reducen la frecuencia e intensidad de los tics."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué trastorno se caracteriza por fluctuaciones entre irritabilidad, agresividad y déficit de atención?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno oposicionista desafiante"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trastorno de conducta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno bipolar pediátrico"
+        },
+        {
+          "opcion": "D",
+          "texto": "TDAH tipo combinado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Depresión distímica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El trastorno bipolar pediátrico se manifiesta con irritabilidad crónica y episodios de exaltación o agresividad."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es un signo clínico característico del síndrome de Tourette?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Movimientos coreicos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tics motores y vocales múltiples"
+        },
+        {
+          "opcion": "C",
+          "texto": "Espasmos tónicos generalizados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Temblor de reposo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez extrapiramidal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de Tourette combina tics motores y fónicos que pueden variar en intensidad y frecuencia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es la principal diferencia entre tics transitorios y síndrome de Tourette?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edad de inicio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Número de tics presentes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Duración superior a 1 año en Tourette"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presencia de alucinaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Asociación a epilepsia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los tics del síndrome de Tourette persisten más de un año, mientras los transitorios duran menos de 12 meses."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué factor se asocia a un mayor riesgo de desarrollar TDAH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nacimiento postérmino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prematurez y bajo peso al nacer"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exposición a flúor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Elevada escolaridad parental"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alimentación prolongada al pecho"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La prematurez, bajo peso y exposición prenatal a tabaco o alcohol aumentan el riesgo de TDAH."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué trastorno se asocia frecuentemente al TDAH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastorno de ansiedad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anorexia nerviosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno obsesivo compulsivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia generalizada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trastorno del sueño REM"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La comorbilidad con ansiedad y dificultades del aprendizaje es frecuente en TDAH."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué característica distingue el trastorno obsesivo compulsivo (TOC) en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de tics simples"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ideas intrusivas y conductas repetitivas que generan ansiedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Conducta impulsiva sin conciencia del acto"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento social con alucinaciones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Euforia persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TOC se define por obsesiones intrusivas y compulsiones que alivian transitoriamente la ansiedad."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué tratamiento psicológico es más eficaz para el TOC infantil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia conductual con exposición y prevención de respuesta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Terapia de arte"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipnoterapia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Psicoanálisis clásico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Terapia de juego libre"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La exposición con prevención de respuesta es la técnica más eficaz en el TOC pediátrico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo EEG puede observarse en niños con trastornos neuropsiquiátricos comórbidos con epilepsia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ondas lentas frontales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Puntas-ondas generalizadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad beta sostenida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de anomalías"
+        },
+        {
+          "opcion": "E",
+          "texto": "Supresión difusa de actividad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia de puntas-ondas generalizadas puede asociarse a epilepsia y trastornos atencionales o conductuales."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la conducta inicial ante un niño con tics leves sin deterioro funcional?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Indicar antipsicóticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Observar y tranquilizar a la familia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solicitar RM cerebral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derivar a psiquiatría infantil urgente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Iniciar benzodiacepinas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los tics leves suelen remitir espontáneamente; se recomienda observación y apoyo familiar sin medicación inicial."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué característica define los trastornos del espectro obsesivo-compulsivo y de tics?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aparición en la adultez"
+        },
+        {
+          "opcion": "B",
+          "texto": "Carácter repetitivo e involuntario de los actos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síntomas disociativos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteraciones de memoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de comorbilidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Ambos comparten conductas repetitivas, involuntarias o semivoluntarias que interfieren con la vida cotidiana."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué examen es útil para descartar causas metabólicas de síntomas neuropsiquiátricos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemograma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perfil tiroideo y metabólico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Test de Mantoux"
+        },
+        {
+          "opcion": "E",
+          "texto": "Perfil hepático aislado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe evaluarse función tiroidea y metabólica, ya que alteraciones hormonales pueden simular síntomas psiquiátricos."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué factor protector es relevante frente a trastornos neuropsiquiátricos en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ambiente familiar estable y apoyo emocional"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ambiente caótico con disciplina rígida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Exposición temprana a pantallas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento social voluntario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Falta de rutinas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Un entorno afectivo estable y con buena comunicación disminuye el riesgo de desarrollar trastornos neuropsiquiátricos."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es el abordaje ideal en un niño con sospecha de trastorno neuropsiquiátrico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evaluación multidisciplinaria con intervención temprana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo psicoterapia individual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tratamiento farmacológico exclusivo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Educación especial sin diagnóstico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Observación pasiva prolongada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El manejo requiere evaluación integral por neurología, psiquiatría, psicología y terapia ocupacional."
+    }
+  ]
+}

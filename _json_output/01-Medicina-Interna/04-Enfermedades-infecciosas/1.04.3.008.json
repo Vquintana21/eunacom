@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.3.008",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente causal del tétanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clostridium difficile"
+        },
+        {
+          "opcion": "B",
+          "texto": "Clostridium tetani"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clostridium botulinum"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacillus anthracis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Streptococcus pyogenes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tétanos es causado por Clostridium tetani, una bacteria anaerobia formadora de esporas productora de toxina tetánica."
+    },
+    {
+      "numero": "2",
+      "texto": "La toxina tetánica actúa principalmente sobre:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Plaquetas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neutrófilos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Motoneuronas inhibidoras"
+        },
+        {
+          "opcion": "D",
+          "texto": "Células endoteliales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hepatocitos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tetanospasmina bloquea la liberación de GABA y glicina en motoneuronas inhibidoras, causando espasmos musculares."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la forma de profilaxis activa frente al tétanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antitoxina tetánica humana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna con toxoide tetánico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inmunoglobulina equina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desbridamiento quirúrgico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La profilaxis activa se realiza mediante la vacunación con toxoide tetánico, que estimula la producción de anticuerpos protectores."
+    },
+    {
+      "numero": "4",
+      "texto": "La inmunización primaria contra el tétanos se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Una sola dosis de toxoide"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tres dosis de vacuna DTPa o Td"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dos dosis separadas por un año"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna oral combinada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Refuerzo mensual por seis meses"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esquema primario incluye tres dosis de toxoide tetánico (DTPa o Td) para alcanzar inmunidad protectora."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cada cuánto tiempo debe administrarse el refuerzo de la vacuna antitetánica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cada 3 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cada 5 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cada 10 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cada 15 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo una vez en la vida"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los refuerzos del toxoide tetánico deben aplicarse cada 10 años para mantener niveles adecuados de anticuerpos."
+    },
+    {
+      "numero": "6",
+      "texto": "En heridas limpias y menores, la profilaxis antitetánica consiste en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo vacuna si no se encuentra al día"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inmunoglobulina más vacuna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo inmunoglobulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nada si hay dolor leve"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En heridas limpias, se aplica solo vacuna si el paciente no ha recibido refuerzo en los últimos 10 años."
+    },
+    {
+      "numero": "7",
+      "texto": "En heridas sucias o con riesgo de contaminación, la profilaxis incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo vacuna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna más inmunoglobulina tetánica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo inmunoglobulina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Refuerzo oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desinfección local sin vacuna"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En heridas contaminadas y vacunación incompleta, se administra vacuna más inmunoglobulina antitetánica humana."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es la dosis habitual de inmunoglobulina tetánica humana para profilaxis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "100 UI IM"
+        },
+        {
+          "opcion": "B",
+          "texto": "250 UI IM"
+        },
+        {
+          "opcion": "C",
+          "texto": "500 UI IM"
+        },
+        {
+          "opcion": "D",
+          "texto": "750 UI IV"
+        },
+        {
+          "opcion": "E",
+          "texto": "1000 UI IM"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La dosis estándar profiláctica de inmunoglobulina tetánica es 250 UI por vía intramuscular en una sola aplicación."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué acción se recomienda antes de aplicar la vacuna antitetánica en una herida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desinfección adecuada y valoración del esquema previo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tomar cultivo bacteriano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Administrar antibióticos de amplio espectro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infiltrar lidocaína en la zona"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esperar 48 horas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Debe realizarse limpieza y desbridamiento de la herida, además de revisar el historial de vacunación antes de inmunizar."
+    },
+    {
+      "numero": "10",
+      "texto": "En un paciente con herida contaminada y vacunación desconocida, se debe aplicar:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo vacuna Td"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo inmunoglobulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacuna Td más inmunoglobulina tetánica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ninguna medida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Refuerzo cada 5 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Cuando el estado de vacunación es incierto y la herida es contaminada, se aplica vacuna más inmunoglobulina simultáneamente."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué componente contiene la vacuna Td?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Toxoide tetánico y pertussis inactivada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Toxoide tetánico y diftérico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toxoide tetánico puro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toxoide tetánico y polio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Toxoide tetánico, diftérico y hepatitis B"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna Td combina toxoide tetánico y diftérico, usada principalmente en refuerzos para adultos."
+    },
+    {
+      "numero": "12",
+      "texto": "¿En qué tipo de herida se considera alto riesgo de tétanos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corte limpio con bisturí"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quemadura superficial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Herida punzante con cuerpo extraño o necrosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Erosión leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Herida quirúrgica cerrada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las heridas punzantes, contaminadas o con tejido necrótico son las de mayor riesgo para el desarrollo de tétanos."
+    },
+    {
+      "numero": "13",
+      "texto": "La inmunoglobulina tetánica se administra:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Por vía intravenosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Por vía subcutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por vía intramuscular"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por vía oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Por vía intradérmica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunoglobulina tetánica humana se administra por vía intramuscular en un sitio diferente al de la vacuna."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál de los siguientes grupos debe tener vacunación antitetánica actualizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo personal de salud"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo militares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Toda la población adulta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo mujeres embarazadas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo pacientes con heridas previas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Toda la población adulta debe mantener vacunación antitetánica actualizada mediante refuerzos cada 10 años."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál es el manejo profiláctico del tétanos en una mujer embarazada no inmunizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna Td durante el embarazo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo inmunoglobulina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Esperar al parto para vacunar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "No se recomienda profilaxis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se recomienda aplicar dos dosis de vacuna Td durante el embarazo para proteger a la madre y al recién nacido."
+    },
+    {
+      "numero": "16",
+      "texto": "La profilaxis pasiva del tétanos confiere protección durante:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 semana"
+        },
+        {
+          "opcion": "B",
+          "texto": "3 semanas"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 mes"
+        },
+        {
+          "opcion": "D",
+          "texto": "3 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "1 año"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La inmunoglobulina tetánica brinda protección inmediata pero de corta duración, aproximadamente un mes."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué vacuna se administra en el recién nacido para prevención del tétanos neonatal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DTPa"
+        },
+        {
+          "opcion": "B",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ninguna, depende de la inmunización materna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Td"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La prevención del tétanos neonatal depende de la inmunización materna adecuada durante el embarazo, no de una vacuna neonatal."
+    },
+    {
+      "numero": "18",
+      "texto": "La profilaxis con toxoide tetánico en heridas debe aplicarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Solo si han pasado más de 5 años del refuerzo previo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo si han pasado más de 10 años del refuerzo previo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Independientemente del tiempo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo en heridas quirúrgicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Si hay síntomas de rigidez muscular"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En heridas contaminadas, se aplica refuerzo si han transcurrido más de 5 años desde la última dosis de vacuna."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué combinación de vacunas incluye protección antitetánica en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "DTPa, Td y Tdap"
+        },
+        {
+          "opcion": "B",
+          "texto": "MMR y Td"
+        },
+        {
+          "opcion": "C",
+          "texto": "BCG y Tdap"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis B y DTPa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Td solo en niños"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las vacunas DTPa, Td y Tdap incluyen toxoide tetánico y son utilizadas en esquemas de refuerzo en adultos."
+    },
+    {
+      "numero": "20",
+      "texto": "En heridas contaminadas, la administración simultánea de vacuna e inmunoglobulina debe hacerse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "En el mismo sitio y jeringa"
+        },
+        {
+          "opcion": "B",
+          "texto": "En sitios anatómicos distintos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Con un intervalo de 24 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo si hay fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Con lidocaína para evitar dolor"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna y la inmunoglobulina deben aplicarse en lugares diferentes para evitar interferencia en la respuesta inmune."
+    }
+  ]
+}

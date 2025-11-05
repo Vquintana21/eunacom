@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.013",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Infecciones por Salmonella",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal modo de transmisión de Salmonella no tifoidea en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contacto sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Picadura de insectos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ingesta de alimentos contaminados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aerosoles respiratorios"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La Salmonella se transmite principalmente por vía fecal-oral mediante alimentos contaminados, especialmente huevos, pollo o lácteos."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el agente etiológico de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella enteritidis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Salmonella paratyphi A"
+        },
+        {
+          "opcion": "C",
+          "texto": "Salmonella typhi"
+        },
+        {
+          "opcion": "D",
+          "texto": "Salmonella choleraesuis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Salmonella dublin"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fiebre tifoidea es causada por Salmonella enterica serotipo typhi, una bacteria exclusiva del ser humano."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la manifestación clínica más frecuente de las infecciones por Salmonella no tifoidea en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Gastroenteritis aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Endocarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Septicemia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La presentación más común en niños es la gastroenteritis autolimitada con fiebre, diarrea y dolor abdominal."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es el principal reservorio de Salmonella typhi?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aves"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reptiles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Humanos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mamíferos salvajes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Agua estancada"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El ser humano es el único reservorio natural de Salmonella typhi, lo que explica su transmisión interpersonal."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué característica diferencia a Salmonella typhi de Salmonella no tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Produce bacteriemia transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tiene reservorio animal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Produce infección sistémica prolongada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Causa solo gastroenteritis leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Se transmite por inhalación"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Salmonella typhi causa infección sistémica prolongada con bacteriemia y compromiso multiorgánico."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es el período de incubación promedio de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 días"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-5 días"
+        },
+        {
+          "opcion": "C",
+          "texto": "7-14 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "21-30 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "Más de 45 días"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El período de incubación promedio es de 7 a 14 días después de la ingesta del patógeno."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué hallazgo clínico es característico de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea profusa acuosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Erupción maculopapular en tronco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre continua con bradicardia relativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Esplenomegalia con ictericia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La fiebre tifoidea se caracteriza por fiebre continua y bradicardia relativa (signo de Faget)."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el examen de elección para confirmar diagnóstico de fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coprocultivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemocultivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Test de Widal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Urocultivo"
+        },
+        {
+          "opcion": "E",
+          "texto": "PCR viral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hemocultivo es el método diagnóstico de elección en la fase temprana de la fiebre tifoidea."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es la complicación más grave de la fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Deshidratación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Perforación intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Otitis media"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exantema persistente"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La perforación intestinal es una complicación grave y potencialmente fatal de la fiebre tifoidea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué antibiótico es de primera elección en fiebre tifoidea no complicada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ceftriaxona"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Azitromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cloranfenicol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ceftriaxona es el antibiótico de elección en fiebre tifoidea pediátrica no complicada."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la principal medida preventiva contra la infección por Salmonella?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de probióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cocción adecuada de alimentos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacunación masiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Suplementación con zinc"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desparasitación anual"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cocción adecuada de los alimentos y el lavado de manos previenen infecciones por Salmonella."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál de las siguientes vacunas protege contra fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "BCG"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vi polisacárida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis A"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tifo-paratífica viva oral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ambas B y D"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "Existen dos tipos de vacuna contra fiebre tifoidea: Vi polisacárida inyectable y viva oral (Ty21a)."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es el principal mecanismo fisiopatológico de la diarrea por Salmonella no tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Producción de enterotoxina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Invasión del epitelio intestinal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Secreción aumentada de cloro"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inhibición de motilidad intestinal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Destrucción de microvellosidades"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La Salmonella invade el epitelio intestinal, provocando inflamación y exudación con diarrea."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo de laboratorio sugiere fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Leucocitosis con neutrofilia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Leucopenia con linfocitosis relativa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Eosinofilia marcada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia microcítica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Plaquetosis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La fiebre tifoidea se asocia a leucopenia con linfocitosis relativa, reflejo de respuesta inmunitaria sistémica."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación es más frecuente en lactantes con Salmonella no tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Osteomielitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pericarditis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso hepático"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En lactantes, la meningitis por Salmonella no tifoidea es una complicación grave aunque infrecuente."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué grupo etario presenta mayor riesgo de bacteriemia por Salmonella?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escolares sanos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lactantes menores de 1 año"
+        },
+        {
+          "opcion": "C",
+          "texto": "Adolescentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adultos jóvenes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Niños vacunados"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los lactantes y niños inmunodeprimidos presentan mayor riesgo de bacteriemia por Salmonella."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué microorganismo puede causar fiebre entérica similar a la tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella paratyphi A, B y C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella sonnei"
+        },
+        {
+          "opcion": "C",
+          "texto": "Campylobacter jejuni"
+        },
+        {
+          "opcion": "D",
+          "texto": "Yersinia enterocolitica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vibrio cholerae"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las cepas paratyphi A, B y C producen cuadros clínicos similares a la fiebre tifoidea."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué medida está indicada en un portador crónico de Salmonella typhi?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Antibióticos prolongados y exclusión de manipulación de alimentos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación anual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento domiciliario permanente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Terapia con corticoides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemodiálisis periódica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los portadores crónicos deben recibir antibióticos prolongados y evitar manipular alimentos por riesgo de contagio."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo clínico diferencia Salmonella de Shigella en gastroenteritis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presencia de moco y sangre abundante en heces"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre elevada con convulsiones"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diarrea acuosa sin sangre predominante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolor abdominal cólico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tenesmo marcado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La Salmonella produce diarrea acuosa y fiebre, mientras que Shigella cursa con disentería y tenesmo."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué manifestación extraintestinal puede observarse en infecciones por Salmonella?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uveítis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Artritis reactiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glomerulonefritis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema multiforme"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La artritis reactiva es una manifestación postinfecciosa asociada a Salmonella en individuos predispuestos."
+    }
+  ]
+}

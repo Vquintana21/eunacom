@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.1.081",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Síndrome convulsivo",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la causa más frecuente de convulsiones febriles en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epilepsia idiopática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral con fiebre alta"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Traumatismo craneal leve"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones febriles se asocian principalmente a infecciones virales que producen fiebre alta sin infección intracraneal."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué característica define una convulsión febril simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Duración mayor a 15 minutos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Focalización neurológica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ocurre en niños mayores de 10 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Generalizada, breve y sin recurrencia en 24 h"
+        },
+        {
+          "opcion": "E",
+          "texto": "Presencia de alteraciones neurológicas previas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La convulsión febril simple es generalizada, dura menos de 15 minutos y no se repite en 24 horas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué examen está indicado ante una primera convulsión febril simple?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "EEG"
+        },
+        {
+          "opcion": "B",
+          "texto": "TAC de cráneo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ninguno si cumple criterios de simple"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia cerebral"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "No se requieren estudios complementarios si se trata de una convulsión febril simple en un niño sano."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué anticonvulsivante se utiliza en crisis convulsiva prolongada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fenobarbital oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido valproico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diazepam o lorazepam intravenoso"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lamotrigina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diazepam o lorazepam IV son de primera línea para detener crisis convulsivas prolongadas."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el principal diagnóstico diferencial en convulsiones febriles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Epilepsia idiopática"
+        },
+        {
+          "opcion": "B",
+          "texto": "Meningitis o encefalitis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trastorno del sueño"
+        },
+        {
+          "opcion": "D",
+          "texto": "Migraña complicada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis de ausencia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe descartarse infección del sistema nervioso central ante fiebre y convulsión."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la edad típica de presentación de las convulsiones febriles?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1 mes a 12 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "6 meses a 5 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "5 a 10 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neonatos exclusivamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después de los 6 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las convulsiones febriles son típicas entre los 6 meses y los 5 años de edad."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo sugiere una convulsión focal más que generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida de conciencia súbita"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sacudidas bilaterales simétricas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación ocular o movimientos unilaterales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre alta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Recuperación inmediata"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las convulsiones focales se manifiestan con movimientos oculares o motores unilaterales."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué tipo de crisis es más frecuente en la infancia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis focales complejas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis tónico-clónicas generalizadas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis de ausencia típica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crisis atónicas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis mioclónicas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las crisis tónico-clónicas generalizadas son el tipo más común en la infancia."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el síndrome epiléptico infantil más frecuente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de Lennox-Gastaut"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epilepsia rolándica benigna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome de West"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epilepsia mioclónica juvenil"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome de Dravet"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La epilepsia rolándica benigna es el síndrome epiléptico más frecuente en la infancia."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué característica define el síndrome de West?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis de ausencia con EEG normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipsarritmia en el EEG y espasmos infantiles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis focales con automatismos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crisis febriles recurrentes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis tónicas nocturnas aisladas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de West se caracteriza por espasmos infantiles y patrón de hipsarritmia en el EEG."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es el tratamiento de primera línea para el síndrome de West?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fenobarbital"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ácido valproico"
+        },
+        {
+          "opcion": "C",
+          "texto": "ACTH o corticoides"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lamotrigina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Carbamazepina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La ACTH o los corticoides son el tratamiento de elección en el síndrome de West."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo electroencefalográfico se observa en las crisis de ausencia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Puntas frontales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Complejos punta-onda 3 Hz generalizados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Actividad delta focal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Descargas multifocales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipsarritmia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las crisis de ausencia se asocian a descargas punta-onda a 3 Hz en el EEG."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué fármaco es de elección en crisis de ausencia típica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carbamazepina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Valproato de sodio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fenitoína"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fenobarbital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Levetiracetam"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El valproato de sodio es el tratamiento de elección en las crisis de ausencia típicas."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el hallazgo más frecuente posterior a una crisis tónico-clónica generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperactividad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estado postictal con somnolencia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipotensión severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Paresia permanente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El estado postictal se caracteriza por somnolencia y confusión transitoria tras la crisis."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué tipo de crisis se caracteriza por pérdida súbita del tono postural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Atónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mioclónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "De ausencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Focal simple"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las crisis atónicas producen pérdida súbita del tono muscular y caídas bruscas."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo sugiere crisis focal más que generalizada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pérdida completa de conciencia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Inicio unilateral de movimientos clónicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis nocturnas recurrentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Postura tónica simétrica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis inducidas por fiebre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El inicio unilateral de movimientos clónicos es característico de crisis focales."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué estudio es más útil para el diagnóstico de epilepsia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Resonancia cerebral"
+        },
+        {
+          "opcion": "B",
+          "texto": "EEG interictal"
+        },
+        {
+          "opcion": "C",
+          "texto": "TAC de cráneo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido cefalorraquídeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "PET cerebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El EEG interictal muestra descargas epilépticas que confirman el diagnóstico de epilepsia."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el principal efecto adverso del uso prolongado de fenobarbital en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoglucemia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sedación y trastornos conductuales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento ponderal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Náuseas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El fenobarbital puede causar sedación, alteraciones del aprendizaje y cambios conductuales."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué crisis epiléptica se caracteriza por sacudidas breves y repetitivas en los músculos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crisis tónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Crisis mioclónica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crisis atónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crisis de ausencia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis focal compleja"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las crisis mioclónicas producen contracciones musculares breves y bruscas sin pérdida prolongada de conciencia."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué síndrome epiléptico suele evolucionar a epilepsia mioclónica juvenil?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome de West"
+        },
+        {
+          "opcion": "B",
+          "texto": "Epilepsia rolándica benigna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencias infantiles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome de Lennox-Gastaut"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crisis febriles complejas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las ausencias infantiles pueden evolucionar en algunos casos a epilepsia mioclónica juvenil en la adolescencia."
+    }
+  ]
+}

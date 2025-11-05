@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.1.034",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Qué caracteriza a los síndromes mediastínicos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Trastornos de la ventilación alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compresión o invasión de estructuras del mediastino por una masa o proceso patológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inflamación pulmonar difusa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alteraciones en la pleura parietal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del volumen pulmonar"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los síndromes mediastínicos se deben a compresión o invasión de estructuras mediastínicas por tumores, quistes o procesos inflamatorios."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la estructura más frecuentemente comprometida en el síndrome de la vena cava superior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tráquea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vena cava superior"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aorta torácica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Esófago"
+        },
+        {
+          "opcion": "E",
+          "texto": "Bronquio principal derecho"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La obstrucción de la vena cava superior produce congestión venosa en cabeza, cuello y extremidades superiores."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es la causa más frecuente del síndrome de la vena cava superior en adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma de pulmón de células pequeñas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfoma de Hodgkin"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombosis primaria idiopática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma aórtico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tiroiditis mediastínica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El carcinoma de pulmón de células pequeñas es la principal causa de compresión o invasión de la vena cava superior."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es un signo clínico típico del síndrome de la vena cava superior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cianosis distal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ingurgitación yugular y edema facial matutino"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoptisis recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotensión arterial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estridor inspiratorio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema facial y la distensión de las venas yugulares son hallazgos típicos del síndrome de la vena cava superior."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué síndrome mediastínico se asocia con disfonía por compresión nerviosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Síndrome del nervio frénico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síndrome del nervio laríngeo recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Síndrome del nervio vago"
+        },
+        {
+          "opcion": "D",
+          "texto": "Síndrome mediastínico posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Síndrome del conducto torácico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La compresión del nervio laríngeo recurrente causa parálisis de la cuerda vocal y disfonía."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estudio de imagen es más útil para localizar una masa mediastínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tomografía computarizada de tórax"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de abdomen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ecocardiografía"
+        },
+        {
+          "opcion": "D",
+          "texto": "Espirometría"
+        },
+        {
+          "opcion": "E",
+          "texto": "RM cerebral"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La tomografía computarizada de tórax permite definir la localización, tamaño y relación anatómica de la masa mediastínica."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué estructura se encuentra en el mediastino posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Timo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tronco pulmonar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aorta descendente y esófago"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vena cava superior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Glándulas paratiroides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El mediastino posterior contiene la aorta descendente, esófago, nervios vagos y conducto torácico."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes tumores es más frecuente en el mediastino anterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neuroblastoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Timoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Schwannoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste broncogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfangioma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El timoma es el tumor más frecuente del mediastino anterior en adultos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué nervio puede afectarse en un síndrome mediastínico posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Nervio vago"
+        },
+        {
+          "opcion": "B",
+          "texto": "Nervio laríngeo recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nervio frénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nervio glosofaríngeo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nervio facial"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El nervio vago, ubicado en el mediastino posterior, puede ser comprimido por tumores o aneurismas aórticos."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es una causa frecuente de síndrome mediastínico en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Carcinoma pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Linfoma mediastínico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Quiste broncogénico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aneurisma aórtico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Timoma"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "En niños, los linfomas mediastínicos son una causa frecuente de masas mediastínicas con compresión de estructuras."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es una manifestación típica del síndrome mediastínico posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disnea inspiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disfagia y dolor dorsal irradiado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema facial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ronquera progresiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El compromiso del esófago y estructuras nerviosas posteriores causa disfagia y dolor dorsal irradiado."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué estudio permite evaluar la repercusión funcional respiratoria de un síndrome mediastínico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espirometría con curva flujo-volumen"
+        },
+        {
+          "opcion": "B",
+          "texto": "Electrocardiograma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemograma completo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía torácica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Análisis de gases arteriales"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La espirometría con curva flujo-volumen puede mostrar patrón de obstrucción variable en compresiones traqueales o bronquiales."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo radiográfico orienta a una masa mediastínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrado alveolar difuso"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desviación traqueal o ensanchamiento mediastínico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperclaridad pulmonar bilateral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Derrame pleural libre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Atelectasia segmentaria"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ensanchamiento mediastínico o la desviación traqueal en radiografía sugiere la presencia de una masa mediastínica."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la complicación más grave del síndrome de la vena cava superior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema facial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compromiso de la vía aérea o cerebral por congestión venosa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cianosis periférica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipertensión arterial leve"
+        },
+        {
+          "opcion": "E",
+          "texto": "Edema de miembros inferiores"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El edema cerebral o laríngeo por congestión venosa puede comprometer la vida del paciente."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Cuál de las siguientes es una neoplasia maligna frecuente del mediastino anterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Seminoma mediastínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neuroblastoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Schwannoma benigno"
+        },
+        {
+          "opcion": "D",
+          "texto": "Quiste pleuropericárdico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Lipoma"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El seminoma mediastínico es una neoplasia germinal frecuente del mediastino anterior en varones jóvenes."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué estructura se encuentra en el mediastino medio?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Esófago"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tronco pulmonar y ganglios linfáticos hiliares"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aorta descendente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Glándula tiroides"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conducto torácico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El mediastino medio contiene el corazón, troncos pulmonares, pericardio y ganglios linfáticos hiliares."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué manifestación clínica sugiere compromiso del nervio frénico por una masa mediastínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipo persistente y elevación diafragmática unilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ronquera progresiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea inspiratoria con estridor"
+        },
+        {
+          "opcion": "D",
+          "texto": "Edema de cuello"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La compresión del nervio frénico produce parálisis diafragmática con hipo y elevación del hemidiafragma."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el tratamiento inicial más apropiado en el síndrome de la vena cava superior por tumor de pulmón?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anticoagulación exclusiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Corticoides y radioterapia urgente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pleurodesis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Toracocentesis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cirugía inmediata sin diagnóstico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso de corticoides y radioterapia reduce el edema y la compresión tumoral en el síndrome de la vena cava superior."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué tumor benigno es típico del mediastino posterior?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Schwannoma"
+        },
+        {
+          "opcion": "B",
+          "texto": "Timoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Seminoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Carcinoma broncogénico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Linfoma no Hodgkin"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los schwannomas son tumores neurogénicos benignos frecuentes en el mediastino posterior."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál de los siguientes síntomas se asocia con compresión esofágica por una masa mediastínica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disfagia progresiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis recurrente"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disnea paroxística nocturna"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tos seca crónica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La compresión del esófago por masas mediastínicas provoca disfagia progresiva a sólidos y líquidos."
+    }
+  ]
+}

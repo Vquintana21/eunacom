@@ -1,0 +1,544 @@
+{
+  "codigo": "2.01.1.070",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Trastornos del equilibrio ácido-base",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 19,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el valor normal del pH sanguíneo en un niño sano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "7.10 - 7.20"
+        },
+        {
+          "opcion": "B",
+          "texto": "7.25 - 7.30"
+        },
+        {
+          "opcion": "C",
+          "texto": "7.35 - 7.45"
+        },
+        {
+          "opcion": "D",
+          "texto": "7.50 - 7.60"
+        },
+        {
+          "opcion": "E",
+          "texto": "7.00 - 7.10"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El rango normal del pH sanguíneo en niños es 7.35 a 7.45, indicando equilibrio entre ácidos y bases."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué parámetro refleja el componente respiratorio del equilibrio ácido-base?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bicarbonato (HCO₃⁻)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión parcial de CO₂ (PaCO₂)"
+        },
+        {
+          "opcion": "C",
+          "texto": "pH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anión gap"
+        },
+        {
+          "opcion": "E",
+          "texto": "Excreción de ácidos titulables"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PaCO₂ refleja el componente respiratorio del equilibrio ácido-base, regulado por la ventilación."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el principal tampón extracelular en el organismo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fosfato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Proteínas plasmáticas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemoglobina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bicarbonato"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ácido láctico"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El sistema bicarbonato/ácido carbónico es el principal tampón extracelular del cuerpo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué cambio primario caracteriza una acidosis metabólica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del HCO₃⁻"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del HCO₃⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de PaCO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del pH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acidosis metabólica se produce por disminución del bicarbonato plasmático."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la causa más frecuente de acidosis metabólica en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea prolongada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoventilación alveolar"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos persistentes"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria crónica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipoxemia severa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida de bicarbonato por diarrea es la causa más común de acidosis metabólica en niños."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la respuesta compensatoria esperada en acidosis metabólica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoventilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de excreción de HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retención de ácido úrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Retención de fósforo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El organismo responde con hiperventilación para disminuir la PaCO₂ y compensar el pH."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué característica define la alcalosis metabólica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de bicarbonato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del bicarbonato"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de PaCO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de ácido láctico"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La alcalosis metabólica se caracteriza por un aumento del bicarbonato plasmático."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es una causa frecuente de alcalosis metabólica en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos prolongados"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperventilación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cetoacidosis diabética"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los vómitos provocan pérdida de ácido gástrico, generando alcalosis metabólica."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué cambio primario define la acidosis respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento de PaCO₂"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de PaCO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento de HCO₃⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "Disminución de HCO₃⁻"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del pH"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La acidosis respiratoria se debe al aumento de PaCO₂ por hipoventilación alveolar."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Cuál es una causa de acidosis respiratoria aguda en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Asma severo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diarrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómitos repetidos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperventilación psicógena"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de diuréticos"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El asma severo causa retención de CO₂ por hipoventilación alveolar."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué cambio ocurre en la alcalosis respiratoria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuye el pH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumenta la PaCO₂"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye la PaCO₂"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumenta el HCO₃⁻"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuye la saturación de oxígeno"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La alcalosis respiratoria ocurre por hiperventilación, disminuyendo la PaCO₂ y aumentando el pH."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Cuál es la fórmula del anión gap?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Na⁺ - (Cl⁻ + HCO₃⁻)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Na⁺ + K⁺ - Cl⁻"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻ - Cl⁻"
+        },
+        {
+          "opcion": "D",
+          "texto": "PaCO₂ - HCO₃⁻"
+        },
+        {
+          "opcion": "E",
+          "texto": "Na⁺ + HCO₃⁻ - K⁺"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El anión gap se calcula como Na⁺ - (Cl⁻ + HCO₃⁻) y sirve para clasificar acidosis metabólicas."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué valor de anión gap se considera normal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5 ± 2 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "8 ± 4 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "12 ± 4 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "18 ± 6 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "20 ± 5 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El valor normal del anión gap es aproximadamente 12 ± 4 mEq/L."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué patología cursa con acidosis metabólica con anión gap aumentado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diarrea"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vómitos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis láctica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Uso de diuréticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alcalosis respiratoria"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La acidosis láctica eleva el anión gap por acumulación de ácidos no medidos."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué trastorno ácido-base produce la cetoacidosis diabética?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Acidosis respiratoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Acidosis metabólica con anión gap aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcalosis metabólica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Alcalosis respiratoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Acidosis metabólica con anión gap normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La cetoacidosis diabética causa acidosis metabólica con anión gap elevado por acumulación de cuerpos cetónicos."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué parámetro evalúa la compensación respiratoria en acidosis metabólica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ecuación de Winter"
+        },
+        {
+          "opcion": "B",
+          "texto": "Anión gap"
+        },
+        {
+          "opcion": "C",
+          "texto": "Delta gap"
+        },
+        {
+          "opcion": "D",
+          "texto": "Relación PaO₂/FiO₂"
+        },
+        {
+          "opcion": "E",
+          "texto": "Excreción fraccional de sodio"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La ecuación de Winter permite evaluar si la compensación respiratoria es adecuada en acidosis metabólica."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la causa más común de alcalosis respiratoria en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipoventilación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre alta o ansiedad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Acidosis tubular renal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cetoacidosis diabética"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diarrea aguda"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hiperventilación por fiebre o ansiedad es causa común de alcalosis respiratoria en niños."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué valor de bicarbonato plasmático indica acidosis metabólica significativa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "HCO₃⁻ > 28 mEq/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "HCO₃⁻ = 24 mEq/L"
+        },
+        {
+          "opcion": "C",
+          "texto": "HCO₃⁻ < 18 mEq/L"
+        },
+        {
+          "opcion": "D",
+          "texto": "HCO₃⁻ = 22 mEq/L"
+        },
+        {
+          "opcion": "E",
+          "texto": "HCO₃⁻ > 30 mEq/L"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un bicarbonato sérico menor a 18 mEq/L sugiere acidosis metabólica relevante."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué sistema actúa como primera línea de defensa ante una alteración ácido-base?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compensación renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Compensación respiratoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sistemas tampón"
+        },
+        {
+          "opcion": "D",
+          "texto": "Redistribución de potasio"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hematopoyesis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los sistemas tampón actúan en segundos para amortiguar cambios agudos del pH."
+    }
+  ]
+}

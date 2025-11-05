@@ -1,0 +1,516 @@
+{
+  "codigo": "3.01.1.027",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.1.027 - Sindrome climaterico y menopausia.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 18,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la definición de menopausia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de menstruación por 3 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de menstruación por 6 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de menstruación por 12 meses consecutivos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Menstruación irregular con sofocos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Amenorrea secundaria a embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La menopausia se define clínicamente como la ausencia de menstruación durante 12 meses consecutivos."
+    },
+    {
+      "numero": "2",
+      "texto": "El síntoma más frecuente del síndrome climatérico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sofocos y sudoraciones"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dispareunia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Poliuria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hirsutismo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Náuseas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los sofocos y sudoraciones nocturnas son los síntomas más comunes del síndrome climatérico."
+    },
+    {
+      "numero": "3",
+      "texto": "El principal mecanismo fisiopatológico de la menopausia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Insuficiencia ovárica por agotamiento folicular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperplasia endometrial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hiperprolactinemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Deficiencia de LH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La menopausia ocurre por agotamiento folicular que provoca insuficiencia ovárica y déficit estrogénico."
+    },
+    {
+      "numero": "4",
+      "texto": "El diagnóstico de menopausia en mujeres mayores de 45 años se establece con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "FSH elevada >40 UI/L"
+        },
+        {
+          "opcion": "B",
+          "texto": "Estradiol sérico bajo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Clínica de amenorrea por 12 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "LH elevada"
+        },
+        {
+          "opcion": "E",
+          "texto": "Progesterona sérica baja"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El diagnóstico es clínico: amenorrea de 12 meses en mujeres mayores de 45 años."
+    },
+    {
+      "numero": "5",
+      "texto": "El riesgo de osteoporosis aumenta en la menopausia por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de vitamina C"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hiperparatiroidismo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución de estrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipercalcemia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperinsulinismo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La deficiencia de estrógenos acelera la pérdida de masa ósea y aumenta el riesgo de osteoporosis."
+    },
+    {
+      "numero": "6",
+      "texto": "Un efecto cardiovascular relacionado a la menopausia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipotensión crónica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Disminución de lípidos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumento del riesgo de enfermedad coronaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bradicardia"
+        },
+        {
+          "opcion": "E",
+          "texto": "Menor riesgo de ateroesclerosis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La disminución de estrógenos aumenta el riesgo de ateroesclerosis y enfermedad coronaria."
+    },
+    {
+      "numero": "7",
+      "texto": "El síntoma genitourinario más característico del síndrome climatérico es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prurito vulvar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dispareunia por atrofia vaginal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Leucorrea abundante"
+        },
+        {
+          "opcion": "D",
+          "texto": "Incontinencia fecal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hirsutismo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La atrofia vaginal por déficit estrogénico causa dispareunia y sequedad vaginal."
+    },
+    {
+      "numero": "8",
+      "texto": "La primera línea de tratamiento para sofocos moderados a severos es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gabapentina"
+        },
+        {
+          "opcion": "B",
+          "texto": "ISRS"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia hormonal con estrógenos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bisfosfonatos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vitamina D"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La terapia hormonal con estrógenos es el tratamiento más eficaz para sofocos moderados a severos."
+    },
+    {
+      "numero": "9",
+      "texto": "La terapia hormonal combinada (estrógeno + progestágeno) se indica en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mujeres con histerectomía"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mujeres con útero intacto"
+        },
+        {
+          "opcion": "C",
+          "texto": "Todas las mujeres en menopausia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mujeres con cáncer de mama"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mujeres con enfermedad hepática grave"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Si el útero está presente, se añade progestágeno para prevenir hiperplasia endometrial."
+    },
+    {
+      "numero": "10",
+      "texto": "Un efecto adverso de la terapia hormonal combinada es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución del riesgo cardiovascular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del riesgo de cáncer de mama"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminución del riesgo de trombosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Protección renal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento de la fertilidad"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La terapia combinada aumenta el riesgo de cáncer de mama y trombosis venosa profunda."
+    },
+    {
+      "numero": "11",
+      "texto": "El uso de estrógenos locales se recomienda en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sofocos severos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Prevención de osteoporosis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Atrofia urogenital con síntomas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prevención de cáncer endometrial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminuir riesgo cardiovascular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los estrógenos locales son útiles en el manejo de atrofia urogenital con síntomas sin efectos sistémicos."
+    },
+    {
+      "numero": "12",
+      "texto": "El diagnóstico de falla ovárica prematura se establece antes de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "35 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "40 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "45 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "50 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "55 años"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La falla ovárica prematura se define como menopausia antes de los 40 años."
+    },
+    {
+      "numero": "13",
+      "texto": "En menopausia, la densitometría ósea se recomienda en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Todas las mujeres"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo mujeres con menopausia quirúrgica"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mujeres con factores de riesgo de osteoporosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Únicamente en mujeres mayores de 70 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuando hay síntomas vasomotores"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La densitometría ósea se indica en mujeres posmenopáusicas con factores de riesgo de osteoporosis."
+    },
+    {
+      "numero": "14",
+      "texto": "Un efecto psicológico frecuente en menopausia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Euforia persistente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ansiedad e insomnio"
+        },
+        {
+          "opcion": "C",
+          "texto": "Psicosis aguda"
+        },
+        {
+          "opcion": "D",
+          "texto": "Manía"
+        },
+        {
+          "opcion": "E",
+          "texto": "Conducta obsesiva"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los síntomas psicológicos frecuentes son ansiedad, irritabilidad, depresión e insomnio."
+    },
+    {
+      "numero": "15",
+      "texto": "El tratamiento no farmacológico de primera línea en el síndrome climatérico incluye:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Terapia cognitivo-conductual y ejercicio"
+        },
+        {
+          "opcion": "B",
+          "texto": "Quimioterapia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suplementos de progesterona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reposo absoluto"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Las medidas no farmacológicas incluyen ejercicio, dieta saludable y apoyo psicológico."
+    },
+    {
+      "numero": "16",
+      "texto": "Una contraindicación absoluta para terapia hormonal es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Diabetes tipo 2 controlada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipertensión leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antecedente de cáncer de mama"
+        },
+        {
+          "opcion": "D",
+          "texto": "Depresión mayor"
+        },
+        {
+          "opcion": "E",
+          "texto": "Migraña sin aura"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El antecedente de cáncer de mama es contraindicación absoluta para terapia hormonal."
+    },
+    {
+      "numero": "17",
+      "texto": "La edad promedio de la menopausia es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "40 años"
+        },
+        {
+          "opcion": "B",
+          "texto": "45 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "50 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "55 años"
+        },
+        {
+          "opcion": "E",
+          "texto": "60 años"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La menopausia ocurre en promedio alrededor de los 50 años de edad."
+    },
+    {
+      "numero": "18",
+      "texto": "El síndrome climatérico se caracteriza por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Exceso de estrógenos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Síntomas vasomotores, psicológicos y urogenitales"
+        },
+        {
+          "opcion": "C",
+          "texto": "Amenorrea por embarazo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ovulación frecuente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperplasia endometrial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome climatérico incluye sofocos, cambios psicológicos, atrofia urogenital y riesgo óseo."
+    }
+  ]
+}

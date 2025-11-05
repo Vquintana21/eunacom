@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.1.011",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la varicela?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus del herpes simple tipo 1"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus varicela-zoster"
+        },
+        {
+          "opcion": "C",
+          "texto": "Virus del sarampión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Virus de Epstein-Barr"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus de la rubéola"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La varicela es causada por el virus varicela-zoster, un herpesvirus humano tipo 3."
+    },
+    {
+      "numero": "2",
+      "texto": "La transmisión de la varicela ocurre principalmente por:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vectores hematófagos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contacto con lesiones cutáneas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Inhalación de gotitas respiratorias o aerosoles"
+        },
+        {
+          "opcion": "D",
+          "texto": "Transfusión sanguínea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Exposición a fómites"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La varicela se transmite por aerosoles de secreciones respiratorias o contacto directo con las lesiones."
+    },
+    {
+      "numero": "3",
+      "texto": "La característica clínica típica de la varicela es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Rash macular centrípeto en cara y tronco con lesiones en el mismo estadio evolutivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rash vesicular centrífugo con lesiones en distintos estadios evolutivos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rash petequial en extremidades"
+        },
+        {
+          "opcion": "D",
+          "texto": "Exantema confluente en cara y cuello"
+        },
+        {
+          "opcion": "E",
+          "texto": "Erupción pustular limitada a palmas y plantas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La varicela se caracteriza por lesiones vesiculares en distintos estadios evolutivos, de distribución centrípeta."
+    },
+    {
+      "numero": "4",
+      "texto": "El agente etiológico del herpes zóster es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus del herpes simple tipo 2"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus varicela-zoster"
+        },
+        {
+          "opcion": "C",
+          "texto": "Virus de Epstein-Barr"
+        },
+        {
+          "opcion": "D",
+          "texto": "Citomegalovirus"
+        },
+        {
+          "opcion": "E",
+          "texto": "Virus del sarampión"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El herpes zóster resulta de la reactivación del virus varicela-zoster latente en los ganglios sensitivos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es la complicación más frecuente del herpes zóster?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Meningitis aséptica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neuralgia postherpética"
+        },
+        {
+          "opcion": "C",
+          "texto": "Encefalitis herpética"
+        },
+        {
+          "opcion": "D",
+          "texto": "Miocarditis viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Otitis media"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La neuralgia postherpética es la complicación más común del herpes zóster, especialmente en adultos mayores."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes antivirales se utiliza en el tratamiento del herpes zóster?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Amoxicilina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aciclovir"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oseltamivir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ribavirina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zidovudina"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aciclovir es el antiviral de elección para el tratamiento del herpes zóster en fases tempranas."
+    },
+    {
+      "numero": "7",
+      "texto": "El signo característico del herpes zóster es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lesiones cutáneas bilaterales y simétricas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesiones vesiculares siguiendo un dermatoma"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lesiones pustulares generalizadas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lesiones confluentes en tronco y cara"
+        },
+        {
+          "opcion": "E",
+          "texto": "Eritema macular sin vesículas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El herpes zóster se manifiesta por lesiones vesiculares agrupadas que siguen la distribución de un dermatoma sensitivo."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál es el periodo de contagiosidad de la varicela?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Desde el inicio del exantema hasta 48 horas después de la aparición de costras"
+        },
+        {
+          "opcion": "B",
+          "texto": "Desde 5 días antes del exantema hasta que todas las lesiones costrifican"
+        },
+        {
+          "opcion": "C",
+          "texto": "Solo mientras existan lesiones vesiculares"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desde el inicio de la fiebre hasta su desaparición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desde la exposición inicial hasta el inicio del exantema"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La varicela es contagiosa desde 5 días antes del exantema hasta la costrificación de todas las lesiones."
+    },
+    {
+      "numero": "9",
+      "texto": "El diagnóstico de varicela es principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Clínico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Serológico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Por cultivo viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Por PCR de sangre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Histopatológico"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El diagnóstico de varicela suele ser clínico por la aparición característica de lesiones en distintos estadios evolutivos."
+    },
+    {
+      "numero": "10",
+      "texto": "La profilaxis postexposición a la varicela se realiza con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna antivaricela o inmunoglobulina específica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Penicilina G benzatina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aciclovir oral por 3 días"
+        },
+        {
+          "opcion": "D",
+          "texto": "Oseltamivir"
+        },
+        {
+          "opcion": "E",
+          "texto": "Interferón alfa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis postexposición incluye vacuna en susceptibles o inmunoglobulina específica en inmunodeprimidos."
+    },
+    {
+      "numero": "11",
+      "texto": "En pacientes inmunocomprometidos, la varicela puede complicarse con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pneumonía viral severa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otitis media"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cistitis hemorrágica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Artritis reactiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Dermatitis seborreica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La neumonía viral es una complicación grave y frecuente de la varicela en pacientes inmunocomprometidos."
+    },
+    {
+      "numero": "12",
+      "texto": "El herpes zóster oftálmico afecta principalmente el dermatoma:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cervical C5-C6"
+        },
+        {
+          "opcion": "B",
+          "texto": "Torácico T4"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trigeminal V1"
+        },
+        {
+          "opcion": "D",
+          "texto": "Lumbosacro L2-L3"
+        },
+        {
+          "opcion": "E",
+          "texto": "Facial VII"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El herpes zóster oftálmico compromete la rama oftálmica (V1) del nervio trigémino, pudiendo afectar la córnea."
+    },
+    {
+      "numero": "13",
+      "texto": "En la varicela, las lesiones típicas evolucionan en el siguiente orden:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Maculosa → Vesiculosa → Papulosa → Costra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Maculosa → Papulosa → Vesiculosa → Costra"
+        },
+        {
+          "opcion": "C",
+          "texto": "Papulosa → Pústula → Costra"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vesiculosa → Ulcerada → Costra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Maculosa → Eritematosa → Ampollosa → Costra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las lesiones de varicela evolucionan de máculas a pápulas, vesículas y finalmente costras."
+    },
+    {
+      "numero": "14",
+      "texto": "El signo de Hutchinson en herpes zóster indica:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Compromiso renal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afectación del nervio óptico"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compromiso de la rama nasociliar del trigémino"
+        },
+        {
+          "opcion": "D",
+          "texto": "Afectación pulmonar"
+        },
+        {
+          "opcion": "E",
+          "texto": "Compromiso del nervio facial"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El signo de Hutchinson indica compromiso de la rama nasociliar, lo que aumenta el riesgo de afectación ocular."
+    },
+    {
+      "numero": "15",
+      "texto": "En la varicela, las lesiones suelen comenzar en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Extremidades"
+        },
+        {
+          "opcion": "B",
+          "texto": "Palmas y plantas"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cara y tronco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Zona perineal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuero cabelludo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El exantema de la varicela inicia en cara y tronco con distribución centrípeta."
+    },
+    {
+      "numero": "16",
+      "texto": "El herpes zóster diseminado se define como:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Afectación de un dermatoma con vesículas confluentes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presencia de lesiones en más de 20 vesículas fuera del dermatoma inicial"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reaparición de zóster en el mismo dermatoma"
+        },
+        {
+          "opcion": "D",
+          "texto": "Compromiso bilateral simétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Zóster con afectación ocular"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El zóster diseminado se define por la aparición de más de 20 vesículas fuera del dermatoma afectado inicialmente."
+    },
+    {
+      "numero": "17",
+      "texto": "La vacuna contra varicela utiliza:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Virus inactivado"
+        },
+        {
+          "opcion": "B",
+          "texto": "Virus atenuado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Subunidad proteica"
+        },
+        {
+          "opcion": "D",
+          "texto": "ARN mensajero"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vector adenoviral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna contra la varicela utiliza virus vivos atenuados del virus varicela-zoster."
+    },
+    {
+      "numero": "18",
+      "texto": "En un adulto con varicela, está indicado el uso de aciclovir cuando:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "La enfermedad es leve"
+        },
+        {
+          "opcion": "B",
+          "texto": "Existe inmunodepresión o edad mayor de 12 años"
+        },
+        {
+          "opcion": "C",
+          "texto": "El paciente es menor de 5 años"
+        },
+        {
+          "opcion": "D",
+          "texto": "No hay fiebre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Solo hay prurito"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El aciclovir está indicado en mayores de 12 años, embarazadas o inmunodeprimidos para reducir complicaciones."
+    },
+    {
+      "numero": "19",
+      "texto": "La neuralgia postherpética se define como dolor persistente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Durante el brote activo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hasta 30 días después del exantema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Más de 90 días después de la resolución de las lesiones"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo mientras haya costras"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante el periodo prodrómico"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La neuralgia postherpética se considera cuando el dolor persiste más de 90 días tras la resolución de las lesiones."
+    },
+    {
+      "numero": "20",
+      "texto": "El reservorio del virus varicela-zoster es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Animales domésticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ser humano"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mosquitos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reservorios silvestres"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aves migratorias"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El ser humano es el único reservorio conocido del virus varicela-zoster."
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "codigo": "1.05.1.036",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Crónico",
+  "total_preguntas": 21,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el agente etiológico de la tuberculosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Mycobacterium avium"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mycobacterium kansasii"
+        },
+        {
+          "opcion": "C",
+          "texto": "Mycobacterium tuberculosis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Mycobacterium leprae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mycobacterium bovis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis pulmonar es causada principalmente por Mycobacterium tuberculosis, también llamado bacilo de Koch."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la vía principal de transmisión del Mycobacterium tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Oral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cutánea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sexual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aerosoles respiratorios"
+        },
+        {
+          "opcion": "E",
+          "texto": "Transplacentaria"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La transmisión ocurre principalmente por inhalación de partículas aerosolizadas con bacilos expulsadas por un paciente bacilífero."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál de los siguientes síntomas es más característico de tuberculosis pulmonar activa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dolor pleurítico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hemoptisis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disnea de esfuerzo leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tos seca intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cianosis central"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La hemoptisis es un síntoma clásico de tuberculosis cavitaria avanzada por erosión vascular."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la lesión histológica característica de la tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Granuloma caseoso con células de Langhans"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infiltrado eosinofílico difuso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Necrosis fibrinoide"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inflamación supurativa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Granuloma no caseoso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La lesión típica es el granuloma caseoso con necrosis central y células gigantes de Langhans."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es el método de diagnóstico más rápido y sensible para tuberculosis pulmonar?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Baciloscopía de esputo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cultivo en Löwenstein-Jensen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR (GeneXpert MTB/RIF)"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tuberculina (PPD)"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La prueba GeneXpert detecta ADN de M. tuberculosis y resistencia a rifampicina en pocas horas."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál es la localización pulmonar más frecuente de la tuberculosis postprimaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lóbulos inferiores"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lóbulo medio derecho"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ápices y segmentos superiores de lóbulos inferiores"
+        },
+        {
+          "opcion": "D",
+          "texto": "Base pulmonar izquierda"
+        },
+        {
+          "opcion": "E",
+          "texto": "Segmento lingular"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis postprimaria predomina en los segmentos apicales por mayor presión de oxígeno."
+    },
+    {
+      "numero": "7",
+      "texto": "En la baciloscopía, la presencia de bacilos ácido-alcohol resistentes se detecta con:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tinción de Gram"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tinción de Ziehl-Neelsen"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tinción de Wright"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tinción de PAS"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinción de Giemsa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La tinción de Ziehl-Neelsen identifica los bacilos ácido-alcohol resistentes típicos de M. tuberculosis."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Cuál de los siguientes fármacos es parte del tratamiento antituberculoso de primera línea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ciprofloxacino"
+        },
+        {
+          "opcion": "B",
+          "texto": "Amikacina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Isoniazida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Claritromicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ceftriaxona"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los fármacos de primera línea incluyen isoniazida, rifampicina, pirazinamida y etambutol."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué efecto adverso se asocia más frecuentemente a la isoniazida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neuropatía periférica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Otonefritis"
+        },
+        {
+          "opcion": "C",
+          "texto": "Nefrotoxicidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hepatitis fulminante"
+        },
+        {
+          "opcion": "E",
+          "texto": "Anemia hemolítica"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La isoniazida puede producir neuropatía periférica por déficit de piridoxina (vitamina B6)."
+    },
+    {
+      "numero": "10",
+      "texto": "El tratamiento estándar de tuberculosis sensible tiene una duración total de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2 meses"
+        },
+        {
+          "opcion": "B",
+          "texto": "4 meses"
+        },
+        {
+          "opcion": "C",
+          "texto": "6 meses"
+        },
+        {
+          "opcion": "D",
+          "texto": "9 meses"
+        },
+        {
+          "opcion": "E",
+          "texto": "12 meses"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El esquema estándar dura 6 meses: 2 meses con 4 fármacos y 4 meses con isoniazida y rifampicina."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué fármaco antituberculoso causa alteraciones visuales por neuritis óptica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Isoniazida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Rifampicina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Etambutol"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pirazinamida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Estreptomicina"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El etambutol puede causar neuritis óptica reversible, por lo que se debe controlar la visión."
+    },
+    {
+      "numero": "12",
+      "texto": "La rifampicina puede producir como efecto adverso característico:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Coloración naranja de fluidos corporales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fotosensibilidad"
+        },
+        {
+          "opcion": "C",
+          "texto": "Trombocitopenia severa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anemia aplásica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Alteraciones auditivas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La rifampicina tiñe de color anaranjado la orina, lágrimas y secreciones."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuál es la principal diferencia radiográfica entre tuberculosis primaria y postprimaria?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Cavitación en la primaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Afectación de lóbulos inferiores en la postprimaria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cavitación apical en la postprimaria"
+        },
+        {
+          "opcion": "D",
+          "texto": "Adenopatías hiliares en la postprimaria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Derrame pleural bilateral en ambas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La tuberculosis postprimaria suele mostrar cavitación apical y fibrosis, a diferencia de la primaria con adenopatías hiliares."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué prueba identifica infección latente por M. tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "PCR GeneXpert"
+        },
+        {
+          "opcion": "B",
+          "texto": "Baciloscopía de esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Prueba de tuberculina (PPD)"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cultivo en Löwenstein-Jensen"
+        },
+        {
+          "opcion": "E",
+          "texto": "Radiografía de tórax"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La prueba de tuberculina detecta hipersensibilidad tardía en individuos infectados sin enfermedad activa."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo radiográfico sugiere tuberculosis activa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infiltrados apicales cavitados"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pleural masivo bilateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hiperinsuflación pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Atelectasia lobar inferior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncograma aéreo difuso"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Los infiltrados apicales cavitados son característicos de tuberculosis pulmonar activa."
+    },
+    {
+      "numero": "16",
+      "texto": "El término 'bacilífero' se refiere a:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes con PPD positivo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Pacientes con bacilos visibles en esputo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Individuos vacunados con BCG"
+        },
+        {
+          "opcion": "D",
+          "texto": "Infectados sin síntomas"
+        },
+        {
+          "opcion": "E",
+          "texto": "Portadores de cepas resistentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se considera bacilífero al paciente con bacilos ácido-alcohol resistentes en esputo, fuente de contagio."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es el principal factor de riesgo para reactivación de tuberculosis latente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección por VIH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Diabetes mellitus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Alcoholismo"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desnutrición"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tabaquismo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El VIH es el principal factor de riesgo para reactivación por inmunosupresión celular profunda."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué parámetro se utiliza para considerar una prueba de tuberculina positiva en inmunocomprometidos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "≥15 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "≥10 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "≥5 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "≥3 mm"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cualquier induración visible"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En inmunocomprometidos, una induración ≥5 mm se considera positiva."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Cuál es el papel de la vacuna BCG en la prevención de la tuberculosis?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Evita toda forma de tuberculosis"
+        },
+        {
+          "opcion": "B",
+          "texto": "Previene la transmisión aérea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Protege contra formas graves en la infancia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Previene la infección latente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reduce la tos bacilífera"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La BCG previene formas graves de tuberculosis infantil, como la meníngea o miliar."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué fármaco antituberculoso se asocia con hiperuricemia?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Isoniazida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Etambutol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pirazinamida"
+        },
+        {
+          "opcion": "D",
+          "texto": "Rifampicina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ciprofloxacino"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La pirazinamida eleva el ácido úrico sérico por disminución de su excreción renal."
+    },
+    {
+      "numero": "21",
+      "texto": "¿Qué conducta se debe seguir ante un paciente con tuberculosis pulmonar confirmada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hospitalización prolongada obligatoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tratamiento ambulatorio supervisado (DOTS)"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento domiciliario indefinido"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cirugía de resección pulmonar inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso exclusivo de antibióticos macrólidos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El esquema DOTS (tratamiento directamente observado) garantiza adherencia y control epidemiológico."
+    }
+  ]
+}

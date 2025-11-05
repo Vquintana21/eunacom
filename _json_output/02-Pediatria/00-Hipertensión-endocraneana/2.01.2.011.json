@@ -1,0 +1,572 @@
+{
+  "codigo": "2.01.2.011",
+  "categoria": "Pediatria",
+  "categoria_id": "02",
+  "subcategoria": "Hipertensión endocraneana",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Urgencia",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el signo más característico de hipertensión endocraneana en niños mayores?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Letargia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Papiledema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Rigidez de nuca"
+        },
+        {
+          "opcion": "D",
+          "texto": "Convulsiones"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vómitos en proyectil"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El papiledema es un signo clásico de aumento sostenido de la presión intracraneana en niños mayores."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es la tríada clásica de Cushing en hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hipertensión, bradicardia y respiración irregular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Fiebre, rigidez y fotofobia"
+        },
+        {
+          "opcion": "C",
+          "texto": "Taquicardia, hipotensión y apnea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hipotermia, taquipnea y confusión"
+        },
+        {
+          "opcion": "E",
+          "texto": "Miosis, bradipnea y fiebre"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La tríada de Cushing indica aumento grave de presión intracraneana: hipertensión, bradicardia y alteraciones respiratorias."
+    },
+    {
+      "numero": "3",
+      "texto": "En lactantes, ¿qué signo clínico sugiere hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Fontanela abombada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Irritabilidad leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tensión arterial baja"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre persistente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Rigidez de nuca"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La fontanela abombada es un signo importante en lactantes, por la distensibilidad del cráneo."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cuál es la causa más frecuente de hipertensión endocraneana en pediatría?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Traumatismo craneoencefálico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tumor cerebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Meningitis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hemorragia intracraneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Absceso cerebral"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El traumatismo craneoencefálico es la causa más frecuente de hipertensión endocraneana en niños."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué hallazgo en el examen ocular indica hipertensión endocraneana sostenida?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Midriasis reactiva bilateral"
+        },
+        {
+          "opcion": "B",
+          "texto": "Papiledema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hemorragia subconjuntival"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nistagmo horizontal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ptosis palpebral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El papiledema es la manifestación oftalmoscópica más típica del aumento de presión intracraneana."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuál de los siguientes síntomas es más específico de hipertensión endocraneana en escolares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vómitos matinales en proyectil"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tos nocturna"
+        },
+        {
+          "opcion": "C",
+          "texto": "Irritabilidad"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fiebre vespertina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Epistaxis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Los vómitos matinales en proyectil sin náuseas son característicos de aumento de presión intracraneana."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué examen es el más útil para confirmar hipertensión endocraneana en urgencias?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Radiografía de cráneo"
+        },
+        {
+          "opcion": "B",
+          "texto": "TAC de cerebro sin contraste"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Electroencefalograma"
+        },
+        {
+          "opcion": "E",
+          "texto": "Resonancia magnética funcional"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El TAC sin contraste permite descartar lesiones expansivas antes de considerar punción lumbar."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué signo constituye una emergencia vital inmediata en hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bradipnea y anisocoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cefalea leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vómito aislado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Somnolencia intermitente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fiebre"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La bradipnea y anisocoria sugieren herniación cerebral inminente y requieren intervención urgente."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medida está contraindicada en sospecha de hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Intubación endotraqueal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administración de manitol"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar"
+        },
+        {
+          "opcion": "D",
+          "texto": "TAC craneal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Elevación del cabecero"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La punción lumbar puede precipitar herniación cerebral y está contraindicada si se sospecha hipertensión endocraneana."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué fármaco osmótico se usa para reducir la presión intracraneana aguda?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Manitol"
+        },
+        {
+          "opcion": "B",
+          "texto": "Furosemida"
+        },
+        {
+          "opcion": "C",
+          "texto": "Dexametasona"
+        },
+        {
+          "opcion": "D",
+          "texto": "Acetazolamida"
+        },
+        {
+          "opcion": "E",
+          "texto": "Metilprednisolona"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "El manitol produce un gradiente osmótico que reduce el edema cerebral y la presión intracraneana."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Cuál es la posición recomendada para el manejo inicial del paciente con hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Supino plano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Trendelenburg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Cabecero elevado 30 grados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito lateral izquierdo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Decúbito prono"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Elevar la cabeza 30° favorece el drenaje venoso y disminuye la presión intracraneana."
+    },
+    {
+      "numero": "12",
+      "texto": "En trauma craneano, ¿qué hallazgo indica posible hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Anisocoria y bradicardia"
+        },
+        {
+          "opcion": "B",
+          "texto": "Taquicardia leve"
+        },
+        {
+          "opcion": "C",
+          "texto": "Midriasis bilateral reactiva"
+        },
+        {
+          "opcion": "D",
+          "texto": "Nistagmo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Disminución del apetito"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La combinación de anisocoria y bradicardia sugiere compresión del tronco encefálico por hipertensión intracraneal."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué causa es más común de hipertensión endocraneana idiopática en adolescentes?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Obesidad"
+        },
+        {
+          "opcion": "B",
+          "texto": "Traumatismo craneal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección viral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tumor hipofisario"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de antibióticos"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "La hipertensión endocraneana idiopática se asocia típicamente a obesidad en adolescentes, especialmente mujeres."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es el rango normal de presión intracraneana en niños?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "5-10 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "10-20 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "20-30 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "30-40 mmHg"
+        },
+        {
+          "opcion": "E",
+          "texto": "0-5 mmHg"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En niños, la presión intracraneana normal está entre 10 y 20 mmHg, siendo mayor que en lactantes."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo en TAC sugiere hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Colapso de cisternas basales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del tamaño ventricular"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desviación de línea media menor a 2 mm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Engrosamiento dural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hiperdensidad cortical"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El colapso de cisternas basales indica aumento de la presión intracraneana y riesgo de herniación."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué tratamiento se usa en hipertensión endocraneana por tumor cerebral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Corticosteroides y cirugía descompresiva"
+        },
+        {
+          "opcion": "B",
+          "texto": "Antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Manitol oral"
+        },
+        {
+          "opcion": "D",
+          "texto": "Radioterapia inmediata"
+        },
+        {
+          "opcion": "E",
+          "texto": "Diuréticos de asa"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los corticoides reducen el edema vasogénico y la cirugía alivia la compresión cerebral."
+    },
+    {
+      "numero": "17",
+      "texto": "En lactantes con hidrocefalia, ¿qué signo sugiere hipertensión endocraneana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumento rápido del perímetro cefálico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Llanto débil"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fiebre intermitente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Retraso ponderal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Palidez"
+        }
+      ],
+      "respuesta_correcta": "E",
+      "explicacion": "El crecimiento acelerado del perímetro cefálico refleja acumulación de LCR y presión intracraneana aumentada."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué reflejo ocular se altera en hipertensión endocraneana avanzada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Reflejo fotomotor ausente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reflejo corneal hiperactivo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reflejo oculocefálico aumentado"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reflejo de acomodación conservado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Nistagmo posicional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La pérdida del reflejo fotomotor indica daño del tronco cerebral por hipertensión intracraneal grave."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué parámetro debe mantenerse para asegurar perfusión cerebral adecuada?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Presión de perfusión cerebral (PPC) > 50 mmHg"
+        },
+        {
+          "opcion": "B",
+          "texto": "Presión intracraneana < 30 mmHg"
+        },
+        {
+          "opcion": "C",
+          "texto": "Presión arterial media < 60 mmHg"
+        },
+        {
+          "opcion": "D",
+          "texto": "Presión venosa central alta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saturación venosa mixta < 50%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una PPC mayor a 50 mmHg asegura flujo sanguíneo cerebral suficiente para evitar isquemia."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué intervención se indica ante signos de herniación cerebral inminente?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hiperventilación controlada transitoria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Administrar líquidos hipotónicos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Punción lumbar urgente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Decúbito plano"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administrar opioides"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La hiperventilación reduce el CO₂ y disminuye temporalmente la presión intracraneana."
+    }
+  ]
+}

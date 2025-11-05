@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.3.003",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Prevención",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál de las siguientes estrategias es la más efectiva para prevenir enfermedades de transmisión sexual (ETS)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Lavado genital después del coito"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso correcto y consistente de preservativos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de anticonceptivos orales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación contra el tétanos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducción del consumo de alcohol"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El uso correcto y constante del preservativo es la medida más eficaz para prevenir la mayoría de las ETS."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué vacuna es fundamental en la prevención de una enfermedad de transmisión sexual viral?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vacuna contra hepatitis A"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacuna contra hepatitis B"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vacuna contra tétanos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacuna contra influenza"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vacuna contra neumococo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La vacuna contra la hepatitis B previene una ETS viral transmitida por vía sexual y sanguínea."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué medida reduce el riesgo de transmisión del VIH en personas con alto riesgo de exposición?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Profilaxis postexposición (PEP)"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de antibióticos profilácticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Lavado genital con antisépticos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación preventiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de espermicidas"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis postexposición con antirretrovirales reduce significativamente el riesgo de infección por VIH tras exposición reciente."
+    },
+    {
+      "numero": "4",
+      "texto": "La profilaxis preexposición (PrEP) está indicada en:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pacientes VIH positivos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Personas con alto riesgo de exposición al VIH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Personas con hepatitis B crónica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Usuarios de drogas inyectables con hepatitis C"
+        },
+        {
+          "opcion": "E",
+          "texto": "Mujeres embarazadas sin VIH"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La PrEP se recomienda a personas VIH negativas con alto riesgo de exposición, como parejas serodiscordantes."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál de los siguientes métodos NO previene la transmisión del VIH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de condón"
+        },
+        {
+          "opcion": "B",
+          "texto": "Uso de PrEP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Circuncisión masculina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Anticonceptivos orales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Monogamia mutua entre personas no infectadas"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los anticonceptivos orales previenen el embarazo pero no protegen contra infecciones de transmisión sexual."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué tipo de condón ofrece mejor protección frente a infecciones virales como el VIH y VPH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Condón de látex"
+        },
+        {
+          "opcion": "B",
+          "texto": "Condón de piel natural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Condón de poliuretano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Condón texturizado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Condón lubricado con espermicida"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El condón de látex correctamente usado ofrece la mayor eficacia en la prevención de ETS virales."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué microorganismo puede transmitirse sexualmente y también por vía perinatal y sanguínea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neisseria gonorrhoeae"
+        },
+        {
+          "opcion": "B",
+          "texto": "Treponema pallidum"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hepatitis B"
+        },
+        {
+          "opcion": "D",
+          "texto": "Chlamydia trachomatis"
+        },
+        {
+          "opcion": "E",
+          "texto": "Trichomonas vaginalis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El virus de la hepatitis B se transmite por vía sexual, sanguínea y vertical de madre a hijo."
+    },
+    {
+      "numero": "8",
+      "texto": "La vacuna contra el virus del papiloma humano (VPH) debe aplicarse idealmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Después del inicio sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "Solo en hombres adultos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Antes del inicio de la actividad sexual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Solo en mujeres con lesiones cervicales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Durante el embarazo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La vacunación contra el VPH es más efectiva antes del inicio de la actividad sexual, cuando aún no hay exposición viral."
+    },
+    {
+      "numero": "9",
+      "texto": "La educación sexual integral contribuye a la prevención de ETS porque:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Promueve el uso de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retrasa el inicio sexual y fomenta conductas seguras"
+        },
+        {
+          "opcion": "C",
+          "texto": "Disminuye el deseo sexual"
+        },
+        {
+          "opcion": "D",
+          "texto": "Evita el embarazo adolescente únicamente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumenta la frecuencia de controles médicos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La educación sexual integral fomenta decisiones informadas, retraso del inicio sexual y uso de protección."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué intervención disminuye la transmisión heterosexual del VIH en hombres?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de espermicidas"
+        },
+        {
+          "opcion": "B",
+          "texto": "Circuncisión masculina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Anticonceptivos hormonales"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ducha vaginal posterior al coito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de lubricantes a base de aceite"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La circuncisión masculina reduce el riesgo de transmisión heterosexual del VIH en hombres."
+    },
+    {
+      "numero": "11",
+      "texto": "En caso de exposición accidental a fluidos sexuales de persona con VIH, la profilaxis debe iniciarse:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Dentro de las primeras 2 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "A las 48 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "A las 72 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Tras confirmación serológica"
+        },
+        {
+          "opcion": "E",
+          "texto": "No requiere profilaxis"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La profilaxis postexposición es más efectiva si se inicia en las primeras 2 horas tras el contacto de riesgo."
+    },
+    {
+      "numero": "12",
+      "texto": "El uso de espermicidas con nonoxinol-9:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aumenta la protección contra el VIH"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reduce la transmisión del VPH"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumenta el riesgo de infección por VIH"
+        },
+        {
+          "opcion": "D",
+          "texto": "Previene la sífilis"
+        },
+        {
+          "opcion": "E",
+          "texto": "No afecta el riesgo de ETS"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El nonoxinol-9 puede causar irritación mucosa, aumentando el riesgo de transmisión del VIH y otras ETS."
+    },
+    {
+      "numero": "13",
+      "texto": "La estrategia '90-90-90' de la OMS busca:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Prevenir todas las ETS con antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Eliminar la sífilis congénita"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diagnosticar, tratar y suprimir el VIH en 90% de los casos"
+        },
+        {
+          "opcion": "D",
+          "texto": "Reducir la incidencia de hepatitis C"
+        },
+        {
+          "opcion": "E",
+          "texto": "Controlar el VPH en población adolescente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El plan 90-90-90 busca que el 90% de las personas con VIH estén diagnosticadas, tratadas y con carga viral suprimida."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Cuál es la medida preventiva más importante frente a sífilis congénita?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tamizaje y tratamiento prenatal de la madre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Cesárea electiva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Profilaxis antibiótica neonatal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación prenatal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aislamiento materno"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El tamizaje prenatal y el tratamiento con penicilina previenen la transmisión vertical de sífilis."
+    },
+    {
+      "numero": "15",
+      "texto": "La PrEP para VIH utiliza como base el siguiente esquema farmacológico:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Tenofovir + emtricitabina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Zidovudina + lamivudina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Efavirenz + abacavir"
+        },
+        {
+          "opcion": "D",
+          "texto": "Dolutegravir + lamivudina"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ritonavir + atazanavir"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El esquema estándar de PrEP es tenofovir con emtricitabina, eficaz para prevenir infección por VIH."
+    },
+    {
+      "numero": "16",
+      "texto": "En la prevención secundaria de ETS, la medida más efectiva es:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Promoción del uso de antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Tamizaje y tratamiento oportuno de casos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aislamiento de pacientes infectados"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación anual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Evitar relaciones sexuales en adolescentes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El tamizaje regular y el tratamiento oportuno cortan la cadena de transmisión de las ETS."
+    },
+    {
+      "numero": "17",
+      "texto": "En el caso de clamidiasis y gonorrea, la prevención incluye principalmente:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uso de condón y tratamiento de parejas sexuales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vacunación anual"
+        },
+        {
+          "opcion": "C",
+          "texto": "Uso de PrEP"
+        },
+        {
+          "opcion": "D",
+          "texto": "Antibióticos profilácticos postcoito"
+        },
+        {
+          "opcion": "E",
+          "texto": "Desinfección vaginal"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El uso de preservativo y tratamiento simultáneo de las parejas previene la reinfección y diseminación."
+    },
+    {
+      "numero": "18",
+      "texto": "El control prenatal incluye la detección sistemática de:",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hepatitis C, VIH y sífilis"
+        },
+        {
+          "opcion": "B",
+          "texto": "VPH y gonorrea"
+        },
+        {
+          "opcion": "C",
+          "texto": "VIH, hepatitis B y sífilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Clamidiasis y herpes genital"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tricomoniasis y candidiasis"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El control prenatal debe incluir tamizaje para VIH, hepatitis B y sífilis por su riesgo de transmisión vertical."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué prueba se utiliza como tamizaje para VIH en poblaciones de riesgo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ELISA de cuarta generación"
+        },
+        {
+          "opcion": "B",
+          "texto": "Western blot"
+        },
+        {
+          "opcion": "C",
+          "texto": "PCR cuantitativa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Inmunofluorescencia indirecta"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemaglutinación indirecta"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "ELISA de cuarta generación detecta antígeno p24 y anticuerpos, permitiendo diagnóstico temprano del VIH."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Cuál es una medida de prevención terciaria en VIH?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Educación sexual"
+        },
+        {
+          "opcion": "B",
+          "texto": "PrEP"
+        },
+        {
+          "opcion": "C",
+          "texto": "Terapia antirretroviral para evitar progresión y transmisión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vacunación contra hepatitis B"
+        },
+        {
+          "opcion": "E",
+          "texto": "Uso de preservativos"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El tratamiento antirretroviral reduce la carga viral y evita la progresión de la enfermedad y transmisión a otros."
+    }
+  ]
+}

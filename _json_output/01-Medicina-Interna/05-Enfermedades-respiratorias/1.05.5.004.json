@@ -1,0 +1,572 @@
+{
+  "codigo": "1.05.5.004",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades respiratorias",
+  "subcategoria_id": "05",
+  "nombre_tema": null,
+  "tipo": "Procedimientos",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es la principal indicación del drenaje pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pleural significativo o neumotórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "Edema pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bronquitis aguda"
+        },
+        {
+          "opcion": "E",
+          "texto": "EPOC descompensado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje pleural se indica para evacuar aire, líquido o pus de la cavidad pleural y restablecer la expansión pulmonar."
+    },
+    {
+      "numero": "2",
+      "texto": "¿En qué espacio intercostal se realiza habitualmente el drenaje pleural en neumotórax?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2° espacio intercostal línea medio clavicular"
+        },
+        {
+          "opcion": "B",
+          "texto": "4° espacio intercostal línea axilar media"
+        },
+        {
+          "opcion": "C",
+          "texto": "5° espacio intercostal línea axilar anterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "6° espacio intercostal línea escapular"
+        },
+        {
+          "opcion": "E",
+          "texto": "7° espacio intercostal línea media"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "En neumotórax, el drenaje se realiza típicamente en el 2° espacio intercostal, línea medio clavicular, para evacuar aire."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué tipo de sistema se utiliza para evitar el reingreso de aire en el drenaje pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Sistema cerrado de agua"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistema de aspiración abierta"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sistema de doble válvula"
+        },
+        {
+          "opcion": "D",
+          "texto": "Sistema de presión negativa manual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sistema de doble lumen"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El sistema cerrado con sello de agua impide el reingreso de aire, permitiendo solo la salida desde la cavidad pleural."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué calibre de tubo se recomienda para drenar un hemotórax?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "10-14 Fr"
+        },
+        {
+          "opcion": "B",
+          "texto": "16-20 Fr"
+        },
+        {
+          "opcion": "C",
+          "texto": "24-28 Fr"
+        },
+        {
+          "opcion": "D",
+          "texto": "30-36 Fr"
+        },
+        {
+          "opcion": "E",
+          "texto": "40 Fr"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "En hemotórax se utilizan tubos de gran calibre (30-36 Fr) para facilitar la evacuación de sangre y coágulos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Dónde se inserta el tubo de drenaje en un derrame pleural líquido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "2° espacio intercostal línea clavicular media"
+        },
+        {
+          "opcion": "B",
+          "texto": "4° espacio intercostal línea medioesternal"
+        },
+        {
+          "opcion": "C",
+          "texto": "5° o 6° espacio intercostal línea axilar media o posterior"
+        },
+        {
+          "opcion": "D",
+          "texto": "7° espacio intercostal línea parasternal"
+        },
+        {
+          "opcion": "E",
+          "texto": "1° espacio intercostal línea anterior"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "En derrames líquidos se inserta en el 5°-6° espacio intercostal, línea axilar media, donde se acumula el líquido."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué estructura debe evitarse durante la inserción del tubo de drenaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Espacio intercostal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Paquete vasculonervioso"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pleura parietal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Pleura visceral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Músculo pectoral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Debe evitarse el paquete vasculonervioso, que se localiza en el borde inferior de cada costilla."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué signo en el sistema de sello de agua indica fuga aérea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de burbujeo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Burbujeo continuo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Oscilación rítmica del nivel de agua"
+        },
+        {
+          "opcion": "D",
+          "texto": "Coloración del líquido"
+        },
+        {
+          "opcion": "E",
+          "texto": "Aumento del nivel del agua"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El burbujeo continuo en el sello de agua sugiere una fuga aérea persistente del sistema o del pulmón."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué complicación puede ocurrir si el drenaje pleural se conecta a presión negativa excesiva?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Atelectasia pulmonar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Edema pulmonar por reexpansión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Enfisema subcutáneo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotensión arterial"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una presión negativa excesiva puede provocar edema pulmonar por reexpansión súbita del pulmón colapsado."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Cuál es el objetivo principal del drenaje pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminuir la ventilación alveolar"
+        },
+        {
+          "opcion": "B",
+          "texto": "Evacuar líquido o aire del espacio pleural"
+        },
+        {
+          "opcion": "C",
+          "texto": "Reducir la presión intracraneal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prevenir la tos productiva"
+        },
+        {
+          "opcion": "E",
+          "texto": "Regular el pH del líquido pleural"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje pleural elimina aire, sangre o líquido acumulado para restablecer la presión negativa pleural normal."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué complicación inmediata puede producirse durante la colocación del tubo de drenaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Estenosis bronquial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Lesión pulmonar o hepática"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumonía nosocomial"
+        },
+        {
+          "opcion": "D",
+          "texto": "Fístula broncopleural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Embolia aérea"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Una inserción incorrecta puede lesionar el parénquima pulmonar o el hígado, especialmente si se introduce demasiado bajo."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué debe hacerse si el drenaje deja de oscilar y el paciente se encuentra estable?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Retirar el tubo de inmediato"
+        },
+        {
+          "opcion": "B",
+          "texto": "Revisar el sistema por obstrucción o acodamiento"
+        },
+        {
+          "opcion": "C",
+          "texto": "Aumentar la presión de aspiración"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar broncodilatadores"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cambiar el tubo por uno de mayor calibre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia de oscilación puede deberse a una obstrucción o acodamiento del tubo, que debe revisarse."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué posición debe adoptar el paciente durante la inserción del drenaje pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Decúbito dorsal plano"
+        },
+        {
+          "opcion": "B",
+          "texto": "Decúbito lateral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Sentado con brazo elevado sobre la cabeza"
+        },
+        {
+          "opcion": "D",
+          "texto": "Prono con brazos extendidos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fowler con piernas extendidas"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "El paciente debe estar sentado y con el brazo elevado para abrir los espacios intercostales y facilitar la inserción."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué tipo de anestesia se usa en el drenaje pleural?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "General"
+        },
+        {
+          "opcion": "B",
+          "texto": "Local con lidocaína"
+        },
+        {
+          "opcion": "C",
+          "texto": "Raquídea"
+        },
+        {
+          "opcion": "D",
+          "texto": "Epidural"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sin anestesia"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento se realiza generalmente con anestesia local usando lidocaína para minimizar el dolor."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué signo clínico indica funcionamiento adecuado del drenaje pleural en un neumotórax?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Disminución de la expansión torácica"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aumento del burbujeo continuo"
+        },
+        {
+          "opcion": "C",
+          "texto": "Desaparición del burbujeo con resolución del neumotórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la disnea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Sangrado por el tubo"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La desaparición del burbujeo indica que el neumotórax ha sido resuelto y no hay fuga de aire."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué complicación puede presentarse tras retirar el tubo de drenaje?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Hemotórax recurrente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Reexpansión pulmonar completa"
+        },
+        {
+          "opcion": "C",
+          "texto": "Neumotórax recurrente"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aumento de la oxigenación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hipotermia"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Si no se realiza una correcta maniobra de cierre, puede ingresar aire y provocar neumotórax recurrente."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué maniobra se realiza al retirar el tubo de drenaje para evitar entrada de aire?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inspiración profunda del paciente"
+        },
+        {
+          "opcion": "B",
+          "texto": "Retiro durante espiración forzada o maniobra de Valsalva"
+        },
+        {
+          "opcion": "C",
+          "texto": "Compresión torácica"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aspiración previa del sistema"
+        },
+        {
+          "opcion": "E",
+          "texto": "Administración de oxígeno al 100%"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El retiro durante la maniobra de Valsalva previene la entrada de aire al espacio pleural."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Cuál es la presión de succión recomendada para drenaje pleural con aspiración?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "−5 cmH₂O"
+        },
+        {
+          "opcion": "B",
+          "texto": "−10 cmH₂O"
+        },
+        {
+          "opcion": "C",
+          "texto": "−20 cmH₂O"
+        },
+        {
+          "opcion": "D",
+          "texto": "−30 cmH₂O"
+        },
+        {
+          "opcion": "E",
+          "texto": "−40 cmH₂O"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Se recomienda una presión negativa de −20 cmH₂O para mantener el drenaje y prevenir daño pulmonar."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué complicación se relaciona con drenaje pleural prolongado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Edema pulmonar agudo"
+        },
+        {
+          "opcion": "B",
+          "texto": "Infección y empiema"
+        },
+        {
+          "opcion": "C",
+          "texto": "Hipertensión pulmonar"
+        },
+        {
+          "opcion": "D",
+          "texto": "Neumonía viral"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoespasmo"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El drenaje prolongado puede facilitar infección local o desarrollo de empiema pleural."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué condición requiere drenaje pleural inmediato?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Neumonía bacteriana"
+        },
+        {
+          "opcion": "B",
+          "texto": "Neumotórax a tensión"
+        },
+        {
+          "opcion": "C",
+          "texto": "Derrame pleural leve"
+        },
+        {
+          "opcion": "D",
+          "texto": "Asma bronquial"
+        },
+        {
+          "opcion": "E",
+          "texto": "EPOC descompensado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El neumotórax a tensión requiere drenaje inmediato para liberar la presión intratorácica y restaurar la ventilación."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué examen debe realizarse tras colocar el drenaje pleural para verificar posición?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Gasometría arterial"
+        },
+        {
+          "opcion": "B",
+          "texto": "Radiografía de tórax"
+        },
+        {
+          "opcion": "C",
+          "texto": "TC de tórax"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ecografía abdominal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Broncoscopía"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La radiografía de tórax postinserción confirma la posición correcta del tubo y la reexpansión pulmonar."
+    }
+  ]
+}

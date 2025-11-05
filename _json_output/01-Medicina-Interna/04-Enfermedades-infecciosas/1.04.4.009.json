@@ -1,0 +1,572 @@
+{
+  "codigo": "1.04.4.009",
+  "categoria": "Medicina Interna",
+  "categoria_id": "01",
+  "subcategoria": "Enfermedades infecciosas",
+  "subcategoria_id": "04",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el principal objetivo del hemocultivo en el diagnóstico de enfermedades infecciosas?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Detectar infecciones urinarias"
+        },
+        {
+          "opcion": "B",
+          "texto": "Identificar microorganismos en sangre y su sensibilidad antimicrobiana"
+        },
+        {
+          "opcion": "C",
+          "texto": "Evaluar la función hepática"
+        },
+        {
+          "opcion": "D",
+          "texto": "Medir la respuesta inflamatoria sistémica"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cuantificar leucocitos circulantes"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hemocultivo permite identificar patógenos presentes en sangre y realizar pruebas de sensibilidad antibiótica para guiar el tratamiento."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Cuál es el volumen ideal de sangre que debe inocularse por frasco en un hemocultivo de adultos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1-2 mL"
+        },
+        {
+          "opcion": "B",
+          "texto": "3-5 mL"
+        },
+        {
+          "opcion": "C",
+          "texto": "8-10 mL"
+        },
+        {
+          "opcion": "D",
+          "texto": "15-20 mL"
+        },
+        {
+          "opcion": "E",
+          "texto": "30 mL"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Cada frasco de hemocultivo debe recibir entre 8 y 10 mL de sangre para optimizar la detección bacteriana."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Cuál es el sitio preferido para obtener una muestra de hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Vena yugular interna"
+        },
+        {
+          "opcion": "B",
+          "texto": "Vena periférica, idealmente antecubital"
+        },
+        {
+          "opcion": "C",
+          "texto": "Catéter venoso central"
+        },
+        {
+          "opcion": "D",
+          "texto": "Arteria radial"
+        },
+        {
+          "opcion": "E",
+          "texto": "Vena femoral"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Las muestras deben obtenerse de una vena periférica limpia para minimizar el riesgo de contaminación."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué debe hacerse antes de obtener la muestra para hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Aplicar presión positiva sobre la vena"
+        },
+        {
+          "opcion": "B",
+          "texto": "Limpiar la piel con alcohol al 70% y luego povidona yodada o clorhexidina"
+        },
+        {
+          "opcion": "C",
+          "texto": "Calentar el sitio de punción"
+        },
+        {
+          "opcion": "D",
+          "texto": "Administrar antibióticos profilácticos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Masajear la vena"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La antisepsia rigurosa con alcohol y yodo o clorhexidina evita la contaminación por flora cutánea."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuántos juegos de hemocultivos se recomiendan obtener en un episodio de fiebre sin foco?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Uno"
+        },
+        {
+          "opcion": "B",
+          "texto": "Dos, de distintos sitios venosos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Tres, del mismo sitio"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cuatro, de un solo brazo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cinco, en una hora"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Se recomiendan dos juegos obtenidos de distintos sitios venosos para aumentar la sensibilidad diagnóstica."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuándo es el mejor momento para tomar un hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Después de iniciar antibióticos"
+        },
+        {
+          "opcion": "B",
+          "texto": "En el pico febril o escalofríos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Durante la noche"
+        },
+        {
+          "opcion": "D",
+          "texto": "En ayuno prolongado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Después del ejercicio"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hemocultivo debe tomarse durante el pico febril o escalofríos, cuando la bacteriemia es más probable."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué indica la detección de Staphylococcus epidermidis en un solo frasco de hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Infección sistémica confirmada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Contaminación probable"
+        },
+        {
+          "opcion": "C",
+          "texto": "Error en la incubación"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacteriemia severa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Hemólisis en la muestra"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus epidermidis es un contaminante frecuente, especialmente si solo se detecta en un frasco."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué microorganismo se asocia típicamente a hemocultivos positivos en endocarditis infecciosa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Enterococcus faecalis"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Staphylococcus aureus es una causa común de endocarditis infecciosa y se detecta en hemocultivos positivos."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué medio se utiliza en los frascos de hemocultivo para favorecer el crecimiento microbiano?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Agar sangre"
+        },
+        {
+          "opcion": "B",
+          "texto": "Caldo nutritivo enriquecido con anticoagulante"
+        },
+        {
+          "opcion": "C",
+          "texto": "Suero fisiológico estéril"
+        },
+        {
+          "opcion": "D",
+          "texto": "Caldo de tioglicolato sin aditivos"
+        },
+        {
+          "opcion": "E",
+          "texto": "Medio McConkey líquido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los frascos contienen un caldo nutritivo con anticoagulante para evitar la coagulación y facilitar el crecimiento bacteriano."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué acción se debe realizar si el paciente ya ha recibido antibióticos antes del hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Suspender el antibiótico 24 horas antes"
+        },
+        {
+          "opcion": "B",
+          "texto": "Usar frascos con resinas neutralizadoras de antibióticos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Diluir la muestra en suero fisiológico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Desechar la muestra"
+        },
+        {
+          "opcion": "E",
+          "texto": "Reducir el volumen de sangre"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los frascos con resinas neutralizadoras inactivan antibióticos, aumentando la probabilidad de recuperación bacteriana."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué resultado confirma una bacteriemia verdadera?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Crecimiento en un solo frasco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Aislamiento del mismo microorganismo en varios frascos obtenidos en momentos distintos"
+        },
+        {
+          "opcion": "C",
+          "texto": "Crecimiento polimicrobiano"
+        },
+        {
+          "opcion": "D",
+          "texto": "Aislamiento de flora cutánea habitual"
+        },
+        {
+          "opcion": "E",
+          "texto": "Frascos negativos tras 24 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La presencia del mismo patógeno en varios frascos de diferentes tomas indica bacteriemia verdadera."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué microorganismo requiere frascos especiales con medios anaerobios para su detección?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Pseudomonas aeruginosa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Streptococcus pyogenes"
+        },
+        {
+          "opcion": "C",
+          "texto": "Bacteroides fragilis"
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Escherichia coli"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Bacteroides fragilis y otros anaerobios solo crecen en frascos diseñados para condiciones sin oxígeno."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Cuánto tiempo deben incubarse los hemocultivos antes de declararlos negativos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "12 horas"
+        },
+        {
+          "opcion": "B",
+          "texto": "24 horas"
+        },
+        {
+          "opcion": "C",
+          "texto": "48 horas"
+        },
+        {
+          "opcion": "D",
+          "texto": "5 días"
+        },
+        {
+          "opcion": "E",
+          "texto": "10 días"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "Los frascos se incuban por al menos 5 días para detectar la mayoría de los microorganismos patógenos."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué indica la presencia de Candida spp. en un hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación del frasco"
+        },
+        {
+          "opcion": "B",
+          "texto": "Bacteriemia transitoria"
+        },
+        {
+          "opcion": "C",
+          "texto": "Fungemia verdadera"
+        },
+        {
+          "opcion": "D",
+          "texto": "Error de incubación"
+        },
+        {
+          "opcion": "E",
+          "texto": "Colonización cutánea"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La detección de Candida spp. indica fungemia, una infección sistémica grave que requiere tratamiento antifúngico."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué microorganismo aislado en hemocultivo puede indicar contaminación si no hay correlato clínico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "B",
+          "texto": "Staphylococcus aureus"
+        },
+        {
+          "opcion": "C",
+          "texto": "Corynebacterium spp."
+        },
+        {
+          "opcion": "D",
+          "texto": "Klebsiella pneumoniae"
+        },
+        {
+          "opcion": "E",
+          "texto": "Candida albicans"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Corynebacterium spp. es un contaminante habitual de la piel y puede confundirse con bacteriemia si no hay correlato clínico."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Cuál es la proporción ideal de sangre y medio de cultivo en un frasco de hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "1:1"
+        },
+        {
+          "opcion": "B",
+          "texto": "1:2"
+        },
+        {
+          "opcion": "C",
+          "texto": "1:5"
+        },
+        {
+          "opcion": "D",
+          "texto": "1:10"
+        },
+        {
+          "opcion": "E",
+          "texto": "1:20"
+        }
+      ],
+      "respuesta_correcta": "D",
+      "explicacion": "La proporción ideal es 1:10, ya que permite diluir inhibidores séricos y mejorar el crecimiento microbiano."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué método automatizado se utiliza comúnmente para la detección de crecimiento microbiano en hemocultivos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Microscopía directa"
+        },
+        {
+          "opcion": "B",
+          "texto": "Sistema BACTEC o BacT/ALERT"
+        },
+        {
+          "opcion": "C",
+          "texto": "Electroforesis capilar"
+        },
+        {
+          "opcion": "D",
+          "texto": "PCR en tiempo real"
+        },
+        {
+          "opcion": "E",
+          "texto": "Tinción de Ziehl-Neelsen"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Los sistemas BACTEC y BacT/ALERT detectan el aumento de CO₂ como indicador de crecimiento microbiano."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Qué microorganismo suele detectarse con hemocultivo en fiebre tifoidea?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Salmonella Typhi"
+        },
+        {
+          "opcion": "B",
+          "texto": "Shigella dysenteriae"
+        },
+        {
+          "opcion": "C",
+          "texto": "Vibrio cholerae"
+        },
+        {
+          "opcion": "D",
+          "texto": "Escherichia coli"
+        },
+        {
+          "opcion": "E",
+          "texto": "Campylobacter jejuni"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Salmonella Typhi puede detectarse en hemocultivos especialmente durante la primera semana de la enfermedad."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué indica la detección de bacterias anaerobias en un hemocultivo?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Contaminación de la muestra"
+        },
+        {
+          "opcion": "B",
+          "texto": "Mala técnica de recolección"
+        },
+        {
+          "opcion": "C",
+          "texto": "Infección grave asociada a foco abdominal o pélvico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Bacteriemia transitoria"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fallo del sistema automatizado"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Las bacterias anaerobias en sangre suelen reflejar una infección severa de origen abdominal, pélvico o gangrenoso."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué tiempo se recomienda entre la toma de dos hemocultivos consecutivos?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Inmediatamente uno tras otro"
+        },
+        {
+          "opcion": "B",
+          "texto": "15 a 30 minutos"
+        },
+        {
+          "opcion": "C",
+          "texto": "1 hora"
+        },
+        {
+          "opcion": "D",
+          "texto": "4 horas"
+        },
+        {
+          "opcion": "E",
+          "texto": "24 horas"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Tomar los hemocultivos con un intervalo de 15 a 30 minutos mejora la detección de bacteriemias intermitentes."
+    }
+  ]
+}

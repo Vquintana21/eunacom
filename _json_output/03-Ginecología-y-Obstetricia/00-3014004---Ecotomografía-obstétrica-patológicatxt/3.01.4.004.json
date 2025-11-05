@@ -1,0 +1,572 @@
+{
+  "codigo": "3.01.4.004",
+  "categoria": "Ginecología y Obstetricia",
+  "categoria_id": "03",
+  "subcategoria": "3.01.4.004 - Ecotomografía obstétrica patológica.txt",
+  "subcategoria_id": "00",
+  "nombre_tema": null,
+  "tipo": "Exámenes",
+  "total_preguntas": 20,
+  "preguntas": [
+    {
+      "numero": "1",
+      "texto": "¿Cuál es el hallazgo ecográfico característico del embarazo anembrionado?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional vacío sin embrión visible"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embrión sin latido cardíaco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Saco gestacional con múltiples vesículas"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta engrosada con quistes"
+        },
+        {
+          "opcion": "E",
+          "texto": "Ausencia de saco gestacional"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "El embarazo anembrionado muestra un saco gestacional sin embrión visible tras la sexta semana."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Qué hallazgo ecográfico sugiere un embarazo ectópico?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional intrauterino con vesícula vitelina"
+        },
+        {
+          "opcion": "B",
+          "texto": "Imagen anecoica en ovario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Masa anexial con saco gestacional y líquido libre en fondo de saco"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Útero bicorne"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Una masa anexial con saco gestacional y líquido libre es sugestiva de embarazo ectópico roto."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Qué hallazgo ecográfico es típico de la mola hidatiforme completa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Embrión viable con latido"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta homogénea"
+        },
+        {
+          "opcion": "C",
+          "texto": "Imagen en racimo de uvas sin embrión"
+        },
+        {
+          "opcion": "D",
+          "texto": "Múltiples sacos gestacionales"
+        },
+        {
+          "opcion": "E",
+          "texto": "Saco colapsado con embrión"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mola completa muestra una imagen en racimo de uvas por degeneración quística del trofoblasto."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Qué hallazgo ecográfico indica muerte embrionaria temprana?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional irregular"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embrión sin actividad cardíaca con LCC > 7 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta engrosada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Vesícula vitelina ausente"
+        },
+        {
+          "opcion": "E",
+          "texto": "Líquido libre en fondo de saco"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un embrión sin actividad cardíaca con LCC mayor de 7 mm confirma muerte embrionaria."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Cuál es un hallazgo típico del desprendimiento prematuro de placenta en ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Imagen anecoica retroplacentaria"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta engrosada con flujo aumentado"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de líquido amniótico"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cordón umbilical corto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta previa"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Se observa una colección anecoica o heterogénea retroplacentaria compatible con hematoma desprendimiento."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Qué hallazgo ecográfico es característico de la placenta previa?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta anterior alta"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta cubriendo el orificio cervical interno"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta marginal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta posterior"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta grado III"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La placenta previa se define por la inserción placentaria que cubre parcial o totalmente el OCI."
+    },
+    {
+      "numero": "7",
+      "texto": "¿Qué indica la presencia de oligoamnios en una ecografía obstétrica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ILA mayor de 25 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "ILA menor de 5 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "ILA entre 8-18 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "ILA normal con placenta grado 0"
+        },
+        {
+          "opcion": "E",
+          "texto": "ILA con flujo Doppler normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un índice de líquido amniótico (ILA) menor de 5 cm indica oligoamnios."
+    },
+    {
+      "numero": "8",
+      "texto": "¿Qué hallazgo ecográfico caracteriza al polihidramnios?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ILA menor de 5 cm"
+        },
+        {
+          "opcion": "B",
+          "texto": "ILA entre 8-18 cm"
+        },
+        {
+          "opcion": "C",
+          "texto": "ILA mayor de 24 cm"
+        },
+        {
+          "opcion": "D",
+          "texto": "Ausencia de líquido libre"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta hiperecogénica"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "Un índice de líquido amniótico mayor de 24 cm se considera polihidramnios."
+    },
+    {
+      "numero": "9",
+      "texto": "¿Qué hallazgo ecográfico sugiere restricción del crecimiento intrauterino (RCIU)?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Circunferencia abdominal normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Peso fetal estimado < percentil 10"
+        },
+        {
+          "opcion": "C",
+          "texto": "ILA normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Flujo umbilical normal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Placenta grado 0"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un peso fetal estimado bajo el percentil 10 indica restricción de crecimiento intrauterino."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Qué hallazgo ecográfico corresponde al síndrome de transfusión feto-fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ILA normal en ambos fetos"
+        },
+        {
+          "opcion": "B",
+          "texto": "Un gemelo con polihidramnios y otro con oligoamnios"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta separada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Crecimiento simétrico"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordones umbilicales cortos"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El síndrome de transfusión feto-fetal se caracteriza por discordancia en líquido amniótico entre ambos gemelos."
+    },
+    {
+      "numero": "11",
+      "texto": "¿Qué signo ecográfico es característico del embarazo ectópico roto?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de embrión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Líquido libre en fondo de saco"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta engrosada"
+        },
+        {
+          "opcion": "D",
+          "texto": "Saco gestacional intrauterino"
+        },
+        {
+          "opcion": "E",
+          "texto": "ILA aumentado"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El líquido libre en fondo de saco en contexto de masa anexial sugiere ruptura de embarazo ectópico."
+    },
+    {
+      "numero": "12",
+      "texto": "¿Qué hallazgo ecográfico sugiere malformación anencefálica?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de huesos craneales"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de columna vertebral"
+        },
+        {
+          "opcion": "C",
+          "texto": "Macrocefalia"
+        },
+        {
+          "opcion": "D",
+          "texto": "Hidrocéfalo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cisterna magna aumentada"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "La anencefalia se caracteriza por ausencia de calota craneal y tejido cerebral superior."
+    },
+    {
+      "numero": "13",
+      "texto": "¿Qué hallazgo sugiere hidrops fetal en ecografía?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Ausencia de líquido amniótico"
+        },
+        {
+          "opcion": "B",
+          "texto": "Derrame pericárdico y ascitis fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "ILA bajo"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón corto"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El hidrops fetal se caracteriza por presencia de líquido en al menos dos cavidades fetales (ascitis, derrame pleural, etc.)."
+    },
+    {
+      "numero": "14",
+      "texto": "¿Qué hallazgo ecográfico indica placenta acreta?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Placenta previa sin invasión"
+        },
+        {
+          "opcion": "B",
+          "texto": "Ausencia de espacio retroplacentario"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta delgada"
+        },
+        {
+          "opcion": "D",
+          "texto": "ILA aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón marginal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "La ausencia del espacio retroplacentario sugiere invasión placentaria compatible con placenta acreta."
+    },
+    {
+      "numero": "15",
+      "texto": "¿Qué hallazgo es compatible con un aborto retenido?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco vacío < 25 mm"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embrión sin latido y con LCC > 7 mm"
+        },
+        {
+          "opcion": "C",
+          "texto": "Saco sin vesícula vitelina"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "E",
+          "texto": "Flujo Doppler normal"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un embrión sin latido con LCC mayor de 7 mm indica aborto retenido."
+    },
+    {
+      "numero": "16",
+      "texto": "¿Qué hallazgo ecográfico sugiere onfalocele fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Masa abdominal sólida"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hernia del contenido abdominal dentro del cordón umbilical"
+        },
+        {
+          "opcion": "C",
+          "texto": "Ausencia de pared abdominal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Líquido libre fetal"
+        },
+        {
+          "opcion": "E",
+          "texto": "Crecimiento intrauterino restringido"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El onfalocele muestra vísceras herniadas dentro del cordón umbilical cubiertas por una membrana."
+    },
+    {
+      "numero": "17",
+      "texto": "¿Qué indica un flujo umbilical reverso en Doppler fetal?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Bienestar fetal"
+        },
+        {
+          "opcion": "B",
+          "texto": "Hipoxia severa y riesgo de muerte fetal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "ILA aumentado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Oligoamnios leve"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "El flujo reverso umbilical es un signo ominoso de compromiso fetal e hipoxia grave."
+    },
+    {
+      "numero": "18",
+      "texto": "¿Cuál es el hallazgo ecográfico típico del embarazo molar parcial?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Saco gestacional vacío"
+        },
+        {
+          "opcion": "B",
+          "texto": "Embrión viable con placenta normal"
+        },
+        {
+          "opcion": "C",
+          "texto": "Embrión no viable con placenta quística"
+        },
+        {
+          "opcion": "D",
+          "texto": "Placenta engrosada homogénea"
+        },
+        {
+          "opcion": "E",
+          "texto": "Cordón ausente"
+        }
+      ],
+      "respuesta_correcta": "C",
+      "explicacion": "La mola parcial presenta embrión no viable y placenta con áreas quísticas dispersas."
+    },
+    {
+      "numero": "19",
+      "texto": "¿Qué hallazgo ecográfico indica ruptura de membranas ovulares?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "ILA normal"
+        },
+        {
+          "opcion": "B",
+          "texto": "ILA disminuido con ausencia de membranas visibles"
+        },
+        {
+          "opcion": "C",
+          "texto": "Placenta previa"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cordón enrollado"
+        },
+        {
+          "opcion": "E",
+          "texto": "Engrosamiento placentario"
+        }
+      ],
+      "respuesta_correcta": "B",
+      "explicacion": "Un ILA bajo junto con la ausencia de membranas continuas sugiere ruptura prematura de membranas."
+    },
+    {
+      "numero": "20",
+      "texto": "¿Qué hallazgo sugiere aneuploidía fetal en ecografía del primer trimestre?",
+      "alternativas": [
+        {
+          "opcion": "A",
+          "texto": "Translucencia nucal aumentada"
+        },
+        {
+          "opcion": "B",
+          "texto": "Placenta homogénea"
+        },
+        {
+          "opcion": "C",
+          "texto": "ILA normal"
+        },
+        {
+          "opcion": "D",
+          "texto": "Cordón corto"
+        },
+        {
+          "opcion": "E",
+          "texto": "Fémur largo"
+        }
+      ],
+      "respuesta_correcta": "A",
+      "explicacion": "Una translucencia nucal aumentada se asocia a riesgo elevado de aneuploidías fetales como trisomía 21."
+    }
+  ]
+}
