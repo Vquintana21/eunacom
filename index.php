@@ -1,529 +1,615 @@
+<?php
+require_once 'auth.php';
+
+// Requerir autenticación
+requireAuth();
+
+$usuario = getUsuarioActual();
+$pdo = getDBConnection();
+
+// Obtener estadísticas del usuario
+$stmt = $pdo->prepare("
+    SELECT COUNT(*) as total_examenes,
+           SUM(CASE WHEN estado = 'finalizado' THEN 1 ELSE 0 END) as examenes_completados,
+           AVG(CASE WHEN estado = 'finalizado' THEN puntaje_porcentaje ELSE NULL END) as promedio_puntaje
+    FROM examenes
+    WHERE usuario_id = ?
+");
+$stmt->execute([$usuario['id']]);
+$stats_examenes = $stmt->fetch();
+
+// Obtener progreso por área
+$stmt = $pdo->prepare("
+    SELECT 
+        a.nombre as area_nombre,
+        COALESCE(p.temas_completados, 0) as temas_completados,
+        COALESCE(p.total_preguntas_respondidas, 0) as preguntas_respondidas,
+        COALESCE(p.porcentaje_aciertos, 0) as porcentaje_aciertos
+    FROM areas a
+    LEFT JOIN progreso_estudiante p ON a.id = p.area_id AND p.usuario_id = ?
+    WHERE a.activo = 1
+    ORDER BY a.id
+");
+$stmt->execute([$usuario['id']]);
+$progreso_areas = $stmt->fetchAll();
+
+// Obtener últimos exámenes
+$stmt = $pdo->prepare("
+    SELECT 
+        codigo_examen,
+        estado,
+        fecha_inicio,
+        fecha_finalizacion,
+        puntaje_porcentaje,
+        respuestas_correctas,
+        total_preguntas
+    FROM examenes
+    WHERE usuario_id = ?
+    ORDER BY fecha_inicio DESC
+    LIMIT 5
+");
+$stmt->execute([$usuario['id']]);
+$ultimos_examenes = $stmt->fetchAll();
+
+// Mensaje de bienvenida para nuevos usuarios
+$mostrar_bienvenida = isset($_GET['bienvenida']);
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Evaluación Médica - Selector de Temas</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <title>Dashboard - EUNACOM</title>
     <style>
-        :root {
-            --primary: #2c3e50;
-            --secondary: #3498db;
-            --success: #27ae60;
-            --danger: #e74c3c;
-            --warning: #f39c12;
-            --info: #16a085;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
         
         body {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            padding: 2rem 0;
+            background: #f5f7fa;
+            min-height: 100vh;
         }
         
-        .main-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1rem;
-        }
-        
-        .header-card {
-            background: white;
-            border-radius: 20px;
-            padding: 2.5rem;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-            margin-bottom: 2rem;
-            text-align: center;
-        }
-        
-        .header-card h1 {
-            color: var(--primary);
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-            font-size: 2.5rem;
-        }
-        
-        .header-card p {
-            color: #7f8c8d;
-            font-size: 1.1rem;
-        }
-        
-        .stats-row {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
-            margin-top: 1.5rem;
-        }
-        
-        .stat-card {
-            background: linear-gradient(135deg, var(--secondary), var(--info));
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 1.5rem;
-            border-radius: 15px;
-            text-align: center;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            padding: 20px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
-        .stat-card i {
-            font-size: 2rem;
-            margin-bottom: 0.5rem;
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
         
-        .stat-card h3 {
-            font-size: 2rem;
-            margin: 0;
+        .logo {
+            font-size: 1.5rem;
             font-weight: bold;
         }
         
-        .stat-card p {
-            margin: 0;
+        .user-menu {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        
+        .user-name {
+            font-weight: 600;
+        }
+        
+        .btn-logout {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .btn-logout:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        /* Container */
+        .container {
+            max-width: 1400px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        
+        /* Bienvenida */
+        .welcome-banner {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        }
+        
+        .welcome-banner h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .welcome-banner p {
+            font-size: 1.2rem;
             opacity: 0.9;
         }
         
-        .search-box {
-            background: white;
-            border-radius: 15px;
-            padding: 1.5rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        /* Stats Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
         }
         
-        .search-input {
-            border: 2px solid #e0e0e0;
-            border-radius: 50px;
-            padding: 1rem 1.5rem;
-            font-size: 1rem;
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             transition: all 0.3s;
         }
         
-        .search-input:focus {
-            border-color: var(--secondary);
-            box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
         }
         
-        .categoria-card {
+        .stat-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #7f8c8d;
+            font-size: 0.95rem;
+        }
+        
+        /* Modules Grid */
+        .modules-title {
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        
+        .modules-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .module-card {
             background: white;
-            border-radius: 20px;
-            padding: 0;
-            margin-bottom: 2rem;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            border-radius: 15px;
             overflow: hidden;
-            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            text-decoration: none;
+            color: inherit;
+            display: block;
         }
         
-        .categoria-card:hover {
+        .module-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 30px rgba(0,0,0,0.15);
         }
         
-        .categoria-header {
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
+        .module-header {
+            padding: 30px;
+            text-align: center;
             color: white;
-            padding: 1.5rem 2rem;
-            cursor: pointer;
+        }
+        
+        .module-header.materials {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+        }
+        
+        .module-header.training {
+            background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+        }
+        
+        .module-header.exam {
+            background: linear-gradient(135deg, #27ae60 0%, #229954 100%);
+        }
+        
+        .module-icon {
+            font-size: 4rem;
+            margin-bottom: 15px;
+        }
+        
+        .module-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .module-body {
+            padding: 25px;
+        }
+        
+        .module-description {
+            color: #7f8c8d;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        
+        .module-features {
+            list-style: none;
+            margin-bottom: 20px;
+        }
+        
+        .module-features li {
+            padding: 8px 0;
+            color: #2c3e50;
+        }
+        
+        .module-features li::before {
+            content: '✓';
+            color: #27ae60;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        
+        .module-btn {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            background: #f8f9fa;
+            color: #2c3e50;
+            text-align: center;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        
+        .module-btn:hover {
+            background: #e9ecef;
+        }
+        
+        /* Progress Section */
+        .section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .section-title {
+            font-size: 1.5rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e9ecef;
+        }
+        
+        .progress-item {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            transition: all 0.3s;
+            padding: 15px 0;
+            border-bottom: 1px solid #f8f9fa;
         }
         
-        .categoria-header:hover {
-            background: linear-gradient(135deg, #34495e, #2980b9);
-        }
-        
-        .categoria-header h3 {
-            margin: 0;
-            font-size: 1.5rem;
-            font-weight: 600;
-        }
-        
-        .categoria-badge {
-            background: rgba(255,255,255,0.2);
-            padding: 0.5rem 1rem;
-            border-radius: 50px;
-            font-size: 0.9rem;
-            font-weight: 600;
-        }
-        
-        .categoria-body {
-            padding: 2rem;
-            display: none;
-        }
-        
-        .categoria-body.show {
-            display: block;
-            animation: slideDown 0.3s ease;
-        }
-        
-        @keyframes slideDown {
-            from {
-                opacity: 0;
-                transform: translateY(-10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-        
-        .subcategoria-section {
-            margin-bottom: 2rem;
-            padding-bottom: 2rem;
-            border-bottom: 2px solid #ecf0f1;
-        }
-        
-        .subcategoria-section:last-child {
+        .progress-item:last-child {
             border-bottom: none;
-            margin-bottom: 0;
-            padding-bottom: 0;
         }
         
-        .subcategoria-title {
-            color: var(--primary);
-            font-size: 1.3rem;
+        .progress-info {
+            flex: 1;
+        }
+        
+        .progress-name {
             font-weight: 600;
-            margin-bottom: 1rem;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .progress-stats {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+        
+        .progress-bar-container {
+            width: 200px;
+            height: 8px;
+            background: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-left: 20px;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s;
+        }
+        
+        /* Exam History */
+        .exam-history-item {
             display: flex;
+            justify-content: space-between;
             align-items: center;
-            gap: 0.5rem;
-        }
-        
-        .subcategoria-title i {
-            color: var(--secondary);
-        }
-        
-        .temas-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 1rem;
-        }
-        
-        .tema-card {
+            padding: 15px;
             background: #f8f9fa;
-            border: 2px solid #e9ecef;
-            border-radius: 12px;
-            padding: 1.25rem;
-            cursor: pointer;
-            transition: all 0.3s;
-            position: relative;
+            border-radius: 10px;
+            margin-bottom: 10px;
         }
         
-        .tema-card:hover {
-            background: white;
-            border-color: var(--secondary);
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.2);
+        .exam-info {
+            flex: 1;
         }
         
-        .tema-codigo {
-            position: absolute;
-            top: 0.75rem;
-            right: 0.75rem;
-            background: var(--secondary);
-            color: white;
-            padding: 0.25rem 0.75rem;
-            border-radius: 50px;
-            font-size: 0.75rem;
+        .exam-code {
             font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
         }
         
-        .tema-nombre {
-            color: var(--primary);
-            font-weight: 600;
-            margin-bottom: 0.75rem;
-            padding-right: 5rem;
-            font-size: 0.95rem;
-            line-height: 1.4;
-        }
-        
-        .tema-info {
-            display: flex;
-            gap: 1rem;
-            font-size: 0.85rem;
+        .exam-date {
+            font-size: 0.9rem;
             color: #7f8c8d;
         }
         
-        .tema-info span {
-            display: flex;
-            align-items: center;
-            gap: 0.3rem;
+        .exam-score {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #27ae60;
         }
         
-        .tipo-badge {
+        .exam-status {
             display: inline-block;
-            padding: 0.25rem 0.75rem;
-            border-radius: 50px;
-            font-size: 0.75rem;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.85rem;
             font-weight: 600;
-            text-transform: uppercase;
         }
         
-        .tipo-cronico { background: #d4edda; color: #155724; }
-        .tipo-urgencia { background: #f8d7da; color: #721c24; }
-        .tipo-prevencion { background: #d1ecf1; color: #0c5460; }
-        .tipo-examenes { background: #fff3cd; color: #856404; }
-        .tipo-procedimientos { background: #e2e3e5; color: #383d41; }
-        
-        .collapse-icon {
-            transition: transform 0.3s;
+        .status-finalizado {
+            background: #d4edda;
+            color: #155724;
         }
         
-        .collapsed .collapse-icon {
-            transform: rotate(-90deg);
+        .status-en-curso {
+            background: #fff3cd;
+            color: #856404;
         }
         
-        .no-results {
+        .empty-state {
             text-align: center;
-            padding: 3rem;
+            padding: 40px;
             color: #7f8c8d;
         }
         
-        .no-results i {
+        .empty-state-icon {
             font-size: 4rem;
-            margin-bottom: 1rem;
+            margin-bottom: 20px;
             opacity: 0.5;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .stats-grid,
+            .modules-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .progress-bar-container {
+                width: 100px;
+            }
+            
+            .exam-history-item {
+                flex-direction: column;
+                text-align: center;
+                gap: 10px;
+            }
         }
     </style>
 </head>
 <body>
-    <?php
-    // Cargar el índice JSON
-    $index_file = '_json_output/index.json';
-    
-    if (!file_exists($index_file)) {
-        die('<div class="alert alert-danger m-5">Error: No se encontró el archivo index.json. Por favor, ejecuta el script de conversión primero.</div>');
-    }
-    
-    $index_json = file_get_contents($index_file);
-    $index_data = json_decode($index_json, true);
-    
-    if (!$index_data) {
-        die('<div class="alert alert-danger m-5">Error: No se pudo cargar el índice de temas.</div>');
-    }
-    
-    $estadisticas = $index_data['estadisticas'];
-    $categorias = $index_data['categorias'];
-    ?>
-    
-    <div class="main-container">
-        <!-- Header -->
-        <div class="header-card">
-            <h1><i class="fas fa-graduation-cap"></i> Sistema de Evaluación Médica</h1>
-            <p>Selecciona un tema para comenzar tu práctica</p>
-            
-            <div class="stats-row">
-                <div class="stat-card">
-                    <i class="fas fa-folder"></i>
-                    <h3><?php echo $estadisticas['total_categorias']; ?></h3>
-                    <h6>Categorías</h6>
-                </div>
-                <div class="stat-card">
-                    <i class="fas fa-layer-group"></i>
-                    <h3><?php echo $estadisticas['total_subcategorias']; ?></h3>
-                    <h6>Subcategorías</h6>
-                </div>
-                <div class="stat-card">
-                    <i class="fas fa-book-medical"></i>
-                    <h3><?php echo $estadisticas['total_temas']; ?></h3>
-                    <h6>Temas</h6>
-                </div>
-                <div class="stat-card">
-                    <i class="fas fa-question-circle"></i>
-                    <h3><?php echo $estadisticas['total_preguntas']; ?></h3>
-                    <h6>Preguntas</h6>
-                </div>
+    <!-- Header -->
+    <div class="header">
+        <div class="header-content">
+            <div class="logo">🎓 EUNACOM</div>
+            <div class="user-menu">
+                <span class="user-name">👤 <?= htmlspecialchars($usuario['nombre']) ?></span>
+                <a href="<?= buildUrl('logout.php') ?>" class="btn-logout">Cerrar Sesión</a>
             </div>
-        </div>
-        
-        <!-- Búsqueda -->
-        <div class="search-box">
-            <div class="input-group">
-                <span class="input-group-text bg-white border-end-0" style="border-radius: 50px 0 0 50px; border: 2px solid #e0e0e0; border-right: none;">
-                    <i class="fas fa-search text-muted"></i>
-                </span>
-                <input type="text" class="form-control search-input border-start-0 ps-0" id="searchInput" placeholder="Buscar por código o tema... (ej: 1.01.1.013 o fibrilación)">
-            </div>
-        </div>
-        
-        <!-- Categorías -->
-        <div id="categoriasContainer">
-            <?php foreach ($categorias as $categoria): ?>
-                <div class="categoria-card" data-categoria="<?php echo strtolower($categoria['nombre']); ?>">
-                    <div class="categoria-header collapsed" onclick="toggleCategoria(this)">
-                        <div>
-                            <h3>
-                                <i class="fas fa-chevron-down collapse-icon"></i>
-                                <?php echo htmlspecialchars($categoria['nombre']); ?>
-                            </h3>
-                        </div>
-                        <div class="categoria-badge">
-                            <?php echo $categoria['total_subcategorias']; ?> subcategorías • 
-                            <?php 
-                            $total_temas_cat = 0;
-                            foreach ($categoria['subcategorias'] as $sub) {
-                                $total_temas_cat += $sub['total_temas'];
-                            }
-                            echo $total_temas_cat;
-                            ?> temas
-                        </div>
-                    </div>
-                    
-                    <div class="categoria-body">
-                        <?php foreach ($categoria['subcategorias'] as $subcategoria): ?>
-                            <div class="subcategoria-section" data-subcategoria="<?php echo strtolower($subcategoria['nombre']); ?>">
-                                <div class="subcategoria-title">
-                                    <i class="fas fa-folder-open"></i>
-                                    <?php echo htmlspecialchars($subcategoria['nombre']); ?>
-                                    <span class="badge bg-secondary"><?php echo $subcategoria['total_temas']; ?> temas</span>
-                                </div>
-                                
-                                <div class="temas-grid">
-                                    <?php foreach ($subcategoria['temas'] as $tema): ?>
-                                        <div class="tema-card" 
-                                             data-tema="<?php echo strtolower((isset($tema['codigo']) ? $tema['codigo'] : '') . ' ' . (isset($tema['nombre']) ? $tema['nombre'] : '')); ?>"
-
-                                             onclick="seleccionarTema('<?php echo htmlspecialchars($tema['ruta_json'], ENT_QUOTES); ?>', '<?php echo htmlspecialchars($tema['codigo'], ENT_QUOTES); ?>')">
-                                            <div class="tema-codigo"><?php echo htmlspecialchars($tema['codigo']); ?></div>
-                                            <div class="tema-nombre">
-                                                <?php 
-                                                // Extraer el nombre del tema del código si existe
-                                                $nombre_tema = '';
-                                                if (isset($tema['nombre'])) {
-                                                    $nombre_tema = $tema['nombre'];
-                                                } else {
-                                                    // Buscar en la ruta del JSON
-                                                    $json_path = '_json_output/' . $tema['ruta_json'];
-                                                    if (file_exists($json_path)) {
-                                                        $tema_data = json_decode(file_get_contents($json_path), true);
-                                                        if (isset($tema_data['preguntas'][0]['texto'])) {
-                                                            // Usar la primera pregunta como referencia del tema
-                                                            $nombre_tema = substr($tema_data['preguntas'][0]['texto'], 0, 80) . '...';
-                                                        }
-                                                    }
-                                                }
-                                                
-                                                if (empty($nombre_tema)) {
-                                                    $nombre_tema = 'Ver tema ' . $tema['codigo'];
-                                                }
-                                                
-                                                echo htmlspecialchars($nombre_tema);
-                                                ?>
-                                            </div>
-                                            <div class="tema-info">
-                                                <span>
-                                                    <i class="fas fa-question-circle"></i>
-                                                    <?php echo $tema['total_preguntas']; ?> preguntas
-                                                </span>
-                                                <span class="tipo-badge tipo-<?php echo strtolower(str_replace(['á','é','í','ó','ú'], ['a','e','i','o','u'], $tema['tipo'])); ?>">
-                                                    <?php echo htmlspecialchars($tema['tipo']); ?>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    <?php endforeach; ?>
-                                </div>
-                            </div>
-                        <?php endforeach; ?>
-                    </div>
-                </div>
-            <?php endforeach; ?>
-        </div>
-        
-        <div id="noResults" class="no-results" style="display: none;">
-            <i class="fas fa-search"></i>
-            <h3>No se encontraron resultados</h3>
-            <p>Intenta con otros términos de búsqueda</p>
         </div>
     </div>
     
-    <script>
-        function toggleCategoria(element) {
-            const body = element.nextElementSibling;
-            const header = element;
-            
-            header.classList.toggle('collapsed');
-            body.classList.toggle('show');
-        }
+    <!-- Container -->
+    <div class="container">
         
-        function seleccionarTema(rutaJson, codigo) {
-            // Redirigir a la página del examen con el código del tema
-            window.location.href = 'examen.php?tema=' + encodeURIComponent(codigo);
-        }
+        <!-- Bienvenida -->
+        <?php if ($mostrar_bienvenida): ?>
+            <div class="welcome-banner">
+                <h1>🎉 ¡Bienvenido, <?= htmlspecialchars($usuario['nombre']) ?>!</h1>
+                <p>Tu cuenta ha sido creada exitosamente. Comienza tu preparación para el EUNACOM.</p>
+            </div>
+        <?php else: ?>
+            <div class="welcome-banner">
+                <h1>👋 Hola, <?= htmlspecialchars($usuario['nombre']) ?></h1>
+                <p>Continúa tu preparación para el EUNACOM</p>
+            </div>
+        <?php endif; ?>
         
-        // Búsqueda en tiempo real
-        const searchInput = document.getElementById('searchInput');
-        const categoriasContainer = document.getElementById('categoriasContainer');
-        const noResults = document.getElementById('noResults');
+        <!-- Stats Cards -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon">📝</div>
+                <div class="stat-value"><?= $stats_examenes['total_examenes'] ?></div>
+                <div class="stat-label">Simulacros Iniciados</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">✅</div>
+                <div class="stat-value"><?= $stats_examenes['examenes_completados'] ?></div>
+                <div class="stat-label">Simulacros Completados</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">📊</div>
+                <div class="stat-value">
+                    <?= $stats_examenes['promedio_puntaje'] ? number_format($stats_examenes['promedio_puntaje'], 1) . '%' : '-' ?>
+                </div>
+                <div class="stat-label">Promedio de Puntaje</div>
+            </div>
+        </div>
         
-        searchInput.addEventListener('input', function() {
-            const searchTerm = this.value.toLowerCase().trim();
+        <!-- Modules -->
+        <h2 class="modules-title">🎯 Módulos de Estudio</h2>
+        <div class="modules-grid">
             
-            if (searchTerm === '') {
-                // Mostrar todo
-                document.querySelectorAll('.categoria-card').forEach(card => {
-                    card.style.display = 'block';
-                    card.querySelector('.categoria-body').classList.remove('show');
-                    card.querySelector('.categoria-header').classList.add('collapsed');
-                });
-                document.querySelectorAll('.subcategoria-section').forEach(section => {
-                    section.style.display = 'block';
-                });
-                document.querySelectorAll('.tema-card').forEach(card => {
-                    card.style.display = 'block';
-                });
-                noResults.style.display = 'none';
-                return;
-            }
+            <!-- Módulo 1: Materiales -->
+            <a href="<?= buildUrl('materiales.php') ?>" class="module-card" target='_blank'>
+                <div class="module-header materials">
+                    <div class="module-icon">📚</div>
+                    <div class="module-title">Materiales de Estudio</div>
+                </div>
+                <div class="module-body">
+                    <p class="module-description">
+                        Accede a material de estudio organizado por áreas y especialidades. PDFs descargables con contenido actualizado.
+                    </p>
+                    <ul class="module-features">
+                        <li>452 documentos disponibles</li>
+                        <li>Organizados por categorías</li>
+                        <li>Descarga y visualización online</li>
+                    </ul>
+                    <div class="module-btn">Ir a Materiales →</div>
+                </div>
+            </a>
             
-            let hasResults = false;
+            <!-- Módulo 2: Entrenamiento -->
+            <a href="<?= buildUrl('entrenamiento.php') ?>" class="module-card" target='_blank'>
+                <div class="module-header training">
+                    <div class="module-icon">💪</div>
+                    <div class="module-title">Entrenamiento por Temas</div>
+                </div>
+                <div class="module-body">
+                    <p class="module-description">
+                        Practica con preguntas tipo test organizadas por temas. Recibe retroalimentación inmediata.
+                    </p>
+                    <ul class="module-features">
+                        <li>Preguntas por especialidad</li>
+                        <li>Explicaciones detalladas</li>
+                        <li>Seguimiento de progreso</li>
+                    </ul>
+                    <div class="module-btn">Comenzar Entrenamiento →</div>
+                </div>
+            </a>
             
-            // Buscar en cada categoría
-            document.querySelectorAll('.categoria-card').forEach(categoriaCard => {
-                let categoriaHasResults = false;
-                
-                // Buscar en cada subcategoría
-                categoriaCard.querySelectorAll('.subcategoria-section').forEach(subcatSection => {
-                    let subcatHasResults = false;
-                    
-                    // Buscar en cada tema
-                    subcatSection.querySelectorAll('.tema-card').forEach(temaCard => {
-                        const temaText = temaCard.dataset.tema;
-                        
-                        if (temaText.includes(searchTerm)) {
-                            temaCard.style.display = 'block';
-                            subcatHasResults = true;
-                            hasResults = true;
-                        } else {
-                            temaCard.style.display = 'none';
-                        }
-                    });
-                    
-                    // Mostrar/ocultar subcategoría
-                    if (subcatHasResults) {
-                        subcatSection.style.display = 'block';
-                        categoriaHasResults = true;
-                    } else {
-                        subcatSection.style.display = 'none';
-                    }
-                });
-                
-                // Mostrar/ocultar categoría
-                if (categoriaHasResults) {
-                    categoriaCard.style.display = 'block';
-                    categoriaCard.querySelector('.categoria-body').classList.add('show');
-                    categoriaCard.querySelector('.categoria-header').classList.remove('collapsed');
-                } else {
-                    categoriaCard.style.display = 'none';
-                }
-            });
+            <!-- Módulo 3: Simulacro -->
+            <a href="<?= buildUrl('simulacro_inicio.php') ?>" class="module-card" target='_blank'>
+                <div class="module-header exam">
+                    <div class="module-icon">🎯</div>
+                    <div class="module-title">Simulacro de Examen</div>
+                </div>
+                <div class="module-body">
+                    <p class="module-description">
+                        Simula el examen real EUNACOM. 180 preguntas en 2 sesiones de 90 minutos cada una.
+                    </p>
+                    <ul class="module-features">
+                        <li>Formato de examen real</li>
+                        <li>Timer cronometrado</li>
+                        <li>Resultados detallados</li>
+                    </ul>
+                    <div class="module-btn">Iniciar Simulacro →</div>
+                </div>
+            </a>
             
-            // Mostrar mensaje si no hay resultados
-            noResults.style.display = hasResults ? 'none' : 'block';
-            categoriasContainer.style.display = hasResults ? 'block' : 'none';
-        });
-    </script>
-    
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+        </div>
+        
+        <!-- Progreso por Área -->
+        <?php if (!empty($progreso_areas)): ?>
+        <div class="section">
+            <h2 class="section-title">📈 Tu Progreso por Área</h2>
+            <?php foreach ($progreso_areas as $area): ?>
+                <?php if ($area['preguntas_respondidas'] > 0): ?>
+                <div class="progress-item">
+                    <div class="progress-info">
+                        <div class="progress-name"><?= htmlspecialchars($area['area_nombre']) ?></div>
+                        <div class="progress-stats">
+                            <?= $area['preguntas_respondidas'] ?> preguntas • 
+                            <?= number_format($area['porcentaje_aciertos'], 1) ?>% de aciertos
+                        </div>
+                    </div>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" style="width: <?= $area['porcentaje_aciertos'] ?>%"></div>
+                    </div>
+                </div>
+                <?php endif; ?>
+            <?php endforeach; ?>
+            
+            <?php if (array_sum(array_column($progreso_areas, 'preguntas_respondidas')) == 0): ?>
+                <div class="empty-state">
+                    <div class="empty-state-icon">📊</div>
+                    <p>Aún no has comenzado a entrenar. ¡Empieza ahora!</p>
+                </div>
+            <?php endif; ?>
+        </div>
+        <?php endif; ?>
+        
+        <!-- Historial de Exámenes -->
+        <div class="section">
+            <h2 class="section-title">📋 Últimos Simulacros</h2>
+            
+            <?php if (empty($ultimos_examenes)): ?>
+                <div class="empty-state">
+                    <div class="empty-state-icon">📝</div>
+                    <p>No has realizado ningún simulacro aún.</p>
+                    <p><a href="<?= buildUrl('simulacro_inicio.php') ?>" style="color: #667eea; text-decoration: none; font-weight: 600;">Iniciar tu primer simulacro →</a></p>
+                </div>
+            <?php else: ?>
+                <?php foreach ($ultimos_examenes as $examen): ?>
+                <div class="exam-history-item">
+                    <div class="exam-info">
+                        <div class="exam-code">
+                            📄 <?= htmlspecialchars($examen['codigo_examen']) ?>
+                        </div>
+                        <div class="exam-date">
+                            <?= date('d/m/Y H:i', strtotime($examen['fecha_inicio'])) ?>
+                        </div>
+                        <span class="exam-status status-<?= $examen['estado'] ?>">
+                            <?= ucfirst(str_replace('_', ' ', $examen['estado'])) ?>
+                        </span>
+                    </div>
+                    <?php if ($examen['estado'] === 'finalizado'): ?>
+                        <div class="exam-score">
+                            <?= number_format($examen['puntaje_porcentaje'], 1) ?>%
+                            <div style="font-size: 0.7rem; color: #7f8c8d;">
+                                (<?= $examen['respuestas_correctas'] ?>/<?= $examen['total_preguntas'] ?>)
+                            </div>
+                        </div>
+                    <?php endif; ?>
+                </div>
+                <?php endforeach; ?>
+            <?php endif; ?>
+        </div>
+        
+    </div>
 </body>
 </html>
