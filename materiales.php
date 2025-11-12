@@ -2,11 +2,18 @@
 // ============================================
 // INCLUIR CONFIGURACIÓN
 // ============================================
+require_once __DIR__ . '/auth.php';
 require_once __DIR__ . '/env/config.php';
-
+ ini_set('display_errors', 1);
 // ============================================
 // CONEXIÓN A BASE DE DATOS
 // ============================================
+$pdo = getDB();
+
+$usuario = getCurrentUser();
+
+// ❌ FORMA ANTIGUA (ELIMINAR):
+/*
 try {
     $pdo = new PDO(
         "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8mb4",
@@ -17,6 +24,7 @@ try {
 } catch (PDOException $e) {
     die("Error de conexión: " . $e->getMessage());
 }
+*/
 
 // ============================================
 // DETERMINAR NIVEL DE NAVEGACIÓN
@@ -556,11 +564,126 @@ switch ($nivel) {
         .config-alert strong {
             color: #856404;
         }
+		
+		/* Header */
+        .header {
+            background: white;
+            border-radius: 15px;
+            padding: 25px 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header-left h1 {
+            color: #2c3e50;
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+        }
+        
+        .header-left p {
+            color: #7f8c8d;
+        }
+        
+        .header-right {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .user-info {
+            text-align: right;
+        }
+        
+        .user-name {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .user-email {
+            font-size: 0.85rem;
+            color: #7f8c8d;
+        }
+        
+        .btn-logout {
+            padding: 10px 20px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s;
+        }
+        
+        .btn-logout:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+        }
+		.btn-home-green {
+    padding: 10px 20px;
+    background: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.btn-home-green:hover {
+    background: #229954;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(39, 174, 96, 0.3);
+}
+
+/* Botón Azul */
+.btn-home-blue {
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.btn-home-blue:hover {
+    background: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+}
+		
     </style>
 </head>
 <body>
     <div class="container">
-        
+            <div class="header">
+            <div class="header-left">
+                <h1>🏥 <?= SITE_NAME ?></h1>
+                <p>Sistema de Preparación EUNACOM</p>
+            </div>
+            <div class="header-right">
+                <div class="user-info">
+                    <div class="user-name">👤 <?= e($usuario['nombre']) ?></div>
+                    <div class="user-email"><?= e($usuario['email']) ?></div>
+                </div>
+				<a href="<?= buildUrl('index.php') ?>" class="btn-home-green">
+    🏠 Inicio
+</a>
+                <a href="<?= buildUrl('logout.php') ?>" class="btn-logout">
+                    🚪 Cerrar Sesión
+                </a>
+            </div>
+        </div>
         <!-- ALERT DE CONFIGURACIÓN (Solo visible en desarrollo) -->
         <?php if (ENTORNO === 'desarrollo'): ?>
             <div class="config-alert">
@@ -576,9 +699,9 @@ switch ($nivel) {
         <div class="breadcrumb">
             <?php foreach ($breadcrumb as $index => $item): ?>
                 <?php if ($item['url']): ?>
-                    <a href="<?= $item['url'] ?>"><?= htmlspecialchars($item['nombre']) ?></a>
+                    <a href="<?= $item['url'] ?>"><?= e($item['nombre']) ?></a>
                 <?php else: ?>
-                    <span class="breadcrumb-current"><?= htmlspecialchars($item['nombre']) ?></span>
+                    <span class="breadcrumb-current"><?= e($item['nombre']) ?></span>
                 <?php endif; ?>
                 
                 <?php if ($index < count($breadcrumb) - 1): ?>
@@ -610,7 +733,7 @@ switch ($nivel) {
             <div class="card">
                 <h1>📚 Materiales de Estudio</h1>
                 <p class="subtitle">
-                    <?= htmlspecialchars($especialidad['nombre']) ?> • 
+                    <?= e($especialidad['nombre']) ?> • 
                     <?= count($datos) ?> documentos disponibles
                 </p>
                 
@@ -632,7 +755,7 @@ switch ($nivel) {
                         <div class="doc-card" onclick="window.location.href='<?= buildUrl("materiales.php?area={$area_id}&especialidad={$especialidad_id}&documento={$doc['id']}") ?>'">
                             <div class="doc-icon">📄</div>
                             <div class="doc-info">
-                                <div class="doc-title"><?= htmlspecialchars($doc['nombre_documento']) ?></div>
+                                <div class="doc-title"><?= e($doc['nombre_documento']) ?></div>
                                 <div class="doc-size">
                                     📦 <?= formatBytes($doc['tamano_kb']) ?> • 
                                     PDF
@@ -644,8 +767,8 @@ switch ($nivel) {
                                    onclick="event.stopPropagation()">
                                     👁 Ver
                                 </a>
-                                <a href="<?= htmlspecialchars($doc_url_correcta) ?>" 
-                                   download="<?= htmlspecialchars($doc['nombre_archivo']) ?>" 
+                                <a href="<?= e($doc_url_correcta) ?>" 
+                                   download="<?= e($doc['nombre_archivo']) ?>" 
                                    class="btn btn-success btn-small" 
                                    onclick="event.stopPropagation()">
                                     ⬇ Descargar
@@ -695,7 +818,7 @@ switch ($nivel) {
                             
                             <a href="<?= $url ?>" class="item-card">
                                 <div class="icon"><?= $icono ?></div>
-                                <div class="item-title"><?= htmlspecialchars($item['nombre']) ?></div>
+                                <div class="item-title"><?= e($item['nombre']) ?></div>
                                 <?php if ($item['total_documentos'] > 0): ?>
                                     <span class="item-badge badge-success">✓ Disponible</span>
                                 <?php endif; ?>

@@ -1,12 +1,14 @@
 <?php
 require_once __DIR__ . '/env/config.php';
-
+ ini_set('display_errors', 1);
 $documento_id = isset($_GET['id']) ? (int)$_GET['id'] : 0;
 
 if (!$documento_id) {
     die("Documento no especificado");
 }
 
+$pdo = getDB();
+/*
 try {
     $pdo = new PDO(
         "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8mb4",
@@ -17,7 +19,7 @@ try {
 } catch (PDOException $e) {
     die("Error de conexión: " . $e->getMessage());
 }
-
+*/
 // Obtener documento
 $sql = "
     SELECT 

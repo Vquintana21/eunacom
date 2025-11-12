@@ -1,35 +1,18 @@
 <?php
-// ============================================
-// SISTEMA DE AUTENTICACIÓN - PHP 5.6 Compatible
-// ============================================
+/**
+ * ============================================
+ * SISTEMA DE AUTENTICACIÓN - PHP 5.6 Compatible
+ * ============================================
+ * Funciones para login, registro, sesiones
+ * Compatible con Singleton Database
+ * ============================================
+ */
 
 require_once __DIR__ . '/env/config.php';
 
-session_start();
-
-// ============================================
-// CONEXIÓN A BASE DE DATOS
-// ============================================
-function getDBConnection() {
-    static $pdo = null;
-    
-    if ($pdo === null) {
-        try {
-            $pdo = new PDO(
-                "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8mb4",
-                DB_USER,
-                DB_PASS,
-                array(
-                    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
-                    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
-                )
-            );
-        } catch (PDOException $e) {
-            die("Error de conexión: " . $e->getMessage());
-        }
-    }
-    
-    return $pdo;
+// Iniciar sesión si no está iniciada
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
 }
 
 // ============================================
@@ -44,15 +27,22 @@ function isLoggedIn() {
 // ============================================
 function requireAuth() {
     if (!isLoggedIn()) {
-        header('Location: ' . buildUrl('login.php'));
-        exit;
+        redirect(buildUrl('login.php'));
     }
     
     // Verificar que la sesión sea válida
     if (!verificarSesion()) {
         cerrarSesion();
-        header('Location: ' . buildUrl('login.php?expired=1'));
-        exit;
+        redirect(buildUrl('login.php?expired=1'));
+    }
+}
+
+// ============================================
+// REQUERIR NO AUTENTICACIÓN (para login/registro)
+// ============================================
+function requireGuest() {
+    if (isLoggedIn()) {
+        redirect(buildUrl('index.php'));
     }
 }
 
@@ -60,7 +50,7 @@ function requireAuth() {
 // REGISTRAR USUARIO
 // ============================================
 function registrarUsuario($nombre, $email, $password) {
-    $pdo = getDBConnection();
+    $pdo = getDB();
     
     // Validar email
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -86,8 +76,8 @@ function registrarUsuario($nombre, $email, $password) {
     // Insertar usuario
     try {
         $stmt = $pdo->prepare("
-            INSERT INTO usuarios (nombre, email, password_hash, tipo_usuario, activo)
-            VALUES (?, ?, ?, 'estudiante', 1)
+            INSERT INTO usuarios (nombre, email, password_hash, tipo_usuario, activo, fecha_registro)
+            VALUES (?, ?, ?, 'estudiante', 1, NOW())
         ");
         $stmt->execute(array($nombre, $email, $password_hash));
         
@@ -103,7 +93,8 @@ function registrarUsuario($nombre, $email, $password) {
         );
         
     } catch (PDOException $e) {
-        return array('success' => false, 'mensaje' => 'Error al registrar: ' . $e->getMessage());
+        error_log("[Auth] Error al registrar: " . $e->getMessage());
+        return array('success' => false, 'mensaje' => 'Error al registrar. Intente nuevamente.');
     }
 }
 
@@ -111,7 +102,7 @@ function registrarUsuario($nombre, $email, $password) {
 // INICIAR SESIÓN
 // ============================================
 function iniciarSesion($email, $password) {
-    $pdo = getDBConnection();
+    $pdo = getDB();
     
     // Buscar usuario
     $stmt = $pdo->prepare("
@@ -138,17 +129,22 @@ function iniciarSesion($email, $password) {
     $fecha_expiracion = date('Y-m-d H:i:s', strtotime('+24 hours'));
     
     // Guardar sesión en BD
-    $stmt = $pdo->prepare("
-        INSERT INTO sesiones (usuario_id, token, ip_address, user_agent, fecha_expiracion)
-        VALUES (?, ?, ?, ?, ?)
-    ");
-    $stmt->execute(array(
-        $usuario['id'],
-        $token,
-        getClientIP(),
-        getUserAgent(),
-        $fecha_expiracion
-    ));
+    try {
+        $stmt = $pdo->prepare("
+            INSERT INTO sesiones (usuario_id, token, ip_address, user_agent, fecha_expiracion, activa)
+            VALUES (?, ?, ?, ?, ?, 1)
+        ");
+        $stmt->execute(array(
+            $usuario['id'],
+            $token,
+            getClientIP(),
+            getUserAgent(),
+            $fecha_expiracion
+        ));
+    } catch (PDOException $e) {
+        error_log("[Auth] Error al crear sesión: " . $e->getMessage());
+        return array('success' => false, 'mensaje' => 'Error al iniciar sesión');
+    }
     
     // Actualizar último acceso
     $stmt = $pdo->prepare("UPDATE usuarios SET ultimo_acceso = NOW() WHERE id = ?");
@@ -156,45 +152,47 @@ function iniciarSesion($email, $password) {
     
     // Guardar en sesión PHP
     $_SESSION['usuario_id'] = $usuario['id'];
-    $_SESSION['nombre'] = $usuario['nombre'];
-    $_SESSION['email'] = $usuario['email'];
-    $_SESSION['tipo_usuario'] = $usuario['tipo_usuario'];
+    $_SESSION['usuario_nombre'] = $usuario['nombre'];
+    $_SESSION['usuario_email'] = $usuario['email'];
+    $_SESSION['usuario_tipo'] = $usuario['tipo_usuario'];
     $_SESSION['token'] = $token;
+    $_SESSION['login_time'] = time();
     
-    // Registrar en log
-    registrarActividad($usuario['id'], 'login', "Inicio de sesión exitoso", getClientIP());
+    // Registrar actividad
+    registrarActividad($usuario['id'], 'login', "Login exitoso");
     
     return array(
         'success' => true,
-        'mensaje' => 'Inicio de sesión exitoso',
+        'mensaje' => 'Login exitoso',
         'usuario' => array(
             'id' => $usuario['id'],
             'nombre' => $usuario['nombre'],
-            'email' => $usuario['email']
+            'email' => $usuario['email'],
+            'tipo' => $usuario['tipo_usuario']
         )
     );
 }
 
 // ============================================
-// VERIFICAR SESIÓN
+// VERIFICAR SESIÓN VÁLIDA
 // ============================================
 function verificarSesion() {
     if (!isset($_SESSION['usuario_id']) || !isset($_SESSION['token'])) {
         return false;
     }
     
-    $pdo = getDBConnection();
+    $pdo = getDB();
     
     $stmt = $pdo->prepare("
-        SELECT id FROM sesiones
-        WHERE usuario_id = ?
-        AND token = ?
-        AND activa = 1
+        SELECT id FROM sesiones 
+        WHERE usuario_id = ? 
+        AND token = ? 
+        AND activa = 1 
         AND fecha_expiracion > NOW()
     ");
     $stmt->execute(array($_SESSION['usuario_id'], $_SESSION['token']));
     
-    return (bool) $stmt->fetch();
+    return $stmt->fetch() !== false;
 }
 
 // ============================================
@@ -202,96 +200,144 @@ function verificarSesion() {
 // ============================================
 function cerrarSesion() {
     if (isset($_SESSION['usuario_id']) && isset($_SESSION['token'])) {
-        $pdo = getDBConnection();
+        $pdo = getDB();
         
-        // Desactivar sesión en BD
+        // Marcar sesión como inactiva en BD
         $stmt = $pdo->prepare("
-            UPDATE sesiones
-            SET activa = 0
+            UPDATE sesiones 
+            SET activa = 0 
             WHERE usuario_id = ? AND token = ?
         ");
         $stmt->execute(array($_SESSION['usuario_id'], $_SESSION['token']));
         
-        // Registrar en log
-        registrarActividad($_SESSION['usuario_id'], 'logout', "Cierre de sesión");
+        // Registrar actividad
+        registrarActividad($_SESSION['usuario_id'], 'logout', "Logout");
     }
     
-    // Destruir sesión PHP
-    session_unset();
+    // Limpiar sesión PHP
+    $_SESSION = array();
+    
+    // Destruir cookie de sesión
+    if (isset($_COOKIE[session_name()])) {
+        setcookie(session_name(), '', time() - 3600, '/');
+    }
+    
+    // Destruir sesión
     session_destroy();
 }
 
 // ============================================
-// OBTENER USUARIO ACTUAL
+// OBTENER DATOS DEL USUARIO ACTUAL
 // ============================================
-function getUsuarioActual() {
+function getCurrentUser() {
     if (!isLoggedIn()) {
         return null;
     }
     
     return array(
         'id' => $_SESSION['usuario_id'],
-        'nombre' => $_SESSION['nombre'],
-        'email' => $_SESSION['email'],
-        'tipo_usuario' => $_SESSION['tipo_usuario']
+        'nombre' => $_SESSION['usuario_nombre'],
+        'email' => $_SESSION['usuario_email'],
+        'tipo' => $_SESSION['usuario_tipo']
     );
+}
+
+// ============================================
+// VERIFICAR SI ES ADMIN
+// ============================================
+function isAdmin() {
+    return isLoggedIn() && $_SESSION['usuario_tipo'] === 'admin';
+}
+
+// ============================================
+// REQUERIR ADMIN
+// ============================================
+function requireAdmin() {
+    requireAuth();
+    
+    if (!isAdmin()) {
+        redirect(buildUrl('index.php?error=no_autorizado'));
+    }
 }
 
 // ============================================
 // REGISTRAR ACTIVIDAD
 // ============================================
 function registrarActividad($usuario_id, $accion, $descripcion = '', $ip = null) {
+    $pdo = getDB();
+    
+    $ip = $ip ?: getClientIP();
+    
     try {
-        $pdo = getDBConnection();
-        
         $stmt = $pdo->prepare("
-            INSERT INTO log_actividad (usuario_id, accion, descripcion, ip_address, user_agent)
-            VALUES (?, ?, ?, ?, ?)
+            INSERT INTO log_actividad (usuario_id, accion, descripcion, ip_address, user_agent, created_at)
+            VALUES (?, ?, ?, ?, ?, NOW())
         ");
         $stmt->execute(array(
             $usuario_id,
             $accion,
             $descripcion,
-            $ip ? $ip : getClientIP(),
+            $ip,
             getUserAgent()
         ));
     } catch (PDOException $e) {
-        // Silencioso - no interrumpir el flujo
-        error_log("Error al registrar actividad: " . $e->getMessage());
+        error_log("[Auth] Error al registrar actividad: " . $e->getMessage());
     }
 }
 
 // ============================================
-// HELPERS
+// OBTENER IP DEL CLIENTE
 // ============================================
 function getClientIP() {
-    $ip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : 'unknown';
-    
     if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
-        $ip = $_SERVER['HTTP_CLIENT_IP'];
+        return $_SERVER['HTTP_CLIENT_IP'];
     } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
-        $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+        return $_SERVER['HTTP_X_FORWARDED_FOR'];
+    } else {
+        return $_SERVER['REMOTE_ADDR'];
+    }
+}
+
+// ============================================
+// OBTENER USER AGENT
+// ============================================
+function getUserAgent() {
+    return isset($_SERVER['HTTP_USER_AGENT']) ? substr($_SERVER['HTTP_USER_AGENT'], 0, 255) : '';
+}
+
+// ============================================
+// CAMBIAR CONTRASEÑA
+// ============================================
+function cambiarPassword($usuario_id, $password_actual, $password_nueva) {
+    $pdo = getDB();
+    
+    // Validar nueva contraseña
+    if (strlen($password_nueva) < 6) {
+        return array('success' => false, 'mensaje' => 'La nueva contraseña debe tener al menos 6 caracteres');
     }
     
-    return $ip;
-}
-
-function getUserAgent() {
-    return isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : 'unknown';
-}
-
-// ============================================
-// LIMPIAR SESIONES EXPIRADAS (Ejecutar periódicamente)
-// ============================================
-function limpiarSesionesExpiradas() {
-    $pdo = getDBConnection();
+    // Verificar contraseña actual
+    $stmt = $pdo->prepare("SELECT password_hash FROM usuarios WHERE id = ?");
+    $stmt->execute(array($usuario_id));
+    $usuario = $stmt->fetch();
     
-    $stmt = $pdo->prepare("
-        UPDATE sesiones
-        SET activa = 0
-        WHERE fecha_expiracion < NOW() AND activa = 1
-    ");
-    $stmt->execute();
+    if (!$usuario || !password_verify($password_actual, $usuario['password_hash'])) {
+        return array('success' => false, 'mensaje' => 'La contraseña actual es incorrecta');
+    }
     
-    return $stmt->rowCount();
+    // Actualizar contraseña
+    $new_hash = password_hash($password_nueva, PASSWORD_BCRYPT);
+    
+    try {
+        $stmt = $pdo->prepare("UPDATE usuarios SET password_hash = ? WHERE id = ?");
+        $stmt->execute(array($new_hash, $usuario_id));
+        
+        registrarActividad($usuario_id, 'cambio_password', "Contraseña cambiada");
+        
+        return array('success' => true, 'mensaje' => 'Contraseña actualizada correctamente');
+        
+    } catch (PDOException $e) {
+        error_log("[Auth] Error al cambiar contraseña: " . $e->getMessage());
+        return array('success' => false, 'mensaje' => 'Error al cambiar contraseña');
+    }
 }

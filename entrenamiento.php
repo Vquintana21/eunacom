@@ -2,22 +2,15 @@
 // ============================================
 // CONFIGURACIÓN DE BASE DE DATOS
 // ============================================
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';           // TU USUARIO
-$db_pass = 'Vq_09875213';               // TU CONTRASEÑA
-$db_name = 'dpimeduchile_eunacom';
+require_once __DIR__ . '/auth.php';
+require_once __DIR__ . '/env/config.php';
 
+$pdo = getDB();
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    die("Error de conexión: " . $e->getMessage());
-}
+ini_set('display_errors', 1);
+
+$usuario = getCurrentUser();
+
 
 // ============================================
 // DETERMINAR NIVEL DE NAVEGACIÓN
@@ -535,18 +528,135 @@ switch ($nivel) {
             background: #e9ecef;
             color: #2c3e50;
         }
+		
+		/* Header */
+        .header {
+            background: white;
+            border-radius: 15px;
+            padding: 25px 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header-left h1 {
+            color: #2c3e50;
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+        }
+        
+        .header-left p {
+            color: #7f8c8d;
+        }
+        
+        .header-right {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .user-info {
+            text-align: right;
+        }
+        
+        .user-name {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .user-email {
+            font-size: 0.85rem;
+            color: #7f8c8d;
+        }
+        
+        .btn-logout {
+            padding: 10px 20px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s;
+        }
+        
+        .btn-logout:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+        }
+		.btn-home-green {
+    padding: 10px 20px;
+    background: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.btn-home-green:hover {
+    background: #229954;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(39, 174, 96, 0.3);
+}
+
+/* Botón Azul */
+.btn-home-blue {
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.btn-home-blue:hover {
+    background: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+}
+		
     </style>
 </head>
 <body>
     <div class="container">
+	
+	 <div class="header">
+            <div class="header-left">
+                <h1>🏥 <?= SITE_NAME ?></h1>
+                <p>Sistema de Preparación EUNACOM</p>
+            </div>
+            <div class="header-right">
+                <div class="user-info">
+                    <div class="user-name">👤 <?= e($usuario['nombre']) ?></div>
+                    <div class="user-email"><?= e($usuario['email']) ?></div>
+                </div>
+				<a href="<?= buildUrl('index.php') ?>" class="btn-home-green">
+    🏠 Inicio
+</a>
+                <a href="<?= buildUrl('logout.php') ?>" class="btn-logout">
+                    🚪 Cerrar Sesión
+                </a>
+            </div>
+        </div>
         
         <!-- BREADCRUMB -->
         <div class="breadcrumb">
             <?php foreach ($breadcrumb as $index => $item): ?>
                 <?php if ($item['url']): ?>
-                    <a href="<?= $item['url'] ?>"><?= htmlspecialchars($item['nombre']) ?></a>
+                    <a href="<?= $item['url'] ?>"><?= e($item['nombre']) ?></a>
                 <?php else: ?>
-                    <span class="breadcrumb-current"><?= htmlspecialchars($item['nombre']) ?></span>
+                    <span class="breadcrumb-current"><?= e($item['nombre']) ?></span>
                 <?php endif; ?>
                 
                 <?php if ($index < count($breadcrumb) - 1): ?>
@@ -610,9 +720,9 @@ switch ($nivel) {
 <?php endif; ?>
             
             <div class="card">
-                <h1><?= htmlspecialchars($tema['nombre']) ?></h1>
+                <h1><?= e($tema['nombre']) ?></h1>
                 <p class="subtitle">
-                    <?= htmlspecialchars($tema['codigo_completo']) ?> • 
+                    <?= e($tema['codigo_completo']) ?> • 
                     <?= count($preguntas) ?> preguntas
                 </p>
                 
@@ -631,7 +741,7 @@ switch ($nivel) {
                     <div class="card pregunta-card">
                         <div style="margin-bottom: 15px;">
                             <span class="pregunta-numero"><?= $pregunta['numero_pregunta'] ?></span>
-                            <span class="pregunta-texto"><?= nl2br(htmlspecialchars($pregunta['texto_pregunta'])) ?></span>
+                            <span class="pregunta-texto"><?= nl2br(e($pregunta['texto_pregunta'])) ?></span>
                         </div>
                         
                         <?php foreach ($pregunta['alternativas'] as $alt): ?>
@@ -660,7 +770,7 @@ switch ($nivel) {
                                     <?= $mostrar_resultados ? 'disabled' : '' ?>
                                 >
                                 <span class="opcion-letra <?= $clase_letra ?>"><?= $alt['opcion'] ?></span>
-                                <span><?= htmlspecialchars($alt['texto_alternativa']) ?></span>
+                                <span><?= e($alt['texto_alternativa']) ?></span>
                                 
                                 <?php if ($es_correcta): ?>
                                     <span style="margin-left: auto; color: #28a745; font-weight: bold;">✓</span>
@@ -673,7 +783,7 @@ switch ($nivel) {
                         <?php if ($mostrar_resultados && $pregunta['explicacion_completa']): ?>
                             <div class="explicacion show">
                                 <strong>💡 Explicación:</strong><br>
-                                <?= nl2br(htmlspecialchars($pregunta['explicacion_completa'])) ?>
+                                <?= nl2br(e($pregunta['explicacion_completa'])) ?>
                             </div>
                         <?php endif; ?>
                     </div>
@@ -735,9 +845,9 @@ switch ($nivel) {
                         
                         <a href="<?= $url ?>" class="item-card">
                             <div class="icon"><?= $icono ?></div>
-                            <div class="item-title"><?= htmlspecialchars($item['nombre']) ?></div>
+                            <div class="item-title"><?= e($item['nombre']) ?></div>
                             <?php if ($nivel === 'temas'): ?>
-                                <span class="item-badge"><?= htmlspecialchars($item['codigo_completo']) ?></span>
+                                <span class="item-badge"><?= e($item['codigo_completo']) ?></span>
                             <?php endif; ?>
                             <div class="item-meta"><?= $meta ?></div>
                         </a>
