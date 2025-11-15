@@ -1,32 +1,16 @@
 <?php
-// ============================================
-// ACTIVAR ERRORES PARA DEBUG
-// ============================================
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
+require_once __DIR__ . '/env/config.php';
+require_once __DIR__ . '/auth.php';
 
-session_start();
+// Requiere autenticaci®Æn
+requireAuth();
 
-// Conexi®Æn a BD
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';     
-$db_pass = 'Vq_09875213';              
-$db_name = 'dpimeduchile_eunacom';
+// Obtener usuario actual de la sesi®Æn
+$usuario = getCurrentUser();
+$usuario_id = $usuario['id'];
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    die("<h1>Error de conexi®Æn</h1><pre>" . $e->getMessage() . "</pre>");
-}
-
-// Usuario de prueba (mientras no hay login)
-$usuario_id = 1;
+// Obtener conexi®Æn a BD
+$pdo = getDB();
 
 // Verificar si hay examen en curso
 $sql = "
@@ -39,6 +23,14 @@ $sql = "
 $stmt = $pdo->prepare($sql);
 $stmt->execute([$usuario_id]);
 $examen_en_curso = $stmt->fetch(PDO::FETCH_ASSOC);
+
+// Mensaje de cancelaci®Æn
+$mensaje_cancelado = '';
+if (isset($_GET['cancelado'])) {
+    $mensaje_cancelado = '<div class="alert alert-info">
+        ?? El examen anterior fue cancelado exitosamente. Puedes iniciar un nuevo simulacro cuando est®¶s listo.
+    </div>';
+}
 
 // Procesar inicio de nuevo simulacro
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['iniciar_simulacro'])) {
@@ -75,14 +67,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['iniciar_simulacro']))
         } else {
             echo "<h3 style='color:red;'>? ERROR al generar simulacro:</h3>";
             echo "<pre style='background:#ffebee;padding:15px;border-radius:5px;'>";
-            echo htmlspecialchars($resultado['error']);
+            echo e($resultado['error']);
             echo "</pre>";
             
             // Mostrar trace si existe
             if (isset($resultado['trace'])) {
                 echo "<h4>Stack Trace:</h4>";
                 echo "<pre style='background:#fff3cd;padding:15px;border-radius:5px;font-size:12px;'>";
-                echo htmlspecialchars($resultado['trace']);
+                echo e($resultado['trace']);
                 echo "</pre>";
             }
         }
@@ -90,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['iniciar_simulacro']))
     } catch (Exception $e) {
         echo "<h3 style='color:red;'>? EXCEPCI®ÆN CAPTURADA:</h3>";
         echo "<pre style='background:#ffebee;padding:15px;border-radius:5px;'>";
-        echo "Mensaje: " . htmlspecialchars($e->getMessage()) . "\n\n";
+        echo "Mensaje: " . e($e->getMessage()) . "\n\n";
         echo "Archivo: " . $e->getFile() . "\n";
         echo "L®™nea: " . $e->getLine() . "\n\n";
         echo "Trace:\n" . $e->getTraceAsString();
@@ -246,6 +238,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['iniciar_simulacro']))
             margin-bottom: 20px;
             border-left: 4px solid #dc3545;
         }
+		.alert {
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid;
+        }
+        
+        .alert-info {
+            background: #d1ecf1;
+            border-color: #17a2b8;
+            color: #0c5460;
+        }
     </style>
 </head>
 <body>
@@ -253,10 +257,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['iniciar_simulacro']))
         <div class="card">
             <h1>üè• Simulacro EUNACOM</h1>
             <p class="subtitle">Examen de Habilitaci√≥n M√©dica</p>
+			
+			 <?php if ($mensaje_cancelado): ?>
+                <?= $mensaje_cancelado ?>
+            <?php endif; ?>
             
             <?php if (isset($error)): ?>
                 <div class="error">
-                    <strong>Error:</strong> <?= htmlspecialchars($error) ?>
+                    <strong>Error:</strong> <?= e($error) ?>
                 </div>
             <?php endif; ?>
             

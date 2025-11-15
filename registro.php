@@ -232,13 +232,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
         <div class="register-body">
             <?php if ($error): ?>
                 <div class="alert alert-error">
-                    ⚠️ <?= htmlspecialchars($error) ?>
+                    ⚠️ <?= e($error) ?>
                 </div>
             <?php endif; ?>
             
             <?php if ($success): ?>
                 <div class="alert alert-success">
-                    ✓ <?= htmlspecialchars($success) ?>
+                    ✓ <?= e($success) ?>
                 </div>
             <?php endif; ?>
             
@@ -248,13 +248,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
                 <div class="form-group">
                     <label for="nombre">👤 Nombre Completo</label>
                     <input type="text" id="nombre" name="nombre" required autofocus 
-                           value="<?= htmlspecialchars(isset($_POST['nombre']) ? $_POST['nombre'] : '') ?>">
+                           value="<?= e(isset($_POST['nombre']) ? $_POST['nombre'] : '') ?>">
                 </div>
                 
                 <div class="form-group">
                     <label for="email">📧 Email</label>
                     <input type="email" id="email" name="email" required 
-                           value="<?= htmlspecialchars(isset($_POST['email']) ? $_POST['email'] : '') ?>">
+                           value="<?= e(isset($_POST['email']) ? $_POST['email'] : '') ?>">
                 </div>
                 
                 <div class="form-group">

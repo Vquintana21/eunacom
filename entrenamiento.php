@@ -625,7 +625,59 @@ switch ($nivel) {
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
 }
-		
+	
+/* Botones flotantes de scroll */
+.scroll-buttons {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.scroll-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background: #3498db;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.scroll-btn:hover {
+    background: #2980b9;
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(52, 152, 219, 0.5);
+}
+
+.scroll-btn:active {
+    transform: scale(0.95);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .scroll-buttons {
+        bottom: 20px;
+        right: 20px;
+    }
+    
+    .scroll-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 1.3rem;
+    }
+}
+	
     </style>
 </head>
 <body>
@@ -858,5 +910,57 @@ switch ($nivel) {
         <?php endif; ?>
         
     </div>
+
+<!-- Botones flotantes de navegación -->
+<div class="scroll-buttons">
+    <button id="scrollToTop" class="scroll-btn scroll-btn-top" title="Ir al inicio">
+        ↑
+    </button>
+    <button id="scrollToBottom" class="scroll-btn scroll-btn-bottom" title="Ir al final">
+        ↓
+    </button>
+</div>
+
+<script>
+// Botones de navegación
+var btnTop = document.getElementById('scrollToTop');
+var btnBottom = document.getElementById('scrollToBottom');
+
+// Mostrar/ocultar botones según scroll
+window.onscroll = function() {
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        btnTop.style.display = 'flex';
+    } else {
+        btnTop.style.display = 'none';
+    }
+    
+    var windowHeight = window.innerHeight;
+    var documentHeight = document.documentElement.scrollHeight;
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    
+    if (scrollTop + windowHeight < documentHeight - 300) {
+        btnBottom.style.display = 'flex';
+    } else {
+        btnBottom.style.display = 'none';
+    }
+};
+
+// Scroll suave al inicio
+btnTop.onclick = function() {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+};
+
+// Scroll suave al final
+btnBottom.onclick = function() {
+    window.scrollTo({
+        top: document.documentElement.scrollHeight,
+        behavior: 'smooth'
+    });
+};
+</script>
+
 </body>
 </html>

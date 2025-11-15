@@ -1,25 +1,18 @@
 <?php
 session_start();
 
-// Conexión a BD
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';           // TU USUARIO
-$db_pass = 'Vq_09875213';               // TU CONTRASEÑA
-$db_name = 'dpimeduchile_eunacom';
+require_once __DIR__ . '/env/config.php';
+require_once __DIR__ . '/auth.php';
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    die("Error de conexión: " . $e->getMessage());
-}
+// Requiere autenticación
+requireAuth();
 
-// Usuario de prueba
-$usuario_id = 1;
+// Obtener usuario actual
+$usuario = getCurrentUser();
+$usuario_id = $usuario['id'];
+
+// Obtener conexión a BD
+$pdo = getDB();
 
 // Obtener código del examen
 $codigo_examen = isset($_GET['examen']) ? $_GET['examen'] : null;
@@ -290,6 +283,12 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
             border-color: #ffc107;
             color: #856404;
         }
+		
+		.question-nav-btn.marked-empty {
+				background: #ffe0b2;
+				border-color: #ff9800;
+				color: #e65100;
+			}
         
         .question-nav-btn.current {
             background: #3498db;
@@ -509,11 +508,30 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
             color: white;
             flex: 1;
         }
+		
+		.btn-cancel {
+            background: #e74c3c;
+            color: white;
+        }
+        
+        .btn-cancel:hover {
+            background: #c0392b;
+        }
+		
+		.btn-danger {
+            background: #e74c3c;
+            color: white;
+            flex: 1;
+        }
+        
+        .btn-danger:hover {
+            background: #c0392b;
+        }
     </style>
 </head>
 <body>
     
-    <!-- BARRA SUPERIOR -->
+<!-- BARRA SUPERIOR -->
     <div class="header-bar">
         <div class="header-info">
             <div class="exam-title">Simulacro EUNACOM</div>
@@ -526,6 +544,9 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
             </div>
             <button class="btn btn-finish" onclick="mostrarModalFinalizacion()">
                 <?= $sesion_actual == 1 ? 'Finalizar Sesión 1' : 'Finalizar Examen' ?>
+            </button>
+            <button class="btn btn-cancel" onclick="mostrarModalCancelacion()">
+                ❌ Cancelar Examen
             </button>
         </div>
     </div>
@@ -577,9 +598,9 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 </button>
                 
                 <button class="btn btn-mark" id="btn-mark" onclick="toggleMarcar()">
-                    🏴 Marcar para revisión
-                </button>
-                
+					🚩 Revisar después
+				</button>
+								
                 <button class="btn btn-next" id="btn-next" onclick="preguntaSiguiente()">
                     Siguiente →
                 </button>
@@ -619,6 +640,38 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <button class="btn btn-cancel" onclick="cerrarModal()">Cancelar</button>
                 <button class="btn btn-confirm" onclick="confirmarFinalizacion()">
                     Confirmar
+                </button>
+            </div>
+        </div>
+    </div>
+	
+	<!-- MODAL DE CANCELACIÓN -->
+    <div class="modal" id="modal-cancelacion">
+        <div class="modal-content">
+            <h2 style="color: #e74c3c;">⚠️ ¿Cancelar Examen?</h2>
+            
+            <div style="background: #fff3cd; padding: 20px; border-radius: 10px; margin: 20px 0; border-left: 4px solid #f39c12;">
+                <p style="color: #856404; margin-bottom: 10px;">
+                    <strong>Importante:</strong>
+                </p>
+                <ul style="color: #856404; margin-left: 20px;">
+                    <li>Este examen será cancelado definitivamente</li>
+                    <li>No se guardará en tu historial de rendimiento</li>
+                    <li>Podrás iniciar un nuevo simulacro cuando desees</li>
+                    <li>Todo tu progreso actual se perderá</li>
+                </ul>
+            </div>
+            
+            <p style="color: #7f8c8d; text-align: center; margin: 20px 0;">
+                ¿Estás seguro de que deseas cancelar este examen?
+            </p>
+            
+            <div class="modal-buttons">
+                <button class="btn btn-secondary" onclick="cerrarModalCancelacion()">
+                    No, continuar examen
+                </button>
+                <button class="btn btn-danger" onclick="confirmarCancelacion()">
+                    Sí, cancelar examen
                 </button>
             </div>
         </div>
@@ -751,36 +804,43 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
             actualizarBotonMarcar();
         }
         
-        function seleccionarAlternativa(opcion) {
-            // Guardar respuesta
-            fetch('simulacro_ajax.php', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({
-                    action: 'guardar_respuesta',
-                    examen_id: EXAMEN_ID,
-                    pregunta_id: PREGUNTAS[preguntaActual].pregunta_id,
-                    alternativa: opcion
-                })
-            })
-            .then(response => response.json())
-            .then(data => {
-                if (data.success) {
-                    // Actualizar estado local
-                    PREGUNTAS[preguntaActual].alternativa_seleccionada = opcion;
-                    
-                    // Actualizar UI
-                    actualizarProgreso();
-                    actualizarNavegacion();
-                    
-                    // Marcar alternativa seleccionada
-                    document.querySelectorAll('.alternative').forEach(alt => {
-                        alt.classList.remove('selected');
-                    });
-                    event.currentTarget.classList.add('selected');
-                }
-            });
-        }
+			function seleccionarAlternativa(opcion) {
+				const pregunta = PREGUNTAS[preguntaActual];
+				
+				// Si ya está seleccionada esta misma opción, desmarcar
+				let nuevaAlternativa = opcion;
+				if (pregunta.alternativa_seleccionada === opcion) {
+					nuevaAlternativa = null; // Desmarcar
+				}
+				
+				// Guardar respuesta (puede ser null para desmarcar)
+				fetch('simulacro_ajax.php', {
+					method: 'POST',
+					headers: {'Content-Type': 'application/json'},
+					body: JSON.stringify({
+						action: 'guardar_respuesta',
+						examen_id: EXAMEN_ID,
+						pregunta_id: pregunta.pregunta_id,
+						alternativa: nuevaAlternativa
+					})
+				})
+				.then(response => response.json())
+				.then(data => {
+					if (data.success) {
+						// Actualizar estado local
+						pregunta.alternativa_seleccionada = nuevaAlternativa;
+						
+						// Actualizar UI
+						actualizarProgreso();
+						
+						// Recargar la pregunta completa para actualizar radios
+						cargarPregunta(preguntaActual);
+					}
+				})
+				.catch(error => {
+					console.error('Error al guardar respuesta:', error);
+				});
+			}
         
         function toggleMarcar() {
             const pregunta = PREGUNTAS[preguntaActual];
@@ -823,54 +883,70 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
             cargarPregunta(index);
         }
         
-        function actualizarNavegacion() {
-            document.querySelectorAll('.question-nav-btn').forEach((btn, index) => {
-                btn.classList.remove('current');
-                if (index === preguntaActual) {
-                    btn.classList.add('current');
-                }
-            });
-            
-            // Actualizar botones de navegación
-            document.getElementById('btn-previous').disabled = preguntaActual === 0;
-            document.getElementById('btn-next').disabled = preguntaActual === PREGUNTAS.length - 1;
-        }
+	function actualizarNavegacion() {
+		document.querySelectorAll('.question-nav-btn').forEach((btn, index) => {
+			// Limpiar TODAS las clases de estado
+			btn.classList.remove('answered', 'marked', 'marked-empty', 'current');
+			
+			const pregunta = PREGUNTAS[index];
+			
+			// 1. Pregunta actual (prioridad máxima - siempre visible)
+			if (index === preguntaActual) {
+				btn.classList.add('current');
+			}
+			
+			// 2. Estados de respuesta (solo si NO es la actual)
+			if (index !== preguntaActual) {
+				// Marcada para revisión
+				if (pregunta.marcada_revision) {
+					if (pregunta.alternativa_seleccionada) {
+						// Marcada Y respondida = Amarillo
+						btn.classList.add('marked');
+					} else {
+						// Marcada pero SIN responder = Naranja
+						btn.classList.add('marked-empty');
+					}
+				} 
+				// Solo respondida (sin marcar)
+				else if (pregunta.alternativa_seleccionada) {
+					btn.classList.add('answered');
+				}
+				// Si no cumple nada, queda blanco (sin clase)
+			}
+		});
+		
+		// Actualizar botones de navegación
+		document.getElementById('btn-previous').disabled = preguntaActual === 0;
+		document.getElementById('btn-next').disabled = preguntaActual === PREGUNTAS.length - 1;
+	}
         
-        function actualizarBotonMarcar() {
-            const btn = document.getElementById('btn-mark');
-            if (PREGUNTAS[preguntaActual].marcada_revision) {
-                btn.textContent = '✓ Marcada';
-                btn.classList.add('marked');
-            } else {
-                btn.textContent = '🏴 Marcar para revisión';
-                btn.classList.remove('marked');
-            }
-        }
-        
-        function actualizarProgreso() {
-            let respondidas = 0;
-            let marcadas = 0;
-            
-            PREGUNTAS.forEach(p => {
-                if (p.alternativa_seleccionada) respondidas++;
-                if (p.marcada_revision) marcadas++;
-            });
-            
-            document.getElementById('progress-answered').textContent = `${respondidas}/90`;
-            document.getElementById('progress-omitted').textContent = 90 - respondidas;
-            document.getElementById('progress-marked').textContent = marcadas;
-            
-            // Actualizar grid
-            document.querySelectorAll('.question-nav-btn').forEach((btn, index) => {
-                btn.classList.remove('answered', 'marked');
-                if (PREGUNTAS[index].alternativa_seleccionada) {
-                    btn.classList.add('answered');
-                }
-                if (PREGUNTAS[index].marcada_revision) {
-                    btn.classList.add('marked');
-                }
-            });
-        }
+      function actualizarBotonMarcar() {
+			const btn = document.getElementById('btn-mark');
+			if (PREGUNTAS[preguntaActual].marcada_revision) {
+				btn.textContent = '✓ Marcada para revisión posterior';
+				btn.classList.add('marked');
+			} else {
+				btn.textContent = '🚩 Revisar después';
+				btn.classList.remove('marked');
+			}
+		}
+				
+		function actualizarProgreso() {
+			let respondidas = 0;
+			let marcadas = 0;
+			
+			PREGUNTAS.forEach(p => {
+				if (p.alternativa_seleccionada) respondidas++;
+				if (p.marcada_revision) marcadas++;
+			});
+			
+			document.getElementById('progress-answered').textContent = `${respondidas}/90`;
+			document.getElementById('progress-omitted').textContent = 90 - respondidas;
+			document.getElementById('progress-marked').textContent = marcadas;
+			
+			// Llamar a la función de navegación que ya maneja los colores correctamente
+			actualizarNavegacion();
+		}
         
         // ============================================
         // FINALIZACIÓN
@@ -931,6 +1007,76 @@ $info_preguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 e.returnValue = '';
             });
         });
+		
+		// ============================================
+        // CANCELACIÓN DE EXAMEN
+        // ============================================
+        function mostrarModalCancelacion() {
+            document.getElementById('modal-cancelacion').classList.add('show');
+        }
+        
+        function cerrarModalCancelacion() {
+            document.getElementById('modal-cancelacion').classList.remove('show');
+        }
+        
+        function confirmarCancelacion() {
+            // Detener timer
+            clearInterval(timerInterval);
+            
+            // Mostrar mensaje de carga
+            cerrarModalCancelacion();
+            
+            const loadingMsg = document.createElement('div');
+            loadingMsg.style.cssText = `
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background: rgba(0,0,0,0.9);
+                color: white;
+                padding: 30px 50px;
+                border-radius: 15px;
+                text-align: center;
+                z-index: 10000;
+                font-size: 1.2rem;
+            `;
+            loadingMsg.innerHTML = '⏳ Cancelando examen...';
+            document.body.appendChild(loadingMsg);
+            
+            // Enviar cancelación
+            fetch('simulacro_ajax.php', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    action: 'cancelar_examen',
+                    examen_id: EXAMEN_ID,
+                    sesion: SESION_ACTUAL
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    loadingMsg.innerHTML = '✓ Examen cancelado exitosamente';
+                    
+                    setTimeout(() => {
+                        window.location.href = 'simulacro_inicio.php?cancelado=1';
+                    }, 1500);
+                } else {
+                    loadingMsg.innerHTML = '❌ Error al cancelar: ' + (data.error || 'Desconocido');
+                    setTimeout(() => {
+                        document.body.removeChild(loadingMsg);
+                        alert('Error al cancelar el examen. Por favor, intenta nuevamente.');
+                    }, 2000);
+                }
+            })
+            .catch(error => {
+                loadingMsg.innerHTML = '❌ Error de conexión';
+                setTimeout(() => {
+                    document.body.removeChild(loadingMsg);
+                    alert('Error de conexión. Por favor, verifica tu internet.');
+                }, 2000);
+            });
+        }
     </script>
 </body>
 </html>

@@ -212,7 +212,20 @@ if (isset($_GET['logout'])) {
         .forgot-password a:hover {
             color: #667eea;
         }
-    </style>
+		
+		.alert-error {
+			background: #fee;
+			color: #c33;
+			border: 1px solid #fcc;
+		}
+
+		.alert-error.blocked {
+			background: #ffebee;
+			color: #c62828;
+			border: 2px solid #ef5350;
+			font-weight: 600;
+		}
+			</style>
 </head>
 <body>
     <div class="login-container">

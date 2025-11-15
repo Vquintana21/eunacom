@@ -1,25 +1,14 @@
 <?php
 session_start();
 
-// Conexión a BD
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';           // TU USUARIO
-$db_pass = 'Vq_09875213';               // TU CONTRASEÑA
-$db_name = 'dpimeduchile_eunacom';
+require_once __DIR__ . '/env/config.php';
+require_once __DIR__ . '/auth.php';
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    die("Error de conexión: " . $e->getMessage());
-}
+requireAuth();
+$usuario = getCurrentUser();
+$usuario_id = $usuario['id'];
 
-// Usuario de prueba
-$usuario_id = 1;
+$pdo = getDB();
 
 // Obtener código del examen
 $codigo_examen = isset($_GET['examen']) ? $_GET['examen'] : null;
@@ -377,7 +366,7 @@ if ($porcentaje >= 70) {
         <!-- Header -->
         <div class="header">
             <h1><?= $nivel_icon ?> Simulacro Completado</h1>
-            <div class="codigo">Código: <?= htmlspecialchars($examen['codigo_examen']) ?></div>
+            <div class="codigo">Código: <?= e($examen['codigo_examen']) ?></div>
         </div>
         
         <!-- Score Principal -->
@@ -451,7 +440,7 @@ if ($porcentaje >= 70) {
                         $clase_progreso = $porcentaje_area >= 70 ? 'alto' : ($porcentaje_area >= 50 ? 'medio' : 'bajo');
                         ?>
                         <tr>
-                            <td><strong><?= htmlspecialchars($area['area_nombre']) ?></strong></td>
+                            <td><strong><?= e($area['area_nombre']) ?></strong></td>
                             <td style="text-align: center;"><?= $area['total_preguntas'] ?></td>
                             <td style="text-align: center; color: #28a745; font-weight: 600;"><?= $area['correctas'] ?></td>
                             <td style="text-align: center; color: #dc3545; font-weight: 600;"><?= $area['incorrectas'] ?></td>
@@ -489,7 +478,7 @@ if ($porcentaje >= 70) {
                         $clase_progreso = $porcentaje_tipo >= 70 ? 'alto' : ($porcentaje_tipo >= 50 ? 'medio' : 'bajo');
                         ?>
                         <tr>
-                            <td><strong><?= htmlspecialchars($tipo['tipo_nombre']) ?></strong></td>
+                            <td><strong><?= e($tipo['tipo_nombre']) ?></strong></td>
                             <td style="text-align: center;"><?= $tipo['total_preguntas'] ?></td>
                             <td style="text-align: center; color: #28a745; font-weight: 600;"><?= $tipo['correctas'] ?></td>
                             <td style="text-align: center; color: #dc3545; font-weight: 600;"><?= $tipo['incorrectas'] ?></td>
@@ -509,10 +498,13 @@ if ($porcentaje >= 70) {
         <!-- Acciones -->
         <div class="card">
             <div class="actions">
-                <a href="simulacro_inicio.php" class="btn btn-primary">
+                <a href="<?= buildUrl('simulacro_revision.php?examen=' . urlencode($codigo_examen)) ?>" class="btn btn-primary" style="background: #9b59b6;">
+                    📝 Revisar Respuestas
+                </a>
+                <a href="<?= buildUrl('simulacro_inicio.php') ?>" class="btn btn-primary">
                     🔄 Nuevo Simulacro
                 </a>
-                <a href="entrenamiento.php" class="btn btn-secondary">
+                <a href="<?= buildUrl('entrenamiento.php') ?>" class="btn btn-secondary">
                     📚 Ir a Entrenamiento
                 </a>
             </div>

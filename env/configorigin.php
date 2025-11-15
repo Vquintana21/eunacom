@@ -15,9 +15,9 @@ if (ENTORNO === 'desarrollo') {
     
     // Base de datos
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
+    define('DB_USER', '');
     define('DB_PASS', '');
-    define('DB_NAME', 'dpimeduchile_eunacom');
+    define('DB_NAME', '');
     
 } else {
     // Configuración de PRODUCCIÓN
@@ -27,9 +27,9 @@ if (ENTORNO === 'desarrollo') {
     
     // Base de datos (ajustar para producción)
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
+    define('DB_USER', '');
     define('DB_PASS', '');
-    define('DB_NAME', 'dpimeduchile_eunacom');
+    define('DB_NAME', '');
 }
 
 // ============================================

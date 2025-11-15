@@ -202,6 +202,7 @@ switch ($nivel) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Materiales de Estudio - EUNACOM</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <style>
         * {
             margin: 0;
@@ -685,7 +686,7 @@ switch ($nivel) {
             </div>
         </div>
         <!-- ALERT DE CONFIGURACIÓN (Solo visible en desarrollo) -->
-        <?php if (ENTORNO === 'desarrollo'): ?>
+        <?php /* if (ENTORNO === 'desarrollo'): ?>
             <div class="config-alert">
                 <span style="font-size: 1.5rem;">⚙️</span>
                 <div>
@@ -693,7 +694,7 @@ switch ($nivel) {
                     <small>Base: <?= BASE_URL ?> | Materiales: <?= MATERIALES_URL ?></small>
                 </div>
             </div>
-        <?php endif; ?>
+        <?php endif; */?>
         
         <!-- BREADCRUMB -->
         <div class="breadcrumb">
@@ -731,12 +732,20 @@ switch ($nivel) {
             <!-- LISTA DE DOCUMENTOS -->
             
             <div class="card">
-                <h1>📚 Materiales de Estudio</h1>
-                <p class="subtitle">
+				<div class="header">
+						<div class="header-left">
+							<h1>📚 Materiales de Estudio</h1>
+							  <p class="subtitle">
                     <?= e($especialidad['nombre']) ?> • 
                     <?= count($datos) ?> documentos disponibles
                 </p>
-                
+						</div>
+						<div class="header-right">
+							<a href="<?= buildUrl('descargas_masivas.php') ?>" class="btn-home-green">
+							<i class="bi bi-cloud-download"></i> Descargar Todo
+							</a>
+						</div>	
+				 </div>
                 <a href="<?= buildUrl("materiales.php?area={$area_id}") ?>" class="btn btn-secondary" style="margin-bottom: 20px;">
                     ← Volver a especialidades
                 </a>
@@ -784,12 +793,30 @@ switch ($nivel) {
             
             <div class="card">
                 <?php if ($nivel === 'areas'): ?>
-                    <h1>📚 Materiales de Estudio</h1>
-                    <p class="subtitle">Selecciona un área para ver los materiales disponibles</p>
+                    <div class="header">
+						<div class="header-left">
+							<h1>📚 Materiales de Estudio</h1>
+							<p class="subtitle">Selecciona un área para ver los materiales disponibles</p>
+						</div>
+						<div class="header-right">
+							<a href="<?= buildUrl('descargas_masivas.php') ?>" class="btn-home-green">
+							<i class="bi bi-cloud-download"></i> Descargar Todo
+							</a>
+						</div>
+					</div>
                     
                 <?php elseif ($nivel === 'especialidades'): ?>
+				<div class="header">
+						<div class="header-left">
                     <h1>🏥 Especialidades</h1>
                     <p class="subtitle">Selecciona una especialidad para ver los documentos</p>
+					</div>
+						<div class="header-right">
+							<a href="<?= buildUrl('descargas_masivas.php') ?>" class="btn-home-green">
+							<i class="bi bi-cloud-download"></i> Descargar Todo
+							</a>
+						</div>
+					</div>
                 <?php endif; ?>
             </div>
             

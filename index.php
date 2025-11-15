@@ -1,8 +1,9 @@
 <?php
 /**
  * ============================================
- * DASHBOARD PRINCIPAL
+ * DASHBOARD PRINCIPAL - VERSIÓN MEJORADA
  * ============================================
+ * Estadísticas combinadas: Sistema + Usuario
  */
 
 require_once __DIR__ . '/env/config.php';
@@ -17,7 +18,9 @@ $usuario = getCurrentUser();
 // Obtener conexión a BD
 $pdo = getDB();
 
-// Obtener estadísticas del usuario
+// ==================================================
+// ESTADÍSTICAS DEL SISTEMA (Generales)
+// ==================================================
 try {
     // Total de áreas disponibles
     $stmt = $pdo->query("SELECT COUNT(*) as total FROM areas WHERE activo = 1");
@@ -31,19 +34,61 @@ try {
     $stmt = $pdo->query("SELECT COUNT(*) as total FROM documentos_estudio WHERE activo = 1");
     $total_documentos = $stmt->fetch()['total'];
     
-    // Progreso del usuario (si existe)
+    // Total de preguntas disponibles
+    $stmt = $pdo->query("SELECT COUNT(*) as total FROM preguntas WHERE activa = 1");
+    $total_preguntas = $stmt->fetch()['total'];
+    
+} catch (PDOException $e) {
+    error_log("[Dashboard] Error al obtener estadísticas del sistema: " . $e->getMessage());
+    $total_areas = 0;
+    $total_temas = 0;
+    $total_documentos = 0;
+    $total_preguntas = 0;
+}
+
+// ==================================================
+// ESTADÍSTICAS DEL USUARIO (Personalizadas)
+// ==================================================
+try {
+    // Estadísticas de SIMULACROS (tabla examenes)
     $stmt = $pdo->prepare("
         SELECT 
-            COUNT(DISTINCT pe.tema_id) as temas_completados,
-            SUM(pe.preguntas_correctas) as total_correctas,
-            SUM(pe.preguntas_respondidas) as total_respondidas
-        FROM progreso_estudiante pe
-        WHERE pe.usuario_id = ?
+            COUNT(*) as total_simulacros,
+            SUM(CASE WHEN estado = 'finalizado' THEN 1 ELSE 0 END) as simulacros_completados,
+            MAX(puntaje_porcentaje) as mejor_puntaje
+        FROM examenes
+        WHERE usuario_id = ?
     ");
     $stmt->execute(array($usuario['id']));
-    $progreso = $stmt->fetch();
+    $stats_simulacros = $stmt->fetch();
     
-    // Últimos simulacros
+    // Estadísticas de RESPUESTAS (tabla respuestas_usuario)
+    $stmt = $pdo->prepare("
+        SELECT 
+            COUNT(*) as total_respondidas,
+            SUM(CASE WHEN es_correcta = 1 THEN 1 ELSE 0 END) as total_correctas,
+            SUM(CASE WHEN alternativa_seleccionada IS NULL THEN 1 ELSE 0 END) as total_omitidas
+        FROM respuestas_usuario ru
+        INNER JOIN examenes e ON ru.examen_id = e.id
+        WHERE e.usuario_id = ?
+    ");
+    $stmt->execute(array($usuario['id']));
+    $stats_respuestas = $stmt->fetch();
+    
+    // Estadísticas de PROGRESO POR ÁREA (tabla progreso_estudiante)
+    $stmt = $pdo->prepare("
+        SELECT 
+            SUM(total_preguntas_respondidas) as preguntas_respondidas_areas,
+            SUM(preguntas_correctas) as correctas_areas,
+            SUM(temas_completados) as temas_completados,
+            SUM(tiempo_total_estudio_min) as tiempo_total_min
+        FROM progreso_estudiante
+        WHERE usuario_id = ?
+    ");
+    $stmt->execute(array($usuario['id']));
+    $stats_progreso = $stmt->fetch();
+    
+    // Últimos simulacros realizados
     $stmt = $pdo->prepare("
         SELECT 
             e.codigo_examen,
@@ -61,26 +106,57 @@ try {
     $ultimos_simulacros = $stmt->fetchAll();
     
 } catch (PDOException $e) {
-    error_log("[Dashboard] Error al obtener estadísticas: " . $e->getMessage());
-    $total_areas = 0;
-    $total_temas = 0;
-    $total_documentos = 0;
-    $progreso = array('temas_completados' => 0, 'total_correctas' => 0, 'total_respondidas' => 0);
+    error_log("[Dashboard] Error al obtener estadísticas del usuario: " . $e->getMessage());
+    $stats_simulacros = array('total_simulacros' => 0, 'simulacros_completados' => 0, 'mejor_puntaje' => 0);
+    $stats_respuestas = array('total_respondidas' => 0, 'total_correctas' => 0, 'total_omitidas' => 0);
+    $stats_progreso = array('preguntas_respondidas_areas' => 0, 'correctas_areas' => 0, 'temas_completados' => 0, 'tiempo_total_min' => 0);
     $ultimos_simulacros = array();
 }
 
+// ==================================================
+// CALCULAR MÉTRICAS FINALES
+// ==================================================
+
+// Para las tarjetas principales, priorizamos datos de SIMULACROS
+$preguntas_respondidas_display = ($stats_respuestas['total_respondidas'] !== false && $stats_respuestas['total_respondidas'] > 0) 
+    ? $stats_respuestas['total_respondidas'] 
+    : 0;
+
+$preguntas_correctas_display = ($stats_respuestas['total_correctas'] !== false && $stats_respuestas['total_correctas'] > 0) 
+    ? $stats_respuestas['total_correctas'] 
+    : 0;
+
 // Calcular porcentaje de aciertos
 $porcentaje_aciertos = 0;
-if ($progreso['total_respondidas'] > 0) {
-    $porcentaje_aciertos = round(($progreso['total_correctas'] / $progreso['total_respondidas']) * 100, 1);
+if ($preguntas_respondidas_display > 0) {
+    $porcentaje_aciertos = round(($preguntas_correctas_display / $preguntas_respondidas_display) * 100, 1);
 }
+
+// Simulacros completados
+$simulacros_completados = ($stats_simulacros['simulacros_completados'] !== false) 
+    ? $stats_simulacros['simulacros_completados'] 
+    : 0;
+
+// Mejor puntaje
+$mejor_puntaje = ($stats_simulacros['mejor_puntaje'] !== false && $stats_simulacros['mejor_puntaje'] !== null) 
+    ? round($stats_simulacros['mejor_puntaje'], 1) 
+    : 0;
+
+// Formatear tiempo total de estudio
+$tiempo_estudio_horas = 0;
+$tiempo_estudio_min = 0;
+if ($stats_progreso['tiempo_total_min'] !== false && $stats_progreso['tiempo_total_min'] > 0) {
+    $tiempo_estudio_horas = floor($stats_progreso['tiempo_total_min'] / 60);
+    $tiempo_estudio_min = $stats_progreso['tiempo_total_min'] % 60;
+}
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard - <?= SITE_NAME ?></title>
+    <title>Dashboard - <?php echo SITE_NAME; ?></title>
     <style>
         * {
             margin: 0;
@@ -110,6 +186,7 @@ if ($progreso['total_respondidas'] > 0) {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            flex-wrap: wrap;
         }
         
         .header-left h1 {
@@ -143,14 +220,12 @@ if ($progreso['total_respondidas'] > 0) {
         }
         
         .btn-logout {
-            padding: 10px 20px;
             background: #e74c3c;
             color: white;
-            border: none;
+            padding: 10px 20px;
             border-radius: 8px;
-            cursor: pointer;
             text-decoration: none;
-            display: inline-block;
+            font-weight: 600;
             transition: all 0.3s;
         }
         
@@ -159,69 +234,101 @@ if ($progreso['total_respondidas'] > 0) {
             transform: translateY(-2px);
         }
         
-        /* Welcome Banner */
-        .welcome-banner {
+        /* Welcome Section */
+        .welcome {
             background: white;
             border-radius: 15px;
-            padding: 40px;
+            padding: 30px;
             margin-bottom: 30px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             text-align: center;
         }
         
-        .welcome-banner h2 {
+        .welcome h2 {
             color: #2c3e50;
-            font-size: 2rem;
+            font-size: 1.8rem;
             margin-bottom: 10px;
         }
         
-        .welcome-banner p {
+        .welcome p {
             color: #7f8c8d;
             font-size: 1.1rem;
         }
         
-        /* Stats Grid */
+        /* Stats Section */
+        .stats-section {
+            margin-bottom: 30px;
+        }
+        
+        .stats-title {
+            color: white;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            font-weight: 600;
+        }
+        
         .stats-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 20px;
-            margin-bottom: 30px;
+            margin-bottom: 40px;
         }
         
         .stat-card {
             background: white;
+            border-radius: 12px;
             padding: 25px;
-            border-radius: 15px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             transition: all 0.3s;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
         }
         
         .stat-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
         }
         
         .stat-icon {
             font-size: 2.5rem;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
         
         .stat-value {
             font-size: 2rem;
-            font-weight: bold;
+            font-weight: 700;
             color: #2c3e50;
-            margin-bottom: 5px;
+            margin-bottom: 8px;
         }
         
         .stat-label {
             color: #7f8c8d;
             font-size: 0.95rem;
+            font-weight: 500;
         }
         
-        /* Modules Grid */
+        .stat-sublabel {
+            color: #95a5a6;
+            font-size: 0.8rem;
+            margin-top: 5px;
+        }
+        
+        /* Diferentes colores para cada tipo de estadística */
+        .stat-card.sistema {
+            border-left: 4px solid #3498db;
+        }
+        
+        .stat-card.usuario {
+            border-left: 4px solid #2ecc71;
+        }
+        
+        /* Modules */
         .modules-title {
             color: white;
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             margin-bottom: 20px;
             text-align: center;
         }
@@ -229,108 +336,145 @@ if ($progreso['total_respondidas'] > 0) {
         .modules-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-bottom: 40px;
+            gap: 25px;
+            margin-bottom: 30px;
         }
         
         .module-card {
             background: white;
             border-radius: 15px;
-            overflow: hidden;
+            padding: 25px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             transition: all 0.3s;
             text-decoration: none;
             color: inherit;
+            display: block;
         }
         
         .module-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transform: translateY(-5px);
+            box-shadow: 0 5px 25px rgba(0,0,0,0.2);
         }
         
         .module-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 30px;
-            text-align: center;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #ecf0f1;
         }
         
         .module-icon {
-            font-size: 3rem;
-            margin-bottom: 10px;
+            font-size: 2.5rem;
         }
         
         .module-title {
-            color: white;
-            font-size: 1.5rem;
-            font-weight: 600;
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #2c3e50;
         }
         
         .module-body {
-            padding: 25px;
-        }
-        
-        .module-description {
             color: #7f8c8d;
-            margin-bottom: 20px;
             line-height: 1.6;
         }
         
+        .module-description {
+            margin-bottom: 15px;
+        }
+        
         .module-btn {
-            display: block;
-            width: 100%;
-            padding: 12px;
-            background: #667eea;
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            border: none;
+            padding: 12px 24px;
             border-radius: 8px;
             font-weight: 600;
             text-align: center;
-            cursor: pointer;
-            transition: all 0.3s;
+            margin-top: 10px;
         }
         
-        .module-btn:hover {
-            background: #764ba2;
+        .module-card:hover .module-btn {
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
         }
         
         /* Recent Activity */
         .recent-activity {
             background: white;
             border-radius: 15px;
-            padding: 30px;
+            padding: 25px;
+            margin-bottom: 30px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
         .recent-activity h3 {
             color: #2c3e50;
             margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+        
+        .activity-list {
+            list-style: none;
         }
         
         .activity-item {
             padding: 15px;
-            border-bottom: 1px solid #e9ecef;
+            border-left: 3px solid #3498db;
+            background: #f8f9fa;
+            margin-bottom: 10px;
+            border-radius: 5px;
         }
         
         .activity-item:last-child {
-            border-bottom: none;
+            margin-bottom: 0;
         }
         
-        .activity-status {
-            display: inline-block;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.85rem;
+        .activity-title {
             font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
         }
         
-        .status-finalizado {
-            background: #d4edda;
-            color: #155724;
+        .activity-meta {
+            font-size: 0.85rem;
+            color: #7f8c8d;
         }
         
-        .status-en-curso {
-            background: #fff3cd;
-            color: #856404;
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #95a5a6;
+        }
+        
+        .empty-state-icon {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .header-left, .header-right {
+                width: 100%;
+            }
+            
+            .header-right {
+                margin-top: 15px;
+                flex-direction: column;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .modules-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -339,50 +483,103 @@ if ($progreso['total_respondidas'] > 0) {
         <!-- Header -->
         <div class="header">
             <div class="header-left">
-                <h1>🏥 <?= SITE_NAME ?></h1>
+                <h1>🏥 <?php echo SITE_NAME; ?></h1>
                 <p>Sistema de Preparación EUNACOM</p>
             </div>
             <div class="header-right">
                 <div class="user-info">
-                    <div class="user-name">👤 <?= e($usuario['nombre']) ?></div>
-                    <div class="user-email"><?= e($usuario['email']) ?></div>
+                    <div class="user-name"><?php echo e($usuario['nombre']); ?></div>
+                    <div class="user-email"><?php echo e($usuario['email']); ?></div>
                 </div>
-                <a href="<?= buildUrl('logout.php') ?>" class="btn-logout">
-                    🚪 Cerrar Sesión
-                </a>
+                <a href="<?php echo buildUrl('logout.php'); ?>" class="btn-logout">Cerrar Sesión</a>
             </div>
         </div>
         
-        <!-- Welcome Banner -->
-        <div class="welcome-banner">
-            <h2>¡Bienvenido de vuelta, <?= e(explode(' ', $usuario['nombre'])[0]) ?>!</h2>
+        <!-- Welcome -->
+        <div class="welcome">
+            <h2>¡Bienvenido de vuelta, <?php echo e(explode(' ', $usuario['nombre'])[0]); ?>!</h2>
             <p>Estás a un paso más cerca de aprobar tu examen EUNACOM</p>
         </div>
         
-        <!-- Stats -->
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-icon">📚</div>
-                <div class="stat-value"><?= $total_areas ?></div>
-                <div class="stat-label">Áreas Médicas</div>
+        <!-- Estadísticas del Sistema -->
+        <div class="stats-section">
+            <h3 class="stats-title">📊 Contenido Disponible en la Plataforma</h3>
+            <div class="stats-grid">
+                <div class="stat-card sistema">
+                    <div class="stat-icon">📚</div>
+                    <div class="stat-value"><?php echo $total_areas; ?></div>
+                    <div class="stat-label">Áreas Médicas</div>
+                </div>
+                
+                <div class="stat-card sistema">
+                    <div class="stat-icon">📝</div>
+                    <div class="stat-value"><?php echo number_format($total_temas); ?></div>
+                    <div class="stat-label">Temas Disponibles</div>
+                </div>
+                
+                <div class="stat-card sistema">
+                    <div class="stat-icon">📄</div>
+                    <div class="stat-value"><?php echo number_format($total_documentos); ?></div>
+                    <div class="stat-label">Documentos de Estudio</div>
+                </div>
+                
+                <div class="stat-card sistema">
+                    <div class="stat-icon">❓</div>
+                    <div class="stat-value"><?php echo number_format($total_preguntas); ?></div>
+                    <div class="stat-label">Preguntas en el Banco</div>
+                </div>
             </div>
-            
-            <div class="stat-card">
-                <div class="stat-icon">📝</div>
-                <div class="stat-value"><?= $total_temas ?></div>
-                <div class="stat-label">Temas Disponibles</div>
-            </div>
-            
-            <div class="stat-card">
-                <div class="stat-icon">📄</div>
-                <div class="stat-value"><?= $total_documentos ?></div>
-                <div class="stat-label">Documentos de Estudio</div>
-            </div>
-            
-            <div class="stat-card">
-                <div class="stat-icon">🎯</div>
-                <div class="stat-value"><?= $porcentaje_aciertos ?>%</div>
-                <div class="stat-label">Porcentaje de Aciertos</div>
+        </div>
+        
+        <!-- Estadísticas del Usuario -->
+        <div class="stats-section">
+            <h3 class="stats-title">🎯 Tu Progreso Personal</h3>
+            <div class="stats-grid">
+                <div class="stat-card usuario">
+                    <div class="stat-icon">💪</div>
+                    <div class="stat-value"><?php echo number_format($preguntas_respondidas_display); ?></div>
+                    <div class="stat-label">Preguntas Respondidas</div>
+                    <div class="stat-sublabel">En simulacros</div>
+                </div>
+                
+                <div class="stat-card usuario">
+                    <div class="stat-icon">✅</div>
+                    <div class="stat-value"><?php echo number_format($preguntas_correctas_display); ?></div>
+                    <div class="stat-label">Respuestas Correctas</div>
+                    <div class="stat-sublabel">¡Sigue así!</div>
+                </div>
+                
+                <div class="stat-card usuario">
+                    <div class="stat-icon">📊</div>
+                    <div class="stat-value"><?php echo $porcentaje_aciertos; ?>%</div>
+                    <div class="stat-label">Porcentaje de Aciertos</div>
+                    <div class="stat-sublabel">
+                        <?php 
+                        if ($porcentaje_aciertos >= 70) {
+                            echo '¡Excelente! 🎉';
+                        } elseif ($porcentaje_aciertos >= 50) {
+                            echo 'Buen progreso 👍';
+                        } elseif ($porcentaje_aciertos > 0) {
+                            echo 'Sigue practicando 💪';
+                        } else {
+                            echo 'Comienza tu práctica';
+                        }
+                        ?>
+                    </div>
+                </div>
+                
+                <div class="stat-card usuario">
+                    <div class="stat-icon">🎯</div>
+                    <div class="stat-value"><?php echo $simulacros_completados; ?></div>
+                    <div class="stat-label">Simulacros Completados</div>
+                    <div class="stat-sublabel">
+                        <?php if ($mejor_puntaje > 0): ?>
+                            Mejor: <?php echo $mejor_puntaje; ?>%
+                        <?php else: ?>
+                            Realiza tu primer simulacro
+                        <?php endif; ?>
+                    </div>
+                </div>
             </div>
         </div>
         
@@ -391,7 +588,7 @@ if ($progreso['total_respondidas'] > 0) {
         
         <div class="modules-grid">
             <!-- Módulo 1: Materiales -->
-            <a href="<?= buildUrl('materiales.php') ?>" class="module-card">
+            <a href="<?php echo buildUrl('materiales.php'); ?>" class="module-card">
                 <div class="module-header">
                     <div class="module-icon">📖</div>
                     <div class="module-title">Materiales de Estudio</div>
@@ -405,7 +602,7 @@ if ($progreso['total_respondidas'] > 0) {
             </a>
             
             <!-- Módulo 2: Entrenamiento -->
-            <a href="<?= buildUrl('entrenamiento.php') ?>" class="module-card">
+            <a href="<?php echo buildUrl('entrenamiento.php'); ?>" class="module-card">
                 <div class="module-header">
                     <div class="module-icon">💪</div>
                     <div class="module-title">Entrenamiento por Temas</div>
@@ -419,14 +616,14 @@ if ($progreso['total_respondidas'] > 0) {
             </a>
             
             <!-- Módulo 3: Simulacro -->
-            <a href="<?= buildUrl('simulacro_inicio.php') ?>" class="module-card">
+            <a href="<?php echo buildUrl('simulacro.php'); ?>" class="module-card">
                 <div class="module-header">
                     <div class="module-icon">🎯</div>
-                    <div class="module-title">Simulacro Real</div>
+                    <div class="module-title">Simulacro EUNACOM</div>
                 </div>
                 <div class="module-body">
                     <div class="module-description">
-                        Simula el examen oficial: 180 preguntas aleatorias en 2 sesiones de 90 minutos. ¡Pon a prueba tu conocimiento!
+                        Realiza una simulación completa del examen oficial con 180 preguntas en 2 sesiones de 90 minutos.
                     </div>
                     <div class="module-btn">Iniciar Simulacro →</div>
                 </div>
@@ -434,26 +631,57 @@ if ($progreso['total_respondidas'] > 0) {
         </div>
         
         <!-- Recent Activity -->
-        <?php if (!empty($ultimos_simulacros)): ?>
+        <?php if (count($ultimos_simulacros) > 0): ?>
         <div class="recent-activity">
-            <h3>📊 Tus Últimos Simulacros</h3>
-            <?php foreach ($ultimos_simulacros as $sim): ?>
-                <div class="activity-item">
-                    <strong><?= e($sim['codigo_examen']) ?></strong>
-                    <span class="activity-status status-<?= $sim['estado'] ?>">
-                        <?= ucfirst(str_replace('_', ' ', $sim['estado'])) ?>
-                    </span>
-                    <?php if ($sim['estado'] === 'finalizado'): ?>
-                        <br>
-                        <small>
-                            Puntaje: <?= $sim['puntaje_porcentaje'] ?>% 
-                            (<?= $sim['respuestas_correctas'] ?>/<?= $sim['total_preguntas'] ?> correctas)
-                        </small>
-                    <?php endif; ?>
-                </div>
-            <?php endforeach; ?>
+            <h3>📈 Últimos Simulacros</h3>
+            <ul class="activity-list">
+                <?php foreach ($ultimos_simulacros as $simulacro): ?>
+                <li class="activity-item">
+                    <div class="activity-title">
+                        Simulacro #<?php echo e($simulacro['codigo_examen']); ?>
+                        <?php if ($simulacro['estado'] === 'finalizado'): ?>
+                            - <?php echo number_format($simulacro['puntaje_porcentaje'], 1); ?>%
+                        <?php else: ?>
+                            - <?php echo ($simulacro['estado'] === 'en_curso') ? 'En Curso' : 'Pendiente'; ?>
+                        <?php endif; ?>
+                    </div>
+                    <div class="activity-meta">
+                        <?php echo date('d/m/Y H:i', strtotime($simulacro['fecha_inicio'])); ?>
+                        <?php if ($simulacro['estado'] === 'finalizado'): ?>
+                            - <?php echo $simulacro['respuestas_correctas']; ?>/<?php echo $simulacro['total_preguntas']; ?> correctas
+                        <?php endif; ?>
+                    </div>
+                </li>
+                <?php endforeach; ?>
+            </ul>
+        </div>
+        <?php else: ?>
+        <div class="recent-activity">
+            <div class="empty-state">
+                <div class="empty-state-icon">📝</div>
+                <p>Aún no has realizado ningún simulacro</p>
+                <p style="font-size: 0.9rem; margin-top: 10px;">¡Comienza tu preparación ahora!</p>
+            </div>
         </div>
         <?php endif; ?>
+        
+        <!-- Footer Info -->
+        <?php if ($tiempo_estudio_horas > 0 || $tiempo_estudio_min > 0): ?>
+        <div style="background: white; border-radius: 15px; padding: 20px; text-align: center; margin-top: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+            <p style="color: #7f8c8d;">
+                ⏱️ Tiempo total de estudio: 
+                <strong style="color: #2c3e50;">
+                    <?php 
+                    if ($tiempo_estudio_horas > 0) {
+                        echo $tiempo_estudio_horas . 'h ';
+                    }
+                    echo $tiempo_estudio_min . 'min';
+                    ?>
+                </strong>
+            </p>
+        </div>
+        <?php endif; ?>
+        
     </div>
 </body>
 </html>

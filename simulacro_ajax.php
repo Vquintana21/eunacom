@@ -1,43 +1,204 @@
 <?php
-header('Content-Type: application/json');
+// IMPORTANTE: Iniciar sesión primero
+session_start();
 
-// Conexión a BD
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';           // TU USUARIO
-$db_pass = 'Vq_09875213';               // TU CONTRASEÑA
-$db_name = 'dpimeduchile_eunacom';
+// Cargar sistema de autenticación
+require_once __DIR__ . '/env/config.php';
+require_once __DIR__ . '/auth.php';
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    echo json_encode(['success' => false, 'error' => $e->getMessage()]);
+// Verificar que esté autenticado
+if (!isLoggedIn()) {
+    header('Content-Type: application/json');
+    echo json_encode(['success' => false, 'error' => 'No autenticado']);
     exit;
 }
 
+// Obtener usuario actual
+$usuario_actual = getCurrentUser();
+
+header('Content-Type: application/json');
+
+// Obtener conexión a BD
+$pdo = getDB();
+
+// Leer datos de la petición
+// Leer datos de la petición
 // Leer datos de la petición
 $input = json_decode(file_get_contents('php://input'), true);
-$action = isset($input['action']) ? $input['action'] : null;
+
+// Validar que el JSON sea válido
+if (json_last_error() !== JSON_ERROR_NONE) {
+    http_response_code(400);
+    echo json_encode([
+        'success' => false, 
+        'error' => 'JSON inválido'
+    ]);
+    exit;
+}
+
+$action = isset($input['action']) ? trim($input['action']) : null;
+
+// Validar que la acción sea una de las permitidas
+$acciones_permitidas = [
+    'guardar_respuesta',
+    'marcar_revision',
+    'guardar_tiempo',
+    'finalizar_sesion',
+    'cancelar_examen'
+];
+
+if (!in_array($action, $acciones_permitidas)) {
+    http_response_code(400);
+    echo json_encode([
+        'success' => false, 
+        'error' => 'Acción no permitida'
+    ]);
+    exit;
+}
+
 $codigo_examen = isset($_GET['examen']) ? $_GET['examen'] : null;
+
+
+// ============================================
+// CANCELAR EXAMEN (NUEVO)
+// ============================================
+// ============================================
+// CANCELAR EXAMEN
+// ============================================
+if ($action === 'cancelar_examen') {
+    $examen_id = isset($input['examen_id']) ? (int)$input['examen_id'] : 0;
+    $sesion = isset($input['sesion']) ? (int)$input['sesion'] : 1;
+    
+    // Validar parámetros
+    if ($examen_id <= 0) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'ID de examen inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar sesión
+    if (!in_array($sesion, [1, 2])) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Número de sesión inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar propiedad
+    if (!verificarPropiedadExamen($pdo, $examen_id, $usuario_actual['id'])) {
+        http_response_code(403);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Acceso denegado'
+        ]);
+        exit;
+    }
+    
+    try {
+        $pdo->beginTransaction();
+        
+        $sql = "
+            UPDATE examenes 
+            SET estado = 'cancelado',
+                fecha_finalizacion = NOW()
+            WHERE id = ?
+        ";
+        $stmt = $pdo->prepare($sql);
+        $stmt->execute([$examen_id]);
+        
+        $pdo->commit();
+        
+        echo json_encode([
+            'success' => true,
+            'mensaje' => 'Examen cancelado exitosamente'
+        ]);
+        
+    } catch (Exception $e) {
+        $pdo->rollBack();
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Error al cancelar: ' . $e->getMessage()
+        ]);
+    }
+    
+    exit;
+}
+
+// ============================================
+// FUNCIÓN AUXILIAR: Verificar propiedad del examen
+// ============================================
+function verificarPropiedadExamen($pdo, $examen_id, $usuario_id) {
+    $sql = "SELECT usuario_id FROM examenes WHERE id = ?";
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute([$examen_id]);
+    $examen = $stmt->fetch(PDO::FETCH_ASSOC);
+    
+    if (!$examen) {
+        return false;
+    }
+    
+    return $examen['usuario_id'] == $usuario_id;
+}
 
 // ============================================
 // GUARDAR RESPUESTA
 // ============================================
+// ============================================
+// GUARDAR RESPUESTA
+// ============================================
 if ($action === 'guardar_respuesta') {
-$examen_id = isset($input['examen_id']) ? $input['examen_id'] : null;
-$pregunta_id = isset($input['pregunta_id']) ? $input['pregunta_id'] : null;
-$alternativa = isset($input['alternativa']) ? $input['alternativa'] : null;
+    $examen_id = isset($input['examen_id']) ? (int)$input['examen_id'] : 0;
+    $pregunta_id = isset($input['pregunta_id']) ? (int)$input['pregunta_id'] : 0;
+    $alternativa = isset($input['alternativa']) ? $input['alternativa'] : null;
+    
+    // Validar parámetros obligatorios
+    if ($examen_id <= 0 || $pregunta_id <= 0) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Parámetros inválidos'
+        ]);
+        exit;
+    }
+    
+    // Validar que alternativa sea NULL o una letra válida (A-E)
+    if ($alternativa !== null) {
+        $alternativa = strtoupper(trim($alternativa));
+        if (!in_array($alternativa, ['A', 'B', 'C', 'D', 'E'])) {
+            http_response_code(400);
+            echo json_encode([
+                'success' => false, 
+                'error' => 'Alternativa inválida'
+            ]);
+            exit;
+        }
+    }
+    
+    // Validar propiedad
+    if (!verificarPropiedadExamen($pdo, $examen_id, $usuario_actual['id'])) {
+        http_response_code(403);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Acceso denegado'
+        ]);
+        exit;
+    }
     
     // Verificar si es correcta
-    $sql = "SELECT es_correcta FROM alternativas WHERE pregunta_id = ? AND opcion = ?";
-    $stmt = $pdo->prepare($sql);
-    $stmt->execute([$pregunta_id, $alternativa]);
-    $alt_data = $stmt->fetch(PDO::FETCH_ASSOC);
-    $es_correcta = isset($alt_data['es_correcta']) ? $alt_data['es_correcta'] : 0;
+    $es_correcta = 0;
+    
+    if ($alternativa !== null) {
+        $sql = "SELECT es_correcta FROM alternativas WHERE pregunta_id = ? AND opcion = ?";
+        $stmt = $pdo->prepare($sql);
+        $stmt->execute([$pregunta_id, $alternativa]);
+        $alt_data = $stmt->fetch(PDO::FETCH_ASSOC);
+        $es_correcta = isset($alt_data['es_correcta']) ? (int)$alt_data['es_correcta'] : 0;
+    }
     
     // Actualizar respuesta
     $sql = "
@@ -55,10 +216,35 @@ $alternativa = isset($input['alternativa']) ? $input['alternativa'] : null;
 // ============================================
 // MARCAR PARA REVISIÓN
 // ============================================
+// ============================================
+// MARCAR PARA REVISIÓN
+// ============================================
 if ($action === 'marcar_revision') {
-    $examen_id = $input['examen_id'];
-    $pregunta_id = $input['pregunta_id'];
-    $marcada = $input['marcada'] ? 1 : 0;
+    $examen_id = isset($input['examen_id']) ? (int)$input['examen_id'] : 0;
+    $pregunta_id = isset($input['pregunta_id']) ? (int)$input['pregunta_id'] : 0;
+    $marcada = isset($input['marcada']) ? (bool)$input['marcada'] : false;
+    
+    // Validar parámetros
+    if ($examen_id <= 0 || $pregunta_id <= 0) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Parámetros inválidos'
+        ]);
+        exit;
+    }
+    
+    // Validar propiedad
+    if (!verificarPropiedadExamen($pdo, $examen_id, $usuario_actual['id'])) {
+        http_response_code(403);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Acceso denegado'
+        ]);
+        exit;
+    }
+    
+    $marcada_int = $marcada ? 1 : 0;
     
     $sql = "
         UPDATE respuestas_usuario 
@@ -66,7 +252,7 @@ if ($action === 'marcar_revision') {
         WHERE examen_id = ? AND pregunta_id = ?
     ";
     $stmt = $pdo->prepare($sql);
-    $stmt->execute([$marcada, $examen_id, $pregunta_id]);
+    $stmt->execute([$marcada_int, $examen_id, $pregunta_id]);
     
     echo json_encode(['success' => true]);
     exit;
@@ -75,14 +261,51 @@ if ($action === 'marcar_revision') {
 // ============================================
 // GUARDAR TIEMPO
 // ============================================
+// ============================================
+// GUARDAR TIEMPO
+// ============================================
 if ($action === 'guardar_tiempo') {
-    $examen_id = $input['examen_id'];
-    $tiempo_restante = $input['tiempo_restante'];
-    $campo = $input['campo']; // 'tiempo_restante_sesion1' o 'tiempo_restante_sesion2'
+    $examen_id = isset($input['examen_id']) ? (int)$input['examen_id'] : 0;
+    $tiempo_restante = isset($input['tiempo_restante']) ? (int)$input['tiempo_restante'] : 0;
+    $campo = isset($input['campo']) ? trim($input['campo']) : '';
+    
+    // Validar parámetros
+    if ($examen_id <= 0) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'ID de examen inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar tiempo (no puede ser negativo ni mayor a 5400 segundos = 90 min)
+    if ($tiempo_restante < 0 || $tiempo_restante > 5400) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Tiempo inválido'
+        ]);
+        exit;
+    }
     
     // Validar que el campo sea uno de los permitidos
     if (!in_array($campo, ['tiempo_restante_sesion1', 'tiempo_restante_sesion2'])) {
-        echo json_encode(['success' => false, 'error' => 'Campo inválido']);
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Campo inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar propiedad
+    if (!verificarPropiedadExamen($pdo, $examen_id, $usuario_actual['id'])) {
+        http_response_code(403);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Acceso denegado'
+        ]);
         exit;
     }
     
@@ -103,10 +326,53 @@ if ($action === 'guardar_tiempo') {
 // ============================================
 // FINALIZAR SESIÓN
 // ============================================
+// ============================================
+// FINALIZAR SESIÓN
+// ============================================
 if ($action === 'finalizar_sesion') {
-    $examen_id = $input['examen_id'];
-    $sesion = $input['sesion'];
-    $tiempo_restante = $input['tiempo_restante'];
+    $examen_id = isset($input['examen_id']) ? (int)$input['examen_id'] : 0;
+    $sesion = isset($input['sesion']) ? (int)$input['sesion'] : 0;
+    $tiempo_restante = isset($input['tiempo_restante']) ? (int)$input['tiempo_restante'] : 0;
+    
+    // Validar parámetros
+    if ($examen_id <= 0) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'ID de examen inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar sesión (solo 1 o 2)
+    if (!in_array($sesion, [1, 2])) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Número de sesión inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar tiempo
+    if ($tiempo_restante < 0 || $tiempo_restante > 5400) {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Tiempo inválido'
+        ]);
+        exit;
+    }
+    
+    // Validar propiedad
+    if (!verificarPropiedadExamen($pdo, $examen_id, $usuario_actual['id'])) {
+        http_response_code(403);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Acceso denegado'
+        ]);
+        exit;
+    }
     
     try {
         $pdo->beginTransaction();
@@ -126,8 +392,6 @@ if ($action === 'finalizar_sesion') {
             
         } else {
             // Finalizar examen completo
-            
-            // Calcular estadísticas
             $sql = "
                 SELECT 
                     COUNT(*) as total,
@@ -140,14 +404,13 @@ if ($action === 'finalizar_sesion') {
             $stmt->execute([$examen_id]);
             $stats = $stmt->fetch(PDO::FETCH_ASSOC);
             
-            $total = $stats['total'];
-            $respondidas = $stats['respondidas'];
-            $correctas = $stats['correctas'];
+            $total = (int)$stats['total'];
+            $respondidas = (int)$stats['respondidas'];
+            $correctas = (int)$stats['correctas'];
             $incorrectas = $respondidas - $correctas;
             $omitidas = $total - $respondidas;
-            $porcentaje = ($correctas / $total) * 100;
+            $porcentaje = $total > 0 ? ($correctas / $total) * 100 : 0;
             
-            // Actualizar examen
             $sql = "
                 UPDATE examenes 
                 SET estado = 'finalizado',
@@ -177,7 +440,10 @@ if ($action === 'finalizar_sesion') {
         
     } catch (Exception $e) {
         $pdo->rollBack();
-        echo json_encode(['success' => false, 'error' => $e->getMessage()]);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'Error al finalizar: ' . $e->getMessage()
+        ]);
     }
     
     exit;

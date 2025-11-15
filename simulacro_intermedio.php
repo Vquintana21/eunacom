@@ -1,25 +1,13 @@
 <?php
 session_start();
+require_once __DIR__ . '/env/config.php';
+require_once __DIR__ . '/auth.php';
 
-// Conexión a BD
-$db_host = 'localhost';
-$db_user = 'dpimeduchile_vquintana';           // TU USUARIO
-$db_pass = 'Vq_09875213';               // TU CONTRASEÑA
-$db_name = 'dpimeduchile_eunacom';
+requireAuth();
+$usuario = getCurrentUser();
+$usuario_id = $usuario['id'];
 
-try {
-    $pdo = new PDO(
-        "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4",
-        $db_user,
-        $db_pass,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
-    );
-} catch (PDOException $e) {
-    die("Error de conexión: " . $e->getMessage());
-}
-
-// Usuario de prueba
-$usuario_id = 1;
+$pdo = getDB();
 
 // Obtener código del examen
 $codigo_examen = isset($_GET['examen']) ? $_GET['examen'] : null;
@@ -367,7 +355,7 @@ if ($examen['fecha_fin_sesion1']) {
             </form>
             
             <p style="text-align: center; margin-top: 20px; color: #7f8c8d;">
-                <strong>Código de examen:</strong> <?= htmlspecialchars($examen['codigo_examen']) ?>
+                <strong>Código de examen:</strong> <?= e($examen['codigo_examen']) ?>
             </p>
         </div>
         

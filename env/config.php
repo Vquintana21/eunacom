@@ -1,43 +1,71 @@
 <?php
-/**
- * ============================================
- * CONFIGURACIÓN GENERAL DEL SISTEMA
- * ============================================
- * Archivo centralizado de configuración
- * ============================================
- */
+
+function loadEnv($path) {
+    if (!file_exists($path)) {
+        die('⚠️ Error: Archivo .env no encontrado. Por favor crea el archivo .env en la raíz del proyecto.');
+    }
+    
+    $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    foreach ($lines as $line) {
+        // Ignorar comentarios
+        if (strpos(trim($line), '#') === 0) {
+            continue;
+        }
+        
+        // Parsear línea
+        if (strpos($line, '=') !== false) {
+            list($name, $value) = explode('=', $line, 2);
+            $name = trim($name);
+            $value = trim($value);
+            
+            // Remover comillas si existen
+            if (preg_match('/^(["\'])(.*)\\1$/', $value, $matches)) {
+                $value = $matches[2];
+            }
+            
+            // Definir en $_ENV y $_SERVER
+            if (!array_key_exists($name, $_ENV)) {
+                putenv("$name=$value");
+                $_ENV[$name] = $value;
+                $_SERVER[$name] = $value;
+            }
+        }
+    }
+}
+
+// Cargar .env desde la raíz del proyecto
+loadEnv(__DIR__ . '/../.env');
 
 // ============================================
 // ENTORNO DE EJECUCIÓN
 // ============================================
+define('ENTORNO', getenv('APP_ENV') ?: 'desarrollo');
+
 // Valores posibles: 'desarrollo', 'produccion'
-define('ENTORNO', 'desarrollo'); // Cambiar a 'produccion' en el servidor real
+//define('ENTORNO', 'desarrollo'); // Cambiar a 'produccion' en el servidor real
 
 // ============================================
 // CONFIGURACIÓN DE BASE DE DATOS
 // ============================================
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'dpimeduchile_eunacom');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+
+define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
+define('DB_NAME', getenv('DB_NAME') ?: 'dpimeduchile_eunacom');
+define('DB_USER', getenv('DB_USER') ?: 'root');
+define('DB_PASS', getenv('DB_PASS') ?: '');
 
 // ============================================
 // CONFIGURACIÓN DE URLs
 // ============================================
 if (ENTORNO === 'desarrollo') {
     // Desarrollo local
-    define('BASE_URL', 'https://dpi.med.uchile.cl/test/eunacom/');
-    define('MATERIALES_URL', 'https://dpi.med.uchile.cl/test/eunacom/materiales');
-} else {
-    // Producción
-    define('BASE_URL', 'https://eunacom-prep.dpimed.cl/');
-    define('MATERIALES_URL', 'https://eunacom-prep.dpimed.cl/materiales');
+    define('BASE_URL', getenv('APP_URL') ?: 'https://dpi.med.uchile.cl/test/eunacom/');
+	define('MATERIALES_URL', getenv('MATERIALES_URL') ?: BASE_URL . 'materiales');
 }
 
 // ============================================
 // CONFIGURACIÓN DE SESIONES
 // ============================================
-define('SESSION_LIFETIME', 86400); // 24 horas en segundos
+define('SESSION_LIFETIME', getenv('SESSION_LIFETIME') ?: 86400); // 24 horas en segundos
 
 // ============================================
 // CONFIGURACIÓN DE ERRORES
@@ -130,7 +158,7 @@ function formatBytes($bytes, $precision = 2) {
     }
     
     $units = array('KB', 'MB', 'GB', 'TB');
-    $factor = floor((strlen($bytes) - 1) / 3);
+    $factor = floor(log($bytes, 1024));
     
     if ($factor >= count($units)) {
         $factor = count($units) - 1;

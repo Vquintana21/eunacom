@@ -99,10 +99,58 @@ function registrarUsuario($nombre, $email, $password) {
 }
 
 // ============================================
+// VERIFICAR RATE LIMITING
+// ============================================
+function checkRateLimit($email, $ip) {
+    $pdo = getDB();
+    
+    // Verificar intentos fallidos en últimos 15 minutos
+    $sql = "
+        SELECT COUNT(*) as intentos 
+        FROM log_actividad 
+        WHERE ip_address = ?
+        AND accion IN ('login_fallido', 'login_bloqueado')
+        AND created_at > DATE_SUB(NOW(), INTERVAL 15 MINUTE)
+    ";
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute(array($ip));
+    $result = $stmt->fetch();
+    
+    // Si tiene 5 o más intentos fallidos, bloquear
+    if ($result['intentos'] >= 5) {
+        // Registrar intento bloqueado
+        registrarActividad(null, 'login_bloqueado', "IP bloqueada temporalmente: $email", $ip);
+        return false;
+    }
+    
+    return true;
+}
+
+// ============================================
+// LIMPIAR INTENTOS FALLIDOS (después de login exitoso)
+// ============================================
+function limpiarIntentosLogin($ip) {
+    $pdo = getDB();
+    
+    // Opcional: Marcar intentos anteriores como "resueltos"
+    // O simplemente dejar que expiren después de 15 minutos
+    
+    // Por ahora no hacemos nada, dejan que expiren naturalmente
+}
+
+// ============================================
 // INICIAR SESIÓN
 // ============================================
 function iniciarSesion($email, $password) {
     $pdo = getDB();
+	
+	// Verificar rate limit ANTES de hacer cualquier cosa
+    if (!checkRateLimit($email, getClientIP())) {
+        return array(
+            'success' => false, 
+            'mensaje' => '🚫 Demasiados intentos fallidos. Por favor espera 15 minutos antes de intentar nuevamente.'
+        );
+    }
     
     // Buscar usuario
     $stmt = $pdo->prepare("
@@ -160,6 +208,9 @@ function iniciarSesion($email, $password) {
     
     // Registrar actividad
     registrarActividad($usuario['id'], 'login', "Login exitoso");
+	
+	// Limpiar intentos fallidos de esta IP
+    limpiarIntentosLogin(getClientIP());
     
     return array(
         'success' => true,
